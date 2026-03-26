@@ -1,4 +1,5 @@
 import requests
+import re
 
 # Deine Quellen
 urls = [
@@ -20,22 +21,27 @@ def main():
     for url in urls:
         try:
             print(f"Lade: {url}")
-            r = requests.get(url, timeout=10)
+            r = requests.get(url, timeout=15)
             lines = r.text.splitlines()
             for line in lines:
-                # Kommentare und leere Zeilen ignorieren
                 line = line.strip()
+                # Nur echte Einträge nehmen: Ignoriere Leerzeilen und reine Kommentare
                 if line and not line.startswith(('#', '!', '[', ' ')):
-                    combined_set.add(line)
+                    # Falls der Eintrag noch Kommentare am Ende hat, schneiden wir sie ab
+                    clean_line = line.split('#')[0].split('!')[0].strip()
+                    if clean_line:
+                        combined_set.add(clean_line)
         except Exception as e:
             print(f"Fehler bei {url}: {e}")
 
-    # Sortieren und Speichern
+    # Speichern der bereinigten Liste
     with open("combined_blocklist.txt", "w") as f:
         f.write("# TechRZN Combined DNS Blocklist\n")
-        f.write("# Letztes Update: automated by GitHub Actions\n\n")
+        f.write(f"# Einträge insgesamt: {len(combined_set)}\n")
+        f.write("# Automatisch aktualisiert durch GitHub Actions\n\n")
         for item in sorted(combined_set):
             f.write(f"{item}\n")
+    print(f"Fertig! {len(combined_set)} Einträge gespeichert.")
 
 if __name__ == "__main__":
     main()

@@ -2,31 +2,32 @@ name: Daily Blocklist Update
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Läuft jeden Tag um Mitternacht
-  workflow_dispatch: # Erlaubt manuellen Start
+    - cron: '0 0 * * *' # Täglich um Mitternacht
+  workflow_dispatch: # Erlaubt manuelles Starten
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-python-version: '3.x'
 
-      - name: Install Dependencies
+      - name: Install dependencies
         run: pip install requests
 
       - name: Run Update Script
         run: python update_list.py
 
-      - name: Commit and Push
+      - name: Commit and Push changes
         run: |
-          git config --global user.name "TechRZN-Bot"
-          git config --global user.email "bot@techrzn.com"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add combined_blocklist.txt
-          git commit -m "Automated update of combined blocklist" || exit 0
+          git add lists/*.txt || echo "Keine neuen Listen gefunden"
+          git commit -m "Update Blocklists $(date)" || echo "Keine Änderungen zum Committen"
           git push

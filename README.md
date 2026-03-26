@@ -1,62 +1,55 @@
-import requests
-import os
+<p align="center">
+  <img src="techrzn-dns.png" width="400" alt="TechRZN DNS Logo">
+</p>
 
-# DEINE KOMPLETTE LISTE (11 Quellen)
-SOURCES = {
-    "hagezi_pro": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_48.txt",
-    "hagezi_bypass": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_52.txt",
-    "hagezi_threat": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt",
-    "techrzn_ips": "https://raw.githubusercontent.com/SmokingBull/malicious-ip-blocklist/refs/heads/main/deny-ip-list.txt",
-    "hagezi_windows": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt",
-    "smart_tv": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_7.txt",
-    "urlhaus_malicious": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt",
-    "hagezi_gambling": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/gambling.mini.txt",
-    "hagezi_fake": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/fake.txt",
-    "adguard_german": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_6_German/filter.txt",
-    "dan_pollock": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt"
-}
+# 🛡️ TechRZN DNS Filter Hub
+### High-Performance Blocklists • Täglich aktualisiert • 100% Bereinigt
 
-def clean_line(line):
-    line = line.strip()
-    if line and not line.startswith(('#', '!', '[', ' ')):
-        return line.split('#')[0].split('!')[0].strip()
-    return None
+![GitHub last commit](https://img.shields.io/github/last-commit/SmokingBull/my-blocklist-collection?style=flat-square&color=blue)
+![Rules](https://img.shields.io/badge/Total_Rules-1M+-success?style=flat-square)
+![Status](https://img.shields.io/badge/Service-Automated-orange?style=flat-square)
 
-def main():
-    combined_set = set()
-    whitelist = set()
+Willkommen beim TechRZN Filter-Hub. Diese Repository bietet eine täglich aktualisierte "All-in-One" Blocklist für AdGuard Home, Pi-hole und Technitium. Alle Listen werden automatisch von Duplikaten bereinigt und gegen eine eigene Whitelist geprüft.
 
-    if os.path.exists("whitelist.txt"):
-        with open("whitelist.txt", "r") as f:
-            for line in f:
-                domain = clean_line(line)
-                if domain: whitelist.add(domain)
+---
 
-    if not os.path.exists("lists"):
-        os.makedirs("lists")
+## 🚀 Die Master-Liste (Empfohlen)
+Die ultimative Lösung. Enthält alle 11 unten aufgeführten Listen in einer einzigen, performanten Datei.
 
-    for name, url in SOURCES.items():
-        try:
-            r = requests.get(url, timeout=15)
-            lines = r.text.splitlines()
-            individual_list = []
-            for line in lines:
-                cleaned = clean_line(line)
-                if cleaned and cleaned not in whitelist:
-                    individual_list.append(cleaned)
-                    combined_set.add(cleaned)
-            
-            with open(f"lists/{name}.txt", "w") as f:
-                f.write(f"# TechRZN {name}\n\n")
-                for item in sorted(set(individual_list)):
-                    f.write(f"{item}\n")
-        except Exception as e:
-            print(f"Fehler bei {name}: {e}")
+**Link für deinen DNS-Filter:**
+> `https://raw.githubusercontent.com/SmokingBull/my-blocklist-collection/main/combined_blocklist.txt`
 
-    with open("combined_blocklist.txt", "w") as f:
-        f.write(f"# TechRZN Combined Masterlist\n# Einträge gesamt: {len(combined_set)}\n\n")
-        for item in sorted(combined_set):
-            f.write(f"{item}\n")
+---
 
-if __name__ == "__main__":
-    main()
+## 🧩 Alle 11 Filter-Module einzeln
+Hier kannst du die Filter nach Kategorien getrennt abonnieren. Ein großer Dank geht an alle Urheber für ihre Arbeit!
+
+| Modul | Urheber / Projekt | Fokus | Raw-Link |
+| :--- | :--- | :--- | :--- |
+| **🥇 HaGeZi Pro** | [HaGeZi](https://github.com/hagezi/dns-blocklists) | All-in-One Schutz | [Link](https://raw.githubusercontent.com/SmokingBull/my-blocklist-collection/main/lists/hagezi_pro.txt) |
+| **🔐 Bypass Filter** | [HaGeZi](https://github.com/hagezi/dns-blocklists) | VPN/Proxy/Tor/Bypass | [Link](https://raw.githubusercontent.com/SmokingBull/my-blocklist-collection/main/lists/hagezi_bypass.txt) |
+| **🏴‍☠️ Threat Intel** | [HaGeZi](https://github.com/hagezi/dns-blocklists) | Cyber-Angriffe & Botnets | [Link](https://raw.githubusercontent.com/SmokingBull/my-blocklist-collection/main/lists/hagezi_threat.txt) |
+| **🇩🇪 German Filter** | [AdGuard](https://github.com/AdguardTeam/FiltersRegistry) | DE/AT/CH Optimierung | [Link](https://raw.githubusercontent.com/SmokingBull/my-blocklist-collection/main/lists/adguard_german.txt) |
+| **📺 Smart-TV** | [Perflyst/Dandelion](https://github.com/Perflyst/PiHoleBlocklist) | TV-Tracking & Werbung | [Link](https://raw.githubusercontent.com/SmokingBull/my-blocklist-collection/main/lists/smart_tv.txt) |
+| **🦠 URLHaus** | [Abuse.ch](https://urlhaus.abuse.ch/) | Malware URLs & Phishing | [Link](https://raw.githubusercontent.com/SmokingBull/my-blocklist-collection/main/lists/urlhaus_malicious.txt) |
+| **💻 Windows Spy** | [HaGeZi](https://github.com/hagezi/dns-blocklists) | MS Telemetrie & Office | [Link](https://raw.githubusercontent.com/SmokingBull/my-blocklist-collection/main/lists/hagezi_windows.txt) |
+| **🎮 Gambling** | [HaGeZi](https://github.com/hagezi/dns-blocklists) | Glücksspiel & Wetten | [Link](https://raw.githubusercontent.com/SmokingBull/my-blocklist-collection/main/lists/hagezi_gambling.txt) |
+| **⚠️ Fake DNS** | [HaGeZi](https://github.com/hagezi/dns-blocklists) | Scam & Fake-Shops | [Link](https://raw.githubusercontent.com/SmokingBull/my-blocklist-collection/main/lists/hagezi_fake.txt) |
+| **📜 Dan Pollock** | [Dan Pollock](https://someonewhocares.org/hosts/) | Hosts-File Klassiker | [Link](https://raw.githubusercontent.com/SmokingBull/my-blocklist-collection/main/lists/dan_pollock.txt) |
+| **📍 TechRZN IPs** | [SmokingBull](https://github.com/SmokingBull) | Eigene Malicious IP-Liste | [Link](https://raw.githubusercontent.com/SmokingBull/my-blocklist-collection/main/lists/techrzn_ips.txt) |
+
+---
+
+## ⚙️ Setup & Wartung
+* **Eigene Whitelist:** Trage Domains einfach in die `whitelist.txt` ein, um sie global in allen Listen freizugeben.
+* **Update-Intervall:** Das System aktualisiert sich alle 24 Stunden automatisch per GitHub Actions.
+* **Technik:** Das Python-Skript entfernt Kommentare und Metadaten, um die Systemlast auf deinem DNS-Server (z.B. NAS oder PC) zu minimieren.
+
+---
+
+## ☕ Support
+Wenn dir diese Zusammenstellung hilft und du meine Arbeit unterstützen möchtest, freue ich mich über einen digitalen Kaffee:
+[**Unterstützen via PayPal**](https://www.paypal.me/DEIN_NAME)
+
+---
+*Maintained with ❤️ in Kleve • Stand: März 2026*

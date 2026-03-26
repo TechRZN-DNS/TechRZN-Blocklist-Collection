@@ -1,1 +1,45 @@
+# --- SYSTEM & UPDATES ---
+microsoft.com
+windowsupdate.com
+windows.com
+apple.com
+icloud.com
+google.com
+googleapis.com
+gstatic.com
+android.com
 
+# --- ZEIT-SYNCHRONISATION (NTP) ---
+pool.ntp.org
+time.windows.com
+time.apple.com
+time.google.com
+
+# --- CONTENT DELIVERY NETWORKS (CDNs) & CAPTCHAS ---
+# Verhindert, dass Bilder oder Skripte auf Webseiten fehlen
+akamai.net
+fastly.net
+cloudflare.com
+cloudfront.net
+recaptcha.net
+hcaptcha.com
+
+# --- MESSENGER & KOMMUNIKATION ---
+# Verhindert Probleme bei Push-Benachrichtigungen
+whatsapp.com
+whatsapp.net
+signal.org
+telegram.org
+
+# --- DOWNLOADS & INFRASTRUKTUR ---
+github.com
+githubusercontent.com
+docker.com
+debian.org
+ubuntu.com
+
+# --- ZAHLUNGSDIENSTE ---
+paypal.com
+stripe.com
+visa.com
+mastercard.com

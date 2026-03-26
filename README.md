@@ -9,12 +9,12 @@
 ![Rules](https://img.shields.io/badge/Total_Rules-1M+-success?style=flat-square)
 ![Status](https://img.shields.io/badge/Service-Automated-orange?style=flat-square)
 
-Willkommen beim TechRZN Filter-Hub. Diese Repository bietet eine täglich aktualisierte "All-in-One" Blocklist für AdGuard Home, Pi-hole und Technitium. Alle Listen werden automatisch von Duplikaten bereinigt und gegen eine eigene Whitelist geprüft.
+Willkommen beim TechRZN Filter-Hub. Diese Repository bietet eine täglich aktualisierte "All-in-One" Blocklist für AdGuard Home, Pi-hole und Technitium. Alle Listen werden automatisch von Duplikaten bereinigt und gegen eine mehrstufige Whitelist geprüft.
 
 ---
 
 ## 🚀 Die Master-Liste (Empfohlen)
-Die ultimative Lösung. Enthält alle unten aufgeführten Listen in einer einzigen, performanten Datei.
+Die ultimative Lösung. Enthält alle 11 unten aufgeführten Listen in einer einzigen, performanten Datei.
 
 **Link für deinen DNS-Filter:**
 > `https://raw.githubusercontent.com/SmokingBull/my-blocklist-collection/main/combined_blocklist.txt`
@@ -40,13 +40,21 @@ Hier kannst du die Filter nach Kategorien getrennt abonnieren.
 
 ---
 
-## 🙏 Danksagung & Urheberrecht
-Ein Projekt wie dieses wäre ohne die unermüdliche Arbeit der Community nicht möglich. Mein besonderer Dank gilt den Urhebern der hier genutzten Listen, deren Daten ich für mein Setup in Kleve verwende:
+## ⚪ Intelligente Whitelists (Erlaubnislisten)
+Um "Overblocking" zu vermeiden und sicherzustellen, dass wichtige Dienste (Logins, Referral-Links, Updates) funktionieren, nutzt TechRZN ein zweistufiges Verfahren:
 
-* **[HaGeZi](https://github.com/hagezi/dns-blocklists):** Für die exzellenten Pro-, Security-, Gambling- und Telemetrie-Listen.
-* **[AdGuard Team](https://github.com/AdguardTeam):** Für den deutschen Sprachfilter und die umfassende Hostlist-Registry.
-* **[Abuse.ch (URLHaus)](https://urlhaus.abuse.ch/):** Für die Bereitstellung kritischer Malware-Daten.
-* **[Dan Pollock](https://someonewhocares.org/hosts/):** Für die Pflege des legendären "Someonewhocares"-Hosts-Klassikers.
+1.  **HaGeZi Referral Whitelist:** Automatische Integration der [HaGeZi Whitelist](https://github.com/hagezi/dns-blocklists/blob/main/adblock/whitelist-referral.txt), um gängige Fehlblockierungen zu verhindern.
+2.  **TechRZN Custom Whitelist:** Eine manuelle Liste (`whitelist.txt`) für ganz persönliche Ausnahmen.
+
+---
+
+## 🙏 Danksagung & Urheberrecht
+Ein Projekt wie dieses wäre ohne die unermüdliche Arbeit der Community nicht möglich. Mein besonderer Dank gilt den Urhebern der hier genutzten Listen, deren Daten ich für mein Setup verwende:
+
+* **[HaGeZi](https://github.com/hagezi/dns-blocklists):** Für die exzellenten Block- und Whitelists.
+* **[AdGuard Team](https://github.com/AdguardTeam):** Für den deutschen Sprachfilter und die Hostlist-Registry.
+* **[Abuse.ch (URLHaus)](https://urlhaus.abuse.ch/):** Für kritische Malware-Daten.
+* **[Dan Pollock](https://someonewhocares.org/hosts/):** Für den legendären Hosts-Klassiker.
 * **[Perflyst & Dandelion Sprout](https://github.com/Perflyst/PiHoleBlocklist):** Für die spezialisierten Smart-TV Filter.
 
 **Vielen Dank für euren Beitrag zu einem sichereren Internet!**
@@ -54,8 +62,8 @@ Ein Projekt wie dieses wäre ohne die unermüdliche Arbeit der Community nicht m
 ---
 
 ## ⚙️ Setup & Wartung
-* **Eigene Whitelist:** Trage Domains in die `whitelist.txt` ein, um sie global freizugeben.
-* **Update:** Das System aktualisiert sich alle 24 Stunden automatisch per GitHub Actions.
+* **Automatisierung:** Das System aktualisiert sich alle 24 Stunden automatisch per GitHub Actions.
+* **Anpassung:** Trage eigene Domains in die `whitelist.txt` ein, um sie global freizugeben.
 
 ---
 

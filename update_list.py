@@ -1,7 +1,7 @@
 import requests
 import os
 
-# Deine 11 Quellen
+# Deine 11 Quellen - Immer die aktuellsten URLs
 SOURCES = {
     "hagezi_pro": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_48.txt",
     "hagezi_bypass": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_52.txt",
@@ -16,7 +16,7 @@ SOURCES = {
     "dan_pollock": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt"
 }
 
-# NEU: Die HaGeZi Whitelist URL
+# Automatische HaGeZi Whitelist für weniger Overblocking
 HAGEZI_WHITELIST_URL = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.txt"
 
 def clean_line(line):
@@ -27,28 +27,29 @@ def clean_line(line):
 
 def main():
     combined_set = set()
-    whitelist = set()
+    global_whitelist = set()
 
-    # 1. Deine eigene lokale Whitelist laden
+    # 1. Lokale Whitelist laden
     if os.path.exists("whitelist.txt"):
         with open("whitelist.txt", "r") as f:
             for line in f:
                 domain = clean_line(line)
-                if domain: whitelist.add(domain)
+                if domain: global_whitelist.add(domain)
 
-    # 2. Die externe HaGeZi Whitelist laden
+    # 2. Externe HaGeZi Whitelist laden (für Stabilität)
     try:
-        print("Lade HaGeZi Referral Whitelist...")
         r_white = requests.get(HAGEZI_WHITELIST_URL, timeout=15)
         for line in r_white.text.splitlines():
             domain = clean_line(line)
-            if domain: whitelist.add(domain)
+            if domain: global_whitelist.add(domain)
+        print(f"Whitelist bereit: {len(global_whitelist)} Einträge.")
     except Exception as e:
-        print(f"Hinweis: HaGeZi Whitelist konnte nicht geladen werden: {e}")
+        print(f"Fehler beim Laden der externen Whitelist: {e}")
 
     if not os.path.exists("lists"):
         os.makedirs("lists")
 
+    # 3. Listen verarbeiten
     for name, url in SOURCES.items():
         try:
             r = requests.get(url, timeout=20)
@@ -56,20 +57,21 @@ def main():
             individual_list = []
             for line in lines:
                 cleaned = clean_line(line)
-                # Nur hinzufügen, wenn NICHT auf der kombinierten Whitelist
-                if cleaned and cleaned not in whitelist:
+                if cleaned and cleaned not in global_whitelist:
                     individual_list.append(cleaned)
                     combined_set.add(cleaned)
             
             with open(f"lists/{name}.txt", "w") as f:
-                f.write(f"# TechRZN {name}\n\n")
+                f.write(f"# TechRZN {name} - Auto-Updated\n\n")
                 for item in sorted(set(individual_list)):
                     f.write(f"{item}\n")
+            print(f"Erfolg: {name}")
         except Exception as e:
             print(f"Fehler bei {name}: {e}")
 
+    # 4. Masterliste speichern
     with open("combined_blocklist.txt", "w") as f:
-        f.write(f"# TechRZN Combined Masterlist\n\n")
+        f.write(f"# TechRZN Combined Masterlist\n# Stand: 2026\n\n")
         for item in sorted(combined_set):
             f.write(f"{item}\n")
 

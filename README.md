@@ -2,67 +2,50 @@
   <img src="techrzn-dns.png" width="400" alt="TechRZN DNS Logo">
 </p>
 
-# 🛡️ Advanced DNS Filter & Security Stack
-### Powered by TechRZN • High-Performance Blocklist Collection
+# 🛡️ TechRZN DNS Filter Hub
+### High-Performance Blocklists • Täglich aktualisiert • 100% Bereinigt
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/SmokingBull/my-blocklist-collection?style=flat-square&color=blue)
-![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
-![Rules](https://img.shields.io/badge/Rules-1M+-success?style=flat-square)
+![Rules](https://img.shields.io/badge/Total_Rules-1M+-success?style=flat-square)
 ![Status](https://img.shields.io/badge/Service-Automated-orange?style=flat-square)
 
-Diese Repository bietet eine sorgfältig kuratierte und täglich aktualisierte "All-in-One" Blocklist. Sie kombiniert die weltweit besten Filterquellen für DNS-basierte Sicherheit, Telemetrie-Unterbindung und Werbefreiheit.
+Willkommen beim TechRZN Filter-Hub. Hier findest du optimierte DNS-Blocklisten für AdGuard Home, Pi-hole und Technitium. Alle Listen werden alle 24 Stunden automatisch von Duplikaten und Fehlern bereinigt.
 
 ---
 
-## ⚡ Quick Install (Recommended)
-Für maximale Performance und einfachste Wartung nutzt du am besten diesen kombinierten Link. Er enthält alle unten aufgeführten Listen, bereinigt um Duplikate.
+## 🚀 Option 1: Die Master-Liste (Empfohlen)
+Die ultimative All-in-One Lösung. Enthält alle unten aufgeführten Listen in einer einzigen, performanten Datei.
 
-**Kopiere diesen Link in deinen DNS-Filter:**
+**Link für deinen DNS-Filter:**
 > `https://raw.githubusercontent.com/SmokingBull/my-blocklist-collection/main/combined_blocklist.txt`
 
-> [!IMPORTANT]
-> **Update-Intervall:** Die Liste wird automatisch alle 24 Stunden durch GitHub Actions aktualisiert.
-
 ---
 
-## 📊 Enthaltene Filter-Module
-Diese Liste speist sich aus den folgenden hochqualitativen Quellen:
+## 🧩 Option 2: Einzelne Module
+Du möchtest volle Kontrolle? Hier kannst du die Filter nach Kategorien getrennt abonnieren:
 
-| Modul | Quelle | Fokus |
+| Modul | Fokus / Schutzbereich | Direkt-Link (Raw) |
 | :--- | :--- | :--- |
-| **Main Engine** | HaGeZi Pro | Umfassender Schutz vor Adware & Trackern |
-| **Cyber Security** | Threat Intel | Schutz vor Malware, Phishing & Botnets |
-| **IP-Security** | TechRZN Custom | Spezifische Liste bösartiger IP-Adressen |
-| **Privacy** | Windows Tracker | Unterbindung von Microsoft Telemetrie |
-| **Regional** | German Filter | Optimierte Filter für DE/AT/CH |
-| **Hardware** | Smart-TV List | Reduziert Tracking auf TV-Geräten |
-| **Safety** | Gambling/Fake | Filtert Glücksspiel & Fake-Shops |
+| **🇩🇪 German Filter** | Beste Performance für DE/AT/CH | [Link](https://raw.githubusercontent.com/SmokingBull/my-blocklist-collection/main/lists/german_filter.txt) |
+| **🎮 Gambling** | Sperrt Glücksspiel & Wetten | [Link](https://raw.githubusercontent.com/SmokingBull/my-blocklist-collection/main/lists/hagezi_gambling.txt) |
+| **🛡️ Cyber Security** | Malware, Phishing & Botnets | [Link](https://raw.githubusercontent.com/SmokingBull/my-blocklist-collection/main/lists/adguard_security.txt) |
+| **📺 Smart-TV** | Unterbindet TV-Tracking | [Link](https://raw.githubusercontent.com/SmokingBull/my-blocklist-collection/main/lists/smart_tv.txt) |
+| **💻 Windows** | Microsoft Telemetrie & Werbung | [Link](https://raw.githubusercontent.com/SmokingBull/my-blocklist-collection/main/lists/windows_telemetry.txt) |
+| **⚠️ Fake Shops** | Schutz vor Betrugsseiten | [Link](https://raw.githubusercontent.com/SmokingBull/my-blocklist-collection/main/lists/hagezi_fake.txt) |
+| **📍 IP-Blocklist** | Bösartige IP-Adressen | [Link](https://raw.githubusercontent.com/SmokingBull/my-blocklist-collection/main/lists/techrzn_custom.txt) |
 
 ---
 
-## ⚙️ Installation & Setup
-
-### 🔵 AdGuard Home
-1. Gehe zu **Filter** -> **DNS-Sperrlisten**.
-2. Klicke auf **Sperrliste hinzufügen** -> **Benutzerdefinierte Liste hinzufügen**.
-3. Name: `TechRZN Combined`, URL: Link von oben einfügen.
-
-### ⚪ Pi-hole
-1. Navigiere zu **Group Management** -> **Adlists**.
-2. Füge den Link im Feld **Address** ein und klicke auf **Add**.
-3. Führe in der Konsole `pihole -g` aus, um die Liste zu laden.
-
-### 🟢 Technitium DNS
-1. Gehe zu **Settings** -> **Block Lists**.
-2. Klicke auf **Add New Block List** und füge den Link ein.
+## ⚙️ Schnelle Einrichtung
+Kopiere einfach den gewünschten Link und füge ihn in deinem System hinzu:
+* **AdGuard Home:** Filter -> DNS-Sperrlisten -> Sperrliste hinzufügen.
+* **Pi-hole:** Group Management -> Adlists -> URL einfügen.
 
 ---
 
-## 🛠️ Automatisierung & Technik
-Die Listen-Zusammenführung erfolgt über ein Python-Skript (`update_list.py`), welches über GitHub Actions gesteuert wird. Dabei werden:
-1. Alle Quellen heruntergeladen.
-2. Kommentare und Metadaten bereinigt.
-3. Duplikate entfernt, um die Systemlast deines DNS-Servers zu minimieren.
+## ☕ Support my Work
+Wenn dir diese Listen helfen, freue ich mich über einen digitalen Kaffee:
+[**Hier unterstützen via PayPal**](https://www.paypal.me/DEIN_NAME)
 
 ---
-*Maintained with ❤️ in Kleve • Stand: März 2026*
+*Maintained in Kleve • Stand: März 2026*

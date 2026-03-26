@@ -52,3 +52,10 @@ api.ugnas.com
 update.ugnas.com
 cloud.ugnas.com
 docker.ugnas.com
+
+# --- AVM FRITZ!BOX UPDATES & SERVICES ---
+avm.de
+update.avm.de
+download.avm.de
+myfritz.net
+jussieu.fr

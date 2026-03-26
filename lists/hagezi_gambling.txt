@@ -1,5 +1,4 @@
 # TechRZN Blocklist: hagezi_gambling
-# Status: Automatisch bereinigt & ge-whitelistet
 
 ||0-bdmbet.com^
 ||0-casino.com^

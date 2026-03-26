@@ -1,5 +1,4 @@
 # TechRZN Blocklist: dan_pollock
-# Status: Automatisch bereinigt & ge-whitelistet
 
 0.0.0.0 0.nextyourcontent.com
 0.0.0.0 006.free-counter.co.uk

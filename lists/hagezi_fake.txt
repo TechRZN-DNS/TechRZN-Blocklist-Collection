@@ -1,5 +1,4 @@
 # TechRZN Blocklist: hagezi_fake
-# Status: Automatisch bereinigt & ge-whitelistet
 
 ||01broker.com^
 ||01crypto.com^

@@ -1,5 +1,4 @@
 # TechRZN Blocklist: smart_tv
-# Status: Automatisch bereinigt & ge-whitelistet
 
 @@||hbbtv.kika.de^
 @@||hbbtv.prosieben.de^

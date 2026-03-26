@@ -1,5 +1,4 @@
 # TechRZN Blocklist: adguard_german
-# Status: Automatisch bereinigt & ge-whitelistet
 
 $csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval' static.veevcdn.co,domain=filmpalast.to
 $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.to,badfilter

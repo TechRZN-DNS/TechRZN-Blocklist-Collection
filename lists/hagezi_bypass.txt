@@ -1,5 +1,4 @@
 # TechRZN Blocklist: hagezi_bypass
-# Status: Automatisch bereinigt & ge-whitelistet
 
 ||0.6gpaactivities.pce-cihazlari.com.tr^
 ||0.6gpaactivities.pulsaudio.ro^

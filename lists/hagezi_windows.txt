@@ -1,5 +1,4 @@
 # TechRZN Blocklist: hagezi_windows
-# Status: Automatisch bereinigt & ge-whitelistet
 
 ||a-ring-fallback.msedge.net^
 ||a-ring-ipv6only.msedge.net^

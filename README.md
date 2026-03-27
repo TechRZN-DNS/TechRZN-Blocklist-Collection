@@ -10,10 +10,10 @@
 ### High-Performance Blocklists • Täglich aktualisiert • 100% Bereinigt
 
 <p align="left">
-  <a href="https://github.com/SmokingBull/TechRZN-Blocklist-Collection/actions/workflows/main.yml">
-    <img src="https://github.com/SmokingBull/TechRZN-Blocklist-Collection/actions/workflows/main.yml/badge.svg" alt="Blocklist Update">
+  <a href="https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection/actions/workflows/main.yml">
+    <img src="https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection/actions/workflows/main.yml/badge.svg" alt="Blocklist Update">
   </a>
-  <img src="https://img.shields.io/github/last-commit/SmokingBull/TechRZN-Blocklist-Collection?style=flat-square&color=blue" alt="Last Commit">
+  <img src="https://img.shields.io/github/last-commit/TechRZN-DNS/TechRZN-Blocklist-Collection?style=flat-square&color=blue" alt="Last Commit">
   <img src="https://img.shields.io/badge/Total_Rules-1M+-success?style=flat-square" alt="Rules">
   <img src="https://img.shields.io/badge/Service-Automated-orange?style=flat-square" alt="Status">
 </p>
@@ -26,7 +26,7 @@ Willkommen beim **TechRZN Filter-Hub**. Dieses Repository bietet eine täglich a
 Die ultimative Lösung für dein Setup. Enthält alle **11 unten aufgeführten Listen** in einer einzigen, performanten Datei.
 
 **Link für deinen DNS-Filter:**
-> `https://raw.githubusercontent.com/SmokingBull/TechRZN-Blocklist-Collection/main/combined_blocklist.txt`
+> `https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/combined_blocklist.txt`
 
 ---
 
@@ -35,17 +35,17 @@ Hier kannst du die Filter nach Kategorien getrennt abonnieren.
 
 | Modul | Fokus / Schutzbereich | Raw-Link |
 | :--- | :--- | :--- |
-| **🥇 HaGeZi Pro** | All-in-One Schutz | [Link](https://raw.githubusercontent.com/SmokingBull/TechRZN-Blocklist-Collection/main/lists/hagezi_pro.txt) |
-| **🔐 Bypass Filter** | VPN/Proxy/Tor/Bypass | [Link](https://raw.githubusercontent.com/SmokingBull/TechRZN-Blocklist-Collection/main/lists/hagezi_bypass.txt) |
-| **🏴‍☠️ Threat Intel** | Cyber-Angriffe & Botnets | [Link](https://raw.githubusercontent.com/SmokingBull/TechRZN-Blocklist-Collection/main/lists/hagezi_threat.txt) |
-| **🇩🇪 German Filter** | DE/AT/CH Optimierung | [Link](https://raw.githubusercontent.com/SmokingBull/TechRZN-Blocklist-Collection/main/lists/adguard_german.txt) |
-| **📺 Smart-TV** | TV-Tracking & Werbung | [Link](https://raw.githubusercontent.com/SmokingBull/TechRZN-Blocklist-Collection/main/lists/smart_tv.txt) |
-| **🦠 URLHaus** | Malware URLs & Phishing | [Link](https://raw.githubusercontent.com/SmokingBull/TechRZN-Blocklist-Collection/main/lists/urlhaus_malicious.txt) |
-| **💻 Windows Spy** | MS Telemetrie & Office | [Link](https://raw.githubusercontent.com/SmokingBull/TechRZN-Blocklist-Collection/main/lists/hagezi_windows.txt) |
-| **🎮 Gambling** | Glücksspiel & Wetten | [Link](https://raw.githubusercontent.com/SmokingBull/TechRZN-Blocklist-Collection/main/lists/hagezi_gambling.txt) |
-| **⚠️ Fake DNS** | Scam & Fake-Shops | [Link](https://raw.githubusercontent.com/SmokingBull/TechRZN-Blocklist-Collection/main/lists/hagezi_fake.txt) |
-| **📜 Dan Pollock** | Hosts-File Klassiker | [Link](https://raw.githubusercontent.com/SmokingBull/TechRZN-Blocklist-Collection/main/lists/dan_pollock.txt) |
-| **📍 TechRZN IPs** | Eigene Malicious IP-Liste | [Link](https://raw.githubusercontent.com/SmokingBull/TechRZN-Blocklist-Collection/main/lists/techrzn_ips.txt) |
+| **🥇 HaGeZi Pro** | All-in-One Schutz | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_pro.txt) |
+| **🔐 Bypass Filter** | VPN/Proxy/Tor/Bypass | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_bypass.txt) |
+| **🏴‍☠️ Threat Intel** | Cyber-Angriffe & Botnets | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_threat.txt) |
+| **🇩🇪 German Filter** | DE/AT/CH Optimierung | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/adguard_german.txt) |
+| **📺 Smart-TV** | TV-Tracking & Werbung | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/smart_tv.txt) |
+| **🦠 URLHaus** | Malware URLs & Phishing | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/urlhaus_malicious.txt) |
+| **💻 Windows Spy** | MS Telemetrie & Office | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_windows.txt) |
+| **🎮 Gambling** | Glücksspiel & Wetten | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_gambling.txt) |
+| **⚠️ Fake DNS** | Scam & Fake-Shops | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_fake.txt) |
+| **📜 Dan Pollock** | Hosts-File Klassiker | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/dan_pollock.txt) |
+| **📍 TechRZN IPs** | Eigene Malicious IP-Liste | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/techrzn_ips.txt) |
 
 ---
 
@@ -81,11 +81,3 @@ Für die beste Performance mit dieser Kollektion (1M+ Regeln) empfehlen wir, dei
 
 ## 🙏 Danksagung & Urheberrecht (TechRZN)
 Besonderer Dank gilt den Quellen, die dieses Projekt ermöglichen:
-
-* **[HaGeZi](https://github.com/hagezi/dns-blocklists):** Gold-Standard der Blocklists.
-* **[AdGuard Team](https://github.com/AdguardTeam):** Deutsche Sprachfilter & Registry.
-* **[Abuse.ch (URLHaus)](https://urlhaus.abuse.ch/):** Malware Intelligence.
-* **[Dan Pollock](https://someonewhocares.org/hosts/):** Legendärer Hosts-Klassiker.
-
----
-*Maintained with ❤️ by TechRZN • Stand: März 2026*

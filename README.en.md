@@ -65,12 +65,12 @@ For best performance with this collection (1M+ rules), we recommend configuring 
 ### 2️⃣ DNS Server Configuration
 * **DNSSEC:** Enabled ✅
 * **Blocking Mode:** `Default` ✅
-* **Blocking Response TTL:** `10` seconds ✅
+* **Blocking Response TTL:** `300` seconds ✅
 
 ### 3️⃣ Private Inverse DNS Servers
 * **Use private reverse DNS resolvers:** Enabled ✅
 * **Enable hostname resolution for clients:** Enabled ✅
-* **Upstream Timeout:** `6` seconds ✅
+* **Upstream Timeout:** `2` seconds ✅
 * **DNS Server:** Please enter your **local router's DNS IP** (e.g., FRITZ!Box).
 
 ---

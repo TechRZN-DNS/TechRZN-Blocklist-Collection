@@ -89,3 +89,10 @@ Special thanks to the sources that make this project possible:
 
 ---
 *Maintained with ❤️ by TechRZN in Kleve • Last Update: March 2026*
+
+---
+
+## ❤️ Support TechRZN
+Maintaining 1M+ rules daily and running the 2.5 Gbit/s test infrastructure on my UGREEN NAS (64 GB RAM) takes time and resources. If my work helps you, I would appreciate your support!
+
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/cw/TechRZN_DNS)

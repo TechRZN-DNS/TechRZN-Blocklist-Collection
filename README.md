@@ -88,4 +88,4 @@ Besonderer Dank gilt den Quellen, die dieses Projekt ermöglichen:
 * **[Dan Pollock](https://someonewhocares.org/hosts/):** Legendärer Hosts-Klassiker.
 
 ---
-*Maintained with ❤️ by TechRZN in Kleve • Stand: März 2026*
+*Maintained with ❤️ by TechRZN • Stand: März 2026*

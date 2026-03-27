@@ -96,3 +96,14 @@ Special thanks to the sources that make this project possible:
 Maintaining 1M+ rules daily and running the 2.5 Gbit/s test infrastructure on my UGREEN NAS (64 GB RAM) takes time and resources. If my work helps you, I would appreciate your support!
 
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/cw/TechRZN_DNS)
+
+---
+
+## ☕ Support & Infrastructure
+Running a **2.5 Gbit/s test environment** (UGREEN NAS with **64 GB RAM**) and maintaining over 1 million rules daily takes time and resources. 
+
+If my work helps you:
+* **Feedback:** Open an issue or give the project a ⭐.
+* **Support:** Since my Patreon is currently under review, please contact me directly if you're interested in supporting the project.
+
+*Maintained with ❤️ in Kleve • Status: March 2026*

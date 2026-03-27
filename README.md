@@ -5,10 +5,14 @@
 # 🛡️ TechRZN-Blocklist-Collection
 ### High-Performance Blocklists • Täglich aktualisiert • 100% Bereinigt
 
-[![Blocklist Update](https://github.com/SmokingBull/TechRZN-Blocklist-Collection/actions/workflows/main.yml/badge.svg)](https://github.com/SmokingBull/TechRZN-Blocklist-Collection/actions)
-![GitHub last commit](https://img.shields.io/github/last-commit/SmokingBull/TechRZN-Blocklist-Collection?style=flat-square&color=blue)
-![Rules](https://img.shields.io/badge/Total_Rules-1M+-success?style=flat-square)
-![Status](https://img.shields.io/badge/Service-Automated-orange?style=flat-square)
+<p align="left">
+  <a href="https://github.com/SmokingBull/TechRZN-Blocklist-Collection/actions/workflows/main.yml">
+    <img src="https://github.com/SmokingBull/TechRZN-Blocklist-Collection/actions/workflows/main.yml/badge.svg" alt="Blocklist Update">
+  </a>
+  <img src="https://img.shields.io/github/last-commit/SmokingBull/TechRZN-Blocklist-Collection?style=flat-square&color=blue" alt="Last Commit">
+  <img src="https://img.shields.io/badge/Total_Rules-1M+-success?style=flat-square" alt="Rules">
+  <img src="https://img.shields.io/badge/Service-Automated-orange?style=flat-square" alt="Status">
+</p>
 
 Willkommen beim **TechRZN Filter-Hub**. Dieses Repository bietet eine täglich aktualisierte "All-in-One" Blocklist für **AdGuard Home**, **Pi-hole** und **Technitium**. Alle Listen werden automatisch von Duplikaten bereinigt und gegen eine mehrstufige Whitelist geprüft.
 
@@ -60,7 +64,7 @@ Für die beste Performance mit dieser Kollektion (1M+ Regeln) empfehlen wir, dei
 
 ### 2️⃣ DNS-Serverkonfiguration
 * **DNSSEC:** Aktiviert ✅
-* **Sperrmodus:** `Standard` (wie in deinen Screenshots) ✅
+* **Sperrmodus:** `Standard` ✅
 * **Gültigkeitsdauer blockierter Antwort:** `300` Sekunden ✅
 
 ### 3️⃣ Private inverse DNS-Server

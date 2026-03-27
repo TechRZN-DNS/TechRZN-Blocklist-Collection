@@ -96,3 +96,14 @@ Besonderer Dank gilt den Quellen, die dieses Projekt ermöglichen:
 Die tägliche Pflege der 1M+ Regeln und der Betrieb der 2,5 Gbit/s Test-Infrastruktur auf dem UGREEN NAS (64 GB RAM) kosten Zeit und Ressourcen. Wenn dir meine Arbeit hilft, freue ich mich über deine Unterstützung!
 
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/cw/TechRZN_DNS)
+
+---
+
+## ☕ Support & Infrastruktur
+Der tägliche Betrieb der **2,5 Gbit/s Test-Umgebung** (UGREEN NAS mit **64 GB RAM**) und die Pflege von über 1 Million Regeln erfordern Zeit und Ressourcen. 
+
+Wenn dir meine Arbeit hilft:
+* **Feedback:** Eröffne ein Issue oder gib dem Projekt einen ⭐.
+* **Support:** Da mein Patreon aktuell noch in der Prüfung ist, kontaktiere mich bei Interesse an einer Unterstützung einfach direkt.
+
+*Gepflegt mit ❤️ in Kleve • Stand: März 2026*

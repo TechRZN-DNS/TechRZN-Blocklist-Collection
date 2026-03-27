@@ -88,4 +88,4 @@ Special thanks to the sources that make this project possible:
 * **[Dan Pollock](https://someonewhocares.org/hosts/):** The legendary hosts classic.
 
 ---
-*Maintained with ❤️ by TechRZN in Kleve • Last Update: March 2026*
+*Maintained with ❤️ by TechRZN • Last Update: March 2026*

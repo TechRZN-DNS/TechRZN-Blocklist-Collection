@@ -16,7 +16,6 @@ time.apple.com
 time.google.com
 
 # --- CONTENT DELIVERY NETWORKS (CDNs) & CAPTCHAS ---
-# Verhindert, dass Bilder oder Skripte auf Webseiten fehlen
 akamai.net
 fastly.net
 cloudflare.com
@@ -25,7 +24,6 @@ recaptcha.net
 hcaptcha.com
 
 # --- MESSENGER & KOMMUNIKATION ---
-# Verhindert Probleme bei Push-Benachrichtigungen
 whatsapp.com
 whatsapp.net
 signal.org
@@ -38,11 +36,19 @@ docker.com
 debian.org
 ubuntu.com
 
-# --- ZAHLUNGSDIENSTE ---
+# --- ZAHLUNGSDIENSTE & CREATOR PLATFORMS ---
 paypal.com
 stripe.com
 visa.com
 mastercard.com
+patreon.com
+patreonusercontent.com
+
+# --- PROVIDER LOGIN & SERVICES (Anti-Block) ---
+telekom.com
+t-online.de
+idm.telekom.com
+accounts.login.idm.telekom.com
 
 # --- UGREEN NAS (UGOS) UPDATES & CLOUD ---
 ugreen.com

@@ -65,17 +65,17 @@ Für die beste Performance mit dieser Kollektion (1M+ Regeln) empfehlen wir, dei
 ### 2️⃣ DNS-Serverkonfiguration
 * **DNSSEC:** Aktiviert ✅
 * **Sperrmodus:** `Standard` ✅
-* **Gültigkeitsdauer blockierter Antwort:** `300` Sekunden ✅
+* **Gültigkeitsdauer blockierter Antwort:** `10` Sekunden ✅
 
 ### 3️⃣ Private inverse DNS-Server
 * **Private Reverse-DNS-Resolver verwenden:** Aktiviert ✅
 * **Hostnamenauflösung der Clients aktivieren:** Aktiviert ✅
-* **Upstream-Timeout:** `2` Sekunden ✅
+* **Upstream-Timeout:** `6` Sekunden ✅
 * **DNS-Server:** Hier bitte die **lokale DNS-IP deines Routers** (z.B. FRITZ!Box) eintragen.
 
 ---
 
-## 🙏 Danksagung & Urheberrecht
+## 🙏 Danksagung & Urheberrecht (TechRZN)
 Besonderer Dank gilt den Quellen, die dieses Projekt ermöglichen:
 
 * **[HaGeZi](https://github.com/hagezi/dns-blocklists):** Gold-Standard der Blocklists.
@@ -84,4 +84,4 @@ Besonderer Dank gilt den Quellen, die dieses Projekt ermöglichen:
 * **[Dan Pollock](https://someonewhocares.org/hosts/):** Legendärer Hosts-Klassiker.
 
 ---
-*Maintained with ❤️ by Madleen (TechRZN) in Kleve • Stand: März 2026*
+*Maintained with ❤️ by TechRZN • Stand: März 2026*

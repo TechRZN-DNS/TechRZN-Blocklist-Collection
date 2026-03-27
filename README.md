@@ -69,12 +69,12 @@ Für die beste Performance mit dieser Kollektion (1M+ Regeln) empfehlen wir, dei
 ### 2️⃣ DNS-Serverkonfiguration
 * **DNSSEC:** Aktiviert ✅
 * **Sperrmodus:** `Standard` ✅
-* **Gültigkeitsdauer blockierter Antwort:** `10` Sekunden ✅
+* **Gültigkeitsdauer blockierter Antwort:** `300` Sekunden ✅
 
 ### 3️⃣ Private inverse DNS-Server
 * **Private Reverse-DNS-Resolver verwenden:** Aktiviert ✅
 * **Hostnamenauflösung der Clients aktivieren:** Aktiviert ✅
-* **Upstream-Timeout:** `6` Sekunden ✅
+* **Upstream-Timeout:** `2` Sekunden ✅
 * **DNS-Server:** Hier bitte die **lokale DNS-IP deines Routers** (z.B. FRITZ!Box) eintragen.
 
 ---

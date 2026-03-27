@@ -81,3 +81,11 @@ Für die beste Performance mit dieser Kollektion (1M+ Regeln) empfehlen wir, dei
 
 ## 🙏 Danksagung & Urheberrecht (TechRZN)
 Besonderer Dank gilt den Quellen, die dieses Projekt ermöglichen:
+
+* **[HaGeZi](https://github.com/hagezi/dns-blocklists):** Gold-Standard der Blocklists.
+* **[AdGuard Team](https://github.com/AdguardTeam):** Deutsche Sprachfilter & Registry.
+* **[Abuse.ch (URLHaus)](https://urlhaus.abuse.ch/):** Malware Intelligence.
+* **[Dan Pollock](https://someonewhocares.org/hosts/):** Legendärer Hosts-Klassiker.
+
+---
+*Maintained with ❤️ by TechRZN in Kleve • Stand: März 2026*

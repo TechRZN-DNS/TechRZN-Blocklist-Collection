@@ -50,12 +50,24 @@ Um "Overblocking" zu vermeiden, nutzt TechRZN ein zweistufiges Verfahren:
 ---
 
 ## ⚙️ Optimale AdGuard Home Einstellungen
-Für die beste Performance mit dieser Kollektion (1M+ Regeln) empfehlen wir:
+Für die beste Performance mit dieser Kollektion (1M+ Regeln) empfehlen wir, dein AdGuard Home wie folgt zu konfigurieren:
 
-* **Cache-Größe:** `104.857.600` (100 MB)
+### 1️⃣ DNS-Cache Einstellungen
+* **Cache-Größe:** `104.857.600` (100 MB) ✅
 * **Optimistisches Caching:** Aktiviert ✅
-* **TTL-Minimalwert:** `3600` (1 Stunde)
-* **Sperrmodus:** `Null-IP-Adresse` (Schnellste Antwortzeit)
+* **TTL-Minimalwert:** `3600` (1 Stunde) 💡
+* **TTL-Höchstwert:** `86400` (24 Stunden) 💡
+
+### 2️⃣ DNS-Serverkonfiguration
+* **DNSSEC:** Aktiviert ✅
+* **Sperrmodus:** `Standard` (wie in deinen Screenshots) ✅
+* **Gültigkeitsdauer blockierter Antwort:** `300` Sekunden ✅
+
+### 3️⃣ Private inverse DNS-Server
+* **Private Reverse-DNS-Resolver verwenden:** Aktiviert ✅
+* **Hostnamenauflösung der Clients aktivieren:** Aktiviert ✅
+* **Upstream-Timeout:** `2` Sekunden ✅
+* **DNS-Server:** Hier bitte die **lokale DNS-IP deines Routers** (z.B. FRITZ!Box) eintragen.
 
 ---
 

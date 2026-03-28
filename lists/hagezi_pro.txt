@@ -1,5 +1,4 @@
 # TechRZN Blocklist Module: hagezi_pro
-# Source: https://adguardteam.github.io/HostlistsRegistry/assets/filter_48.txt
 
 ||0--0.info^
 ||0--4.com^

@@ -1,4 +1,4 @@
-# TechRZN Module: smart_tv
+# TechRZN Module: smart_tv | Source: AdGuard / TechRZN
 
 2mdn.net
 7345023508.fxm9485766783.com

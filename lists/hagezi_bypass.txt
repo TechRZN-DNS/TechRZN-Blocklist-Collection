@@ -1,4 +1,4 @@
-# TechRZN Module: hagezi_bypass
+# TechRZN Module: hagezi_bypass | Source: HaGeZi (VPN/Proxy)
 
 0.6gpaactivities.pce-cihazlari.com.tr
 0.6gpaactivities.pulsaudio.ro

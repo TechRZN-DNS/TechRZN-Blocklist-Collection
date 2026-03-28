@@ -1,4 +1,4 @@
-# TechRZN Module: phishing_de
+# TechRZN Module: phishing_de | Source: RPiList (Banking-Schutz)
 
 0-230-23.rest
 00-202828spas.cfd

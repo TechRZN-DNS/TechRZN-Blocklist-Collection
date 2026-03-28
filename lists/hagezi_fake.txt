@@ -1,4 +1,4 @@
-# TechRZN Module: hagezi_fake
+# TechRZN Module: hagezi_fake | Source: HaGeZi (Fake DNS)
 
 01broker.com
 01crypto.com

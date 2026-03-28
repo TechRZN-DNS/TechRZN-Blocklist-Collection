@@ -1,4 +1,4 @@
-# TechRZN Module: fake_science
+# TechRZN Module: fake_science | Source: RPiList (Fake-Science)
 
 1010press.com
 1088.email

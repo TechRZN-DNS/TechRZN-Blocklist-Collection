@@ -1,4 +1,4 @@
-# TechRZN Module: hagezi_windows
+# TechRZN Module: hagezi_windows | Source: HaGeZi (Windows Telemetry)
 
 a-ring-fallback.msedge.net
 a-ring-ipv6only.msedge.net

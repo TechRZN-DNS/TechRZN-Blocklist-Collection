@@ -26,12 +26,14 @@ Welcome to the **TechRZN Filter Hub**. This repository provides a highly optimiz
 ---
 
 ## ❤️ Support & Community
-If the **TechRZN Filter Hub** helps you keep your network secure, I would be happy about your support!
+If the **TechRZN Filter Hub** helps you keep your network secure, I would be happy about your support on Patreon!
 
 <p align="center">
   <a href="https://patreon.com/TechRZN">
     <img src="https://img.shields.io/badge/PATREON-BECOME_A_PATRON-orange?style=for-the-badge&logo=patreon&logoColor=white" height="45" />
   </a>
+  <br>
+  <img src="https://img.shields.io/badge/Status-Community_Project-orange?style=for-the-badge&logo=patreon" height="25" />
 </p>
 
 ---

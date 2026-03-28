@@ -34,6 +34,7 @@ Wenn dir der **TechRZN Filter-Hub** hilft, dein Netzwerk sicherer zu machen, fre
   </a>
   <br>
   <img src="https://img.shields.io/badge/Status-Community_Projekt-orange?style=for-the-badge&logo=patreon" height="25" />
+  <img src="https://img.shields.io/github/stars/TechRZN-DNS/TechRZN-Blocklist-Collection?style=for-the-badge&logo=github&color=7957d5" height="25" />
 </p>
 
 ---

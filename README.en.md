@@ -83,13 +83,11 @@ For best performance with this collection (1M+ rules), we recommend configuring 
 ## 🙏 Credits & Copyright (TechRZN)
 Special thanks to the sources that make this project possible:
 
-* **[HaGeZi](https://github.com/hagezi/dns-blocklists):** The gold standard of blocklists.
-* **[AdGuard Team](https://github.com/AdguardTeam):** German language filters & registry.
-* **[Abuse.ch (URLHaus)](https://urlhaus.abuse.ch/):** Malware Intelligence.
-* **[Dan Pollock](https://someonewhocares.org/hosts/):** The legendary hosts classic.
-
----
-*Maintained with ❤️ by TechRZN in Kleve • Last Update: March 2026*
+* 🛡️ **HaGeZi:** The gold standard of blocklists.
+* 🚀 **RPiList:** Specialized protection against fake shops, banking phishing & fake science.
+* 🌐 **AdGuard Team:** German language filters & registry.
+* 🦠 **Abuse.ch (URLHaus):** Malware intelligence.
+* 📜 **Dan Pollock:** Legendary hosts file classic.
 
 ---
 

@@ -3,7 +3,7 @@ name: Daily Blocklist Update
 on:
   schedule:
     - cron: '0 0 * * *' # Täglich um Mitternacht
-  workflow_dispatch: # Erlaubt manuelles Starten
+  workflow_dispatch: # Erlaubt manuelles Starten über den "Actions" Tab
 
 jobs:
   build:
@@ -15,7 +15,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-python-version: '3.x'
+          python-version: '3.x'
 
       - name: Install dependencies
         run: pip install requests
@@ -27,7 +27,8 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add combined_blocklist.txt
-          git add lists/*.txt || echo "Keine neuen Listen gefunden"
-          git commit -m "Update Blocklists $(date)" || echo "Keine Änderungen zum Committen"
+          # Wir fügen einfach alles hinzu, was sich geändert hat (-A)
+          git add -A
+          # Commit nur, wenn es wirklich Änderungen gibt
+          git commit -m "Update Blocklists $(date +'%Y-%m-%d')" || echo "No changes to commit"
           git push

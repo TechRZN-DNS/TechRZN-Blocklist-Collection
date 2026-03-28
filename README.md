@@ -30,11 +30,6 @@ Die ultimative Lösung für dein Setup. Enthält alle **11 unten aufgeführten L
 
 ---
 
-## 🧩 Alle 11 Filter-Module einzeln
-Hier kannst du die Filter nach Kategorien getrennt abonnieren.
-
----
-
 ## 🧩 Modulare Filter-Architektur (Die 14 Core-Module)
 | Modul | Fokus / Schutzbereich | Raw-Link |
 | :--- | :--- | :--- |

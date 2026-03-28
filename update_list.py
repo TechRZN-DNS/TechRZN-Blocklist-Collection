@@ -1,7 +1,7 @@
 import requests
 import os
 
-# Die 14 Core-Module mit den exakten Namen aus deinem Screenshot
+# Die 14 Core-Module - Exakt abgestimmt auf deine Ordnerstruktur
 SOURCES = {
     "hagezi_pro": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_48.txt",
     "hagezi_bypass": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_52.txt",
@@ -14,6 +14,7 @@ SOURCES = {
     "hagezi_fake": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/fake.txt",
     "adguard_german": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_6_German/filter.txt",
     "dan_pollock": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt",
+    # Die 3 RPiList Module
     "notserious": "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/notserious",
     "phishing_de": "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe",
     "fake_science": "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Fake-Science"
@@ -29,21 +30,21 @@ def main():
     combined_set = set()
     global_whitelist = set()
 
-    # 1. Lokale Whitelist laden
+    # 1. Whitelist laden (falls vorhanden)
     if os.path.exists("whitelist.txt"):
         with open("whitelist.txt", "r") as f:
             for line in f:
                 domain = clean_line(line)
                 if domain: global_whitelist.add(domain)
 
-    # 2. Ordner 'lists' sicherstellen
+    # 2. Ordner 'lists' erstellen, falls er fehlt
     if not os.path.exists("lists"):
         os.makedirs("lists")
 
-    # 3. Quellen verarbeiten und im Unterordner 'lists' speichern
+    # 3. Alle 14 Listen verarbeiten
     for name, url in SOURCES.items():
         try:
-            r = requests.get(url, timeout=20)
+            r = requests.get(url, timeout=25)
             if r.status_code == 200:
                 lines = r.text.splitlines()
                 individual_list = []
@@ -53,26 +54,23 @@ def main():
                         individual_list.append(cleaned)
                         combined_set.add(cleaned)
                 
-                # Pfad zu lists/name.txt
+                # Datei im Ordner lists/ speichern
                 filename = os.path.join("lists", f"{name}.txt")
                 with open(filename, "w", encoding='utf-8') as f:
-                    f.write(f"# TechRZN Blocklist Module: {name}\n")
-                    f.write(f"# Source: {url}\n\n")
+                    f.write(f"# TechRZN Blocklist Module: {name}\n\n")
                     for item in sorted(set(individual_list)):
                         f.write(f"{item}\n")
-                print(f"✅ Created: {filename}")
-            else:
-                print(f"❌ Error {r.status_code} at {name}")
+                print(f"✅ Aktualisiert: {filename}")
         except Exception as e:
-            print(f"❌ Exception at {name}: {e}")
+            print(f"❌ Fehler bei {name}: {e}")
 
-    # 4. Masterliste im Hauptverzeichnis speichern
+    # 4. Master-Liste (Combined) im Hauptverzeichnis speichern
     with open("combined_blocklist.txt", "w", encoding='utf-8') as f:
         f.write("# TechRZN Masterlist - Combined Protection Stack\n\n")
         for item in sorted(combined_set):
             f.write(f"{item}\n")
     
-    print("\n--- All 14 files updated in /lists directory. ---")
+    print("\n--- Fertig: Alle 14 Listen sind im Ordner 'lists' ---")
 
 if __name__ == "__main__":
     main()

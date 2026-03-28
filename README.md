@@ -26,7 +26,7 @@ Willkommen beim **TechRZN Filter-Hub**. Dieses Repository bietet eine hochoptimi
 ---
 
 ## 🚀 Direkt-Einbindung (Schnellzugriff)
-*Nutze die Master-Liste für kompletten Schutz oder die Whitelist für gezielte Ausnahmen.*
+> **All-in-One Lösung:** Die Master-Liste enthält bereits alle **14 unten aufgeführten Module** in einer einzigen Datei. Ein Link für den kompletten Schutz.
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/combined_blocklist.txt">
@@ -41,7 +41,7 @@ Willkommen beim **TechRZN Filter-Hub**. Dieses Repository bietet eine hochoptimi
 ---
 
 ## 🧩 Die 14 Core-Module (Einzelzugriff)
-*Alle diese Listen sind bereits in der **Master-Liste** oben zusammengefasst.*
+*Zur manuellen Auswahl – alle bereits in der **Master-Liste** enthalten.*
 
 | Status | Modul | Fokus / Schutzbereich | Link |
 | :--- | :--- | :--- | :---: |

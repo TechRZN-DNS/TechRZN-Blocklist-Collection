@@ -1,94 +1,132 @@
+<div align="center">
+
+<br>
+
 <p align="center">
-  <img src="techrzn-dns.png" width="400" alt="TechRZN DNS Logo">
+  <img src="techrzn-dns.png" width="450" alt="TechRZN DNS Logo" />
 </p>
 
 <p align="center">
-  Language: 🇺🇸 <b>[English]</b> | 🇩🇪 <a href="README.md">[Deutsch]</a>
+  Language: 🇩🇪 <a href="README.md">[German]</a> | 🇺🇸 <b>[English]</b>
 </p>
 
-# 🛡️ TechRZN-Blocklist-Collection
-### High-Performance Blocklists • Updated Daily • 100% Cleaned
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-INFRASTRUCTURE_ACTIVE-00C853?style=for-the-badge&logo=statuspage&logoColor=white" />
+  <img src="https://img.shields.io/badge/DATABASE-1M%2B_RULES-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/UPLINK-2.5_GBIT_BACKBONE-7957d5?style=for-the-badge&logo=wi-fi&logoColor=white" />
+</p>
 
-<p align="left">
-  <a href="https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection/actions/workflows/main.yml">
-    <img src="https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection/actions/workflows/main.yml/badge.svg" alt="Blocklist Update">
+---
+
+## 🛰️ Mission & Vision
+> **High-Performance Blocklists • Updated Daily • 100% Cleaned**
+
+Welcome to the **TechRZN Filter Hub**. This repository provides a highly optimized "All-in-One" solution for **AdGuard Home, Pi-hole, and Technitium**. Through automated deduplication and an intelligent whitelist, we guarantee protection without "overblocking".
+
+---
+
+## 🚀 Quick Deployment
+*Use the Master List for full protection or the Whitelist for targeted exceptions.*
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/combined_blocklist.txt">
+    <img src="https://img.shields.io/badge/MASTER_LIST-COPY_LINK-7957d5?style=for-the-badge&logo=adguard&logoColor=white" height="45" />
   </a>
-  <img src="https://img.shields.io/github/last-commit/TechRZN-DNS/TechRZN-Blocklist-Collection?style=flat-square&color=blue" alt="Last Commit">
-  <img src="https://img.shields.io/badge/Total_Rules-1M+-success?style=flat-square" alt="Rules">
-  <img src="https://img.shields.io/badge/Service-Automated-orange?style=flat-square" alt="Status">
+  &nbsp;&nbsp;
+  <a href="https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/whitelist.txt">
+    <img src="https://img.shields.io/badge/WHITELIST-COPY_LINK-blue?style=for-the-badge&logo=github&logoColor=white" height="45" />
+  </a>
 </p>
 
-Welcome to the **TechRZN Filter-Hub**. This repository provides a daily updated "All-in-One" blocklist for **AdGuard Home**, **Pi-hole**, and **Technitium**. All lists are automatically deduplicated and cross-checked against an intelligent, multi-stage whitelist.
+---
+
+## 🛠️ Setup & Optimization
+
+<details>
+<summary><b>📖 Step-by-Step Installation (AdGuard & Pi-hole)</b></summary>
+<br>
+<blockquote>
+<h3>🛡️ AdGuard Home</h3>
+1. Navigate to <b>Filters</b> ➔ <b>DNS Blocklists</b>.<br>
+2. Click <b>Add Blocklist</b> ➔ <b>Add a custom list</b>.<br>
+3. Name: <code>TechRZN Master</code> | URL: Use the buttons above.<br>
+
+<h3>🥧 Pi-hole</h3>
+1. Navigate to <b>Adlists</b> in the left sidebar.<br>
+2. Paste the URL into the <b>Address</b> field and click <b>Add</b>.<br>
+3. <b>Important:</b> Run <i>Tools</i> ➔ <i>Update Gravity</i> to load the new rules.
+</blockquote>
+</details>
+
+<details>
+<summary><b>⚙️ Optimal AdGuard Home Settings (Recommended)</b></summary>
+<br>
+<blockquote>
+For maximum performance with 1M+ rules (tested on <b>UGREEN NAS / 2.5 Gbit/s</b>):<br><br>
+<b>1. DNS Cache & TTL</b><br>
+* Cache Size: <code>104,857,600</code> (100 MB)<br>
+* Optimistic Caching: <b>Enabled</b> ✅<br>
+* TTL Minimum: <code>3600</code> (1 hour)<br><br>
+<b>2. Security & Filtering</b><br>
+* DNSSEC: <b>Enabled</b> ✅<br>
+* Blocking Mode: <code>Default</code><br>
+* Blocked Response TTL: <code>300</code> sec.
+</blockquote>
+</details>
 
 ---
 
-## 🚀 The Master-List (Recommended)
-The ultimate solution for your setup. Contains all **14 core modules** in a single, high-performance file.
+## 🧩 The 14 Protection Modules
+*All modules are already included in the Master List.*
 
-**Integration in AdGuard Home:**
-[![Master-List](https://img.shields.io/badge/Master--List_URL-Copy_Link-success?style=for-the-badge&logo=adguard&logoColor=white)](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/combined_blocklist.txt)
+| Status | Module | Focus | Link |
+| :--- | :--- | :--- | :---: |
+| 🥇 | **HaGeZi Pro** | Global Protection (Gold Standard) | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_pro.txt) |
+| 🇩🇪 | **German Filter** | Optimization for DE / AT / CH | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/adguard_german.txt) |
+| 🛡️ | **Threat Intel** | Cyber Attacks & Botnets | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_threat.txt) |
+| 📺 | **Smart TV** | Tracking & TV Advertising | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/smart_tv.txt) |
+| 🦠 | **URLHaus** | Malware & Phishing (Real-time) | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/urlhaus_malicious.txt) |
+| 💻 | **Windows Spy** | MS Telemetry & Office | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_windows.txt) |
+| 🛍️ | **Anti-Fakeshop** | Scam Shops & Subscription Traps | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/notserious.txt) |
+| 🏦 | **Banking Protect** | Phishing Shield (DE-Banks) | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/phishing_de.txt) |
 
----
-
-## 🧩 Modular Filter Architecture (The 14 Core Modules)
-| Module | Focus / Protection Area | Raw Link |
-| :--- | :--- | :--- |
-| 🥇 **HaGeZi Pro** | Global All-in-One (Gold Standard) | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_pro.txt) |
-| 🔐 **Bypass Filter** | VPN & Proxy Protection | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_bypass.txt) |
-| 🏴‍☠️ **Threat Intel** | Botnets & Cyber-Defense | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_threat.txt) |
-| 🇩🇪 **German Filter** | Optimization for DE / AT / CH | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/adguard_german.txt) |
-| 📺 **Smart TV** | TV Tracking & Advertising | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/smart_tv.txt) |
-| 🦠 **URLHaus** | Malware & Phishing Intelligence | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/urlhaus_malicious.txt) |
-| 💻 **Windows Spy** | MS Telemetry & Office Opt. | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_windows.txt) |
-| 🎮 **Gambling** | Gambling & Betting | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_gambling.txt) |
-| ⚠️ **Fake DNS** | Scams & Fake Shops | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_fake.txt) |
-| 📜 **Dan Pollock** | Legendary Hosts File Classic | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/dan_pollock.txt) |
-| 📍 **TechRZN IPs** | Curated Custom IP Blocklist | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/techrzn_ips.txt) |
-| 🛍️ **Anti-Fakeshop** | Subscription Traps (RPiList) | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/notserious.txt) |
-| 🏦 **Banking Protection** | Phishing (DE Banks - RPiList) | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/phishing_de.txt) |
-| 🔬 **Fake Science** | Predatory Publishers (RPiList) | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/fake_science.txt) |
+*(Also included: Gambling, Bypass, Dan Pollock, Fake Science & TechRZN IPs)*
 
 ---
 
-## ⚪ Intelligent Whitelist (Allowlist)
-To prevent "overblocking" and ensure a smooth user experience (e.g., for provider logins, gaming, or affiliate redirects), TechRZN utilizes a unified Master Whitelist:
+## 🏗️ Hardware Backbone (Kleve, Germany)
+*Validation on enterprise hardware for absolute reliability.*
 
-* **Content:** Personal TechRZN exceptions combined with HaGeZi's Referral Allowlist.
-* **Technology:** Automatic subdomain detection and real-time cleaning.
-
-**Integration in AdGuard Home:**
-[![Whitelist-Link](https://img.shields.io/badge/Whitelist_URL-Copy_Link-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/whitelist.txt)
-
----
-
-## ⚙️ Optimal AdGuard Home Settings
-For maximum performance with 1M+ rules (tested on **UGREEN NAS / 2.5 Gbit/s**):
-
-### 1️⃣ DNS Cache & TTL
-* **Cache Size:** `104,857,600` (100 MB) ✅
-* **Optimistic Caching:** Enabled ✅
-* **TTL Minimum:** `3600` (1 hour) 💡
-
-### 2️⃣ Security & Filtering
-* **DNSSEC:** Enabled ✅
-* **Blocking Mode:** `Default` ✅
-* **Blocking Response TTL:** `300` seconds ✅
+<table align="center" width="100%" style="border-collapse: collapse; background-color: #0d1117; border-radius: 12px; overflow: hidden; border: 1px solid #30363d;">
+  <tr>
+    <td align="left" style="padding: 20px;">
+      <b>CORE NODE</b><br>UGREEN NAS DXP4800 Plus<br>
+      <img src="https://img.shields.io/badge/64_GB_DDR5_ECC-7957d5?style=flat-square" />
+    </td>
+    <td align="left" style="padding: 20px;">
+      <b>ACCELERATION</b><br>2x Samsung 990 Pro RAID<br>
+      <img src="https://img.shields.io/badge/NVMe_Gen4_RAID_1-FF6B6B?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="padding: 20px;">
+      <b>NETWORK</b><br>2.5 Gbit Hybrid-Power<br>
+      <img src="https://img.shields.io/badge/Zyxel_Managed_Switch-00D2FF?style=flat-square" />
+    </td>
+    <td align="left" style="padding: 20px;">
+      <b>STORAGE</b><br>80 TB WD Red Pro (12G SAS)<br>
+      <img src="https://img.shields.io/badge/RAID_5_ZFS-00C853?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🙏 Credits & Sources
-This project is built upon the incredible work of:
-* 🛡️ **HaGeZi:** The global gold standard.
-* 🚀 **RPiList:** Specialized protection (Fake Shops, Phishing).
-* 🌐 **AdGuard Team:** Language filters & Registry.
-* 🦠 **Abuse.ch (URLHaus):** Malware Intelligence.
+This project is built upon the great work of: **HaGeZi**, **RPiList**, **AdGuard Team**, and **Abuse.ch**.
 
----
+**Maintained with ❤️ by Jörg Berns in Kleve • Status: March 2026**
+<br>
+<img src="https://capsule-render.vercel.app/render?type=soft&color=7957d5&height=30&section=footer" width="100%" />
 
-## ☕ Support & Infrastructure
-Maintaining over 1 million rules daily and operating the **2.5 Gbit/s test environment** in Kleve (UGREEN NAS / 64 GB RAM) requires significant time and resources. If my work helps you:
-
-* **Feedback:** Open an issue or give the project a ⭐.
-* **Support:** Please contact me directly if you're interested in supporting the project.
-
-*Maintained with ❤️ in Kleve • Status: March 2026*
+</div>

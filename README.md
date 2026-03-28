@@ -68,6 +68,17 @@ Kopiere den Inhalt der [ALLOWLIST_REF.txt](./ALLOWLIST_REF.txt) direkt in deine 
 
 ---
 
+## 🛠️ Advanced Whitelist (Referral Fix)
+To prevent useful redirects (e.g., from emails, search results, or price comparison sites) from being blocked by the massive 1M+ rule collection, I recommend using this specialized allowlist.
+
+* **Format:** AdBlock / AdGuard Home
+* **Purpose:** Fixes broken login pages (Telekom) and affiliate redirects (Amazon, eBay, etc.).
+* **Source:** Optimized TechRZN version based on HaGeZi’s Referral Allowlist.
+
+**How to use with AdGuard Home:**
+Copy the content of [ALLOWLIST_REF.txt](./ALLOWLIST_REF.txt) directly into your **Custom Filtering Rules**.
+
+---
 
 ## ⚙️ Optimale AdGuard Home Einstellungen
 Für die beste Performance mit dieser Kollektion (1M+ Regeln) empfehlen wir, dein AdGuard Home wie folgt zu konfigurieren:

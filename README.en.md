@@ -25,8 +25,8 @@ Welcome to the **TechRZN Filter-Hub**. This repository provides a daily updated 
 ## 🚀 The Master-List (Recommended)
 The ultimate solution for your setup. Contains all **14 core modules** in a single, high-performance file.
 
-**Link for your DNS filter:**
-> `https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/combined_blocklist.txt`
+**Integration in AdGuard Home:**
+[![Master-List](https://img.shields.io/badge/Master--List_URL-Copy_Link-success?style=for-the-badge&logo=adguard&logoColor=white)](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/combined_blocklist.txt)
 
 ---
 
@@ -54,10 +54,10 @@ The ultimate solution for your setup. Contains all **14 core modules** in a sing
 To prevent "overblocking" and ensure a smooth user experience (e.g., for provider logins, gaming, or affiliate redirects), TechRZN utilizes a unified Master Whitelist:
 
 * **Content:** Personal TechRZN exceptions combined with HaGeZi's Referral Allowlist.
-* **Technology:** The Python backend automatically recognizes subdomains and cleans all 14 blocklists in real-time.
+* **Technology:** Automatic subdomain detection and real-time cleaning.
 
-**Integration in AdGuard Home (DNS Allowlists):**
-> `https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/whitelist.txt`
+**Integration in AdGuard Home:**
+[![Whitelist-Link](https://img.shields.io/badge/Whitelist_URL-Copy_Link-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/whitelist.txt)
 
 ---
 

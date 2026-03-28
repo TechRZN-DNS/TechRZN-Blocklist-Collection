@@ -160,7 +160,6 @@
 0.0.0.0 a-resolver.com
 0.0.0.0 a-ssl.ligatus.com
 0.0.0.0 a.1nimo.com
-0.0.0.0 a.ad.playstation.net
 0.0.0.0 a.adorika.net
 0.0.0.0 a.adready.com
 0.0.0.0 a.adroll.com
@@ -189,7 +188,6 @@
 0.0.0.0 a.phormlabs.com
 0.0.0.0 a.predictvideo.com
 0.0.0.0 a.prisacom.com
-0.0.0.0 a.rad.live.com
 0.0.0.0 a.rad.msn.com
 0.0.0.0 a.slunecnice.cz
 0.0.0.0 a.spolecznosci.net
@@ -1308,7 +1306,6 @@
 0.0.0.0 ads.yimg.com
 0.0.0.0 ads.yimg.com.edgesuite.net
 0.0.0.0 ads.yldmgrimg.net
-0.0.0.0 ads.youtube.com
 0.0.0.0 ads.zamunda.se
 0.0.0.0 ads.zynga.com
 0.0.0.0 ads01.com
@@ -1675,7 +1672,6 @@
 0.0.0.0 adserversolutions.com
 0.0.0.0 adservice.google.ca
 0.0.0.0 adservice.google.co.za
-0.0.0.0 adservice.google.com
 0.0.0.0 adservice.google.com.au
 0.0.0.0 adservice.google.cz
 0.0.0.0 adservice.google.nl
@@ -2268,10 +2264,8 @@
 0.0.0.0 b.grabo.bg
 0.0.0.0 b.liquidustv.com
 0.0.0.0 b.myspace.com
-0.0.0.0 b.rad.live.com
 0.0.0.0 b.rad.msn.com
 0.0.0.0 b.recwwcc5.info
-0.0.0.0 b.stats.paypal.com
 0.0.0.0 b.webwise.org
 0.0.0.0 b1fe8a95ae27823.com
 0.0.0.0 b2b-update.appwrite.network
@@ -3673,10 +3667,8 @@
 0.0.0.0 d14.zedo.com
 0.0.0.0 d2.sina.com.cn
 0.0.0.0 d2.zedo.com
-0.0.0.0 d2o9ozfswytaqz.cloudfront.net
 0.0.0.0 d3.sina.com.cn
 0.0.0.0 d3.zedo.com
-0.0.0.0 d3v3bqdndm4erx.cloudfront.net
 0.0.0.0 d4.zedo.com
 0.0.0.0 d4q8zgf756.com
 0.0.0.0 d5.zedo.com
@@ -4560,7 +4552,6 @@
 0.0.0.0 fioricet.1.p2l.info
 0.0.0.0 fioricet.3.p2l.info
 0.0.0.0 fioricet.4.p2l.info
-0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 firefox-updater.com
 0.0.0.0 firrectly.top
 0.0.0.0 firstgame.xyz
@@ -5390,7 +5381,6 @@
 0.0.0.0 ilovemobi.com
 0.0.0.0 im.52441.com
 0.0.0.0 im.adtech.de
-0.0.0.0 im.banner.t-online.de
 0.0.0.0 im.of.pl
 0.0.0.0 im.xo.pl
 0.0.0.0 imads.integral-marketing.com
@@ -8123,7 +8113,6 @@
 0.0.0.0 r7.ritikajoshi.com
 0.0.0.0 r7.romeflirt.com
 0.0.0.0 r7mediar.com
-0.0.0.0 rad.live.com
 0.0.0.0 rad.msn.com
 0.0.0.0 radio42.fr
 0.0.0.0 radioat.oewabox.at
@@ -8258,7 +8247,6 @@
 0.0.0.0 reportimage.adtech.us
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 reports.extreme-dm.com
-0.0.0.0 reports.wes.df.telemetry.microsoft.com
 0.0.0.0 repostuj.push-ad.com
 0.0.0.0 req.adsmogo.com
 0.0.0.0 res-backup.com
@@ -9193,7 +9181,6 @@
 0.0.0.0 stats5.lightningcast.com
 0.0.0.0 stats6.lightningcast.net
 0.0.0.0 statse.webtrendslive.com
-0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 statsie.com
 0.0.0.0 statutorjuihui.site
 0.0.0.0 stay.decentralappps.com
@@ -10200,7 +10187,6 @@
 0.0.0.0 victorlutte.cl
 0.0.0.0 vidamsag.postr.hu
 0.0.0.0 video-bazis.com
-0.0.0.0 video-stats.video.google.com
 0.0.0.0 video.cynogage.com
 0.0.0.0 video.entertaintastic.com
 0.0.0.0 videoamp.com
@@ -10517,7 +10503,6 @@
 0.0.0.0 wellnessnaturopathic.com
 0.0.0.0 wenda.io
 0.0.0.0 werinussa.net
-0.0.0.0 wes.df.telemetry.microsoft.com
 0.0.0.0 west.05tz2e9.com
 0.0.0.0 westbridges.net
 0.0.0.0 westerdayeol.site

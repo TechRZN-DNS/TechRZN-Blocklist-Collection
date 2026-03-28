@@ -106,7 +106,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 /nativendo.js
 /nativendo/*
 /o2-layer.
-/pagead2.$domain=g.doubleclick.net|googlesyndication.com|imasdk.googleapis.com
 /partner/werbung-
 /partneradzwerk/*
 /pic/werbung/*
@@ -256,7 +255,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 @@/http(s?):[\s\S]*\.[a-z]{2,4}\/im[-_a-z]{1,15}\/?([-_.a-z])?([-_.a-z]{1,})\/[\s\S]*[-_a-zA-Z0-9]{8,}\.[a-z]{3,4}/$~third-party,image,domain=giga.de|wieistmeineip.de|smart-wohnen.net|immobilienscout24.de|quoka.de|tichyseinblick.de|aachener-nachrichten.de|aachener-zeitung.de|airliners.de|bikerszene.de|brieffreunde.de|digitalfernsehen.de|donnerwetter.de|e-hausaufgaben.de|epochtimes.de|fanfiktion.de|fid-gesundheitswissen.de|formel1.de|fremdwort.de|frustfrei-lernen.de|gamersglobal.de|gameswelt.de|gartendialog.de|gevestor.de|gut-erklaert.de|hausgarten.net|iban-rechner.de|inside-handy.de|kindergeld.org|laut.de|liga3-online.de|motorsport-total.com|moviejones.de|netzwelt.de|news.de|nickles.de|nw.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|roemische-zahlen.net|rp-online.de|skodacommunity.de|spielen.de|spielfilm.de|transfermarkt.de|truckscout24.at|truckscout24.de|unicum.de|virtualnights.com|weristdeinfreund.de|weser-kurier.de|wetteronline.de|windows-7-forum.net|wintotal.de|wize.life|t-online.de|tvinfo.de|wallstreet-online.de|meinestadt.de|wieistmeineip.ch|wieistmeineip.at|boersennews.de|express.de|computerbild.de|berliner-zeitung.de|rimondo.com|play3.de|kicker.de|berliner-kurier.de|ksta.de|rundschau-online.de|rheinische-anzeigenblaetter.de|quotenmeter.de|gartenlexikon.de|fussballdaten.de
 @@/iqadcontroller.$script,domain=manager-magazin.de
 @@/js/adbl_checkurl.js$domain=cool-web.de|fun-seiten.de|web-spiele.de|gps-cache.de|photo-alben.de|wetter-vorhersage.de|coolsoftware.de|kryptografie.de
-@@/public/*/img/*$domain=live.vodafone.de
 @@andads.com/*/ad-*.bmp
 @@||20min.ch^$generichide
 @@||20min.rcmd.tda.io^$domain=20min.ch
@@ -1052,7 +1050,6 @@ _bannerwerbung/
 _bg_werbung.
 _oben_ad.
 _unten_ad.
-_video_ads/$domain=imasdk.googleapis.com
 _werbe_layer.
 _werbeanzeigen/
 _werbebanner.
@@ -1129,7 +1126,6 @@ alps-magazine.com,hebelschein-spekulant.de,lokalo.de,marzahn-hellersdorf.com,mdz
 altertuemliches.at
 amateurbusters.com
 amateurfilm-forum.de
-amazon.de
 amazona.de
 americaurlaub.de,kremser-sc.at
 americaurlaub.de,motormobiles.de
@@ -1761,7 +1757,6 @@ elle.de,instyle.de,freundin.de
 eltern.de
 eltern.de,essen-und-trinken.de,stern.de
 eltern.de,stern.de
-email.t-online.de
 emergency-live.com
 emmikochteinfach.de
 emmikochteinfach.de,karrierebibel.de
@@ -2505,7 +2500,6 @@ linuxundich.de
 lippe-news.de
 lite-magazin.de
 literaturcafe.de
-live.vodafone.de
 livenet.ch
 livestreamde.com
 liveticker.com
@@ -3343,7 +3337,6 @@ stylebook.de,travelbook.de,techbook.de,fitbook.de
 stylight.de
 suche.freenet.de
 suche.golem.de
-suche.t-online.de
 suche6.ch
 suchen.mobile.de
 suchmaschine.com
@@ -3418,7 +3411,6 @@ tele5.de$$script[tag-content="(window,document,Math)"][min-length="20000"][max-l
 telebasel.ch
 teleboy.ch
 telefonspion.de
-telekom.de
 telepolis.de
 tellows.at
 tellows.de
@@ -3567,7 +3559,6 @@ vilan24.ch
 vip.de
 vital.de
 vmagazine.com
-vodafone.de
 vogtland-anzeiger.de
 vogue.de
 vol.at
@@ -3794,7 +3785,6 @@ zwischengas.com
 ||1und1.de/?__reuse=$popup,third-party
 ||1und1.de/movein_$xmlhttprequest
 ||213.133.100.18^*&clicktag=
-||2mdn.net^$domain=autobild.de|imasdk.googleapis.com
 ||3drei3.de/3tres3_common/pub/
 ||3druck.com/wp-content/uploads/*/3Dmensionals-3druckcom3.jpg
 ||3druck.com/wp-content/uploads/*/adin.jpg
@@ -3883,7 +3873,6 @@ zwischengas.com
 ||adrolays.de^$third-party
 ||ads.goldbach-germany.de^
 ||ads4allweb.de^$third-party
-||adsafeprotected.com^$domain=autobild.de|imasdk.googleapis.com
 ||adsby.de^$third-party
 ||adscads.de^$third-party
 ||adserver.adtech.de/?advideo/$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
@@ -4216,7 +4205,6 @@ zwischengas.com
 ||ccstatic.toggo.de/cc-static-files/bumper-video/$redirect=noopmp4-1s,domain=toggo.de
 ||cdn.atf-tagmanager.de/config^$third-party
 ||cdn.daydeal.ch/xml/daydeal/$third-party
-||cdn.flashtalking.com^$domain=autobild.de|imasdk.googleapis.com
 ||cdn.greenvideo.io/pbjs/gvpb.js
 ||cdn.lineaget.com/widget/widget.js$domain=thinkpad-forum.de
 ||cdn.pear.focus.de/clients/widget.js
@@ -4617,7 +4605,6 @@ zwischengas.com
 ||fussballn.de/images/design/anpfifffussballn.png
 ||fussballn.de/images/design/fussballn/hudson2.png
 ||fussballnationalmannschaft.net/wp-content/uploads/*/Sidebar_10pr.jpg
-||g.doubleclick.net^$domain=autobild.de|gofeminin.de|imasdk.googleapis.com
 ||gamekeyfinder.de/img/rot/
 ||gameliebe.com/affiliate/$third-party
 ||gamemovieportal.ch/_partner/
@@ -5711,7 +5698,6 @@ zwischengas.com
 ||smartadserver.com^$domain=autobild.de
 ||smartclip.net/creatives/uploads/*.mp4$redirect=noopmp4-1s,domain=toggo.de
 ||smartclip.net^$~media,domain=toggo.de
-||smartstream.tv^$domain=imasdk.googleapis.com
 ||smsdate.com^$popup
 ||sn-multimedia.de/weitereangebote-v2/$third-party
 ||sn-multimedia.de/weitereangebote/$third-party
@@ -5753,7 +5739,6 @@ zwischengas.com
 ||sportwetten.org/wp-content/uploads/*-400x300-
 ||sportwetten.org/wp-content/uploads/*-banner-
 ||spotlight.offerista.com^$third-party
-||spotxchange.com^$domain=imasdk.googleapis.com
 ||spox.com/de/xprod/adswitch.html
 ||sprachen-lernen-online.org/wp-content/uploads/*/skyscraper_
 ||sprachenlernen24-download.de/banner/

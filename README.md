@@ -54,10 +54,10 @@ Die ultimative Lösung für dein Setup. Enthält alle **14 unten aufgeführten M
 Um "Overblocking" zu vermeiden und eine reibungslose User-Experience (z.B. bei Telekom/1&1 Logins oder Gaming) zu garantieren, nutzt TechRZN eine kombinierte Master-Whitelist:
 
 * **Inhalt:** Persönliche TechRZN-Ausnahmen + HaGeZi's Referral-Allowlist.
-* **Technik:** Das Python-Backend erkennt Subdomains automatisch und bereinigt alle 14 Blocklisten in Echtzeit.
+* **Technik:** Automatische Subdomain-Erkennung und Echtzeit-Bereinigung.
 
-**Einbindung in AdGuard Home (DNS-Erlaubnislisten):**
-(https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/whitelist.txt)
+**Einbindung in AdGuard Home:**
+[![Whitelist-Link](https://img.shields.io/badge/Whitelist_URL-Kopieren-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/whitelist.txt)
 
 ---
 

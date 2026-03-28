@@ -19,22 +19,22 @@ SOURCES = {
     "fake_science": ("https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Fake-Science", "RPiList (Fake-Science)")
 }
 
+# Externe HaGeZi Whitelist (Referrals/Affiliate)
+REMOTE_WHITELIST_URL = "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/whitelist-referral.txt"
+
 def clean_line(line):
     line = line.strip()
     if line and not line.startswith(('#', '!', '[', ' ')):
-        return line.split('#')[0].split('!')[0].strip()
+        # Entfernt Adblock-Syntax wie ||domain.com^
+        cleaned = line.replace('||', '').replace('^', '')
+        return cleaned.split('#')[0].split('!')[0].strip()
     return None
 
 def is_whitelisted(domain, whitelist_set):
-    """
-    Prüft, ob die Domain oder eine ihrer übergeordneten Domains auf der Whitelist steht.
-    Ermöglicht das automatische Whitelisten von Subdomains (z.B. login.1und1.de).
-    """
+    """Prüft Domain und alle Subdomains gegen die kombinierte Whitelist."""
     if domain in whitelist_set:
         return True
-    
     parts = domain.split('.')
-    # Wir prüfen von rechts nach links (de -> 1und1.de -> login.1und1.de)
     for i in range(len(parts) - 1):
         parent = '.'.join(parts[i+1:])
         if parent in whitelist_set:
@@ -45,20 +45,34 @@ def main():
     combined_set = set()
     global_whitelist = set()
 
-    # 1. Whitelist laden
+    # 1. EIGENE LOKALE WHITELIST LADEN
     if os.path.exists("whitelist.txt"):
         with open("whitelist.txt", "r", encoding='utf-8') as f:
             for line in f:
-                domain = clean_line(line)
-                if domain:
-                    # Entfernt eventuelle *. Präfixe für die Logik
-                    global_whitelist.add(domain.replace('*.', ''))
+                d = clean_line(line)
+                if d: global_whitelist.add(d.replace('*.', ''))
+        print(f"📂 Lokale Whitelist geladen.")
 
-    # 2. Ordner 'lists' sicherstellen
+    # 2. EXTERNE HAGEZI WHITELIST LADEN & HINZUFÜGEN
+    try:
+        print(f"⏳ Lade HaGeZi Referral-Whitelist von GitHub...")
+        r_white = requests.get(REMOTE_WHITELIST_URL, timeout=15)
+        if r_white.status_code == 200:
+            count = 0
+            for line in r_white.text.splitlines():
+                d = clean_line(line)
+                if d:
+                    global_whitelist.add(d)
+                    count += 1
+            print(f"✅ HaGeZi-Whitelist integriert (+{count} Einträge).")
+    except Exception as e:
+        print(f"⚠️ Fehler beim Laden der externen Whitelist: {e}")
+
+    # 3. ORDNER 'LISTS' SICHERSTELLEN
     if not os.path.exists("lists"):
         os.makedirs("lists")
 
-    # 3. Alle 14 Quellen verarbeiten
+    # 4. QUELLEN VERARBEITEN
     for name, (url, credit) in SOURCES.items():
         try:
             r = requests.get(url, timeout=25)
@@ -67,7 +81,7 @@ def main():
                 individual_list = []
                 for line in lines:
                     cleaned = clean_line(line)
-                    # Hier greift die intelligente Prüfung für Unterseiten:
+                    # Hier greift die kombinierte Whitelist-Logik
                     if cleaned and not is_whitelisted(cleaned, global_whitelist):
                         individual_list.append(cleaned)
                         combined_set.add(cleaned)
@@ -76,28 +90,24 @@ def main():
                 with open(filename, "w", encoding='utf-8') as f:
                     f.write(f"############################################################\n")
                     f.write(f"# TechRZN Blocklist Module: {name}\n")
-                    f.write(f"# Maintainer: TechRZN (Kleve)\n")
-                    f.write(f"# Original Source & Credits: {credit}\n")
-                    f.write(f"# Updated: March 2026\n")
+                    f.write(f"# Credits: {credit} | Whitelisted by TechRZN & HaGeZi\n")
                     f.write(f"############################################################\n\n")
                     for item in sorted(set(individual_list)):
                         f.write(f"{item}\n")
                 print(f"✅ Created: {filename}")
-            else:
-                print(f"❌ Error {r.status_code} at {name}")
         except Exception as e:
-            print(f"❌ Exception at {name}: {e}")
+            print(f"❌ Error at {name}: {e}")
 
-    # 4. Masterliste (All-in-One) speichern
+    # 5. MASTERLISTE SPEICHERN
     with open("combined_blocklist.txt", "w", encoding='utf-8') as f:
         f.write("############################################################\n")
-        f.write("# TechRZN Masterlist - Combined Protection Stack\n")
-        f.write("# Credits to: HaGeZi, RPiList, AdGuard, URLHaus, Dan Pollock\n")
+        f.write("# TechRZN Masterlist - Combined & Whitelisted Stack\n")
+        f.write("# Credits: HaGeZi, RPiList, AdGuard, URLHaus, Dan Pollock\n")
         f.write("############################################################\n\n")
         for item in sorted(combined_set):
             f.write(f"{item}\n")
     
-    print("\n--- Update complete: 14 modules processed with smart whitelisting. ---")
+    print(f"\n--- Fertig! Gesamtanzahl Regeln: {len(combined_set)} ---")
 
 if __name__ == "__main__":
     main()

@@ -25,6 +25,17 @@ Welcome to the **TechRZN Filter Hub**. This repository provides a highly optimiz
 
 ---
 
+## ❤️ Support & Community
+If the **TechRZN Filter Hub** helps you keep your network secure, I would be happy about your support!
+
+<p align="center">
+  <a href="https://patreon.com/TechRZN">
+    <img src="https://img.shields.io/badge/PATREON-BECOME_A_PATRON-orange?style=for-the-badge&logo=patreon&logoColor=white" height="45" />
+  </a>
+</p>
+
+---
+
 ## 🚀 Quick Deployment
 > **All-in-One Solution:** The Master List already includes all **14 modules listed below** in a single file. One link for complete protection.
 

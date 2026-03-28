@@ -26,7 +26,7 @@ Welcome to the **TechRZN Filter Hub**. This repository provides a highly optimiz
 ---
 
 ## 🚀 Quick Deployment
-*Use the Master List for full protection or the Whitelist for targeted exceptions.*
+> **All-in-One Solution:** The Master List already includes all **14 modules listed below** in a single file. One link for complete protection.
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/combined_blocklist.txt">
@@ -37,6 +37,28 @@ Welcome to the **TechRZN Filter Hub**. This repository provides a highly optimiz
     <img src="https://img.shields.io/badge/WHITELIST-COPY_LINK-blue?style=for-the-badge&logo=github&logoColor=white" height="45" />
   </a>
 </p>
+
+---
+
+## 🧩 The 14 Core Modules (Individual Access)
+*For manual selection – all of these are already included in the **Master List** above.*
+
+| Status | Module | Focus / Protection Area | Link |
+| :--- | :--- | :--- | :---: |
+| 🥇 | **HaGeZi Pro** | Global Protection (Gold Standard) | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_pro.txt) |
+| 🔐 | **Bypass Filter** | VPN, Proxy, Tor & Bypass Methods | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_bypass.txt) |
+| 🏴‍☠️ | **Threat Intel** | Cyber Attacks & Botnets | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_threat.txt) |
+| 🇩🇪 | **German Filter** | Optimization for DE / AT / CH | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/adguard_german.txt) |
+| 📺 | **Smart TV** | Tracking & TV Advertising | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/smart_tv.txt) |
+| 🦠 | **URLHaus** | Malware & Phishing (Real-time) | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/urlhaus_malicious.txt) |
+| 💻 | **Windows Spy** | MS Telemetry & Office Hardening | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_windows.txt) |
+| 🎮 | **Gambling** | Blocking of Gambling & Betting Sites | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_gambling.txt) |
+| ⚠️ | **Fake DNS** | Protection against Scams & Fake Shops | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_fake.txt) |
+| 📜 | **Dan Pollock** | Legendary Hosts File Classic | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/dan_pollock.txt) |
+| 📍 | **TechRZN IPs** | Custom List of Malicious IP Addresses | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/techrzn_ips.txt) |
+| 🛍️ | **Anti-Fakeshop** | Scam Shops & Subscription Traps | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/notserious.txt) |
+| 🏦 | **Banking Protect** | Phishing Shield (DE-Banks) | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/phishing_de.txt) |
+| 🧪 | **Fake Science** | Blocks Predatory Publishers | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/fake_science.txt) |
 
 ---
 
@@ -73,24 +95,6 @@ For maximum performance with 1M+ rules (tested on <b>UGREEN NAS / 2.5 Gbit/s</b>
 * Blocked Response TTL: <code>300</code> sec.
 </blockquote>
 </details>
-
----
-
-## 🧩 The 14 Protection Modules
-*All modules are already included in the Master List.*
-
-| Status | Module | Focus | Link |
-| :--- | :--- | :--- | :---: |
-| 🥇 | **HaGeZi Pro** | Global Protection (Gold Standard) | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_pro.txt) |
-| 🇩🇪 | **German Filter** | Optimization for DE / AT / CH | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/adguard_german.txt) |
-| 🛡️ | **Threat Intel** | Cyber Attacks & Botnets | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_threat.txt) |
-| 📺 | **Smart TV** | Tracking & TV Advertising | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/smart_tv.txt) |
-| 🦠 | **URLHaus** | Malware & Phishing (Real-time) | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/urlhaus_malicious.txt) |
-| 💻 | **Windows Spy** | MS Telemetry & Office | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_windows.txt) |
-| 🛍️ | **Anti-Fakeshop** | Scam Shops & Subscription Traps | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/notserious.txt) |
-| 🏦 | **Banking Protect** | Phishing Shield (DE-Banks) | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/phishing_de.txt) |
-
-*(Also included: Gambling, Bypass, Dan Pollock, Fake Science & TechRZN IPs)*
 
 ---
 

@@ -1,4 +1,5 @@
 # TechRZN Blocklist: hagezi_bypass
+# Source: https://adguardteam.github.io/HostlistsRegistry/assets/filter_52.txt
 
 ||0.6gpaactivities.pce-cihazlari.com.tr^
 ||0.6gpaactivities.pulsaudio.ro^

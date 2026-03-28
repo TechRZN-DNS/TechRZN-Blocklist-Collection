@@ -1,4 +1,5 @@
 # TechRZN Blocklist: techrzn_ips
+# Source: https://raw.githubusercontent.com/SmokingBull/malicious-ip-blocklist/main/deny-ip-list.txt
 
 1.1.118.75
 1.1.176.18

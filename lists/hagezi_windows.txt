@@ -1,4 +1,5 @@
 # TechRZN Blocklist: hagezi_windows
+# Source: https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt
 
 ||a-ring-fallback.msedge.net^
 ||a-ring-ipv6only.msedge.net^

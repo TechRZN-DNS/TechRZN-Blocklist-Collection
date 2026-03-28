@@ -1,4 +1,5 @@
 # TechRZN Blocklist: dan_pollock
+# Source: https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
 
 0.0.0.0 0.nextyourcontent.com
 0.0.0.0 006.free-counter.co.uk

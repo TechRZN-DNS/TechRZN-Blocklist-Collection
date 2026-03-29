@@ -58,6 +58,27 @@ Wenn dir der **TechRZN Filter-Hub** hilft, dein Netzwerk sicherer zu machen, fre
   </a>
 </p>
 
+---
+
+## 🔞 Jugendschutz & Adult-Content (Optional)
+> [!WARNING]
+> **Bewusste Trennung:** Die folgenden Listen sind **NICHT** in der Master-Liste enthalten. Wir haben uns dazu entschieden, diese separat anzubieten, um "Overblocking" zu vermeiden und jedem Nutzer die Wahl zu lassen, ob er diese strikten Filter aktivieren möchte.
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/techrzn_porn.txt">
+    <img src="https://img.shields.io/badge/TECHRZN_PORN-LINK_KOPIEREN-red?style=for-the-badge&logo=unstop&logoColor=white" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/techrzn_jugendschutz.txt">
+    <img src="https://img.shields.io/badge/TECHRZN_JUGENDSCHUTZ-LINK_KOPIEREN-red?style=for-the-badge&logo=familysearch&logoColor=white" height="40" />
+  </a>
+</p>
+
+* **TechRZN Porn:** Umfassende Sperre von expliziten Inhalten, Erotik-Portalen und Adult-Ads.
+* **TechRZN Jugendschutz:** Strenger Filter für Family-Safety (Gewalt, Drogen, jugendgefährdende Seiten).
+
+---
+
 > [!IMPORTANT]
 > **Der TechRZN Performance-Vorteil:** Würdest du alle 18+ Quellen einzeln einbinden, müsste dein System über **5,5 Millionen** Einträge verwalten. Die TechRZN-Engine filtert Redundanzen und Dubletten heraus, sodass nur **~2,2 Millionen hocheffektive Regeln** übrig bleiben.
 > **Ergebnis:** Maximaler Schutz bei ca. **60% weniger Systemlast** und spürbar schnelleren DNS-Antwortzeiten.
@@ -92,17 +113,17 @@ Wenn dir der **TechRZN Filter-Hub** hilft, dein Netzwerk sicherer zu machen, fre
 ---
 
 ## 🛠️ Eigene TechRZN Spezial-Module
-*Diese Listen werden direkt in Kleve handkuratiert und auf maximale Präzision optimiert. (Hinweis: Erotik-/Jugendschutz-Module sind separat von der Master-Liste).*
+*Diese Listen werden direkt in Kleve handkuratiert und auf maximale Präzision optimiert.*
 
 | Status | Modul | Fokus & Schutzwirkung | Link |
-| :--- | :--- | :--- | :---: |
+| :---: | :--- | :--- | :---: |
 | 🛡️ | **TechRZN Ads** | **Werbe-Schild:** Blockiert aggressive Werbenetzwerke und Tracker. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_ads.txt) |
 | 🕵️‍♂️ | **TechRZN Tracking** | **Tracking:** Umfassende Blockierung von Datensammlern und Telemetrie. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_tracking.txt) |
 | 🦠 | **TechRZN Malware** | **Virenabwehr:** Sperrt Schadsoftware-Domains und C2-Server. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_malware.txt) |
 | 🎣 | **TechRZN Phishing** | **Betrugsschutz:** Schützt vor Fake-Logins und Scam-Seiten. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_phishing.txt) |
 | 🛑 | **TechRZN Threat Intel** | **Bedrohungsabwehr:** Schutz vor Botnetzen und Cyberangriffen. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_threat_intel.txt) |
 | 🛍️ | **TechRZN Fakeshops** | **Einkaufsschutz:** Abwehr von Betrugsshops und Scam-Angeboten. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_fakeshops.txt) |
-| 🔞 | **TechRZN Porn** | **Erotik-Filter:** Umfassende Sperre expliziter Inhalte. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/techrzn_porn.txt) |
+| 🔞 | **TechRZN Porn** | **Erotika-Filter:** Umfassende Sperre expliziter Inhalte. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/techrzn_porn.txt) |
 | 🧒 | **TechRZN Jugendschutz** | **Family Safety:** Filtert jugendgefährdende Inhalte aus. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/techrzn_jugendschutz.txt) |
 | 🏠 | **TechRZN Squatting** | **Tippfehler-Schutz:** Blockiert Imitate bekannter Markennamen. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_domain_squatting.txt) |
 | 🎰 | **TechRZN Gambling** | **Spielerschutz:** Sperrt Casinos und Wettanbieter. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_gambling.txt) |
@@ -115,7 +136,7 @@ Wenn dir der **TechRZN Filter-Hub** hilft, dein Netzwerk sicherer zu machen, fre
 ---
 
 ## 🧩 Die 14 Core-Module (Einzelzugriff)
-> **Persönliche Empfehlung:** Diese externen Module habe ich sorgfältig ausgewählt; sie bilden das Fundament meines privaten Setups. Ich nutze sie täglich zusammen mit den TechRZN-Speziallisten.
+> **Persönliche Empfehlung:** Diese externen Module bilden das Fundament meines privaten Setups. Ich nutze sie täglich zusammen mit den TechRZN-Speziallisten.
 
 | Einsatz | Modul | Fokus / Schutzbereich | Link |
 | :---: | :--- | :--- | :---: |
@@ -179,21 +200,21 @@ Für maximale Performance bei 2M+ Regeln (getestet auf <b>UGREEN NAS / 2,5 Gbit/
   <tr>
     <td align="left" style="padding: 20px;">
       <b>CORE NODE</b><br>UGREEN NAS DXP4800 Plus<br>
-      <img src="https://img.shields.io/badge/64_GB_DDR5_ECC-7957d5?style=flat-square" />
+      <img src="https://img.shields.io/badge/64_GB_DDR5_ECC-7957d5?style=flat-square" alt="Memory" />
     </td>
     <td align="left" style="padding: 20px;">
       <b>BESCHLEUNIGUNG</b><br>2x Samsung 990 Pro RAID<br>
-      <img src="https://img.shields.io/badge/NVMe_Gen4_RAID_1-FF6B6B?style=flat-square" />
+      <img src="https://img.shields.io/badge/NVMe_Gen4_RAID_1-FF6B6B?style=flat-square" alt="Storage" />
     </td>
   </tr>
   <tr>
     <td align="left" style="padding: 20px;">
-      <b>NETWORK</b><br>2.5 Gbit Hybrid-Power<br>
-      <img src="https://img.shields.io/badge/Zyxel_Managed_Switch-00D2FF?style=flat-square" />
+      <b>NETZWERK</b><br>2.5 Gbit Hybrid-Power<br>
+      <img src="https://img.shields.io/badge/Zyxel_Managed_Switch-00D2FF?style=flat-square" alt="Networking" />
     </td>
     <td align="left" style="padding: 20px;">
-      <b>STORAGE</b><br>80 TB WD Red Pro (12G SAS)<br>
-      <img src="https://img.shields.io/badge/RAID_5_ZFS-00C853?style=flat-square" />
+      <b>SPEICHER</b><br>80 TB WD Red Pro (12G SAS)<br>
+      <img src="https://img.shields.io/badge/RAID_5_ZFS-00C853?style=flat-square" alt="Drives" />
     </td>
   </tr>
 </table>
@@ -203,7 +224,7 @@ Für maximale Performance bei 2M+ Regeln (getestet auf <b>UGREEN NAS / 2,5 Gbit/
 ## 🙏 Danksagung & Quellen
 Dieses Projekt basiert auf der Arbeit von: **HaGeZi**, **RPiList**, **AdGuard Team** und **Abuse.ch**.
 
-**Gepflegt mit ❤️ von Madleen Berns in Kleve • Stand: März 2026**
+**Gepflegt mit ❤️ von Jörg Berns in Kleve • Stand: März 2026**
 <br>
 <img src="https://capsule-render.vercel.app/render?type=soft&color=7957d5&height=30&section=footer" width="100%" />
 

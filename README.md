@@ -60,7 +60,7 @@ Wenn dir der **TechRZN Filter-Hub** hilft, dein Netzwerk sicherer zu machen, fre
 | Status | Modul | Fokus & Schutzwirkung | Link |
 | :--- | :--- | :--- | :---: |
 | 🛡️ | **TechRZN Ads** | **Werbe-Schild:** Blockiert aggressive Werbenetzwerke und Tracker. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_ads.txt) |
-| 🕵️‍♂️ | **TechRZN Tracking** | **Privacy-Master:** Massiver Schutz vor Telemetrie (Windows, TV, Handy). | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_tracking.txt) |
+| 🕵️‍♂️ | **TechRZN Tracking** | **Allgemeines Tracking:** Umfassende Blockierung von Datensammlern. Unterbindet die Telemetrie von Windows, Android, iOS sowie Smart-TV-Tracking und viele andere Tracker. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_tracking.txt) |
 | 🦠 | **TechRZN Malware** | **Virenabwehr:** Sperrt Domains mit Schadsoftware und C2-Servern. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_malware.txt) |
 | 🎣 | **TechRZN Phishing** | **Betrugsschutz:** Schützt vor Fake-Logins und Scam-Seiten. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_phishing.txt) |
 | 🛑 | **TechRZN Threat Intel** | **Bedrohungsabwehr:** Schutz vor aktiven Botnetzen und Angriffswellen. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_threat_intel.txt) |

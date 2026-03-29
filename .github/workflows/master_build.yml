@@ -1,1 +1,32 @@
+name: "🚀 TechRZN Master Build"
 
+on:
+  push:
+    paths:
+      - 'blocklists/**'  # Läuft nur, wenn sich in diesem Ordner etwas ändert
+  workflow_dispatch:      # Ermöglicht manuelles Starten über GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write    # Wichtig, damit der Bot Dateien speichern darf
+
+    steps:
+      - name: 🛰️ Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: 🐍 Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: 🛠️ Master-Liste bauen
+        run: |
+          python build_master.py  # Dein Skript (muss im Hauptverzeichnis liegen)
+
+      - name: 💾 Änderungen speichern (Commit & Push)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "build: TechRZN Master-Liste automatisch aktualisiert [bot]"
+          file_pattern: 'combined_blocklist.txt'

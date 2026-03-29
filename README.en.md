@@ -113,7 +113,7 @@ If the **TechRZN Filter-Hub** helps you secure your network, I would be happy to
 | Status | Module | Focus & Protection Effect | Link |
 | :---: | :--- | :--- | :---: |
 | 🛡️ | **TechRZN Ads** | **Ad-Shield:** Ad networks and trackers. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_ads.txt) |
-| 🕵️‍♂️ | **TechRZN Tracking** | **Tracking:** Blocking of telemetry data. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_tracking.txt) |
+| 🕵️‍♂️ | **TechRZN Tracking** | **Privacy:** Blocking of telemetry data. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_tracking.txt) |
 | 🦠 | **TechRZN Malware** | **Malware Defense:** Blocks malware & C2 servers. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_malware.txt) |
 | 🎣 | **TechRZN Phishing** | **Fraud Protection:** Fake logins and scam sites. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_phishing.txt) |
 | 🛑 | **TechRZN Threat Intel** | **Threat Defense:** Botnets and cyberattacks. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_threat_intel.txt) |
@@ -122,7 +122,7 @@ If the **TechRZN Filter-Hub** helps you secure your network, I would be happy to
 | 🎰 | **TechRZN Gambling** | **Player Protection:** Blocks casinos and betting. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_gambling.txt) |
 | 🪙 | **TechRZN Crypto** | **Crypto-Shield:** Blocks miners and crypto scams. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_crypto.txt) |
 | ❤️ | **TechRZN Dating** | **Dating-Filter:** Access to dating platforms. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_dating.txt) |
-| 📧 | **TechRZN Spam** | **Spam-Protection:** Filters aggressive marketing domains. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_spam.txt) |
+| 📧 | **TechRZN Spam** | **Spam-Protection:** Filters marketing domains. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_spam.txt) |
 | 🧪 | **TechRZN Fake Science** | **Truth-Check:** Pseudo-science & fake news. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_fake_science.txt) |
 | 🔓 | **TechRZN Bypass** | **Tunnel-Block:** VPN and proxy bypass attempts. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_bypass.txt) |
 

@@ -40,7 +40,7 @@ Wenn dir der **TechRZN Filter-Hub** hilft, dein Netzwerk sicherer zu machen, fre
 ---
 
 ## 🚀 Direkt-Einbindung (Schnellzugriff)
-> **All-in-One Lösung:** Die Master-Liste enthält bereits alle **14 unten aufgeführten Module** in einer einzigen Datei.
+> **All-in-One Lösung:** Die Master-Liste enthält bereits alle **unten aufgeführten Module** in einer einzigen Datei.
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/combined_blocklist.txt">
@@ -51,6 +51,24 @@ Wenn dir der **TechRZN Filter-Hub** hilft, dein Netzwerk sicherer zu machen, fre
     <img src="https://img.shields.io/badge/WHITELIST-LINK_KOPIEREN-blue?style=for-the-badge&logo=github&logoColor=white" height="45" />
   </a>
 </p>
+
+---
+
+## 🛠️ Eigene TechRZN Spezial-Module
+*Diese Listen werden direkt in Kleve handkuratiert und auf maximale Präzision optimiert.*
+
+| Status | Modul | Fokus & Schutzwirkung | Link |
+| :--- | :--- | :--- | :---: |
+| 🛡️ | **TechRZN Ads** | **Werbe-Schild:** Blockiert aggressive Werbenetzwerke und Tracker. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_ads.txt) |
+| 🦠 | **TechRZN Malware** | **Virenabwehr:** Sperrt Domains mit Schadsoftware und C2-Servern. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_malware.txt) |
+| 🎣 | **TechRZN Phishing** | **Betrugsschutz:** Schützt vor Fake-Logins und Scam-Seiten. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_phishing.txt) |
+| 🔞 | **TechRZN Adult** | **Jugendschutz:** Filtert explizite und jugendgefährdende Inhalte. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_adult.txt) |
+| 🎰 | **TechRZN Gambling** | **Spielerschutz:** Blockiert Online-Casinos und Wettanbieter. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_gambling.txt) |
+| 🪙 | **TechRZN Crypto** | **Krypto-Schild:** Blockiert Miner und Krypto-Betrugsversuche. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_crypto.txt) |
+| ❤️ | **TechRZN Dating** | **Dating-Filter:** Unterbindet den Zugriff auf Partnerbörsen. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_dating.txt) |
+| 📧 | **TechRZN Spam** | **Spam-Schutz:** Filtert bekannte E-Mail-Marketing-Schleudern. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_spam.txt) |
+| 🛑 | **TechRZN Threat Intel** | **Abwehr:** Schutz vor aktiven Botnetzen und Angriffswellen. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_threat_intel.txt) |
+| 📊 | **TechRZN Tracking** | **Privatsphäre:** Verhindert Datensammlung durch Analysedienste. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_tracking.txt) |
 
 ---
 
@@ -143,7 +161,7 @@ Für maximale Performance mit 1M+ Regeln (getestet auf <b>UGREEN NAS / 2,5 Gbit/
 ## 🙏 Danksagung & Quellen
 Dieses Projekt basiert auf der Arbeit von: **HaGeZi**, **RPiList**, **AdGuard Team** und **Abuse.ch**.
 
-**Gepflegt mit ❤️ von Jörg Berns in Kleve • Stand: März 2026**
+**Gepflegt mit ❤️ von Madleen Berns in Kleve • Stand: März 2026**
 <br>
 <img src="https://capsule-render.vercel.app/render?type=soft&color=7957d5&height=30&section=footer" width="100%" />
 

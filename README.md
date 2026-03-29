@@ -52,6 +52,34 @@ Wenn dir der **TechRZN Filter-Hub** hilft, dein Netzwerk sicherer zu machen, fre
   </a>
 </p>
 
+<details open>
+<summary><b>📦 Was steckt in der Master-Liste? (Inhaltsverzeichnis)</b></summary>
+<br>
+
+| Modul | Schutzwirkung | Icon |
+| :--- | :--- | :---: |
+| **TechRZN Tracking** | Stoppt Datensammler (Windows, Android, iOS, Smart-TV). | 📱 |
+| **TechRZN Ads** | Blockiert aggressive Werbenetzwerke & Popups. | 🚫 |
+| **TechRZN Malware** | Sperrt C2-Server und Schadsoftware-Quellen. | 🛡️ |
+| **TechRZN Phishing** | Abwehr von Fake-Logins und Scam-Seiten. | 🔑 |
+| **TechRZN Fakeshops** | Sperrt bekannte Betrugsshops & Abofallen. | 🛒 |
+| **TechRZN Squatting** | Blockiert Imitate bekannter Markennamen. | 🔍 |
+| **TechRZN IPs** | DNS-Sperre für bösartige IP-Adressen. | 🖥️ |
+| **TechRZN Threat Intel**| Schutz vor aktiven Botnetzen & Angriffswellen. | 🛑 |
+| **TechRZN Porn** | Umfassende Sperre expliziter Inhalte. | 🔞 |
+| **TechRZN Gambling** | Blockiert Casinos, Wetten & Lootboxen. | 🎰 |
+| **TechRZN Crypto** | Stoppt Browser-Miner & Krypto-Scams. | 🪙 |
+| **TechRZN Dating** | Unterbindet Zugriff auf Partnerbörsen. | ❤️ |
+| **TechRZN Spam** | Filtert aggressive Mail-Tracker & Spam-Domains. | 📧 |
+| **TechRZN Bypass** | Verhindert VPN/Proxy-Umgehungen im Netzwerk. | 🔓 |
+| **HaGeZi Pro** | Weltweiter Gold-Standard für Werbeblockierung. | 🏆 |
+| **URLHaus** | Echtzeit-Sperre bei neuen Malware-Ausbrüchen. | 🧪 |
+| **AdGuard German** | Spezifische Filter für DE, AT und CH. | 🇩🇪 |
+| **Dan Pollock** | Legendärer Schutz vor klassischen Werbenetzwerken. | 📜 |
+| **Fake Science** | Blockiert Pseudo-Wissenschaft & Desinformation. | 📚 |
+
+</details>
+
 ---
 
 ## 🛠️ Eigene TechRZN Spezial-Module

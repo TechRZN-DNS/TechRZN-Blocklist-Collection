@@ -80,6 +80,28 @@ Wenn dir der **TechRZN Filter-Hub** hilft, dein Netzwerk sicherer zu machen, fre
 > **Der TechRZN Performance-Vorteil:** Würdest du alle Quellen einzeln einbinden, müsste dein System über **5,5 Millionen** Einträge verwalten. Die TechRZN-Engine filtert Redundanzen heraus, sodass nur **~2,2 Millionen hocheffektive Regeln** übrig bleiben.
 > **Ergebnis:** Maximaler Schutz bei ca. **60% weniger Systemlast** und spürbar schnelleren DNS-Antwortzeiten.
 
+<details open>
+<summary><b>📦 Was steckt in der Master-Liste? (Inhaltsverzeichnis)</b></summary>
+<br>
+
+| Modul | Schutzwirkung | Icon |
+| :--- | :--- | :---: |
+| **TechRZN Tracking** | Stoppt Datensammler (Windows, Android, iOS, Smart-TV). | 📱 |
+| **TechRZN Ads** | Blockiert aggressive Werbenetzwerke & Popups. | 🚫 |
+| **TechRZN Malware** | Sperrt Schadsoftware-Quellen und C2-Server. | 🛡️ |
+| **TechRZN Phishing** | Abwehr von Fake-Logins und Scam-Seiten. | 🔑 |
+| **TechRZN Fakeshops** | Sperrt bekannte Betrugsshops & Abofallen. | 🛒 |
+| **TechRZN Squatting** | Blockiert Imitate bekannter Markennamen (Tippfehler). | 🔍 |
+| **TechRZN IPs** | DNS-Sperre für bösartige IP-Adressen. | 🖥️ |
+| **TechRZN Threat Intel**| Schutz vor aktiven Botnetzen & Angriffswellen. | 🛑 |
+| **TechRZN Gambling** | Blockiert Casinos, Wetten & Lootboxen. | 🎰 |
+| **TechRZN Crypto** | Stoppt Browser-Miner & Krypto-Scams. | 🪙 |
+| **TechRZN Dating** | Unterbindet Zugriff auf Partnerbörsen. | ❤️ |
+| **TechRZN Spam** | Filtert aggressive Mail-Tracker & Spam-Domains. | 📧 |
+| **TechRZN Bypass** | Verhindert VPN/Proxy-Umgehungen im Netzwerk. | 🔓 |
+
+</details>
+
 ---
 
 ## 🛠️ Einzelne Filter-Module

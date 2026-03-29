@@ -52,6 +52,10 @@ Wenn dir der **TechRZN Filter-Hub** hilft, dein Netzwerk sicherer zu machen, fre
   </a>
 </p>
 
+> [!IMPORTANT]
+> **Der TechRZN Performance-Vorteil:** Würdest du alle 18+ Quellen einzeln einbinden, müsste dein System über **5,5 Millionen** Einträge verwalten. Die TechRZN-Engine filtert Redundanzen und Dubletten heraus, sodass nur **~2,2 Millionen hocheffektive Regeln** übrig bleiben.
+> **Ergebnis:** Maximaler Schutz bei ca. **60% weniger Systemlast** und spürbar schnelleren DNS-Antwortzeiten.
+
 <details open>
 <summary><b>📦 Was steckt in der Master-Liste? (Inhaltsverzeichnis)</b></summary>
 <br>

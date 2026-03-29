@@ -1,18 +1,18 @@
-name: "TechRZN - Master Build"
+name: "TechRZN - Filter Hub Build"
 
 on:
   push:
     paths:
       - 'allowlist.raw'
-      - 'sources/**'      # WICHTIG: Er erkennt jetzt alle 13 Dateien im Ordner
-      - 'scripts/**'      # Erkennt Änderungen am Python-Code
-  workflow_dispatch:      # Erlaubt dir, den Build manuell zu starten
+      - 'sources/**'      # Überwacht deine 13 Quell-Dateien
+      - 'scripts/**'      # Überwacht Änderungen am Python-Skript
+  workflow_dispatch:      # Ermöglicht dir den manuellen Start über den "Actions" Tab
 
 jobs:
   build-list:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write    # Wichtig, damit der Bot Dateien speichern darf
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
@@ -32,4 +32,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "build: TechRZN Filter-Listen automatisch aktualisiert [bot]"
-          file_pattern: 'techrzn_*.txt whitelist.txt'
+          file_pattern: 'blocklists/*.txt whitelist.txt' # Speichert alles im neuen Ordner

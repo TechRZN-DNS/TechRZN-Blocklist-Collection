@@ -130,12 +130,7 @@ Wenn dir der **TechRZN Filter-Hub** hilft, dein Netzwerk sicherer zu machen, fre
 <h3>🛡️ AdGuard Home</h3>
 1. Gehe zu <b>Filter</b> ➔ <b>DNS-Sperrlisten</b>.<br>
 2. Klicke auf <b>Sperrliste hinzufügen</b> ➔ <b>Benutzerdefinierte Liste</b>.<br>
-3. Füge <b>Teil 1</b> und dann <b>Teil 2</b> als separate Listen hinzu.<br><br>
-
-<h3>🥧 Pi-hole</h3>
-1. Gehe zu <b>Adlists</b> im linken Menü.<br>
-2. Füge beide URLs (Teil 1 & 2) nacheinander ein.<br>
-3. <b>Wichtig:</b> Führe unter <i>Tools</i> ➔ <i>Update Gravity</i> ein Update aus.
+3. Füge <b>Teil 1</b> und dann <b>Teil 2</b> als separate Listen hinzu.
 </blockquote>
 </details>
 
@@ -147,10 +142,12 @@ Für maximale Performance bei 2M+ Regeln (getestet auf <b>UGREEN NAS / 2,5 Gbit/
 <b>1. DNS-Cache & TTL</b><br>
 * Cache-Größe: <code>104.857.600</code> (100 MB)<br>
 * Optimistisches Caching: <b>Aktiviert</b> ✅<br>
-* TTL-Minimalwert: <code>3600</code> (1 Stunde)<br><br>
-<b>2. Sicherheit & Filterung</b><br>
+* TTL-Minimalwert: <code>3600</code> (1 Std.)<br>
+* TTL-Höchstwert überschreiben: <code>84600</code> (24 Std.) ✅<br><br>
+<b>2. DNS-Einstellungen & Sicherheit</b><br>
 * DNSSEC: <b>Aktiviert</b> ✅<br>
 * Sperrmodus: <code>Null-IP</code><br>
+* Upstream-Timeout: <code>2</code> Sek. ⚡<br>
 * Gültigkeitsdauer blockierter Antwort: <code>300</code> Sek.
 </blockquote>
 </details>

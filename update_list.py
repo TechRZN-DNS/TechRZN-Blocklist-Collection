@@ -4,7 +4,7 @@ import sys
 from multiprocessing import Pool, cpu_count
 from datetime import datetime
 
-# --- GRUPPE 1: MASTER SOURCES (Diese landen in der kombinierten Liste) ---
+# --- GRUPPE 1: MASTER SOURCES (Basis für die geteilte Master-Liste) ---
 MASTER_SOURCES = {
     "techrzn_ads": ("https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_ads.txt", "TechRZN Ads"),
     "techrzn_tracking": ("https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_tracking.txt", "TechRZN Tracking"),
@@ -27,7 +27,7 @@ MASTER_SOURCES = {
     "notserious": ("https://raw.githubusercontent.com/notserious/Anti-FakeShop/main/fakeshops.txt", "Anti-Fakeshop")
 }
 
-# --- GRUPPE 2: SPECIAL SOURCES (Werden einzeln verarbeitet, NICHT im Master) ---
+# --- GRUPPE 2: SPECIAL SOURCES ---
 SPECIAL_SOURCES = {
     "techrzn_porn": ("https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_porn.txt", "TechRZN Porn"),
     "techrzn_jugendschutz": ("https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_jugendschutz.txt", "TechRZN Jugendschutz")
@@ -81,17 +81,13 @@ def main():
                 if d: final_whitelist.add(d)
     except: pass
 
-    # --- Verarbeitung beider Gruppen ---
-    # Wir werfen alles in den Pool, damit die Einzel-Listen in /lists/ erstellt werden
     ALL_SOURCES = {**MASTER_SOURCES, **SPECIAL_SOURCES}
     tasks = [(name, url, credit, final_whitelist) for name, (url, credit) in ALL_SOURCES.items()]
     
     with Pool(processes=cpu_count()) as pool:
         results_map = pool.map(process_source, tasks)
-        # Erstelle ein Mapping von Name zu Ergebnis
         results_dict = dict(zip(ALL_SOURCES.keys(), results_map))
 
-    # --- Master Deduplizierung (Nur MASTER_SOURCES) ---
     master_domains = []
     total_raw_lines = 0
     for name in MASTER_SOURCES.keys():
@@ -99,30 +95,45 @@ def main():
         master_domains.extend(domains)
         total_raw_lines += raw_count
 
-    combined_set = set(master_domains)
-    duplicates_removed = total_raw_lines - len(combined_set)
+    combined_set = sorted(list(set(master_domains))) # Sortiert & Dedupliziert
     timestamp = datetime.now().strftime("%d. %B %Y um %H:%M")
 
-    # Speichern der Master-Liste
-    try:
-        with open("combined_blocklist.txt", "w", encoding='utf-8') as f:
-            f.write("############################################################\n")
-            f.write("# TechRZN Master Blocklist - All-in-One (Performance)\n")
-            f.write("# Ohne Jugendschutz / Porn - für maximale Kompatibilität\n")
-            f.write(f"# Aktualisiert: {timestamp}\n")
-            f.write(f"# Roh-Einträge: ca. {total_raw_lines:,}\n".replace(',', '.'))
-            f.write(f"# Einzigartige Regeln: {len(combined_set):,}\n".replace(',', '.'))
-            f.write("############################################################\n\n")
-            f.write("\n".join(sorted(combined_set)))
-        print(f"✨ Master-Liste erstellt: {len(combined_set)} Regeln.")
-    except Exception as e:
-        print(f"Fehler Master-Liste: {e}")
+    # --- MASTER-LISTE SPLITTEN (GitHub 100MB Limit Umgehung) ---
+    half = len(combined_set) // 2
+    part1 = combined_set[:half]
+    part2 = combined_set[half:]
 
-    # --- Spezial-Listen (Jugendschutz / Porn separat speichern) ---
+    # Speichern Part 1
+    try:
+        with open("combined_part1.txt", "w", encoding='utf-8') as f:
+            f.write("############################################################\n")
+            f.write("# TechRZN Master Blocklist - PART 1\n")
+            f.write(f"# Aktualisiert: {timestamp} | Einträge: {len(part1):,}\n".replace(',', '.'))
+            f.write("############################################################\n\n")
+            f.write("\n".join(part1))
+        
+        # Speichern Part 2
+        with open("combined_part2.txt", "w", encoding='utf-8') as f:
+            f.write("############################################################\n")
+            f.write("# TechRZN Master Blocklist - PART 2\n")
+            f.write(f"# Aktualisiert: {timestamp} | Einträge: {len(part2):,}\n".replace(',', '.'))
+            f.write("############################################################\n\n")
+            f.write("\n".join(part2))
+            
+        print(f"✨ Master-Liste aufgeteilt erstellt ({len(combined_set)} Regeln total).")
+        
+        # WICHTIG: Die alte zu große Datei löschen, falls vorhanden
+        if os.path.exists("combined_blocklist.txt"):
+            os.remove("combined_blocklist.txt")
+            
+    except Exception as e:
+        print(f"Fehler beim Speichern der Master-Teile: {e}")
+
+    # --- Spezial-Listen ---
     for name in SPECIAL_SOURCES.keys():
         domains, raw_count = results_dict[name]
         if domains:
-            output_file = f"techrzn_{name.split('_')[1]}.txt" # Ergibt techrzn_porn.txt etc.
+            output_file = f"{name}.txt"
             with open(output_file, "w", encoding='utf-8') as f:
                 f.write(f"# TechRZN Special Module: {name.upper()}\n")
                 f.write(f"# Stand: {timestamp} | Regeln: {len(domains)}\n\n")

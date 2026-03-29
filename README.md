@@ -113,7 +113,7 @@ Wenn dir der **TechRZN Filter-Hub** hilft, dein Netzwerk sicherer zu machen, fre
 <h3>🛡️ AdGuard Home</h3>
 1. Gehe zu <b>Filter</b> ➔ <b>DNS-Sperrlisten</b>.<br>
 2. Klicke auf <b>Sperrliste hinzufügen</b> ➔ <b>Benutzerdefinierte Liste</b>.<br>
-3. Füge <b>Teil 1</b> und dann <b>Teil 2</b> als separate Listen hinzu.<br>
+3. Füge <b>Teil 1</b> und dann <b>Teil 2</b> als separate Listen hinzu.<br><br>
 
 <h3>🥧 Pi-hole</h3>
 1. Gehe zu <b>Adlists</b> im linken Menü.<br>
@@ -130,7 +130,11 @@ Für maximale Performance bei 2M+ Regeln (getestet auf <b>UGREEN NAS / 2,5 Gbit/
 <b>1. DNS-Cache & TTL</b><br>
 * Cache-Größe: <code>104.857.600</code> (100 MB)<br>
 * Optimistisches Caching: <b>Aktiviert</b> ✅<br>
-* TTL-Minimalwert: <code>3600</code> (1 Stunde)
+* TTL-Minimalwert: <code>3600</code> (1 Stunde)<br><br>
+<b>2. Sicherheit & Filterung</b><br>
+* DNSSEC: <b>Aktiviert</b> ✅<br>
+* Sperrmodus: <code>Null-IP</code><br>
+* Gültigkeitsdauer blockierter Antwort: <code>300</code> Sek.
 </blockquote>
 </details>
 
@@ -146,8 +150,18 @@ Für maximale Performance bei 2M+ Regeln (getestet auf <b>UGREEN NAS / 2,5 Gbit/
       <img src="https://img.shields.io/badge/64_GB_DDR5_ECC-7957d5?style=flat-square" alt="Memory" />
     </td>
     <td align="left" style="padding: 20px;">
+      <b>BESCHLEUNIGUNG</b><br>2x Samsung 990 Pro RAID<br>
+      <img src="https://img.shields.io/badge/NVMe_Gen4_RAID_1-FF6B6B?style=flat-square" alt="Storage" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="padding: 20px;">
       <b>NETZWERK</b><br>2.5 Gbit Hybrid-Power<br>
       <img src="https://img.shields.io/badge/Zyxel_Managed_Switch-00D2FF?style=flat-square" alt="Networking" />
+    </td>
+    <td align="left" style="padding: 20px;">
+      <b>SPEICHER</b><br>80 TB WD Red Pro (12G SAS)<br>
+      <img src="https://img.shields.io/badge/RAID_5_ZFS-00C853?style=flat-square" alt="Drives" />
     </td>
   </tr>
 </table>

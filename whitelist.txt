@@ -1,7 +1,4 @@
-############################################################
-# TechRZN - MASTER WHITELIST
-# Einträge: 858
-############################################################
+### TechRZN - MASTER WHITELIST ###
 
 @@||1-aclk.net^$important
 @@||1aurl.io^$important

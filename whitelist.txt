@@ -1,5 +1,5 @@
 ############################################################
-# TechRZN - Master Whitelist (HaGeZi-Style Build)
+# TechRZN - Master Whitelist
 # Einträge: 858
 ############################################################
 

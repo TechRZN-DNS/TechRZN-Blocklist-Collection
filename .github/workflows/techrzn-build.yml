@@ -3,22 +3,27 @@ name: "TechRZN - Master Build"
 on:
   push:
     paths:
-      - 'allowlist.raw'  # Der Prozess startet nur, wenn du deine Domains änderst
-  workflow_dispatch:     # Damit kannst du den Prozess auch manuell bei GitHub starten
+      - 'allowlist.raw'
+      - 'sources/**'      # WICHTIG: Er erkennt jetzt alle 13 Dateien im Ordner
+      - 'scripts/**'      # Erkennt Änderungen am Python-Code
+  workflow_dispatch:      # Erlaubt dir, den Build manuell zu starten
 
 jobs:
   build-list:
     runs-on: ubuntu-latest
     permissions:
-      contents: write    # Erlaubt dem Bot, die fertige whitelist.txt zu speichern
+      contents: write
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+
+      - name: Install Dependencies
+        run: pip install requests
 
       - name: Run TechRZN Build Script
         run: python scripts/build.py
@@ -26,5 +31,5 @@ jobs:
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "build: TechRZN Whitelist automatisch generiert [bot]"
-          file_pattern: 'whitelist.txt'
+          commit_message: "build: TechRZN Filter-Listen automatisch aktualisiert [bot]"
+          file_pattern: 'techrzn_*.txt whitelist.txt'

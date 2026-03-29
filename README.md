@@ -32,15 +32,36 @@ Wenn dir der **TechRZN Filter-Hub** hilft, dein Netzwerk sicherer zu machen, fre
   <a href="https://patreon.com/TechRZN">
     <img src="https://img.shields.io/badge/PATREON-UNTERSTÜTZER_WERDEN-orange?style=for-the-badge&logo=patreon&logoColor=white" height="45" />
   </a>
-  <br>
-  <img src="https://img.shields.io/badge/Status-Community_Projekt-orange?style=for-the-badge&logo=patreon" height="25" />
-  <img src="https://img.shields.io/github/stars/TechRZN-DNS/TechRZN-Blocklist-Collection?style=for-the-badge&logo=github&color=7957d5" height="25" />
 </p>
 
 ---
 
 ## 🚀 Direkt-Einbindung (Schnellzugriff)
-> **All-in-One Lösung:** Aufgrund der massiven Größe (>100MB) ist die Master-Liste nun in zwei Teile aufgeteilt. **Bitte abonniere beide Teile**, um den vollen Schutz zu erhalten.
+
+<details open style="border: 1px solid #7957d5; border-radius: 10px; padding: 15px; background-color: rgba(121, 87, 213, 0.05);">
+<summary><b>📦 Was steckt in der Master-Liste? (Inhaltsverzeichnis)</b></summary>
+<br>
+<blockquote>
+<b>All-in-One Lösung:</b> Aufgrund der massiven Größe (>100MB) ist die Master-Liste in zwei Teile aufgeteilt. <b>Bitte abonniere beide Teile</b>, um den vollen Schutz zu erhalten.
+</blockquote>
+
+| Modul | Schutzwirkung | Icon |
+| :--- | :--- | :---: |
+| **TechRZN Tracking** | Stoppt Datensammler (Windows, Android, iOS, Smart-TV). | 📱 |
+| **TechRZN Ads** | Blockiert aggressive Werbenetzwerke & Popups. | 🚫 |
+| **TechRZN Malware** | Sperrt Schadsoftware-Quellen und C2-Server. | 🛡️ |
+| **TechRZN Phishing** | Abwehr von Fake-Logins und Scam-Seiten. | 🔑 |
+| **TechRZN Fakeshops** | Sperrt bekannte Betrugsshops & Abofallen. | 🛒 |
+| **TechRZN Squatting** | Blockiert Imitate bekannter Markennamen. | 🔍 |
+| **TechRZN IPs** | DNS-Sperre für bösartige IP-Adressen. | 🖥️ |
+| **TechRZN Threat Intel**| Schutz vor aktiven Botnetzen & Angriffswellen. | 🛑 |
+| **TechRZN Gambling** | Blockiert Casinos, Wetten & Lootboxen. | 🎰 |
+| **TechRZN Crypto** | Stoppt Browser-Miner & Krypto-Scams. | 🪙 |
+| **TechRZN Dating** | Unterbindet Zugriff auf Partnerbörsen. | ❤️ |
+| **TechRZN Spam** | Filtert aggressive Mail-Tracker & Spam-Domains. | 📧 |
+| **TechRZN Bypass** | Verhindert VPN/Proxy-Umgehungen im Netzwerk. | 🔓 |
+
+<br>
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/combined_part1.txt">
@@ -58,11 +79,13 @@ Wenn dir der **TechRZN Filter-Hub** hilft, dein Netzwerk sicherer zu machen, fre
   </a>
 </p>
 
+</details>
+
 ---
 
 ## 🔞 Jugendschutz & Adult-Content (Optional)
 > [!WARNING]
-> **Bewusste Trennung:** Die folgenden Listen sind **NICHT** in der Master-Liste enthalten. Wir haben uns dazu entschieden, diese separat anzubieten, um maximale Kontrolle zu gewährleisten.
+> **Bewusste Trennung:** Die folgenden Listen sind **NICHT** in der Master-Liste enthalten.
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/techrzn_porn.txt">
@@ -80,49 +103,27 @@ Wenn dir der **TechRZN Filter-Hub** hilft, dein Netzwerk sicherer zu machen, fre
 > **Der TechRZN Performance-Vorteil:** Würdest du alle Quellen einzeln einbinden, müsste dein System über **5,5 Millionen** Einträge verwalten. Die TechRZN-Engine filtert Redundanzen heraus, sodass nur **~2,2 Millionen hocheffektive Regeln** übrig bleiben.
 > **Ergebnis:** Maximaler Schutz bei ca. **60% weniger Systemlast** und spürbar schnelleren DNS-Antwortzeiten.
 
-<details open>
-<summary><b>📦 Was steckt in der Master-Liste? (Inhaltsverzeichnis)</b></summary>
-<br>
-
-| Modul | Schutzwirkung | Icon |
-| :--- | :--- | :---: |
-| **TechRZN Tracking** | Stoppt Datensammler (Windows, Android, iOS, Smart-TV). | 📱 |
-| **TechRZN Ads** | Blockiert aggressive Werbenetzwerke & Popups. | 🚫 |
-| **TechRZN Malware** | Sperrt Schadsoftware-Quellen und C2-Server. | 🛡️ |
-| **TechRZN Phishing** | Abwehr von Fake-Logins und Scam-Seiten. | 🔑 |
-| **TechRZN Fakeshops** | Sperrt bekannte Betrugsshops & Abofallen. | 🛒 |
-| **TechRZN Squatting** | Blockiert Imitate bekannter Markennamen (Tippfehler). | 🔍 |
-| **TechRZN IPs** | DNS-Sperre für bösartige IP-Adressen. | 🖥️ |
-| **TechRZN Threat Intel**| Schutz vor aktiven Botnetzen & Angriffswellen. | 🛑 |
-| **TechRZN Gambling** | Blockiert Casinos, Wetten & Lootboxen. | 🎰 |
-| **TechRZN Crypto** | Stoppt Browser-Miner & Krypto-Scams. | 🪙 |
-| **TechRZN Dating** | Unterbindet Zugriff auf Partnerbörsen. | ❤️ |
-| **TechRZN Spam** | Filtert aggressive Mail-Tracker & Spam-Domains. | 📧 |
-| **TechRZN Bypass** | Verhindert VPN/Proxy-Umgehungen im Netzwerk. | 🔓 |
-
-</details>
-
 ---
 
 ## 🛠️ Einzelne Filter-Module
 *Diese Listen werden direkt in Kleve handkuratiert und auf maximale Präzision optimiert.*
 
-| Status | Modul | Fokus & Schutzwirkung | Link |
-| :---: | :--- | :--- | :---: |
-| 🛡️ | **TechRZN Ads** | **Werbe-Schild:** Werbenetzwerke und aggressive Popups. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_ads.txt) |
-| 🕵️‍♂️ | **TechRZN Tracking** | **Tracking:** Blockierung von Telemetrie und Datensammlern. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_tracking.txt) |
-| 🦠 | **TechRZN Malware** | **Virenabwehr:** Sperrt Schadsoftware, C2-Server & Botnetze. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_malware.txt) |
-| 🎣 | **TechRZN Phishing** | **Betrugsschutz:** Fake-Logins und Scam-Seiten. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_phishing.txt) |
-| 🛑 | **TechRZN Threat Intel** | **Bedrohungsabwehr:** Botnetze und Cyberangriffe. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_threat_intel.txt) |
-| 🛍️ | **TechRZN Fakeshops** | **Einkaufsschutz:** Betrugsshops und Scam-Angebote. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_fakeshops.txt) |
-| 🏠 | **TechRZN Squatting** | **Tippfehler-Schutz:** Imitate bekannter Markennamen. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_domain_squatting.txt) |
-| 🎰 | **TechRZN Gambling** | **Spielerschutz:** Sperrt Online-Casinos und Wettanbieter. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_gambling.txt) |
-| 🪙 | **TechRZN Crypto** | **Krypto-Schild:** Blockiert Miner und Krypto-Betrug. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_crypto.txt) |
-| ❤️ | **TechRZN Dating** | **Dating-Filter:** Unterbindet Zugriff auf Partnerbörsen. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_dating.txt) |
-| 📧 | **TechRZN Spam** | **Spam-Schutz:** Filtert aggressive Marketing-Domains & Tracker. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_spam.txt) |
-| 🧪 | **TechRZN Fake Science** | **Wahrheits-Check:** Pseudo-Wissenschaft & Fake-News. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_fake_science.txt) |
-| 🔓 | **TechRZN Bypass** | **Tunnel-Block:** VPN- und Proxy-Umgehungen. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_bypass.txt) |
-| 🖥️ | **TechRZN IPs** | **IP-Sperre:** DNS-Sperre für bösartige IP-Adressen. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/techrzn_ips.txt) |
+| Status | Modul | Link |
+| :---: | :--- | :---: |
+| 🛡️ | **TechRZN Ads** | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_ads.txt) |
+| 🕵️‍♂️ | **TechRZN Tracking** | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_tracking.txt) |
+| 🦠 | **TechRZN Malware** | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_malware.txt) |
+| 🎣 | **TechRZN Phishing** | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_phishing.txt) |
+| 🛑 | **TechRZN Threat Intel** | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_threat_intel.txt) |
+| 🛍️ | **TechRZN Fakeshops** | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_fakeshops.txt) |
+| 🏠 | **TechRZN Squatting** | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_domain_squatting.txt) |
+| 🎰 | **TechRZN Gambling** | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_gambling.txt) |
+| 🪙 | **TechRZN Crypto** | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_crypto.txt) |
+| ❤️ | **TechRZN Dating** | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_dating.txt) |
+| 📧 | **TechRZN Spam** | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_spam.txt) |
+| 🧪 | **TechRZN Fake Science** | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_fake_science.txt) |
+| 🔓 | **TechRZN Bypass** | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_bypass.txt) |
+| 🖥️ | **TechRZN IPs** | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/techrzn_ips.txt) |
 
 ---
 

@@ -29,10 +29,13 @@ jobs:
 
       - name: 🛠️ Master-Liste bauen
         run: |
-          python scripts/build.py  # Nutzt deinen Ordner und deinen Dateinamen
+          python scripts/build.py
 
       - name: 💾 Änderungen speichern (Commit & Push)
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "build: TechRZN Master-Liste automatisch aktualisiert [bot]"
-          file_pattern: 'combined_blocklist.txt blocklists/*.txt whitelist.txt'
+          # WICHTIG: Hier müssen alle Dateien stehen, die der Bot anfassen darf!
+          file_pattern: 'combined_blocklist.txt combined_part1.txt combined_part2.txt blocklists/*.txt whitelist.txt'
+          # WICHTIG: Erzwingt den Push, um den aktuellen Fehler zu beheben
+          push_options: '--force'

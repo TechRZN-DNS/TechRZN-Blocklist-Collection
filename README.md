@@ -52,7 +52,9 @@ Wenn dir der **TechRZN Filter-Hub** hilft, dein Netzwerk sicherer zu machen, fre
 ---
 
 ## 🚀 Direkt-Einbindung (Schnellzugriff)
-> **All-in-One Lösung:** Aufgrund der massiven Größe (>100MB) ist die Master-Liste nun in zwei Teile aufgeteilt. **Bitte abonniere beide Teile**, um den vollen Schutz zu erhalten.
+> **WICHTIG:** Dies ist die **TechRZN Master-Liste (All-in-One Lösung)**. Sie bündelt alle relevanten Schutzmodule in einem Paket.
+
+Aufgrund der massiven Größe (>100MB) ist diese Master-Liste in zwei Teile aufgeteilt. **Bitte abonniere beide Teile**, um den vollen Schutz zu erhalten.
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/combined_part1.txt">

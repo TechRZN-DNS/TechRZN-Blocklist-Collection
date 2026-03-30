@@ -772,7 +772,6 @@
 ||aretephoenix.com^
 ||arialscompany.at^
 ||ariat-osterreich.at^
-||ariatde.de^
 ||ariatfactoryoutlet.com^
 ||ariatshopdeutschland.de^
 ||arila.de^
@@ -2189,7 +2188,6 @@
 ||cantinadautoress.com^
 ||canvasvista.com^
 ||capacityk.com^
-||capatee.com^
 ||capexgo.com^
 ||capital-coins.com^
 ||capital-epargne.com^
@@ -5359,7 +5357,6 @@
 ||giecy.com^
 ||giesswein--schuhe.com^
 ||giesswein-outdoor.de^
-||giesswein.ro^
 ||giesswein.shop^
 ||giessweinat.at^
 ||giessweins.it^

@@ -2781,6 +2781,7 @@
 ||cd.data-express.com.ar^
 ||cd4dcwhdm4rkm.online^
 ||cdn-7xf.pages.dev^
+||cdn-earnapp.b-cdn.net^
 ||cdn.refined.pro^
 ||cdn.streamr.com^
 ||cdn.waterloomath.com^
@@ -6058,7 +6059,6 @@
 ||etkarta.easterndns.com^
 ||ettego.com^
 ||eu-browse.startpage.com^
-||eu1-browse.startpage.com^
 ||eu1.dns.lavate.ch^
 ||eu2-browse.startpage.com^
 ||eu3-browse.startpage.com^
@@ -13848,9 +13848,12 @@
 ||tirnclash.com^
 ||tirnjc.com^
 ||tisocks.net^
+||titandev.info^
 ||titaniumnetwork.org^
 ||titaniumnetwork1.codehs.me^
 ||titanjc.com^
+||titannet.info^
+||titannet.io^
 ||titanssr.com^
 ||titantunnelvpn.com^
 ||tivaro.ru^
@@ -14449,7 +14452,6 @@
 ||urnejesnejfndh.knowhowit.com.au^
 ||urology.wiki^
 ||us-ash-w-f-1.nashkan.net^
-||us-browse.startpage.com^
 ||us-central1-anku-e1b04.cloudfunctions.net^
 ||us-central1-prod-global-7vpn.cloudfunctions.net^
 ||us-central1-sky-cloud-6227a.cloudfunctions.net^
@@ -15489,6 +15491,7 @@
 ||www-pa.linkall.uk^
 ||www-pro.kosite.net^
 ||www-pro.nolife.uk^
+||www-proxy.2d.su^
 ||www-proxy.777kingslots.fun^
 ||www-proxy.deersserverhosting.com^
 ||www-proxy.facil.wtf^

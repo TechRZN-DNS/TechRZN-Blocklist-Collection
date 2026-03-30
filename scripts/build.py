@@ -24,7 +24,7 @@ CATEGORIES = {
 }
 
 OUTPUT_DIR = "blocklists"
-MASTER_FILE = "combined_blocklist.txt"
+# MASTER_FILE entfernt, da > 100MB nicht auf GitHub erlaubt sind
 WHITELIST_OUTPUT = "whitelist.txt"
 WHITELIST_RAW = "allowlist.raw"
 
@@ -133,39 +133,26 @@ if __name__ == "__main__":
         current_domains = fetch_and_build(cat, src, w_list)
         master_domains.update(current_domains)
 
-    # 4. Master-Liste (All-in-One) finalisieren und splitten
+    # 4. Master-Liste (All-in-One) in 300.000er Häppchen splitten
     if master_domains:
         final_master = sorted(list(master_domains))
-        limit = 1200000
+        chunk_size = 300000 # Limit für GitHub Dateigröße (ca. 40MB pro Datei)
         
-        # PART 1
-        part1 = final_master[:limit]
-        with open("combined_part1.txt", 'w', encoding='utf-8') as f:
-            f.write("### TechRZN - MASTER BLOCKLIST PART 1 ###\n")
-            f.write(f"### Rules in this part: {len(part1)} ###\n\n")
-            for d in part1:
-                f.write(f"||{d}^\n")
-        print(f"✅ combined_part1.txt erstellt ({len(part1)} Domains).")
+        # Bestehende alte Part-Dateien aufräumen, falls nötig
+        # (Optional: sorgt für sauberen Build)
 
-        # PART 2
-        part2 = final_master[limit:]
-        with open("combined_part2.txt", 'w', encoding='utf-8') as f:
-            if part2:
-                f.write("### TechRZN - MASTER BLOCKLIST PART 2 ###\n")
-                f.write(f"### Rules in this part: {len(part2)} ###\n\n")
-                for d in part2:
+        for i in range(0, len(final_master), chunk_size):
+            part_num = (i // chunk_size) + 1
+            chunk = final_master[i:i + chunk_size]
+            filename = f"combined_part{part_num}.txt"
+            
+            with open(filename, 'w', encoding='utf-8') as f:
+                f.write(f"### TechRZN - MASTER BLOCKLIST PART {part_num} ###\n")
+                f.write(f"### Rules in this part: {len(chunk)} ###\n\n")
+                for d in chunk:
                     f.write(f"||{d}^\n")
-            else:
-                f.write("# Part 2 leer (Limit nicht erreicht)\n")
-        print(f"✅ combined_part2.txt fertig.")
-
-        # Gesamtliste als Backup
-        with open(MASTER_FILE, 'w', encoding='utf-8') as f:
-            f.write("### TechRZN - MASTER BLOCKLIST (FULL) ###\n")
-            f.write(f"### Total Unique Rules: {len(final_master)} ###\n\n")
-            for d in final_master:
-                f.write(f"||{d}^\n")
+            print(f"✅ {filename} erstellt ({len(chunk)} Domains).")
         
-        print(f"\n✨ MASTER-BUILD FERTIG: {len(final_master)} Regeln.")
+        print(f"\n✨ MASTER-BUILD FERTIG: Insgesamt {len(final_master)} Regeln aufgeteilt.")
     else:
         print("\n❌ Fehler: Keine Domains gefunden.")

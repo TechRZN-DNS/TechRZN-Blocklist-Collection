@@ -1,4 +1,5 @@
 ### TechRZN - BYPASS ###
+### Stand: 31.03.2026 01:46 | Regeln: 16.814 ###
 
 ||0.6gpaactivities.pce-cihazlari.com.tr^
 ||0.6gpaactivities.pulsaudio.ro^
@@ -3486,7 +3487,6 @@
 ||cunybr.com^
 ||curd.io^
 ||curly.orienta.com.br^
-||curser.dev^
 ||customudp.site^
 ||customurlmadebywesd.bnene.com^
 ||cv-unfiltered.xyz^
@@ -4399,6 +4399,7 @@
 ||dns.csa-rz.de^
 ||dns.csaonline.de^
 ||dns.csswg.org^
+||dns.curser.dev^
 ||dns.cwlys.com^
 ||dns.cybertonic.tech^
 ||dns.cynthialabs.net^
@@ -4722,7 +4723,6 @@
 ||dns.marcbond.uk^
 ||dns.marschi.de^
 ||dns.mateo.ovh^
-||dns.mathewakhil.online^
 ||dns.matthias-prost.com^
 ||dns.maybe.icu^
 ||dns.mayr.ws^
@@ -4769,7 +4769,6 @@
 ||dns.musikantit.fi^
 ||dns.muxinghe.cn^
 ||dns.mymachinepanda.online^
-||dns.mytest.cc^
 ||dns.mzjtechnology.com^
 ||dns.mzrme.cn^
 ||dns.n23.io^
@@ -4917,7 +4916,6 @@
 ||dns.schlagheck.berlin^
 ||dns.schmidt-zoarn.de^
 ||dns.scott-smith.us^
-||dns.scott.ovh^
 ||dns.sct-pro.com^
 ||dns.scuola.org^
 ||dns.seaotter.cc^
@@ -11494,6 +11492,7 @@
 ||proxy-search.com^
 ||proxy-seller.com^
 ||proxy-site.net^
+||proxy-sosavpn.ru^
 ||proxy-store.com^
 ||proxy-tools.com^
 ||proxy-works.com^
@@ -12537,7 +12536,6 @@
 ||sdiybt.info.north-kazakhstan.su.cdn.cloudflare.net^
 ||sdkconfig.tlivedns.com^
 ||sdmvipaff.cc^
-||sdns22.gkonuralp.com^
 ||sdtfghjbnm.152-53-136-204.plesk.page^
 ||sdvizhkov.ru^
 ||se3v5tjfff3aet.me^

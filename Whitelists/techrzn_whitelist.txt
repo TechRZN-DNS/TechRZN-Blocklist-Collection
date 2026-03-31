@@ -1,5 +1,9 @@
-### TechRZN - GLOBAL WHITELIST ###
+### TechRZN Master Whitelist ###
+### Stand: 31.03.2026 01:46 ###
 
+*-go.kelkoogroup.net
+*cdn.exponea.com
+*tagm.tchibo.de
 1-aclk.net
 1aurl.io
 1aurl.net
@@ -81,6 +85,7 @@ adorama.rfvk.net
 adosiz.io
 ads.revjet.com
 adscendmedia.com
+adservice.google.*
 adsmeasurement.com
 adspeed.net
 adsplusgrowth.com
@@ -106,6 +111,7 @@ alitems.co
 alitems.site
 amazon-value-service.com
 amnet.tw
+analytics*.trustyou.com
 analytics-prd.aws.wehaa.net
 analytics.adjust.cn
 analytics.adjust.com
@@ -115,6 +121,9 @@ analytics.adjust.world
 analytics.barnebys.sh
 analytics.twitter.com
 anrdoezrs.net
+api*.cleverpush.com
+api*.hubapi.com
+api-*.moengage.com
 api.bam-x.com
 api.elasticemail.com
 api.heylink.com
@@ -126,6 +135,8 @@ apiservices.krxd.net
 apmebf.com
 apms5.com
 aporasal.net
+app*.salesmanago.pl
+app.*.adjust.com
 app.adjust.cn
 app.adjust.com
 app.adjust.io
@@ -188,6 +199,8 @@ breaknewz.com
 bs.serving-sys.com
 buff.ly
 bulletinweb.com
+c*.dotomi.com
+c*.piano.io
 c.apple.com
 c.hubz.pl
 c.msn.com
@@ -200,6 +213,7 @@ campaign.adobe.com
 campaign.aliexpress.com
 cc-dt.com
 cdn-magiclinks.trackonomics.net
+cdn.*.exponea.com
 cdn.adsdefender.com
 cdn.braze.eu
 cdn.pardot.com
@@ -217,8 +231,10 @@ clck.ru
 clck.wargaming.net
 clck.yandex.ru
 clckptrl.com
+click*.taobao.com
 click-tracking.klarna.net
 click-trk.com
+click.*.experian.com
 click.adora-ai.com
 click.adrecord.com
 click.advertisemedia.pro
@@ -257,6 +273,7 @@ click.mc.crimsontrace.com
 click.member.americanexpress.com
 click.members.nra.org
 click.mfilter.net
+click.microsoft*.com
 click.mlsend.com
 click.myctm.canadiantire.ca
 click.o.delta.com
@@ -296,11 +313,13 @@ clk.wargaming.net
 clkdms.com
 cloudflareclient.com
 cloudflaregateway.com
+cloudmail*.netcore.co.in
 cltr.wargaming.net
 cm.naukri.com
 cmodul.solutenetwork.com
 commander1.com
 commission-junction.com
+comms-*.zoopla.co.uk
 connect.intel.com
 construccionrl.com
 contactmonkey.com
@@ -308,6 +327,7 @@ contextweb.com
 control.kochava.com
 conversantmedia.com
 converti.se
+convertkit-mail*.com
 convertkit.com
 count.shopping.t-online.de
 cpm.wargaming.net
@@ -350,8 +370,14 @@ eacdn.com
 eat.emmasolutions.net
 ecomclk.com
 ecomdmsclk.com
+ek*.voyage-prive.com
+email-*.adguard.com
+email-*.adtidy.info
+email-*.adtidy.net
+email-*.adtidy.org
 email-tracking.infobip.com
 email.docker.com
+email.microsoft*.com
 email.namebase.io
 email.office.com
 email.streamhub.tech
@@ -366,6 +392,7 @@ eonlnq.com
 eonlnv.com
 eonlnx.com
 etracker.de
+eu*.thunderhead.com
 eu.sp-trk.com
 eulerian.brandalley.fr
 eulerian.net
@@ -384,12 +411,14 @@ gametlk2.com
 gametlk3.com
 gate-ag.first-id.fr
 gct.dashboard.wedare.pl
+geo*.presslabs.net
 geo.itunes.apple.com
 gethatch.com
 gfl85trk.com
 ggopjn.com
 glnk.io
 globalclicklab.com
+go*.flx1.com
 go.admost.com
 go.blokada.org
 go.e2language.com
@@ -457,6 +486,7 @@ k.keyade.com
 k.madmetrics.com
 kdukvh.com
 kelkoogroup.net
+klclick*.com
 koddi.com
 kqzyfj.com
 l.1mp.ru
@@ -469,6 +499,7 @@ lddy.no
 leadfoxcloud.com
 learning.school
 legalservices.help
+link.*.paramountplus.com
 link.betclic.com
 link.dana.id
 link.digitaladvisor.dk
@@ -482,9 +513,11 @@ link.wizzair.com
 linkcenter.derbysoftca.com
 linkconnector.com
 linkmybrand.com
+links*.afterpay.com
 links.2ns.fi
 links.email.crunchbase.com
 links.iterable.com
+links.mkt*.net
 linksmail.geosolinc.com
 linkspasson.com
 linksredirect.com
@@ -502,9 +535,11 @@ localrl.com
 localrl.com.au
 localservicerl.com.au
 lt45.net
+m-*.custobar.com
 m.dq.com
 m.exactag.com
 m.icares.app
+m.n*.e-nocibe.fr
 mabelle.retchat.com
 mail.onedrive.com
 mandrillapp.com
@@ -520,6 +555,7 @@ mention-me.com
 metric.picodi.com
 mg.mail.notion.so
 micpn.com
+mkto-*.com
 mktoweb.com
 mmtro.com
 mobiothd.com
@@ -565,6 +601,7 @@ p.nexinsight.com.ua
 p.placed.com
 partner-ads.com
 partnerlinks.io
+partners*.stacksocial.com
 partners.webmasterplan.com
 pepperjamnetwork.com
 personaclick.com
@@ -572,6 +609,7 @@ personalservices.biz
 pi.pardot.com
 ping.clicksambo.com
 pixamz.com
+pixel*.everesttech.net
 pjatr.com
 pjtra.com
 pla.daisycon.io
@@ -600,6 +638,7 @@ pxf.io
 pxl.leads.su
 qflm.net
 qksrv.net
+r*.rs6.net
 r.akipam.com
 r.audible.de
 r.jakuli.com
@@ -616,8 +655,12 @@ readdle.cmail20.com
 realestatesrvs.com
 rebrandlydomain.com
 receive-us.solar-engine.io
+recommender*.scarabresearch.com
 red.wargaming.net
 redir.wargaming.net
+redirect*.tagcommander.com
+redirect.*.aws.a2z.com
+redirect.appmetrica.yandex.*
 redirect.at
 redirect.tracify.ai
 redirect.viglink.com
@@ -637,6 +680,7 @@ rtrk.com.au
 rtrk5.com
 rubsy.ingenious.cloud
 run.admost.com
+s*.exacttarget.com
 s.bluecore.com
 s.sick.com
 safeads.com.br
@@ -656,6 +700,7 @@ servedby-us.flashtalking.com
 servedby.flashtalking.com
 servedby.o2.co.uk
 services.dental
+seu*.cleverreach.com
 sfanalyse.com
 shareaprofit.com
 shareasale-analytics.com
@@ -664,6 +709,7 @@ shop-links.co
 shopnearme.us
 short.cm
 short.io
+sites.hscoscdn*.net
 sites.paradox.ai
 sjv.io
 slickdeals.net
@@ -677,13 +723,17 @@ spgo.io
 spxl.ink
 srvto.com
 ssl.hurra.com
+static*.cleverpush.com
 staticiv.com
 stendia.co.uk
 stvkr.com
+suite*.emarsys.net
 superpages.com
 sv.brand-display.com
 sync-tm.everesttech.net
 system360.inistrack.net
+t*.intelliad.de
+t*.tradetracker.net
 t.1und1.de
 t.6sc.co
 t.adcell.com
@@ -692,6 +742,7 @@ t.cfjump.com
 t.clickwise.net
 t.co
 t.dripemail2.com
+t.email*.samsung.ca
 t.emailing.monoprix.fr
 t.en25.com
 t.indeed.com
@@ -701,6 +752,7 @@ t.lt02.net
 t.mmtrkr.com
 t.myvisualiq.net
 t.neory-tm.net
+t.sidekickopen*.com
 t.xfin.me
 t.yesware.com
 tag.getdrip.com
@@ -728,6 +780,10 @@ tr.slvrbullet.com
 tr.strumentimusicali.net
 tr.threeate.jp
 trace.marketingviadigital.com
+track*.customer.io
+track*.effiliation.com
+track*.webgains.team
+track.*.sendlayer.net
 track.addtocart.today
 track.adform.net
 track.adsplay.in
@@ -806,6 +862,7 @@ tradetracker.com
 trck.easy-m.de
 trck.fttrck.net
 trck.wargaming.net
+trk*.genieshopping.com
 trk.affapp.io
 trk.affattr.com
 trk.bc.footlocker.com
@@ -841,7 +898,9 @@ ue.flipboard.com
 uinterbox.com
 uintertool.com
 ulink.adjust.com
+unilever*.demdex.net
 uns.apsis.one
+unsubscribe.*.leanplum.com
 us-serve.nrich.ai
 userlinx.com
 usrlnx.com

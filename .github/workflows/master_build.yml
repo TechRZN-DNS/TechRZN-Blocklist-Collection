@@ -5,15 +5,15 @@ on:
     paths:
       - 'sources/**'
       - 'scripts/**'
-      - 'manual_sources/**'  # <--- DIESE ZEILE MUSS REIN!
+      - 'manual_sources/**'
       - '.github/workflows/**'
   
-  # --- NEU: TÄGLICHES AUTOMATISCHES UPDATE ---
+  # --- TÄGLICHES AUTOMATISCHES UPDATE ---
   schedule:
-    # Läuft jeden Tag um 04:00 Uhr UTC (ca. 05:00 Uhr in Kleve)
+    # Läuft jeden Tag um 04:00 Uhr UTC (ca. 05:00/06:00 Uhr in Kleve)
     - cron: '0 4 * * *'
   
-  # Erlaubt das manuelle Starten per Button (sehr wichtig zum Testen!)
+  # Erlaubt das manuelle Starten per Button
   workflow_dispatch:
 
 jobs:
@@ -41,6 +41,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "build: Filter-Listen und Whitelist aktualisiert [bot]"
-          # Hier speichern wir ALLES ab, was im Build-Lauf entstanden ist
+          # Speichert die Ergebnisse aus beiden relevanten Ordnern
           file_pattern: 'blocklists/*.txt Whitelists/*.txt'
           push_options: '--force'

@@ -1,6 +1,6 @@
 version: 2
 updates:
-  # 1. Checkt deine GitHub Actions (die deine Listen bauen)
+  # 1. Hält deine GitHub Actions aktuell (wichtig für die Automatisierung)
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
@@ -10,7 +10,7 @@ updates:
         patterns:
           - "*"
 
-  # 2. Falls du Python-Skripte für die Listen-Logik nutzt
+  # 2. Hält Python-Bibliotheken wie 'requests' aktuell
   - package-ecosystem: "pip"
     directory: "/"
     schedule:
@@ -19,9 +19,3 @@ updates:
     labels:
       - "security"
       - "dependencies"
-
-  # 3. Falls du Docker-Container in deinem Repo definierst
-  - package-ecosystem: "docker"
-    directory: "/"
-    schedule:
-      interval: "weekly"

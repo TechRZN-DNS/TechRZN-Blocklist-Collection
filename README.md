@@ -45,7 +45,7 @@ Wenn der **TechRZN Filter-Hub** dir hilft, dein Netzwerk sicherer zu machen, wü
     <img src="https://img.shields.io/badge/PATREON-BECOME_A_SUPPORTER-orange?style=for-the-badge&logo=patreon&logoColor=white" height="45" />
   </a>
   <br>
-  <img src="https://img.shields.io/badge/Status-Community_Projekt-orange?style=for-the-badge&logo=patreon" height="25" />
+  <img src="https://img.shields.io/badge/Status-Community_Project-orange?style=for-the-badge&logo=patreon" height="25" />
   <img src="https://img.shields.io/github/stars/TechRZN-DNS/TechRZN-Blocklist-Collection?style=for-the-badge&logo=github&color=7957d5" height="25" />
 </p>
 
@@ -96,6 +96,8 @@ Wenn der **TechRZN Filter-Hub** dir hilft, dein Netzwerk sicherer zu machen, wü
 | 📧 | **TechRZN Spam** | **Spam-Schutz:** Filtert aggressive Marketing- & Spam-Domains. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_spam.txt) |
 | 🧪 | **TechRZN Fake Science** | **Faktencheck:** Pseudowissenschaft & Fake News. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_fake_science.txt) |
 | 🔓 | **TechRZN Bypass** | **Tunnel-Block:** VPN- und Proxy-Umgehungen. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_bypass.txt) |
+| 📱 | **TechRZN Native** | **Geräte-Check:** Spezielle Tracker für Smart-TVs & Mobile. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_native_tracker.txt) |
+| 💥 | **TechRZN Popups** | **Popup-Sperre:** Blockiert nervige Layer und Werbefenster. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_popups.txt) |
 
 ---
 

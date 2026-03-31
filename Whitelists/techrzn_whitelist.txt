@@ -1,5 +1,5 @@
 ### TechRZN Master Whitelist ###
-### Stand: 31.03.2026 01:46 ###
+### Stand: 31.03.2026 01:48 ###
 
 *-go.kelkoogroup.net
 *cdn.exponea.com

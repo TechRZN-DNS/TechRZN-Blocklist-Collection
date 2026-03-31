@@ -1,21 +1,15 @@
 version: 2
 updates:
-  # 1. Hält deine GitHub Actions aktuell (wichtig für die Automatisierung)
+  # 1. GitHub Actions bleiben drin
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
       interval: "weekly"
-    groups:
-      action-updates:
-        patterns:
-          - "*"
 
-  # 2. Hält Python-Bibliotheken wie 'requests' aktuell
+  # 2. Python/Pip Check - NUR wenn du eine requirements.txt hast
   - package-ecosystem: "pip"
-    directory: "/"
+    directory: "/" # Falls deine requirements.txt in einem Ordner ist, hier ändern (z.B. "/scripts")
     schedule:
       interval: "weekly"
-    open-pull-requests-limit: 5
-    labels:
-      - "security"
-      - "dependencies"
+    # Diese Option hilft, wenn er zu viele PRs für falsche Treffer erstellt
+    open-pull-requests-limit: 3

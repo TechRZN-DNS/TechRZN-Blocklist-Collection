@@ -1,5 +1,8 @@
 ### TechRZN - FAKESHOPS ###
 
+||.avito.www.booking.^
+||.com-id*.com^
+||.com-id*.info^
 ||01broker.com^
 ||01crypto.com^
 ||0dgwn.bemobtrcks.com^
@@ -1023,6 +1026,8 @@
 ||avenir-crypto.com^
 ||avenly.de^
 ||avenor-hamburg.com^
+||avito.avito.avito.^
+||avito.avito.www.avito.^
 ||avorino.com^
 ||avoros.de^
 ||avotrend.com^
@@ -1829,7 +1834,9 @@
 ||bonprixsho.shop^
 ||bonsaiexperte.com^
 ||boohoo-shop.com^
+||booking.com-id*^
 ||bookinginfo.at^
+||booklng.com-*^
 ||bookssale.shop^
 ||boomaya.com^
 ||boomjoo.co^
@@ -14926,6 +14933,9 @@
 ||yahhhoo.com^
 ||yakshart.com^
 ||yali24.de^
+||yandex.avito.sber*^
+||yandex.avito.www.^
+||yandex.pay.avito.^
 ||yangzhi.de^
 ||yannelli.net^
 ||yardigen.store^

@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-### Stand: 31.03.2026 22:36 | Regeln: 16.822 ###
+### Stand: 31.03.2026 22:43 | Regeln: 16823 ###
 
 ||0.6gpaactivities.pce-cihazlari.com.tr^
 ||0.6gpaactivities.pulsaudio.ro^
@@ -6090,6 +6090,7 @@
 ||evilevil.rocketyoga.ar^
 ||evol.mrco.giize.com^
 ||evpn.net^
+||evyy.net^
 ||ewantt.net^
 ||ewanw15.net^
 ||ewanwzz.net^

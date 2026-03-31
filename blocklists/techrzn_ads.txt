@@ -1,5 +1,5 @@
 ### TechRZN - ADS ###
-### Stand: 31.03.2026 22:36 | Regeln: 180.159 ###
+### Stand: 31.03.2026 22:43 | Regeln: 180188 ###
 
 ||-ad.sm.cn^
 ||-ad.video.yximgs.com^
@@ -13835,6 +13835,7 @@
 ||ad.adtrck5.de^
 ||ad.adver.com.tw^
 ||ad.adverteerdirect.nl^
+||ad.adverticum.net^
 ||ad.advst.cp33.ott.cibntv.net^
 ||ad.ae.doubleclick.net^
 ||ad.afftrck.com^
@@ -13989,6 +13990,7 @@
 ||ad.domainfactory.de^
 ||ad.donanimhaber.com^
 ||ad.doorigo.co.kr^
+||ad.doubleclick.net^
 ||ad.douga-kan.com^
 ||ad.doyouad.com^
 ||ad.dslr-forum.de^
@@ -15865,6 +15867,7 @@
 ||adforge.icu^
 ||adforge.io^
 ||adfork.co.kr^
+||adform.com^
 ||adformdsp.net^
 ||adfound.com^
 ||adfox.yandex.ru^
@@ -24751,6 +24754,11 @@
 ||analytics.aderserve.com^
 ||analytics.adfreetime.com^
 ||analytics.adizeljkovic.com^
+||analytics.adjust.cn^
+||analytics.adjust.com^
+||analytics.adjust.io^
+||analytics.adjust.net.in^
+||analytics.adjust.world^
 ||analytics.adliners.de^
 ||analytics.admetrics360.com^
 ||analytics.admetricx.com^
@@ -45383,6 +45391,7 @@
 ||clickins.slixa.com^
 ||clickintext.com^
 ||clickintext.net^
+||clickiocdn.com^
 ||clickiocdna.com^
 ||clicklink.jp^
 ||clickmagick.com^
@@ -45433,6 +45442,7 @@
 ||clickscloud.net^
 ||clicksegypt.net^
 ||clicksen.se^
+||clickserv.sitescout.com^
 ||clickserver.libero.it^
 ||clicksfordsm.com^
 ||clicksgear.com^
@@ -48792,6 +48802,7 @@
 ||contextuads.com^
 ||contextualadv.com^
 ||contextualpalace.com^
+||contextweb.com^
 ||contiamo.com^
 ||contile.services.mozilla.com^
 ||contineljs.com^
@@ -48848,6 +48859,7 @@
 ||control-microsoft.com^
 ||control.asgoodasnew.de^
 ||control.cityofcairns.com^
+||control.kochava.com^
 ||control.teragence.net^
 ||controlaffliction.com^
 ||controlclickflow.com^
@@ -60347,6 +60359,7 @@
 ||eaaratte.net^
 ||eabgcedbgigaefigac.world^
 ||eabids.com^
+||eacdn.com^
 ||eacf1d7e2dcafc4d.com^
 ||each-task.com^
 ||eachdulav.com^
@@ -63580,6 +63593,7 @@
 ||etr.green-planet-energy.de^
 ||etracker.cjd.de^
 ||etracker.com^
+||etracker.de^
 ||etracker.noon.com^
 ||etrader.co.il^
 ||etrader.kalahari.com^
@@ -66271,6 +66285,7 @@
 ||fcbqxt.xyz^
 ||fccinteractive.com^
 ||fcciyjcrcopsw.online^
+||fcd.autoads.asia^
 ||fcdelivery.top^
 ||fcdfjjbnrxrufd.com^
 ||fcepahafyq.com^
@@ -73881,6 +73896,7 @@
 ||googleads.com^
 ||googleads.g.doubleclick.net^
 ||googleadservices-cn.com^
+||googleadservices.com^
 ||googleadservices.com.cn^
 ||googleadservices.net^
 ||googleadsserving.cn^
@@ -82777,6 +82793,7 @@
 ||i.gal^
 ||i.idio.co^
 ||i.imgkcdn.com^
+||i.ipromote.com^
 ||i.isnssdk.com.edgekey.net^
 ||i.j2j.ru^
 ||i.keezip.com^
@@ -107078,6 +107095,7 @@
 ||monitor.evgcloud.net^
 ||monitor.evolutiongroup.digital^
 ||monitor.exe-app.com^
+||monitor.fraudblocker.com^
 ||monitor.growone.sg^
 ||monitor.kiel.de^
 ||monitor.l.qq.com^
@@ -114548,6 +114566,7 @@
 ||one-new-message.com^
 ||one-sunnyday.com^
 ||one.gongshu168.cn^
+||one.impact-ad.jp^
 ||one01.click^
 ||one97adworks.com^
 ||onead.onevision.com.tw^
@@ -127506,6 +127525,7 @@
 ||r.i0.cz^
 ||r.inbox.lv^
 ||r.kleertjes.com^
+||r.lafamo.com^
 ||r.mail.163.com^
 ||r.maintoast.com^
 ||r.maintrck.com^
@@ -128379,6 +128399,7 @@
 ||rdnoueyrjovhk.website^
 ||rdpanx.icu^
 ||rdqonejxzdwym.store^
+||rdr.wargaming.net^
 ||rdraygxaymmms.online^
 ||rdrctgoweb.com^
 ||rdreamsofcryin.com^
@@ -137486,6 +137507,7 @@
 ||serve.efortuna.ro^
 ||serve.fendixmedia.net^
 ||serve.freeonlinegayporn.com^
+||serve.nrich.ai^
 ||serve.paycentive.net^
 ||serve.prestigecasino.com^
 ||serve.vitzo.com^
@@ -140068,6 +140090,7 @@
 ||share.outgrow.biz^
 ||share.polymail.io^
 ||shareaholic.com^
+||shareasale-analytics.com^
 ||sharebang.com^
 ||sharecash.org^
 ||shared-prd-1752266577.us-west-2.elb.amazonaws.com^
@@ -152513,6 +152536,7 @@
 ||sv-static-lottery.headlines.pw^
 ||sv-static1-lottery.headlines.pw^
 ||sv-video.play.aiseet.atianqi.com^
+||sv.brand-display.com^
 ||sv.chaoliger.top^
 ||sv.isvn.space^
 ||sv.lgsmartad.com^
@@ -153078,6 +153102,7 @@
 ||synapsehontish.shop^
 ||synaptidtakhtadjysilverrod.monster^
 ||sync-jp.im-apps.net^
+||sync-tm.everesttech.net^
 ||sync-trezorio.com^
 ||sync-yieldmo-com-tf-1869548451.eu-west-1.elb.amazonaws.com^
 ||sync.3fmediagroup.com^
@@ -153353,6 +153378,7 @@
 ||t.adbxb.cn^
 ||t.adii.se^
 ||t.advuser.com^
+||t.afi-b.com^
 ||t.aftermath.site^
 ||t.ahlsellgroup.com^
 ||t.airasia.com^
@@ -154117,6 +154143,7 @@
 ||tailstories.biz^
 ||tailsweep.com^
 ||tailsweep.se^
+||tailtarget.com^
 ||tailwind-cdn-delivery.net^
 ||taimpt.com^
 ||taintsjusticodislip.cyou^
@@ -160250,6 +160277,7 @@
 ||trck.linkster.co^
 ||trck.mtrgt.id^
 ||trck.spoteffects.net^
+||trck.wargaming.net^
 ||trck.wettercomservices.com^
 ||trckams.com^
 ||trckkkk.com^
@@ -164493,6 +164521,7 @@
 ||us-ledgredesktop.framer.ai^
 ||us-meet-video-call-live.xyz^
 ||us-mesh.events.data.microsoft.com^
+||us-serve.nrich.ai^
 ||us-tag.nrich.ai^
 ||us-teams.events.data.microsoft.com^
 ||us-tracking.nextdoor.com^

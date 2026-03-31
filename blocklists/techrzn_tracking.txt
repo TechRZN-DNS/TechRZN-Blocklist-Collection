@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-### Stand: 31.03.2026 22:43 | Regeln: 102972 ###
+### Stand: 31.03.2026 22:47 | Regeln: 102.947 ###
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -12898,7 +12898,6 @@
 ||ad.belleeau.jp^
 ||ad.csr11.net.daraz.com^
 ||ad.csr41.application.net.daraz.com^
-||ad.doubleclick.net^
 ||ad.e-dpe.jp^
 ||ad.ehello.jp^
 ||ad.hoikushibank.com^
@@ -14380,7 +14379,6 @@
 ||affiliate.levsalonu.cz^
 ||affiliate.lg-store.cz^
 ||affiliate.licit.cz^
-||affiliate.logitravel.com^
 ||affiliate.luxor.cz^
 ||affiliate.marketingminer.com^
 ||affiliate.martinchudy.sk^
@@ -17680,7 +17678,6 @@
 ||app-measurement.com^
 ||app-stats.supernotes.app^
 ||app-www.rgsdocker.net.daraz.com^
-||app.adjust.com^
 ||app.albertina.at^
 ||app.api-static-stage.net.daraz.com^
 ||app.chaarmant.at^
@@ -25180,7 +25177,6 @@
 ||ch.drs.wa.gov^
 ||ch.sharpmarketing.eu^
 ||ch00-bootstrap.net.daraz.com^
-||ch0p.darty.com^
 ||chaiduangkaew-stageatid.net.daraz.com^
 ||chaiduangkaewoviesda.net.daraz.com^
 ||chakoblog-bollyshare.net.daraz.com^
@@ -28006,7 +28002,6 @@
 ||csdpn.hurraheroes.mx^
 ||csdri.gardner-white.com^
 ||csdrnf.a24.kr^
-||cse3.chausport.com^
 ||csebt.bloomist.com^
 ||csengb.manfredijewels.com^
 ||csghyg.reginaclinic.jp^
@@ -31418,8 +31413,6 @@
 ||data.diariovasco.com^
 ||data.diekuechedirekt.de^
 ||data.digital.adobe.com^
-||data.digital.costco.ca^
-||data.digital.costco.com^
 ||data.digitalcampusvorarlberg.at^
 ||data.digitalmedia.adobe.com^
 ||data.diks.net^
@@ -36793,7 +36786,6 @@
 ||eulerian.tgv-europe.nl^
 ||eulerian.thalasseo.com^
 ||eulerian.voyage-prive.com^
-||eultech.fnac.com^
 ||eumarketing.sedgwick.com^
 ||eumenis.radarassessoriabahia.com.br^
 ||eunzi.beistravel.com^
@@ -38686,7 +38678,6 @@
 ||geo.bluedot.io^
 ||geo.linq.gg^
 ||geo.met.vgwort.de^
-||geoffrey.frogeye.fr^
 ||georgfischerag.tt.omtrdc.net^
 ||geoysu.blingshop.co.kr^
 ||gepgi.theurbangeek.com^
@@ -38879,8 +38870,6 @@
 ||gist9-sjc12-dr01.net.daraz.com^
 ||gistmanagement-application-spring.net.daraz.com^
 ||git-bejav.assets.net.daraz.com^
-||git.frogeye.fr^
-||github.com^
 ||github.engineapplication-spring.net.daraz.com^
 ||github.global.ssl.fastly.net.daraz.com^
 ||github.gpuzelenograd.cloudns.be^
@@ -39288,7 +39277,6 @@
 ||google.yescolours.com^
 ||google00d70000000motieas.net.daraz.com^
 ||googleads.g.doubleclick.net^
-||googleadservices.com^
 ||goose.accountsjs.com^
 ||goose.markerchase.com^
 ||goose.surfboardpayments.com^
@@ -43814,7 +43802,6 @@
 ||host.zoodipistoia.it^
 ||host2.partner.net.daraz.com^
 ||host223pago.docs.net.daraz.com^
-||hostfiles.frogeye.fr^
 ||hosting-svc.docs.net.daraz.com^
 ||hosting.kube-partner.net.daraz.com^
 ||hostjav.net.daraz.com^
@@ -58709,7 +58696,6 @@
 ||marketing.tourismwinnipeg.com^
 ||marketing.toxicology.abbott^
 ||marketing.toyotaofeasley.com^
-||marketing.tr.netsalesmedia.pl^
 ||marketing.trackmarketing.net^
 ||marketing.transcore.com^
 ||marketing.transitair.com^
@@ -64873,7 +64859,6 @@
 ||oipvs.banknoteworld.com^
 ||oirtwc.juwelo.es^
 ||oisbdb.jukunavi.com^
-||oisd.nl^
 ||oispo.poshpeanut.com^
 ||oit4.destinia.com.br^
 ||oita4bali.com^
@@ -66575,7 +66560,6 @@
 ||payments.hd-plus.de^
 ||payments.helzberg.com^
 ||paynewest.actonservice.com^
-||paypal.me^
 ||paypartner.net.daraz.com^
 ||payqjd.subito.it^
 ||payrisk-tmx.didiglobal.com^
@@ -66710,7 +66694,6 @@
 ||perch.luckydiff.com^
 ||perdp.bitsandpieces.com^
 ||perf.af.eficads.com^
-||perflyst.github.io^
 ||performance.actonservice.com^
 ||performance.athleticgym.com.co^
 ||performance.inncollectiongroup.com^
@@ -68614,13 +68597,9 @@
 ||r-ht-1.net.daraz.com^
 ||r-hx-1.net.daraz.com^
 ||r-is-1-2.net.daraz.com^
-||r.akipam.com^
 ||r.emailvision.panel.net.daraz.com^
 ||r.hokodo.co^
-||r.jakuli.com^
-||r.lafamo.com^
 ||r.net.daraz.com^
-||r.powuta.com^
 ||r.studiosarte.com^
 ||r.tt.omtrdc.net^
 ||r0l7spzo0klfsepg.administrator.interaction.net.daraz.com^
@@ -68720,7 +68699,6 @@
 ||raven.omamao.ch^
 ||raviatm.ravia.app^
 ||ravm.tv^
-||raw.githubusercontent.com^
 ||raw.net.daraz.com^
 ||raw.skidoitruy-doitruy.emailvision.net.daraz.com^
 ||raw123pago-loginvc.doclogin.net.daraz.com^
@@ -68892,7 +68870,6 @@
 ||redbutton.sim-technik.de^
 ||redclassic.actonservice.com^
 ||redd7liod.com^
-||reddit.com^
 ||reddwarf.till-sanders.de^
 ||rede.lgldelivery.com.br^
 ||redfcu.tt.omtrdc.net^
@@ -93816,7 +93793,6 @@
 ||target.mercolamarket.com^
 ||target.miaprova.com^
 ||target.microchip.com^
-||target.microsoft.com^
 ||target.monaco.pwc.fr^
 ||target.myhealthtoolkit.com^
 ||target.nationwide.com^
@@ -99662,7 +99638,6 @@
 ||vfljt.coffeeandmotivation.com^
 ||vfmahn.slevomat.cz^
 ||vfnab.vegamour.com^
-||vfo.voyage-prive.co.uk^
 ||vfo4.carrefour-banque.fr^
 ||vfoycy.nhk-ep.com^
 ||vfp.intuit.com^

@@ -55,7 +55,7 @@ Wenn der **TechRZN Filter-Hub** dir hilft, dein Netzwerk sicherer zu machen, wü
 > **Stabilität & Kompatibilität:** Damit wichtige Systemdienste (z.B. Windows Updates, Apple iCloud, Streaming-Logins) trotz massiver Blocklisten reibungslos funktionieren, haben wir eine globale Whitelist integriert.
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/whitelist.txt">
+  <a href="https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/Whitelists/techrzn_whitelist.txt">
     <img src="https://img.shields.io/badge/WHITELIST-LINK_KOPIEREN-blue?style=for-the-badge&logo=github&logoColor=white" height="45" />
   </a>
 </p>
@@ -84,7 +84,7 @@ Wenn der **TechRZN Filter-Hub** dir hilft, dein Netzwerk sicherer zu machen, wü
 
 | Status | Modul | Fokus & Schutzwirkung | Link |
 | :---: | :--- | :--- | :---: |
-| 🛡️ | **TechRZN Ads** | **Werbe-Schild:** Werbenetzwerke und Tracker (Hagezi Pro Basis). | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_ads.txt) |
+| 🛡️ | **TechRZN Ads** | **Werbe-Schild:** Werbenetzwerke und Tracker. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_ads.txt) |
 | 🕵️‍♂️ | **TechRZN Tracking** | **Tracking:** CNAME-Tracker & Telemetrie (Win/Android/iOS). | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_tracking.txt) |
 | 🦠 | **TechRZN Malware** | **Virenschutz:** Blockiert Malware & C2-Server. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_malware.txt) |
 | 🎣 | **TechRZN Phishing** | **Betrugsschutz:** Schutz vor gefälschten Logins & Scams. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_phishing.txt) |

@@ -2,8 +2,10 @@ import os
 import requests
 import shutil
 from datetime import datetime
+import time
 
-# --- KONFIGURATION BLEIBT GLEICH ---
+# --- KONFIGURATION ---
+# Diese Dateien müssen im Ordner "sources/" liegen!
 CATEGORIES = {
     "ads": "sources/ads.raw",
     "tracking": "sources/tracking.raw",
@@ -12,7 +14,7 @@ CATEGORIES = {
     "threat_intel": "sources/threat_intel.raw",
     "fakeshops": "sources/fakeshops.raw",
     "gambling": "sources/gambling.raw",
-    "crypto": "sources/crypto.raw", # <--- Diese Datei wird jetzt korrekt gelesen
+    "crypto": "sources/crypto.raw",
     "dating": "sources/dating.raw",
     "spam": "sources/spam.raw",
     "fake_science": "sources/fake_science.raw",
@@ -27,19 +29,26 @@ OUTPUT_DIR = "blocklists"
 WL_DIR = "Whitelists"
 LOCAL_WHITELIST = "sources/whitelist.raw"
 REMOTE_WHITELIST = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.txt"
+
+# Pfade für IP-Liste
 MANUAL_IP_SRC = "manual_sources/deny-ip-list.txt"
 IP_OUTPUT = os.path.join(OUTPUT_DIR, "techrzn_ips.txt")
 
+# WICHTIG: User-Agent verhindert 403-Fehler (z.B. bei GitHub Pages oder AdGuard)
+HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) TechRZN-Bot/1.1'
+}
+
 def clean_domain(line):
     line = line.strip().lower()
-    # WICHTIG: AdGuard Filter-Regeln wie ||example.com^ müssen hier korrekt gesäubert werden
-    if not line or line.startswith(('!', '[')): # '#' entfernt, da manche Listen Kommentare so nutzen
+    # Kommentare und AdBlock-Metadaten ignorieren
+    if not line or line.startswith(('#', '!', '[')):
         return None
     if '://' in line:
         line = line.split('://')[-1]
     line = line.split('/')[0]
     line = line.replace('*.', '').replace('*', '')
-    # Säuberung von AdBlock-Syntax
+    # Säuberung von AdBlock-Syntax (||domain.com^)
     domain = line.replace('@@||', '').replace('^$important', '').replace('||', '').replace('^', '')
     if ' ' in domain or not domain:
         return None
@@ -50,22 +59,62 @@ def clean_domain(line):
 
 def main():
     timestamp = datetime.now().strftime("%d.%m.%Y %H:%M")
+    print(f"🚀 TechRZN Update-Prozess gestartet: {timestamp}")
     
-    # 1. Ordner vorbereiten (Wir löschen nur, wenn wir neu schreiben können)
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
-    os.makedirs(WL_DIR, exist_ok=True)
+    # 1. Ordner vorbereiten
+    for folder in [OUTPUT_DIR, WL_DIR]:
+        if not os.path.exists(folder):
+            os.makedirs(folder, exist_ok=True)
+            print(f"📁 Ordner {folder} erstellt.")
 
-    # 2. Whitelist aufbauen (Code verkürzt für Übersicht)
+    # 2. Whitelist aufbauen
     whitelist = set()
-    # ... (Deine Whitelist Logik) ...
+    print("⚪ Baue Whitelist auf...")
+    if os.path.exists(LOCAL_WHITELIST):
+        with open(LOCAL_WHITELIST, 'r', encoding='utf-8') as f:
+            for line in f:
+                d = clean_domain(line)
+                if d: whitelist.add(d)
+    
+    try:
+        r = requests.get(REMOTE_WHITELIST, headers=HEADERS, timeout=15)
+        if r.status_code == 200:
+            for line in r.text.splitlines():
+                d = clean_domain(line)
+                if d: whitelist.add(d)
+        print(f"✅ Whitelist bereit: {len(whitelist)} Einträge.")
+    except Exception as e:
+        print(f"⚠️ Warnung: Remote Whitelist konnte nicht geladen werden: {e}")
+
+    # Whitelist-Datei speichern
+    wl_file = os.path.join(WL_DIR, "techrzn_whitelist.txt")
+    with open(wl_file, 'w', encoding='utf-8') as f:
+        f.write(f"### TechRZN Master Whitelist ###\n### Stand: {timestamp} ###\n\n")
+        for d in sorted(list(whitelist)):
+            f.write(f"{d}\n")
+
+    # 3. Manuelle IP-Liste (Marius Hosting)
+    if os.path.exists(MANUAL_IP_SRC):
+        print(f"⚙️ Verarbeite IP-Quelle: {MANUAL_IP_SRC}")
+        ip_count = 0
+        with open(MANUAL_IP_SRC, "r", encoding="utf-8") as f_in:
+            lines = f_in.readlines()
+        with open(IP_OUTPUT, "w", encoding="utf-8") as f_out:
+            f_out.write(f"### TechRZN - Deny IP List ###\n### Stand: {timestamp} ###\n\n")
+            for line in lines:
+                line = line.strip()
+                if line and not line.startswith(('#', '!', '/')):
+                    f_out.write(f"{line}\n")
+                    ip_count += 1
+        print(f"✅ IP-Liste erstellt: {ip_count} Einträge.")
 
     # 4. Domain-Blocklisten bauen
     for cat_name, src_path in CATEGORIES.items():
         if not os.path.exists(src_path):
-            print(f"⚠️ {src_path} nicht gefunden.")
+            print(f"❌ Quelldatei fehlt: {src_path} - Überspringe {cat_name}")
             continue
         
-        print(f"⚙️ Verarbeite {cat_name}...")
+        print(f"🔍 Erstelle Liste: techrzn_{cat_name}.txt ...")
         category_domains = set()
         
         with open(src_path, 'r', encoding='utf-8') as f:
@@ -73,33 +122,40 @@ def main():
         
         for url in urls:
             try:
-                # NUR GitHub Links anpassen, externe Links (AdGuard) so lassen wie sie sind!
+                # Nur GitHub/JsDelivr URLs anpassen, externe (wie AdGuard Crypto) so lassen
+                fetch_url = url
                 if "cdn.jsdelivr.net" in url:
-                    url = url.replace("cdn.jsdelivr.net/gh/", "raw.githubusercontent.com/").replace("@latest/", "/main/")
+                    fetch_url = url.replace("cdn.jsdelivr.net/gh/", "raw.githubusercontent.com/").replace("@latest/", "/main/")
                 
-                r = requests.get(url, timeout=25, headers={'User-Agent': 'Mozilla/5.0'})
+                r = requests.get(fetch_url, headers=HEADERS, timeout=25)
                 if r.status_code == 200:
+                    lines_found = 0
                     for line in r.text.splitlines():
                         domain = clean_domain(line)
                         if domain and domain not in whitelist:
                             category_domains.add(domain)
+                            lines_found += 1
                 else:
-                    print(f"   ❌ Fehler {r.status_code} bei {url}")
+                    print(f"   ❌ Fehler {r.status_code} bei URL: {url}")
             except Exception as e:
-                print(f"   ❌ Timeout/Fehler bei {url}")
+                print(f"   ❌ Timeout/Fehler bei URL {url}: {e}")
                 continue
 
-        # WICHTIGSTER FIX: Erstelle die Datei nur, wenn Domains gefunden wurden
+        # WICHTIG: Datei nur schreiben, wenn Domains gefunden wurden
         if category_domains:
             output_path = os.path.join(OUTPUT_DIR, f"techrzn_{cat_name}.txt")
             with open(output_path, 'w', encoding='utf-8') as f:
                 f.write(f"### TechRZN - {cat_name.upper()} ###\n")
-                f.write(f"### Stand: {timestamp} | Regeln: {len(category_domains)} ###\n\n")
+                # Tausende-Trennpunkt für bessere Lesbarkeit
+                count_str = "{:,}".format(len(category_domains)).replace(',', '.')
+                f.write(f"### Stand: {timestamp} | Regeln: {count_str} ###\n\n")
                 for d in sorted(list(category_domains)):
                     f.write(f"||{d}^\n")
-            print(f"   ✅ {output_path} erstellt.")
+            print(f"   ✅ Fertig! {len(category_domains)} Domains gespeichert.")
         else:
-            print(f"   ⚠️ Keine Domains für {cat_name} gefunden (Liste leer?)")
+            print(f"   ⚠️ Warnung: Keine Domains für {cat_name} gefunden.")
+
+    print(f"\n✨ Alle Listen wurden im Ordner '{OUTPUT_DIR}' aktualisiert.")
 
 if __name__ == "__main__":
     main()

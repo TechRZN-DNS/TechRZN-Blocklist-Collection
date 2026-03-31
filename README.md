@@ -84,6 +84,7 @@ Wenn der **TechRZN Filter-Hub** dir hilft, dein Netzwerk sicherer zu machen, wü
 
 | Status | Modul | Fokus & Schutzwirkung | Link |
 | :---: | :--- | :--- | :---: |
+| 🚫 | **TechRZN IPs** | **IP-Sperrliste:** Schutz auf Firewall-Ebene (Marius Hosting). | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_ips.txt) |
 | 🛡️ | **TechRZN Ads** | **Werbe-Schild:** Werbenetzwerke und Tracker. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_ads.txt) |
 | 🕵️‍♂️ | **TechRZN Tracking** | **Tracking:** CNAME-Tracker & Telemetrie (Win/Android/iOS). | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_tracking.txt) |
 | 🦠 | **TechRZN Malware** | **Virenschutz:** Blockiert Malware & C2-Server. | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_malware.txt) |

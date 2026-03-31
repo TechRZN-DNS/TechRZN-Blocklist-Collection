@@ -3,9 +3,11 @@ name: "🚀 TechRZN Master Build"
 on:
   push:
     paths:
-      - 'blocklists/**'
+      # Wir triggern NUR, wenn du Quellen oder das Skript änderst
       - 'sources/**'
       - 'scripts/**'
+      - '.github/workflows/**'
+  # Erlaubt das manuelle Starten per Button (sehr wichtig zum Testen!)
   workflow_dispatch:
 
 jobs:
@@ -16,26 +18,24 @@ jobs:
 
     steps:
       - name: 🛰️ Repository auschecken
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4 # V4 ist der aktuelle stabile Standard
 
       - name: 🐍 Python einrichten
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-          cache: 'pip'
 
       - name: 📦 Abhängigkeiten installieren
         run: pip install requests
 
       - name: 🛠️ Master-Liste bauen
-        run: |
-          python scripts/build.py
+        run: python scripts/build.py
 
       - name: 💾 Änderungen speichern (Commit & Push)
-        uses: stefanzweifel/git-auto-commit-action@v7
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "build: Filter-Listen und Whitelist aktualisiert [bot]"
-          # WICHTIG: Hier beide Ordner angeben, damit die Dateien hochgeladen werden
+          # Hier werden die Ergebnisse aus beiden Ordnern gespeichert
           file_pattern: 'blocklists/*.txt Whitelists/*.txt'
-          # Force-Push ist hier Pflicht, um den fehlerhaften Git-Verlauf zu überschreiben
+          # Force-Push ist hier gut, um den Verlauf sauber zu halten
           push_options: '--force'

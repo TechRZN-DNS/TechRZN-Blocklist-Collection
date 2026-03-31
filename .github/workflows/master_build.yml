@@ -34,8 +34,8 @@ jobs:
       - name: 💾 Änderungen speichern (Commit & Push)
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: "build: Porn entfernt & Repo bereinigt [bot]"
-          # Speichert nur die funktionierenden Einzel-Listen und die Whitelist
-          file_pattern: 'blocklists/*.txt whitelist.txt'
+          commit_message: "build: Filter-Listen und Whitelist aktualisiert [bot]"
+          # WICHTIG: Hier beide Ordner angeben, damit die Dateien hochgeladen werden
+          file_pattern: 'blocklists/*.txt Whitelists/*.txt'
           # Force-Push ist hier Pflicht, um den fehlerhaften Git-Verlauf zu überschreiben
           push_options: '--force'

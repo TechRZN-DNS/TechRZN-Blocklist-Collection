@@ -23,6 +23,10 @@ CATEGORIES = {
     "jugendschutz": "sources/jugendschutz.raw"
 }
 
+# --- NEUE PFADE FÜR IP-LISTE ---
+MANUAL_IP_SRC = "manual_sources/deny-ip-list.txt"
+IP_OUTPUT = "blocklists/techrzn_ips.txt"
+
 OUTPUT_DIR = "blocklists"
 WL_DIR = "Whitelists"
 LOCAL_WHITELIST = "sources/whitelist.raw"
@@ -30,30 +34,17 @@ REMOTE_WHITELIST = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main
 
 def clean_domain(line):
     line = line.strip().lower()
-    # Ignoriere Kommentare, Fehlermeldungen oder leere Zeilen
     if not line or line.startswith(('#', '!', '[')):
         return None
-    
-    # 1. URL-Bereinigung (entfernt http/https und alles nach dem ersten /)
     if '://' in line:
         line = line.split('://')[-1]
     line = line.split('/')[0]
-
-    # 2. Wildcard-Bereinigung (entfernt * und *.)
     line = line.replace('*.', '').replace('*', '')
-
-    # 3. AdBlock-Syntax Bereinigung
     domain = line.replace('@@||', '').replace('^$important', '').replace('||', '').replace('^', '')
-    
-    # 4. Leerzeichen-Check (Fehlermeldungen wie "package size exceeded" aussortieren)
     if ' ' in domain:
         return None
-
-    # 5. Führendes www. entfernen
     if domain.startswith('www.'):
         domain = domain[4:]
-    
-    # Finaler Check auf Gültigkeit
     domain = domain.split('#')[0].split('!')[0].strip()
     return domain if domain and '.' in domain else None
 
@@ -64,18 +55,16 @@ def main():
     for folder in [OUTPUT_DIR, WL_DIR]:
         if os.path.exists(folder):
             shutil.rmtree(folder)
-        os.makedirs(folder)
+        os.makedirs(folder, exist_ok=True)
 
     # 2. Whitelist aufbauen
     whitelist = set()
-    # Lokale Whitelist (Deine Liste aus Kleve)
     if os.path.exists(LOCAL_WHITELIST):
         with open(LOCAL_WHITELIST, 'r', encoding='utf-8') as f:
             for line in f:
                 d = clean_domain(line)
                 if d: whitelist.add(d)
     
-    # Remote Whitelist (Referenz zur Stabilität)
     try:
         r = requests.get(REMOTE_WHITELIST, timeout=15)
         if r.status_code == 200:
@@ -85,7 +74,6 @@ def main():
     except:
         print("⚠️ Warnung: Remote Whitelist konnte nicht geladen werden.")
 
-    # Whitelist als saubere Host-Liste speichern
     wl_file = os.path.join(WL_DIR, "techrzn_whitelist.txt")
     with open(wl_file, 'w', encoding='utf-8') as f:
         f.write(f"### TechRZN Master Whitelist ###\n### Stand: {timestamp} ###\n\n")
@@ -93,7 +81,26 @@ def main():
             f.write(f"{d}\n")
     print(f"✅ Whitelist erstellt: {len(whitelist)} Einträge.")
 
-    # 3. Blocklisten bauen
+    # --- 3. MANUELLE IP-LISTE VERARBEITEN (NEU) ---
+    if os.path.exists(MANUAL_IP_SRC):
+        print(f"⚙️ Verarbeite manuelle IP-Quelle: {MANUAL_IP_SRC}")
+        ip_count = 0
+        with open(MANUAL_IP_SRC, "r", encoding="utf-8") as f_in:
+            lines = f_in.readlines()
+            
+        with open(IP_OUTPUT, "w", encoding="utf-8") as f_out:
+            f_out.write(f"### TechRZN - Deny IP List (Marius Hosting) ###\n")
+            f_out.write(f"### Stand: {timestamp} ###\n\n")
+            for line in lines:
+                line = line.strip()
+                if line and not line.startswith(('#', '!', '/')):
+                    f_out.write(f"{line}\n")
+                    ip_count += 1
+        print(f"✅ IP-Liste erstellt: {ip_count} Einträge in {IP_OUTPUT}")
+    else:
+        print(f"ℹ️ Keine manuelle IP-Liste in {MANUAL_IP_SRC} gefunden. Überspringe...")
+
+    # 4. Domain-Blocklisten bauen
     for cat_name, src_path in CATEGORIES.items():
         if not os.path.exists(src_path):
             continue
@@ -104,7 +111,6 @@ def main():
         
         for url in urls:
             try:
-                # Automatischer Wechsel von jsdelivr zu GitHub Raw
                 final_url = url.replace("cdn.jsdelivr.net/gh/", "raw.githubusercontent.com/").replace("@latest/", "/main/")
                 r = requests.get(final_url, timeout=20)
                 if r.status_code == 200:
@@ -124,11 +130,10 @@ def main():
                     f.write(f"||{d}^\n")
             print(f"✅ {cat_name} fertig.")
 
-    # 4. Radikaler Aufräum-Check
+    # 5. Aufräumen
     for ghost in ["combined_part1.txt", "combined_part2.txt", "combined_blocklist.txt", "update_list.py"]:
         if os.path.exists(ghost):
             os.remove(ghost)
-            print(f"🗑️ Alte Datei gelöscht: {ghost}")
 
 if __name__ == "__main__":
     main()

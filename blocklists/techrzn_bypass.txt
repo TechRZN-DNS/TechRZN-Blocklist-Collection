@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 31.03.2026 23:57
+Stand: 01.04.2026 05:56
 
 ||0.6gpaactivities.pce-cihazlari.com.tr^
 ||0.6gpaactivities.pulsaudio.ro^
@@ -11630,6 +11630,7 @@ Stand: 31.03.2026 23:57
 ||proxyshade.com^
 ||proxyshare.app^
 ||proxyshare.com^
+||proxyshare.dev^
 ||proxysheep.com^
 ||proxysite.cc^
 ||proxysite.cloud^

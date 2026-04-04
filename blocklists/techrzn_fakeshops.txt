@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 04.04.2026 05:22
+Stand: 04.04.2026 14:39
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -886,7 +886,6 @@ Stand: 04.04.2026 05:22
 ||astragroupholding.com^
 ||astrahorizon.com^
 ||astronomyh.com^
-||at-gruppo24.com^
 ||at-setrafimoney.org^
 ||at.curalise.com^
 ||at.esrlive.com^
@@ -2396,7 +2395,6 @@ Stand: 04.04.2026 05:22
 ||chansflavor.com^
 ||chapterrest.store^
 ||characterh.com^
-||charismatico.com^
 ||charmdaily.com^
 ||charmfay.com^
 ||charmsvision.com^
@@ -6509,6 +6507,7 @@ Stand: 04.04.2026 05:22
 ||hotdebrid.com^
 ||hotel-ds.com^
 ||hotelaustralien.de^
+||hotelinphuket.net^
 ||hotelladen.com^
 ||hotels-colombo.com^
 ||hotels-colorado.net^
@@ -10466,6 +10465,7 @@ Stand: 04.04.2026 05:22
 ||pandabrokersvip.com^
 ||pandaliebedeeu.shop^
 ||pandora-at.at^
+||pandora-deutschland.de^
 ||pandoracharms.uk.com^
 ||pandorade.de^
 ||pandorakorut.com^
@@ -12009,7 +12009,6 @@ Stand: 04.04.2026 05:22
 ||sebagoschoenen.com^
 ||sebagoshoesgreece.com^
 ||sebagozapatos.com^
-||sebastian-stenzel.de^
 ||sec.gmgeurope.online^
 ||secrettime.shop^
 ||secrity2redline.com^
@@ -12068,7 +12067,6 @@ Stand: 04.04.2026 05:22
 ||senzza.de^
 ||separaten.com^
 ||sepgoal.com^
-||sepkicks.com^
 ||seprun.com^
 ||serenadeutschland.de^
 ||serendiplty.com^
@@ -13477,6 +13475,7 @@ Stand: 04.04.2026 05:22
 ||timber-land.de^
 ||timberland-schweiz.com^
 ||timberlandberlin.de^
+||timberlandde.de^
 ||timberlandhelsinki.com^
 ||timberlandsuomi.net^
 ||timberrtech.myshopify.com^

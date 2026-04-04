@@ -2,18 +2,18 @@ name: "🚀 TechRZN Master Build"
 
 on:
   push:
+    branches:
+      - main
     paths:
       - 'sources/**'
       - 'scripts/**'
       - 'manual_sources/**'
       - '.github/workflows/**'
   
-  # --- TÄGLICHES AUTOMATISCHES UPDATE ---
   schedule:
-    # Läuft jeden Tag um 04:00 Uhr UTC (ca. 05:00/06:00 Uhr in Kleve)
+    # Läuft jeden Tag um 04:00 Uhr UTC
     - cron: '0 4 * * *'
   
-  # Erlaubt das manuelle Starten per Button
   workflow_dispatch:
 
 jobs:
@@ -25,6 +25,9 @@ jobs:
     steps:
       - name: 🛰️ Repository auschecken
         uses: actions/checkout@v4
+        with:
+          ref: main           # <--- FIX 1: Erzwingt den main-Branch
+          fetch-depth: 0      # <--- FIX 2: Holt die Historie (verhindert detached HEAD)
 
       - name: 🐍 Python einrichten
         uses: actions/setup-python@v5
@@ -40,7 +43,7 @@ jobs:
       - name: 💾 Änderungen speichern (Commit & Push)
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "build: Filter-Listen und Whitelist aktualisiert [bot]"
-          # Speichert die Ergebnisse aus beiden relevanten Ordnern
+          branch: main        # <--- FIX 3: Ziel-Branch explizit angeben
+          commit_message: "build: Filter-Listen v1.2.0 aktualisiert [bot]"
           file_pattern: 'blocklists/*.txt Whitelists/*.txt'
           push_options: '--force'

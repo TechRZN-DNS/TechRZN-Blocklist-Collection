@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 06.04.2026 06:00
+Stand: 06.04.2026 13:31
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -2187,6 +2187,7 @@ Stand: 06.04.2026 06:00
 ||cardvae.com^
 ||caredogbest.com^
 ||careeroblige.com^
+||carethy.de^
 ||cargolooplogistics.com^
 ||cargoze.com^
 ||carhartt-suomi.com^
@@ -4580,7 +4581,6 @@ Stand: 06.04.2026 06:00
 ||fischerfashion.com^
 ||fischermodemunchen.de^
 ||fischerr.de^
-||fischerundwagner.de^
 ||fischhandeln.de^
 ||fishfoods.shop^
 ||fishingdaily.shop^
@@ -4595,7 +4595,6 @@ Stand: 06.04.2026 06:00
 ||fitfloposterreich.at^
 ||fitflopoutlet.at^
 ||fitflopparis.net^
-||fitflopromania.com^
 ||fitgirl-repacks-site.org^
 ||fitgirl-repacks.download^
 ||fitiwelt.com^
@@ -4630,7 +4629,6 @@ Stand: 06.04.2026 06:00
 ||fjoutlet.store^
 ||fkwzxy.info^
 ||flagshipmodels.com^
-||flaing-tech.de^
 ||flair-hamburg.de^
 ||flaireberlin.com^
 ||flammenfreude.de^
@@ -4760,7 +4758,6 @@ Stand: 06.04.2026 06:00
 ||fotbalovyfestival.cz^
 ||foto-biering.de^
 ||foto-mundus-sued.de^
-||fotohandel-bergmann.de^
 ||fotohandel-gruber.at^
 ||fotohandel-thiele.de^
 ||fotosrestaurieren.de^
@@ -4871,7 +4868,6 @@ Stand: 06.04.2026 06:00
 ||frontaley.com^
 ||frontrunningbot.net^
 ||frost-wind.de^
-||frovity.store^
 ||fruechtepfluecken.ch^
 ||fruitfuln.com^
 ||fruitfult.com^
@@ -4892,7 +4888,6 @@ Stand: 06.04.2026 06:00
 ||fullcarparts.com^
 ||fullview.pl^
 ||fullzcash.com^
-||fun-carrer.work^
 ||fundanemt.org^
 ||fundgoxpro-solution.com^
 ||fundgoxprosolution.com^
@@ -4911,7 +4906,6 @@ Stand: 06.04.2026 06:00
 ||furoshop.com^
 ||furykms.com^
 ||furzuhause.com^
-||fuse-nest-at.works^
 ||fusenest-at.works^
 ||fusionkick.com^
 ||fussballarea.de^
@@ -5027,7 +5021,6 @@ Stand: 06.04.2026 06:00
 ||garcia.co.at^
 ||garden-machines-shop.com^
 ||garden-outdoor.com^
-||gardenagarten.com^
 ||gardenfurniture-shop.com^
 ||gardenmow.com^
 ||gardenpoint.info^
@@ -5050,7 +5043,6 @@ Stand: 06.04.2026 06:00
 ||garten-werkzeugshop.com^
 ||garten-wohnwelt24.de^
 ||gartenaccessoiresshop.com^
-||gartenannie.eu^
 ||gartenbaukunster.de^
 ||gartenbedarf-ehlers.de^
 ||gartenbedarfs-de.com^
@@ -5080,7 +5072,6 @@ Stand: 06.04.2026 06:00
 ||gartenmotorgerate.com^
 ||gartenobstshop.com^
 ||gartenort.de^
-||gartenova.com^
 ||gartenpflanzende.com^
 ||gartenpflege-service-wien.at^
 ||gartenpflegeshop.com^
@@ -5110,7 +5101,6 @@ Stand: 06.04.2026 06:00
 ||gastroteile-shop.com^
 ||gastryner.com^
 ||gate3londonuk.com^
-||gavex.online^
 ||gawude.shop^
 ||gbgroup.ee^
 ||gbuynix.com^
@@ -5178,16 +5168,11 @@ Stand: 06.04.2026 06:00
 ||geoxargentina.net^
 ||geoxbelgique.com^
 ||geoxfashion.com^
-||geoxgreece.net^
 ||geoxisrael.com^
 ||geoxkuwait.com^
-||geoxlatvija.com^
 ||geoxmexico.com^
-||geoxnederland.net^
-||geoxnorge.net^
 ||geoxportugaloutlet.com^
 ||geoxschuhe.de^
-||geoxschweiz.com^
 ||geoxsouthafrica.com^
 ||geoxsrbija.com^
 ||geoxsuomi.com^
@@ -5198,7 +5183,6 @@ Stand: 06.04.2026 06:00
 ||geraetedirekt.com^
 ||geraetedoc.com^
 ||gerdetect.de^
-||gerhard-goerke-finanzberatung.com^
 ||gerhard-tremmel.de^
 ||geri-fashion.company.site^
 ||germalls-garten.de^
@@ -5289,7 +5273,6 @@ Stand: 06.04.2026 06:00
 ||getyourtickets.de^
 ||getyourtreatmentshere.com^
 ||gexchain.com^
-||gfi-hold.com^
 ||gfmtrader.com^
 ||gfore-suomi.com^
 ||gforefinland.com^
@@ -5324,7 +5307,6 @@ Stand: 06.04.2026 06:00
 ||giftwarehome.com^
 ||giftyweb.com^
 ||gig-os.com^
-||gigachains.com^
 ||gigaly.at^
 ||gigasport8.myshoplaza.com^
 ||gileng.com^
@@ -5348,7 +5330,6 @@ Stand: 06.04.2026 06:00
 ||gkfahrrad.de^
 ||gkigkik.shop^
 ||gkworktk.com^
-||gl2s-patrimoine.com^
 ||glaciermart.de^
 ||glaciva.net^
 ||gladevelop.com^
@@ -5373,7 +5354,6 @@ Stand: 06.04.2026 06:00
 ||glaswarenrabatt.com^
 ||glb-finance.com^
 ||gleisslutz-deutschland.de^
-||glemory.com^
 ||glenfordcap.com^
 ||glenkbaustoff.com^
 ||gletta.com^
@@ -5389,7 +5369,6 @@ Stand: 06.04.2026 06:00
 ||globalvisacorp.com^
 ||globetrotteroutlet.de^
 ||globior.com^
-||gloiber.com^
 ||gloneotech.de^
 ||gloreve.com^
 ||gloryfeel.shop^
@@ -5456,7 +5435,6 @@ Stand: 06.04.2026 06:00
 ||goldhandel-testsieger.de^
 ||goldira.wiki^
 ||goldman-capital.com^
-||goldmedalmotopartsbase.com^
 ||goldofficemaster.com^
 ||goldpromocoes.com^
 ||goldreward.io^
@@ -5533,7 +5511,6 @@ Stand: 06.04.2026 06:00
 ||grandwent.com^
 ||granimator.live^
 ||grantaste.com^
-||grantecredit-finance.com^
 ||grapewinesales.com^
 ||graphad.xyz^
 ||graskaufen.net^
@@ -5554,7 +5531,6 @@ Stand: 06.04.2026 06:00
 ||green-shop.com.ua^
 ||greenbitcoin.xyz^
 ||greencrosspharmacy.online^
-||greenfuelworks.com^
 ||greenhousesshop.com^
 ||greenmah.shop^
 ||greentec-handel.de^
@@ -5575,10 +5551,8 @@ Stand: 06.04.2026 06:00
 ||grillfuerstde.com^
 ||grillfuerstshop.com^
 ||grillmeisterde.com^
-||grillprofishop.com^
 ||grillscloud.com^
 ||grillsgeschaft.com^
-||grillspro.shop^
 ||grillstore-krefeld.com^
 ||grillstorebuchen.com^
 ||grillwelten.com^
@@ -5593,7 +5567,6 @@ Stand: 06.04.2026 06:00
 ||grizzlyroids.shop^
 ||grkwork.com^
 ||grobenextapro.org^
-||groheverkauf.com^
 ||grossiste-parfum-generique.com^
 ||grossmarkt24.com^
 ||groundiesdamen.de^
@@ -5603,7 +5576,6 @@ Stand: 06.04.2026 06:00
 ||groundiesschoenennederland.com^
 ||groundiesshop.at^
 ||groundiesukshoes.com^
-||group-investment.com^
 ||group-rwe.de^
 ||groupebinary.com^
 ||groupenterprisevision.digital^
@@ -5632,7 +5604,6 @@ Stand: 06.04.2026 06:00
 ||gruntmuzicz.com^
 ||grupopernambuco.com^
 ||grxnhv.shop^
-||gs-eu.com^
 ||gsib-partner.com^
 ||gsmverstarker.at^
 ||gsport.com^
@@ -5644,7 +5615,6 @@ Stand: 06.04.2026 06:00
 ||guamthuc.com^
 ||guaranteeddealhub.com^
 ||guardunit77-booking.com^
-||guckeisen-garten.de^
 ||guckflix.de^
 ||guessfinland.com^
 ||guesso.com^
@@ -5658,12 +5628,10 @@ Stand: 06.04.2026 06:00
 ||gundipellet.at^
 ||gundipellet.com^
 ||gunstee.com^
-||gunstigarbeitskleidung.com^
 ||gunstigeskaufhaus.com^
 ||guru4invest.com^
 ||gut-daheim.ch^
 ||gut-werkzeug.com^
-||gutbutzow.de^
 ||guteapotheke.org^
 ||guteholzheizung.de^
 ||guten.store^
@@ -5692,7 +5660,6 @@ Stand: 06.04.2026 06:00
 ||gym-nation.de^
 ||gym2goshop.de^
 ||gymiva.com^
-||gymnasiumk.com^
 ||gymnastik-schuhe.de^
 ||gymonefit.com^
 ||gymplaza.net^
@@ -5740,7 +5707,6 @@ Stand: 06.04.2026 06:00
 ||halloweenwelt.com^
 ||halluxfit.de^
 ||hallwaychair-shop.com^
-||halsten.net^
 ||hamburg-hotel.net^
 ||hamburg-modehaus.de^
 ||hamburger-versand.de^
@@ -5807,7 +5773,6 @@ Stand: 06.04.2026 06:00
 ||hardwarewerkzeugshop.com^
 ||hariamarkt.shop^
 ||hariott.de^
-||harkila-supplier.shop^
 ||harleydavidsondeutschland.de^
 ||harleydavidsons.at^
 ||harleysaleoutlets.com^
@@ -5832,7 +5797,6 @@ Stand: 06.04.2026 06:00
 ||haus-elektro.de^
 ||haus-marienthal.de^
 ||haus-naturholz.com^
-||haus-stmartin.de^
 ||hausdampf.com^
 ||hauselektro.shop^
 ||hauselektro24.com^
@@ -5856,7 +5820,6 @@ Stand: 06.04.2026 06:00
 ||haushaltsproduktede.com^
 ||haushaltsreich.de^
 ||hausheizer.de^
-||hausmanns-verwertung.de^
 ||hausmobel-de.com^
 ||hausofvedashop.com^
 ||hausonline24.com^
@@ -5880,7 +5843,6 @@ Stand: 06.04.2026 06:00
 ||havsbris.com^
 ||havsbris.de^
 ||hawalili.de^
-||haware-bike.de^
 ||hawkevo.com^
 ||hbginternational.com^
 ||hcglobalshopping.com^
@@ -5917,7 +5879,6 @@ Stand: 06.04.2026 06:00
 ||heckenscherenbillig.com^
 ||hederich-co.de^
 ||heepqy.com^
-||heho-berlin.de^
 ||heidi-meyer.com^
 ||heidi-wien.at^
 ||heikojentsch.de^
@@ -5930,7 +5891,6 @@ Stand: 06.04.2026 06:00
 ||heimde24.com^
 ||heimdekoration.com^
 ||heimeiche.de^
-||heimguts.shop^
 ||heimharmonie.de^
 ||heimisches-holz.com^
 ||heimjobfinder.de^
@@ -6006,11 +5966,8 @@ Stand: 06.04.2026 06:00
 ||heizoel-premium.de^
 ||heizoel-rabatt.de^
 ||heizoel-schnell.com^
-||heizoel-solutions.com^
-||heizoel-solutions.net^
 ||heizoel-station.com^
 ||heizoel-tankstelle.de^
-||heizoel-versand.net^
 ||heizoel-versorgt.de^
 ||heizoel24-aktuell.com^
 ||heizoel24-preise.com^
@@ -6084,11 +6041,9 @@ Stand: 06.04.2026 06:00
 ||heldholz.com^
 ||helestyle.com^
 ||helganieblershop.com^
-||helgawelpenhaus.com^
 ||helikontexoutdoor.com^
 ||helinoxlife.com^
 ||helladeau.shop^
-||helleklevendeeur.shop^
 ||hellersommer.de^
 ||hellertag.de^
 ||hello-mausi.de^
@@ -6128,7 +6083,6 @@ Stand: 06.04.2026 06:00
 ||hemdende.de^
 ||hemmca-capital.com^
 ||hengelermuellera.com^
-||hengelermuellerc.com^
 ||hengjian.eu^
 ||heningclothing.com^
 ||hennkel.de^
@@ -6139,13 +6093,11 @@ Stand: 06.04.2026 06:00
 ||herbalsbest4u.com^
 ||herbalsoultions.online^
 ||herbalstoreprodukte.com^
-||herbinosdeeur.shop^
 ||herenschuhebillig.com^
 ||hereusale.shop^
 ||herlange.com^
 ||herlingerieshop.com^
 ||hermann-handel.de^
-||hermannboutique.com^
 ||hermes-project.net^
 ||hermesfod.shop^
 ||hermhoffer.de^
@@ -6173,7 +6125,6 @@ Stand: 06.04.2026 06:00
 ||hexa-tronic.com^
 ||hexagonresources.org^
 ||hexoil.de^
-||hextrad.com^
 ||heydude-schuhe.de^
 ||heydudelife.com^
 ||heydudeschuheschweiz.com^
@@ -6286,7 +6237,6 @@ Stand: 06.04.2026 06:00
 ||holapick.com^
 ||holda-konigsallee.de^
 ||holesawsshopsales.com^
-||holger-garten.de^
 ||hollister-co.at^
 ||hollister.com.de^
 ||hollylollies.com^
@@ -6328,7 +6278,6 @@ Stand: 06.04.2026 06:00
 ||home-stylish.com^
 ||home-trend24.de^
 ||homeaytm.com^
-||homechelsea.com^
 ||homecrestview.com^
 ||homedecofactory.com^
 ||homedecorbetter.com^
@@ -6342,7 +6291,6 @@ Stand: 06.04.2026 06:00
 ||homekoehndesign.com^
 ||homelectric.shop^
 ||homeluxehub.com^
-||homelyno.com^
 ||homelysale.com^
 ||homeoffice--jobs.de^
 ||homeoffice-helden.de^
@@ -6351,10 +6299,7 @@ Stand: 06.04.2026 06:00
 ||homeplaceshop.com^
 ||homersport.de^
 ||homerungrocers.com^
-||homesandgardensdirect.com^
 ||homesupplybest.com^
-||homesupplymarket.com^
-||homesupplyonweb.com^
 ||homesurya.com^
 ||hometotally.com^
 ||hometown-boys.com^
@@ -6391,7 +6336,6 @@ Stand: 06.04.2026 06:00
 ||horstseefeld.de^
 ||hortensies.com^
 ||hoscaleshop.com^
-||hosseinrazi.shop^
 ||hostpoco.com^
 ||hot-pharm.com^
 ||hot-recharging.com^
@@ -6438,12 +6382,10 @@ Stand: 06.04.2026 06:00
 ||hsn24.de^
 ||hte-handel.de^
 ||hte-is.com^
-||htlrecruits.com^
 ||hu1.drdermr.com^
 ||huaihaigc.com^
 ||hub.bradyboutiquehub.com^
 ||hubcitysale.com^
-||huber-garten24.de^
 ||huber-wien.com^
 ||hubers-salzburg.at^
 ||hubfiles.ws^
@@ -6572,7 +6514,6 @@ Stand: 06.04.2026 06:00
 ||iglangeh.com^
 ||igm-financial.com^
 ||igmholdings.com^
-||ignitedriff.ru^
 ||ignitionmodelcars.com^
 ||igo.talentway-at.com^
 ||igona.de^
@@ -6581,12 +6522,10 @@ Stand: 06.04.2026 06:00
 ||igx.talentway-at.com^
 ||igzd.talentway-at.com^
 ||ihforex.com^
-||ihljpbdo.shop^
 ||ihrbedarf.com^
 ||ihreedelmetallprofis.de^
 ||ihremed.de^
 ||ihrepotenzmittel.de^
-||ihrerasenmaher.com^
 ||ihrrasentraktor.com^
 ||iinfitenily.com^
 ||ikici.com^
@@ -6605,7 +6544,6 @@ Stand: 06.04.2026 06:00
 ||imaginationh.com^
 ||imaginte.com^
 ||imalent.net^
-||imc-point.com^
 ||imcbroker.com^
 ||imens-meds.net^
 ||imfixies.de^
@@ -6732,7 +6670,6 @@ Stand: 06.04.2026 06:00
 ||infodir.net^
 ||infodux.de^
 ||infoscrypto.com^
-||infosterreich365.com^
 ||infox24.de^
 ||ingayoga.de^
 ||ingbroker.com^
@@ -6772,7 +6709,6 @@ Stand: 06.04.2026 06:00
 ||insightfulyou.net^
 ||insolesgeeks.com^
 ||insolvenz-veit.de^
-||insolvenzrecht-rick.de^
 ||inspectionk.com^
 ||inspectiony.com^
 ||inspirelf.com^
@@ -6787,7 +6723,6 @@ Stand: 06.04.2026 06:00
 ||installateur-meister.at^
 ||installateur-notdienst-vienna.at^
 ||installateur-notdienst24.at^
-||installateur-nothilfe.at^
 ||installateur-platz1.at^
 ||installateur-profis24.at^
 ||installateur-top.at^
@@ -6859,7 +6794,6 @@ Stand: 06.04.2026 06:00
 ||ipanema-osterreich.at^
 ||ipgatetrade.pro^
 ||iphone.quiztionnaire.biz^
-||iphone16-refurbed.de^
 ||iprimmo.com^
 ||iptvdutch.store^
 ||ipuroangebote.com^
@@ -6878,8 +6812,6 @@ Stand: 06.04.2026 06:00
 ||irisfrench.com^
 ||irishnewstoday.com^
 ||irishsupply.ie^
-||iroids.nl^
-||iron-bulls.pro^
 ||iron-daddy.to^
 ||irootapk.net^
 ||irrasch.at^
@@ -6897,13 +6829,11 @@ Stand: 06.04.2026 06:00
 ||itagprotracker.com^
 ||italyworldbaseballclassic.com^
 ||itcfx.com^
-||itecshopeur.shop^
 ||itemdohome.com^
 ||itemunusual.com^
 ||itguruu.com^
 ||itrolexshop.com^
 ||itseasy.com^
-||iuwaqlbm.shop^
 ||ivannd.com^
 ||ivermectin-apotheke.com^
 ||ivermectinkoupit.com^
@@ -7425,6 +7355,7 @@ Stand: 06.04.2026 06:00
 ||kjtbestov.click^
 ||kjw-garten.de^
 ||kkrde-api.com^
+||kkzon.com^
 ||klang-plan.de^
 ||klanol-tech.de^
 ||klar-haus.de^
@@ -9990,6 +9921,7 @@ Stand: 06.04.2026 06:00
 ||oncloudschuhe.at^
 ||oncloudshoes.de^
 ||oncloudsneaker.shop^
+||oncloudturnschuhe.com^
 ||oncloudxoutletmall.com^
 ||ondecomprei.com.br^
 ||ondeutschland.com.de^
@@ -11955,7 +11887,6 @@ Stand: 06.04.2026 06:00
 ||senzza.de^
 ||separaten.com^
 ||sepgoal.com^
-||sepkicks.com^
 ||seprun.com^
 ||serenadeutschland.de^
 ||serendiplty.com^

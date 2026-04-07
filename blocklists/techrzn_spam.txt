@@ -1,5 +1,5 @@
 ### TechRZN - SPAM ###
-Stand: 06.04.2026 13:31
+Stand: 07.04.2026 05:47
 
 ||0-2spk-us.basecamp.app^
 ||0-amfauth.firebaseapp.com^
@@ -125443,7 +125443,6 @@ Stand: 06.04.2026 13:31
 ||scv-95742100579.southamerica-east1.run.app^
 ||scvthemattresscompany.com^
 ||scvuip.com^
-||scw.cloud^
 ||scwhulqdjp.ctn.gts.multisan.pr.ap.gtr.certsbridge.com^
 ||scwihemp.com^
 ||sd-adr.com^

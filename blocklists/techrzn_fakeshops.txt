@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 07.04.2026 16:34
+Stand: 08.04.2026 05:48
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -627,6 +627,7 @@ Stand: 07.04.2026 16:34
 ||ani--zoo.com^
 ||animalsbaby.com^
 ||animefigure.de^
+||animeshoppers.com^
 ||ankerflowtech.shop^
 ||ankerkrautde.shop^
 ||ankotec.de^
@@ -1765,6 +1766,7 @@ Stand: 07.04.2026 16:34
 ||bmcloth.com^
 ||bmpharmacy-official.com^
 ||bmpharmacyofficial.com^
+||bmpro.tech^
 ||bmwmt2025mall.sa.com^
 ||bncentertainment.com^
 ||bnidigital.com^
@@ -4005,6 +4007,7 @@ Stand: 07.04.2026 16:34
 ||estrategen.de^
 ||esyqefp.top^
 ||etaindia.org^
+||etaindiaonline.com^
 ||etcydecor.de^
 ||etercitenal.com^
 ||eternity-diamond.com^
@@ -4839,7 +4842,6 @@ Stand: 07.04.2026 16:34
 ||fribooverkauf.com^
 ||friday89.com^
 ||friday99.com^
-||fridaylocalmanager.duckdns.org^
 ||frieda-taschen.de^
 ||friedaskitchen.de^
 ||friedberg-mode.de^
@@ -8117,6 +8119,7 @@ Stand: 07.04.2026 16:34
 ||luckyledge.com^
 ||luckyyise.com^
 ||lucrabot-gpt.net^
+||lucysstyle.com^
 ||ludwigmaria.at^
 ||luffglasses.com^
 ||luiliebeeu.shop^
@@ -9516,6 +9519,7 @@ Stand: 07.04.2026 16:34
 ||nolanmoto.com^
 ||nomorereactions.com^
 ||nomra.de^
+||nonofy.com^
 ||nora-bergen.com^
 ||noral.xyz^
 ||norarienshoppe.com^
@@ -10905,11 +10909,7 @@ Stand: 07.04.2026 16:34
 ||rabattzelte.com^
 ||rabbeatsvapes.com^
 ||rabbit-fitness.de^
-||rabdanmark.net^
 ||rabeinriver.de^
-||rabhungary.com^
-||rabonline.net^
-||rabromania.net^
 ||raceoption.com^
 ||rachelentwistle-store.com^
 ||racinghelmetde.com^
@@ -10924,7 +10924,6 @@ Stand: 07.04.2026 16:34
 ||radrudel.de^
 ||radselect.de^
 ||radsportausrustung.com^
-||radsturm.de^
 ||radteil.de^
 ||radteiledeal.com^
 ||radtrikotoutlet.de^
@@ -10933,7 +10932,6 @@ Stand: 07.04.2026 16:34
 ||radzubehoerde.com^
 ||radzyklen.de^
 ||raealed.club^
-||raeuberundkomplizeneur.shop^
 ||rafso.tovy.shop^
 ||ragwear.com.de^
 ||ragwearaustria.com^
@@ -10960,7 +10958,6 @@ Stand: 07.04.2026 16:34
 ||rasen24.com^
 ||rasenmahen24.com^
 ||rasenmotor.com^
-||rasenmuller.de^
 ||rasenpro.com^
 ||rasenprofis.net^
 ||rasenroboter-shop.com^
@@ -10976,7 +10973,6 @@ Stand: 07.04.2026 16:34
 ||raumzauberde.com^
 ||rauschde.site^
 ||rawtop.morepush.shop^
-||rawu.ink^
 ||ray-ban-glasses.us.com^
 ||raybanslovensko.sk^
 ||rayfulcrystal.com^
@@ -11044,11 +11040,9 @@ Stand: 07.04.2026 16:34
 ||regionales-heizoel.de^
 ||registerk.com^
 ||rehaubrandstore.com^
-||rehdergmbh.com^
 ||rehearsalk.com^
 ||reichwahl.de^
 ||reifemode.com^
-||reifen-direkt24.com^
 ||reifen-dreyer.com^
 ||reifen-teile-discount.de^
 ||reifenangebote.com^
@@ -11081,7 +11075,6 @@ Stand: 07.04.2026 16:34
 ||reishungers.com^
 ||reitz-handel.de^
 ||rekten.com^
-||relationshipi.com^
 ||relativitye.com^
 ||relaxholz.at^
 ||relaxliegenxa.com^
@@ -11135,7 +11128,6 @@ Stand: 07.04.2026 16:34
 ||reservecertitude.com^
 ||reshline.com^
 ||resid3ncy.com^
-||resiqo.com^
 ||resolutionoperations.com^
 ||resources4gaming.com^
 ||respeaonsct.com^
@@ -11149,9 +11141,7 @@ Stand: 07.04.2026 16:34
 ||retrostages.de^
 ||retrotrikots.de^
 ||retrowinegeschaft.com^
-||retter-de.shop^
 ||reubenco.com^
-||reuther-anwaelte.com^
 ||revaloninvest.de^
 ||revanced-extended.com^
 ||revancedmusic.com^
@@ -11197,8 +11187,6 @@ Stand: 07.04.2026 16:34
 ||richardtea.eu^
 ||richmond365.com^
 ||richter-uhren.de^
-||richterwwt.com^
-||rick-kanzlei.de^
 ||rideessence.com^
 ||ridegefuhl.de^
 ||ridekraft.de^
@@ -11274,7 +11262,6 @@ Stand: 07.04.2026 16:34
 ||robowerkstatten.com^
 ||robustwerkzeug.com^
 ||rochobbies.com^
-||rockanutritionava.shop^
 ||rockchief.com^
 ||rockmysleepeu.shop^
 ||rockportbootsireland.com^
@@ -11327,7 +11314,6 @@ Stand: 07.04.2026 16:34
 ||rontis.de^
 ||roof-tube.com^
 ||roomfurnitureshop.com^
-||roomosa.homes^
 ||root-shop.at^
 ||rootedrituals.shop^
 ||rootsandwings.at^
@@ -11360,7 +11346,6 @@ Stand: 07.04.2026 16:34
 ||roulettegem.com^
 ||routermeister24.myshopify.com^
 ||routinefashiones.com^
-||rovikshop.de^
 ||roxyaustria.com^
 ||roxydubai.com^
 ||roxyski.de^
@@ -11375,7 +11360,6 @@ Stand: 07.04.2026 16:34
 ||royusionalty.com^
 ||rozomii.info^
 ||rra-time.com^
-||rromaakt.de^
 ||rrsstore.com^
 ||rsaonlinenow.com.au^
 ||rtieej.buzz^
@@ -11467,7 +11451,6 @@ Stand: 07.04.2026 16:34
 ||salanza-berlin.de^
 ||sale-dress.com^
 ||sale-ersatzteile.com^
-||sale-homedecor.com^
 ||sale-perfume.com^
 ||sale-pils.com^
 ||salear.xyz^
@@ -11502,7 +11485,6 @@ Stand: 07.04.2026 16:34
 ||salimusic.com^
 ||salmingcolombia.com^
 ||salomon-deutschland.de^
-||salomon-speedcross.com^
 ||salomondeutschlandsale.de^
 ||salomonosterreich.at^
 ||salomonoutletgermany.de^
@@ -11531,7 +11513,6 @@ Stand: 07.04.2026 16:34
 ||sandalenhausschuhe.com^
 ||sandgo.shop^
 ||sandkasteelinvesting.pro^
-||sandraberkowwelpen.de^
 ||sandsberg.de^
 ||sanfte-huegel.de^
 ||sangaa.co^
@@ -11557,7 +11538,6 @@ Stand: 07.04.2026 16:34
 ||sarahravengb.com^
 ||saramaud.com^
 ||sarasarade.shop^
-||sardinenbarberlinava.shop^
 ||sarlcresmar.com^
 ||sarvamits.com^
 ||saskiabader.de^
@@ -11567,7 +11547,6 @@ Stand: 07.04.2026 16:34
 ||saturn-de.de^
 ||satzteile.de^
 ||saucony.co.at^
-||sauconyshopuk.com^
 ||saugprofis.com^
 ||saunaenergie.de^
 ||saveeeee.myshopify.com^
@@ -11582,8 +11561,6 @@ Stand: 07.04.2026 16:34
 ||saycom.net^
 ||saynthesis.com^
 ||sbikeparts.com^
-||sblt.net^
-||scalaautopecas.com^
 ||scannero.io^
 ||scarpaschuhewien.at^
 ||scarpejoya.com^
@@ -11594,7 +11571,6 @@ Stand: 07.04.2026 16:34
 ||schaltwerkfahrrad.de^
 ||scharfemesser.de^
 ||scharfeprofession.com^
-||schaumexdeava.shop^
 ||sche.de^
 ||schellkredit.com^
 ||scheppachwerkzeuge.com^
@@ -11602,7 +11578,6 @@ Stand: 07.04.2026 16:34
 ||schickercamping.com^
 ||schickherren.com^
 ||schickort.de^
-||schiessbedarf.com^
 ||schiffbootsteile.com^
 ||schildbaum-gartencenter.de^
 ||schlafhimmel.com^
@@ -11639,7 +11614,6 @@ Stand: 07.04.2026 16:34
 ||schneider-radsport.com^
 ||schneider-salzburg.at^
 ||schneider-schmuckatelier.de^
-||schneidermode.com^
 ||schneiderrabatt.com^
 ||schneiderundlang.de^
 ||schneidervienna.at^
@@ -11671,7 +11645,6 @@ Stand: 07.04.2026 16:34
 ||schulzholz.com^
 ||schusters-handel.de^
 ||schutz-mode.de^
-||schwab-outlet.de^
 ||schwabenholz-brenholzhandeldienstleistungen.de^
 ||schwabenmode-stuttgart.de^
 ||schwahn-shop.com^
@@ -11747,12 +11720,10 @@ Stand: 07.04.2026 16:34
 ||self-portrait.com.de^
 ||selig-baby.com^
 ||selivoo.de^
-||sellano.de^
 ||sellercenter.shop^
 ||sellerhiking.com^
 ||sellfox.com^
 ||sellingkitchen.com^
-||sellnano.de^
 ||sem-solar.de^
 ||seminariovirtual.org^
 ||semvio.com^
@@ -11809,7 +11780,6 @@ Stand: 07.04.2026 16:34
 ||sexpuppenkaufen.at^
 ||seyjoy.shop^
 ||seylab.shop^
-||sezane-authorized.shop^
 ||sezaneclothingshop.sa.com^
 ||sfzev.de^
 ||shaarks.com^
@@ -11951,7 +11921,6 @@ Stand: 07.04.2026 16:34
 ||shopperiumx.com^
 ||shoppewerkzeug.com^
 ||shopping-mag.de^
-||shoppingdeautopecas.com^
 ||shoppocski.com^
 ||shopraidlight.com^
 ||shoprebora.de^
@@ -11962,13 +11931,11 @@ Stand: 07.04.2026 16:34
 ||shopsaddlebag.com^
 ||shopsaltpepper.com^
 ||shopsavehub.com^
-||shopspeedparts.com^
 ||shopstables.com^
 ||shopsyracuseonline.com^
 ||shoptee.de^
 ||shopunivers.de^
 ||shopuru.de^
-||shopvalentira.com^
 ||shopvaley.com^
 ||shopwaxsales.com^
 ||shopwesternhats.com^
@@ -12143,7 +12110,6 @@ Stand: 07.04.2026 16:34
 ||sneawin.com^
 ||sngartenbau.de^
 ||snipes.sales-eu.com^
-||snipezhunter.de^
 ||snitactical.com^
 ||snkzurich.com^
 ||snmea.shop^
@@ -12154,7 +12120,6 @@ Stand: 07.04.2026 16:34
 ||snowhow.shop^
 ||snownew.com^
 ||so-hub.com^
-||so-trailers.com^
 ||soapandmore.shop^
 ||sobipack-tech.de^
 ||sobrecesped.com^
@@ -12188,7 +12153,6 @@ Stand: 07.04.2026 16:34
 ||solandis.com^
 ||solanex.de^
 ||solanik.de^
-||solanix.de^
 ||solanzo.de^
 ||solar-energie24.com^
 ||solar-liquid.de^
@@ -12223,22 +12187,15 @@ Stand: 07.04.2026 16:34
 ||solostove.pro^
 ||solovair.at^
 ||solovair.com.de^
-||solovairargentina.com^
 ||solovairaustria.com^
-||solovairbelgique.com^
 ||solovairbelgium.net^
 ||solovairbrasil.com^
 ||solovaircanada.net^
 ||solovairchile.net^
 ||solovairgreece.net^
-||solovairhrvatska.net^
-||solovairschuhe.com^
 ||solovairschuhe.de^
 ||solovairschuhede.de^
-||solovairschweiz.net^
 ||solovairshop.com^
-||solovairslovenija.net^
-||solovairsuomi.net^
 ||solovairwien.at^
 ||solution-capital.com^
 ||solution-pro.de^
@@ -14311,7 +14268,6 @@ Stand: 07.04.2026 16:34
 ||warmthsta.com^
 ||warnerbrosshp.com^
 ||warnerbrossuk.com^
-||waronsol.top^
 ||warriordecor.com^
 ||wascheparfum.at^
 ||waschzone.com^

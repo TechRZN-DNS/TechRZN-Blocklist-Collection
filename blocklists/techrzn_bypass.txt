@@ -1,6 +1,7 @@
 ### TechRZN - BYPASS ###
-Stand: 09.04.2026 08:11
+Stand: 10.04.2026 05:59
 
+||0.6gpaactivities.bastaff.ru^
 ||0.6gpaactivities.pce-cihazlari.com.tr^
 ||0.6gpaactivities.pulsaudio.ro^
 ||000000555.xyz^
@@ -106,6 +107,7 @@ Stand: 09.04.2026 08:11
 ||1234learning.nicher.cl^
 ||123adsas.store^
 ||123ani.me^
+||123anonymous.com^
 ||123app.info^
 ||123bay.org^
 ||123book.info^
@@ -124,6 +126,7 @@ Stand: 09.04.2026 08:11
 ||123proxy.cool^
 ||123roms.com^
 ||123rooms.net^
+||123sports.org^
 ||123streaming.org^
 ||123sumo.net^
 ||123superproxy.com^
@@ -411,10 +414,12 @@ Stand: 09.04.2026 08:11
 ||3jdyuyqtvf.online^
 ||3jjxxl.tech^
 ||3kh0.org^
+||3mvrb6-1vwdl6gb5xnyl.dns.army^
 ||3nkh5crxol.ch^
 ||3proxy.de^
 ||3qguvtvrpyzkatp2.online^
 ||3rclash.com^
+||3x.nz^
 ||4.baumgardner.us^
 ||4.theartieschaffer.com^
 ||4.thetravelingtourguide.com^
@@ -714,6 +719,7 @@ Stand: 09.04.2026 08:11
 ||9ilvg7rfx2r79tq4.online^
 ||9sskdjs.shop^
 ||9thballs.camdvr.org^
+||9w9.org^
 ||9yuan.top^
 ||a-bld.sys-adm.in^
 ||a-regist.anondns.net^
@@ -1313,7 +1319,6 @@ Stand: 09.04.2026 08:11
 ||africa.avastdns.com^
 ||africadns1.liquidtelecom.net^
 ||africadns2.liquidtelecom.net^
-||ag.alexf.cc^
 ||ag.apollohct.com^
 ||ag.brianlee.fun^
 ||ag.coco-tama-hoiku.com^
@@ -1525,6 +1530,7 @@ Stand: 09.04.2026 08:11
 ||american-proxy.com^
 ||americanvpn.org^
 ||americaproxy.info^
+||amgr.asuscomm.com^
 ||amgwebgroup.com^
 ||amigo.px.i81.ru^
 ||amnezia-vpn.help^
@@ -1866,6 +1872,7 @@ Stand: 09.04.2026 08:11
 ||atom.world.digitalhemi.com^
 ||atomapi.com^
 ||atomicspike.art^
+||atozproxy.com^
 ||atris.cyou^
 ||atsilva.link^
 ||atsssgo.xyz^
@@ -2514,6 +2521,8 @@ Stand: 09.04.2026 08:11
 ||booking.traveling.com.ar^
 ||bookings.verandahotels.com^
 ||bookisgood.work.gd^
+||bookkey82.com^
+||bookpen82.com^
 ||bookphone92.com^
 ||books.quiz.teeman.org^
 ||booksmarts.vercel.app^
@@ -2842,6 +2851,7 @@ Stand: 09.04.2026 08:11
 ||canvas.com.primeflk.ch^
 ||canvas.homeonthewater.com^
 ||canvas.mom^
+||canvasarts.org^
 ||canvasarts.org.cdn.cloudflare.net^
 ||canvastuhsd.ignorelist.com^
 ||canvaworkstations.central.app.centrodiagnosticogenetico.com^
@@ -2852,6 +2862,7 @@ Stand: 09.04.2026 08:11
 ||carbook92.com^
 ||carcar.netseclabs.gr^
 ||carcar92.com^
+||carchair92.com^
 ||care.daybits.net^
 ||carebuzz.com^
 ||carebuzz.io^
@@ -2860,6 +2871,7 @@ Stand: 09.04.2026 08:11
 ||careers.asistdoc.ar^
 ||careersandjobs.org^
 ||careproxy.com^
+||carkey82.com^
 ||carmineandosvielarecool.crabdance.com^
 ||carnegle.com^
 ||carolinareaper.heeremans.net^
@@ -3011,6 +3023,7 @@ Stand: 09.04.2026 08:11
 ||chairbook92.com^
 ||chaircar92.com^
 ||chairchair92.com^
+||chairkey82.com^
 ||chamvpn.com^
 ||chandr1000.net^
 ||changemyip.com^
@@ -3437,6 +3450,7 @@ Stand: 09.04.2026 08:11
 ||competemine.com^
 ||compsci.college^
 ||computercar92.com^
+||computerkey82.com^
 ||computerphone92.com^
 ||computers.maya24.com.np^
 ||comss.one^
@@ -3518,6 +3532,7 @@ Stand: 09.04.2026 08:11
 ||cors.x2u.in^
 ||corsproxy.io^
 ||cosmo.info.north-kazakhstan.su.cdn.cloudflare.net^
+||cosmohacker.space^
 ||county.news.1copa.com^
 ||couplesow.com^
 ||course.excel.kump.si^
@@ -3637,6 +3652,7 @@ Stand: 09.04.2026 08:11
 ||cunybr.com^
 ||curd.io^
 ||curly.orienta.com.br^
+||curser.dev^
 ||cusoahxuaobwhdieah.fun^
 ||customudp.site^
 ||customurlmadebywesd.bnene.com^
@@ -4651,7 +4667,6 @@ Stand: 09.04.2026 08:11
 ||dns.crystalyx.net^
 ||dns.csaonline.de^
 ||dns.csswg.org^
-||dns.curser.dev^
 ||dns.cwlys.com^
 ||dns.cybertonic.tech^
 ||dns.cynthialabs.net^
@@ -5597,6 +5612,7 @@ Stand: 09.04.2026 08:11
 ||doh.archuser.org^
 ||doh.armadillodns.net^
 ||doh.asagiri.moe^
+||doh.asecdns.com^
 ||doh.asli.id^
 ||doh.azoris.ovh^
 ||doh.beauty^
@@ -5824,6 +5840,7 @@ Stand: 09.04.2026 08:11
 ||dosurf-shark.com^
 ||dot-security-systems.com^
 ||dot.360.cn^
+||dot.asecdns.com^
 ||dot.cox.net^
 ||dot.ffmuc.net^
 ||dot.pub^
@@ -6068,7 +6085,6 @@ Stand: 09.04.2026 08:11
 ||ebumna.net^
 ||ec2-3-139-127-253.us-east-2.compute.amazonaws.com^
 ||ec2-34-194-122-51.compute-1.amazonaws.com^
-||echolink.org^
 ||echous.info^
 ||ecizlqmb.com^
 ||eclicksmarketing.com^
@@ -7174,6 +7190,7 @@ Stand: 09.04.2026 08:11
 ||galaxies.easycharge-batteries.com^
 ||galaxies.vseesa.gpu74.ru^
 ||galaxv6-is-never-comming-out.axsetubal.pt^
+||galaxy-glint.bastaff.ru^
 ||galaxy.edisonlearningcenter.me^
 ||galaxy.eminescusm.ro^
 ||galaxy.groups.id^
@@ -8147,6 +8164,7 @@ Stand: 09.04.2026 08:11
 ||himananndakedo.easterndns.com^
 ||himariokart.com^
 ||himedns.com^
+||himeko297.asuscomm.com^
 ||himfswgj.com^
 ||himik.chickenkiller.com^
 ||himinecraft.com^
@@ -9123,6 +9141,7 @@ Stand: 09.04.2026 08:11
 ||jkjtdfbs.com^
 ||jkkka.site^
 ||jlyvipaff.cc^
+||jmcookinginamctenmath.bastaff.ru^
 ||jmoimplm.com^
 ||jms2.net^
 ||jms2018.com^
@@ -9162,6 +9181,7 @@ Stand: 09.04.2026 08:11
 ||joinpd.ctx.cl^
 ||joinyongjiumianfeijichang.com^
 ||joldoojv.com^
+||jolly1.dns.army^
 ||jolmira.ru^
 ||joltero.ru^
 ||joltravo.ru^
@@ -9784,6 +9804,7 @@ Stand: 09.04.2026 08:11
 ||latswdyx3.com^
 ||launchjoint.com^
 ||lavishlylearning.com^
+||lawless-zone.dns.army^
 ||lax.core.access.zznet.fun^
 ||laxmods.website^
 ||layang.org^
@@ -9798,6 +9819,7 @@ Stand: 09.04.2026 08:11
 ||learn-vcsa.emili.com^
 ||learn-vcsa.onnemaa.ee^
 ||learn.artweb.website.cdn.cloudflare.net^
+||learn.azimei.cn^
 ||learn.class.yogabite.org^
 ||learn.highdesertcoders.com^
 ||learn.history.acepod.com^
@@ -10068,6 +10090,7 @@ Stand: 09.04.2026 08:11
 ||lindsay.run^
 ||lindung.pp.ua^
 ||linen.freeddns.org^
+||linewize.broomleigh.org^
 ||linewize9w8didjdsowjsi.clocking.ro^
 ||linewizenet.easterndns.com^
 ||linewizesucks.myclarevision.com^
@@ -14002,7 +14025,6 @@ Stand: 09.04.2026 08:11
 ||sjlx.win^
 ||sjtest.ajh.boats.cdn.cloudflare.net^
 ||skibidi-rizz-gyatt-fanum-tax-sigma.hamburger.ip-ddns.com^
-||skibidiboi333.zjhmz.cn^
 ||skibidiboppyyesyes.vanitypanels.com^
 ||skibididurmum.pages.dev^
 ||skibidiparkergoon.happyforever.com^
@@ -14636,6 +14658,7 @@ Stand: 09.04.2026 08:11
 ||tabijibiyori.org^
 ||tablebook92.com^
 ||tablecar92.com^
+||tacobelljobs.bastaff.ru^
 ||tagss-verification.org^
 ||tagss.pro^
 ||tagss11.com^
@@ -14701,6 +14724,7 @@ Stand: 09.04.2026 08:11
 ||teach.mine.bz^
 ||teach.state.teachmetofish.net^
 ||teacher4biology.fit^
+||teachers.azimei.cn^
 ||teaching944.cspcorp.com^
 ||teamspeak.adriason.co.uk^
 ||tecdrive.site^
@@ -16591,6 +16615,7 @@ Stand: 09.04.2026 08:11
 ||whoisping.com^
 ||why-is-my-popcorn-so-gorilla.easterndns.com^
 ||why.endis.cyou^
+||why.is.it.my.fault.de-a.org^
 ||whyarewearewhatarewearewhatarewe.dinprima.ro^
 ||whydidtheydoitrosin.olneybaptist.org^
 ||whyiswritingsobad.badgrade6741.greenfieldhk.org^
@@ -16689,6 +16714,7 @@ Stand: 09.04.2026 08:11
 ||woglizmh.com^
 ||wokasn.com^
 ||wolf-zone.dns.army^
+||wolfzone.dns.army^
 ||wolun444.com^
 ||wolun555.com^
 ||wolun7.com^
@@ -16943,6 +16969,7 @@ Stand: 09.04.2026 08:11
 ||xixicats.pw^
 ||xjpdns.354688.xyz^
 ||xka2gd.xyz^
+||xkariak.asuscomm.com^
 ||xkcjvklesfds.klxjcveklsdfs.rossco.uk^
 ||xkqywntb.cc^
 ||xkvtuqep.com^
@@ -18032,7 +18059,6 @@ Stand: 09.04.2026 08:11
 ||zcvss.xyz^
 ||zdaclann.cc^
 ||zdn.ro^
-||zearn.buzz^
 ||zearn.buzz.cdn.cloudflare.net^
 ||zem.indevs.in^
 ||zemhcyg.org^

@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 10.04.2026 11:48
+Stand: 11.04.2026 05:26
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -636,7 +636,6 @@ Stand: 10.04.2026 11:48
 ||ani--zoo.com^
 ||animalsbaby.com^
 ||animefigure.de^
-||animeshoppers.com^
 ||ankerflowtech.shop^
 ||ankerkrautde.shop^
 ||ankotec.de^
@@ -1864,7 +1863,6 @@ Stand: 10.04.2026 11:48
 ||bonsaiexperte.com^
 ||boohoo-shop.com^
 ||booking.com-id^
-||booking.transaction-processing.one^
 ||bookinginfo.at^
 ||booklng.com-^
 ||bookrecommendations.org^
@@ -2331,6 +2329,7 @@ Stand: 10.04.2026 11:48
 ||cbeoeql.shop^
 ||cbre-capital-advisors.com^
 ||cbsstyles.com^
+||cccup.dehorse.shop^
 ||ccmangebote.com^
 ||ccmedia.news^
 ||ccrape.morepush.shop^
@@ -2581,8 +2580,6 @@ Stand: 10.04.2026 11:48
 ||cnbiochemicals.com^
 ||cnderthuk.club^
 ||cnfashion.org^
-||cnhnotificou.co^
-||cnhvirtual.co^
 ||cni-group.net^
 ||cnikgarden.com^
 ||cnnworldtoday.com^
@@ -3397,6 +3394,7 @@ Stand: 10.04.2026 11:48
 ||dirkuhren.de^
 ||dirndlzeit.de^
 ||dischargebackhanded.com^
+||discheschuhe.de^
 ||disciplineh.com^
 ||disciplinem.com^
 ||discount-audio-equipment.com^
@@ -4403,6 +4401,7 @@ Stand: 10.04.2026 11:48
 ||fairvesta.de^
 ||fairyshomes.com^
 ||fairytalecreators.com^
+||fakeshop.at^
 ||faketasche.de^
 ||falinas.at^
 ||falinas.de^
@@ -4559,6 +4558,7 @@ Stand: 10.04.2026 11:48
 ||ferienhaeuser-porec.de^
 ||ferienwohnung-gudow.de^
 ||ferlinwaffen.com^
+||fermil.shop^
 ||fermonnvertrieb.com^
 ||fernandesequipamentos.com^
 ||fernbedienung-schalter.de^
@@ -4723,7 +4723,6 @@ Stand: 10.04.2026 11:48
 ||fitflopparis.net^
 ||fitgirl-repacks-site.org^
 ||fitgirl-repacks.download^
-||fitgirl-repacks.vip^
 ||fitiwelt.com^
 ||fitliebe.de^
 ||fitness-7.de^
@@ -4971,7 +4970,6 @@ Stand: 10.04.2026 11:48
 ||fribooverkauf.com^
 ||friday89.com^
 ||friday99.com^
-||fridaylocalmanager.duckdns.org^
 ||frieda-taschen.de^
 ||friedaskitchen.de^
 ||friedberg-mode.de^
@@ -5798,6 +5796,7 @@ Stand: 10.04.2026 11:48
 ||gutgarten.com^
 ||gutgolf.com^
 ||gutkauf.shop^
+||gutmotorradteile.com^
 ||gutscheinglueck24.de^
 ||guttler-gartengerate.de^
 ||gutumzug.at^
@@ -6671,11 +6670,13 @@ Stand: 10.04.2026 11:48
 ||icebesteck.com^
 ||icebugfioutlet.com^
 ||icedragon.club^
+||icego.org^
 ||icelandclothing.myshopify.com^
 ||icelandichorse.shop^
 ||iceproxy.ca^
 ||ichferkens.de^
 ||icmswisscs.com^
+||icmtrading.com^
 ||iconiclndn.com^
 ||iconmobel.com^
 ||iconmobel.de^
@@ -6700,6 +6701,7 @@ Stand: 10.04.2026 11:48
 ||igk.talentway-at.com^
 ||iglangeh.com^
 ||igm-financial.com^
+||igmaferramentas.com^
 ||igmholdings.com^
 ||ignitionmodelcars.com^
 ||igo.talentway-at.com^
@@ -6722,6 +6724,7 @@ Stand: 10.04.2026 11:48
 ||ikoee.com^
 ||ilamparas.de^
 ||ilebe.de^
+||ilikehksm.life^
 ||ilmap.overcat.rest^
 ||ilopax.com^
 ||ilsemunchen.de^
@@ -6732,6 +6735,7 @@ Stand: 10.04.2026 11:48
 ||imaginte.com^
 ||imalent.net^
 ||imcbroker.com^
+||imeafinanz.de^
 ||imens-meds.net^
 ||imfixies.de^
 ||imfocus.at^
@@ -6744,6 +6748,7 @@ Stand: 10.04.2026 11:48
 ||immediate-avage.co^
 ||immediate-bitcoin.com^
 ||immediate-connect.app^
+||immediate-connect.com^
 ||immediate-coraldex.com^
 ||immediate-direct.com^
 ||immediate-edge.co^
@@ -6752,11 +6757,13 @@ Stand: 10.04.2026 11:48
 ||immediate-momentum.com^
 ||immediate-momentum.io^
 ||immediate-momentum.org^
+||immediate-peak.com^
 ||immediate-thorenext.com^
 ||immediateavita.com^
 ||immediatebitcoin.io^
 ||immediatebitwave.com^
 ||immediateconnect.co^
+||immediateconnect.com^
 ||immediateconnect.me^
 ||immediateconnect.org^
 ||immediateconnectavis.fr^
@@ -6773,6 +6780,7 @@ Stand: 10.04.2026 11:48
 ||immediatie.com^
 ||immersiveaudiotheaters.com^
 ||immobilien-berghaus.de^
+||immobilien-schaller.at^
 ||immotecta.de^
 ||immunepharma.com^
 ||imo-energie.com^
@@ -6787,6 +6795,7 @@ Stand: 10.04.2026 11:48
 ||improbuehne.de^
 ||improtants.space^
 ||impruneta.de^
+||impulsa.shop^
 ||imregen.de^
 ||imtisaltradersltd.com^
 ||imtrend.at^
@@ -8315,7 +8324,6 @@ Stand: 10.04.2026 11:48
 ||luckyledge.com^
 ||luckyyise.com^
 ||lucrabot-gpt.net^
-||lucysstyle.com^
 ||ludwigmaria.at^
 ||luffglasses.com^
 ||luiliebeeu.shop^
@@ -8406,7 +8414,6 @@ Stand: 10.04.2026 11:48
 ||lys-bois.com^
 ||m.bit2meua.com^
 ||m.blockchaintransactions.cc^
-||m.coinexeu.vip^
 ||m.daefox.com^
 ||m.lavonde.de^
 ||m.vbridal.com^
@@ -9433,6 +9440,7 @@ Stand: 10.04.2026 11:48
 ||navi100.com^
 ||navi11.com^
 ||navi12.com^
+||navi14.com^
 ||navi18.com^
 ||navi2.com^
 ||navi20.com^
@@ -9808,6 +9816,7 @@ Stand: 10.04.2026 11:48
 ||nowoption.com^
 ||npbshop.com^
 ||npipinellas.com^
+||nqior.shop^
 ||nrlrqk.shop^
 ||nsk-gmbh.myshopify.com^
 ||nsp-enterprises.com^

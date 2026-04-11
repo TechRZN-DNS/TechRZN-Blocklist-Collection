@@ -16,6 +16,10 @@ on:
   
   workflow_dispatch:
 
+# --- HIER IST DER FIX FÜR DIE GELBE WARNUNG ---
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -26,8 +30,8 @@ jobs:
       - name: 🛰️ Repository auschecken
         uses: actions/checkout@v4
         with:
-          ref: main           # <--- FIX 1: Erzwingt den main-Branch
-          fetch-depth: 0      # <--- FIX 2: Holt die Historie (verhindert detached HEAD)
+          ref: main           # FIX: Erzwingt den main-Branch
+          fetch-depth: 0      # FIX: Verhindert detached HEAD
 
       - name: 🐍 Python einrichten
         uses: actions/setup-python@v5
@@ -43,7 +47,7 @@ jobs:
       - name: 💾 Änderungen speichern (Commit & Push)
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          branch: main        # <--- FIX 3: Ziel-Branch explizit angeben
+          branch: main        # FIX: Ziel-Branch explizit angeben
           commit_message: "build: Filter-Listen v1.2.0 aktualisiert [bot]"
           file_pattern: 'blocklists/*.txt Whitelists/*.txt'
           push_options: '--force'

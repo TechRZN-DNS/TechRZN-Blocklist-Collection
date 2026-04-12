@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 11.04.2026 13:36
+Stand: 12.04.2026 05:55
 
 ||0.6gpaactivities.bastaff.ru^
 ||0.6gpaactivities.pce-cihazlari.com.tr^
@@ -1745,6 +1745,7 @@ Stand: 11.04.2026 13:36
 ||apptopay.xyz^
 ||appx-kuailian.com^
 ||appxiazai9.com^
+||aprilhasa.purplesausage.com^
 ||apsppqyh.cc^
 ||apstats.eminescusm.ro^
 ||aptutorfinder.com^
@@ -5188,6 +5189,7 @@ Stand: 11.04.2026 13:36
 ||dns.schlagheck.berlin^
 ||dns.schmidt-zoarn.de^
 ||dns.scott-smith.us^
+||dns.scott.ovh^
 ||dns.sct-pro.com^
 ||dns.scuola.org^
 ||dns.seaotter.cc^
@@ -6149,6 +6151,7 @@ Stand: 11.04.2026 13:36
 ||edu.icantec.ca^
 ||edu.info.east-kazakhstan.su^
 ||edu.info.east-kazakhstan.su.cdn.cloudflare.net^
+||edu.playariviera.com^
 ||edu.prostitutki-na-vyezd.com^
 ||edu.relaxingco.cl^
 ||edu.science.orlov-home.ru^
@@ -8002,6 +8005,7 @@ Stand: 11.04.2026 13:36
 ||hi.gyatt.mooo.com^
 ||hi.hollandweather.net^
 ||hi.mmmcccxxxiii.com^
+||hi.ryuflowing.org^
 ||hi.smasesorias.cl^
 ||hi09zmzfte.online^
 ||hiahaspeed.com^
@@ -12430,6 +12434,7 @@ Stand: 11.04.2026 13:36
 ||programs.mangorefreshers.com^
 ||prohashing.com^
 ||proigor.com^
+||prointern.info^
 ||project-cyber.com^
 ||project-evoex.de^
 ||projectorpoint.website^
@@ -12461,8 +12466,10 @@ Stand: 11.04.2026 13:36
 ||proxery.com^
 ||proxfree.com^
 ||proxidize.com^
+||proxie.us^
 ||proxied.org^
 ||proxies.biz^
+||proxies.center^
 ||proxies.sx^
 ||proxifi.app^
 ||proxify.biz^
@@ -12673,6 +12680,7 @@ Stand: 11.04.2026 13:36
 ||proxytime.net^
 ||proxytitan.com^
 ||proxytree.net^
+||proxyturbo.com^
 ||proxyunblocker.org^
 ||proxyvpn.eu^
 ||proxyvpnserver.com^
@@ -13196,6 +13204,7 @@ Stand: 11.04.2026 13:36
 ||resolve2.r9x.cc^
 ||resolve2.srv-pro.de^
 ||resolver-eu.haringstad.com^
+||resolver.arpa^
 ||resolver.as203038.net^
 ||resolver.dns.eban.eu.org^
 ||resolver.frank-ruan.com^
@@ -13343,6 +13352,7 @@ Stand: 11.04.2026 13:36
 ||rrrtytrtghytrfh.eminescusm.ro^
 ||rs.gmsgroup.app^
 ||rs1s.com^
+||rsocks.net^
 ||rszptlqwe.com^
 ||rt.http3.lol^
 ||rtcstudio.ru^
@@ -13590,6 +13600,7 @@ Stand: 11.04.2026 13:36
 ||science.wikidelia.net^
 ||science.willemvisser.co.za^
 ||scienceclasswork.webredirect.org^
+||scienceforkids.saahee.cn^
 ||sciencei.slife.bostoncareercounselor.com^
 ||scienceiethebeest.com.psicologicemos.com^
 ||scienceis.life.bostoncareercounselor.com^
@@ -13682,6 +13693,7 @@ Stand: 11.04.2026 13:36
 ||securesafea.openmouth.com.ar^
 ||securesupervpn.net^
 ||securesurfvpn.all.co.tz^
+||securetunnel.com^
 ||securetunnels.net^
 ||securevpn.co^
 ||securevpn.com^
@@ -16101,6 +16113,7 @@ Stand: 11.04.2026 13:36
 ||vpn.org^
 ||vpn.pro^
 ||vpn.protondownload.com^
+||vpn.rynet.link^
 ||vpn.sakhwow.ru^
 ||vpn.satadru.dev^
 ||vpn.sh^

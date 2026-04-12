@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 12.04.2026 05:55
+Stand: 12.04.2026 15:25
 
 ||0.6gpaactivities.bastaff.ru^
 ||0.6gpaactivities.pce-cihazlari.com.tr^
@@ -2497,6 +2497,7 @@ Stand: 12.04.2026 05:55
 ||boiiituff.handle.ar^
 ||bojdumlx.cc^
 ||bold-energy-129.biologyscholar.org^
+||bold-river-186.sz.games^
 ||bolehvpn.net^
 ||bolt-backup.binarybrains.today^
 ||bolt-private.dmain.sevecom.com^
@@ -2592,6 +2593,7 @@ Stand: 12.04.2026 05:55
 ||brhbjinjshvylb.online^
 ||bridgeschoolboulder.org^
 ||bridgethewisejc.com^
+||bright-bear-630.shuttle.lol^
 ||bright-eagle-189.discovergeographics.com^
 ||bright-mind-274.conwordable.com^
 ||bright-vpn.help^
@@ -5231,6 +5233,7 @@ Stand: 12.04.2026 05:55
 ||dns.spirio.fr^
 ||dns.srijan.site^
 ||dns.srinivasrao.co.in^
+||dns.sshub.win^
 ||dns.sstomp.nl^
 ||dns.startupstack.tech^
 ||dns.stevenz.net^
@@ -6109,6 +6112,7 @@ Stand: 12.04.2026 05:55
 ||edgar.tobkar.net^
 ||edge-intl.ygjs.org^
 ||edge-invite.com^
+||edge-v6x.v6.rocks^
 ||edge-x.cloud^
 ||edgeaccelerator.space^
 ||edgeaccelerator.website^
@@ -9510,6 +9514,7 @@ Stand: 12.04.2026 05:55
 ||kind-rain-691.biologyscholar.org^
 ||kind-soul-873.guesstheanimal.org^
 ||kind-sun-637.guesstheanimal.org^
+||kind-wolf-912.shuttle.lol^
 ||kingdomhearts.me^
 ||kingsurfproxy.com^
 ||kingyt6761.cc^
@@ -9815,6 +9820,7 @@ Stand: 12.04.2026 05:55
 ||laptopdns.dr3ff1c13nt.com^
 ||laqaodot.cc^
 ||laramieriverlodge.com^
+||large-dark-576.sz.games^
 ||large-sun-614.conwordable.com^
 ||largero.com^
 ||largestudyguide.com^
@@ -14202,6 +14208,7 @@ Stand: 12.04.2026 05:55
 ||solace.elmvp.cl^
 ||solace.mills-family.us^
 ||solarsie.com^
+||solaxy.live^
 ||soleilvpn-app.com^
 ||solgorknh.justlearning.net^
 ||solidlogic.bostoncareercounselor.com^
@@ -14328,6 +14335,7 @@ Stand: 12.04.2026 05:55
 ||ssh-free.com^
 ||ssh-storage.ru^
 ||ssh-udp.me^
+||sshagan.net^
 ||sshd.me^
 ||sshdropbear.net^
 ||sshgofast.com^
@@ -14390,6 +14398,7 @@ Stand: 12.04.2026 05:55
 ||starlink9527.xyz^
 ||starnetclash.com^
 ||starruby.us^
+||starrynight.site^
 ||starscourage.autonomoconsultores.cl^
 ||starssh.com^
 ||starstar.cloud^
@@ -14913,6 +14922,7 @@ Stand: 12.04.2026 05:55
 ||theproxies.net^
 ||theproxy.dev^
 ||theproxy.ink^
+||theproxy.lol^
 ||theproxy.red^
 ||theproxy.vip^
 ||theproxy.work^
@@ -15288,6 +15298,7 @@ Stand: 12.04.2026 05:55
 ||tulanek.my^
 ||tungdnsne.duckdns.org^
 ||tunnel.googlezip.net^
+||tunnel4.com^
 ||tunnelbear.com^
 ||tunnelbear.s3.amazonaws.com^
 ||tunnelbearvpn.mom^
@@ -15325,6 +15336,7 @@ Stand: 12.04.2026 05:55
 ||twinwherehaveyoubeen.netlify.app^
 ||twtevsyz.com^
 ||twujw67676767.mooo.com^
+||tx.teradns.org^
 ||txqq.pro^
 ||tyagain.vercel.app^
 ||tycoonisthebest.freeddns.uk^
@@ -15408,6 +15420,7 @@ Stand: 12.04.2026 05:55
 ||ujlhjhklhlfigjh.dtgxfjkiokl.searchegpt.com^
 ||ujrmdtrq.cc^
 ||ujsrxts.com^
+||uk.teradns.org^
 ||uku.im^
 ||ukumlmrst0igs.online^
 ||ukvpns.blogspot.ru^
@@ -15424,6 +15437,7 @@ Stand: 12.04.2026 05:55
 ||ultrafastvpn.net^
 ||ultrafun.net^
 ||ultramatheducation.raspberryip.com^
+||ultraproxy.biz^
 ||ultrasurf.es^
 ||ultrasurf.us^
 ||ultrasurfing.com^
@@ -15540,6 +15554,7 @@ Stand: 12.04.2026 05:55
 ||unblockit.pro^
 ||unblockit.rsvp^
 ||unblockit.uno^
+||unblockitnow.com^
 ||unblockmate.com^
 ||unblockme.us^
 ||unblockmyweb.com^
@@ -15548,6 +15563,7 @@ Stand: 12.04.2026 05:55
 ||unblockprox.com^
 ||unblockproxy.me^
 ||unblockproxy.win^
+||unblocks.net^
 ||unblocksite.biz^
 ||unblocksite.fun^
 ||unblocksite.id^
@@ -15617,6 +15633,7 @@ Stand: 12.04.2026 05:55
 ||unsightly.calamarrradio.org^
 ||unstable.ignorelist.com^
 ||unsubscribed.ignorelist.com^
+||untraceable.us^
 ||untracer.com^
 ||uofjneeu.cc^
 ||uoltqswr.com^
@@ -15635,6 +15652,7 @@ Stand: 12.04.2026 05:55
 ||uproxy.io^
 ||uproxy.online^
 ||uproxy.top^
+||uproxy.vip^
 ||uproxy.xyz^
 ||uproxy2.biz^
 ||uproxy2.com^
@@ -15702,6 +15720,7 @@ Stand: 12.04.2026 05:55
 ||us44nas.top^
 ||usa-proxy.org^
 ||usableprivacy.net^
+||usafastproxy.info^
 ||usaip.eu^
 ||usaip.net^
 ||usascholars.org^
@@ -15713,6 +15732,7 @@ Stand: 12.04.2026 05:55
 ||use-portal.com^
 ||use.bostoncareercounselor.com^
 ||use.edu.iownyour.org^
+||use.star.is^
 ||useast1.vps.night-x.com^
 ||user.bostoncareercounselor.com^
 ||userload.co^
@@ -16015,6 +16035,7 @@ Stand: 12.04.2026 05:55
 ||voidbyvcsa.fit-tw.com^
 ||voidd.network^
 ||voidnettty.thanatos.com^
+||voidnetwork.space^
 ||voidnetwork.space.cdn.cloudflare.net^
 ||voidnrtowkr93urridudi.geetabasyal.com.np^
 ||voidtickets.xyz^
@@ -16123,6 +16144,7 @@ Stand: 12.04.2026 05:55
 ||vpn.swisscows.com^
 ||vpn.technicule.info^
 ||vpn.turbofast.io^
+||vpn.vosjes.cloud^
 ||vpn.zotus.ru^
 ||vpn0.mom^
 ||vpn0109.voodonline.fr^
@@ -16133,6 +16155,7 @@ Stand: 12.04.2026 05:55
 ||vpn131.com^
 ||vpn2.net^
 ||vpn2025.help^
+||vpn24.io^
 ||vpn247.net^
 ||vpn2ww.com^
 ||vpn365.app^
@@ -16208,6 +16231,7 @@ Stand: 12.04.2026 05:55
 ||vpnfi.help^
 ||vpnfly.mom^
 ||vpnfree.info^
+||vpngame.com^
 ||vpngame.help^
 ||vpngate.homes^
 ||vpngate.jp^
@@ -16502,6 +16526,7 @@ Stand: 12.04.2026 05:55
 ||wapak.wapak.fun^
 ||warawarexeza34216547.easterndns.com^
 ||warning.blackguy.warning.cx^
+||warninglog.com^
 ||warp-vpn.lol^
 ||warpproxy.com^
 ||wary-fan.surge.sh^
@@ -16575,6 +16600,7 @@ Stand: 12.04.2026 05:55
 ||webedg.net^
 ||webevade.com^
 ||webfusiones.com^
+||webjax.ir^
 ||weblockapp.com^
 ||weboproxy.com^
 ||webpro.xyz^
@@ -16589,6 +16615,7 @@ Stand: 12.04.2026 05:55
 ||webproxy.smartproxy.org^
 ||webproxy.to^
 ||webproxy.uk.com^
+||webproxy.us^
 ||webproxy.us.com^
 ||webproxyusa.com^
 ||webrtc5.gvideo.co^
@@ -16718,6 +16745,7 @@ Stand: 12.04.2026 05:55
 ||wikipedia-s.easterndns.com^
 ||wikivpn.org^
 ||wiksa.com^
+||wild-moon-986.sz.games^
 ||wildcard.instructure.site^
 ||wildcard.khsonthespot.com^
 ||wildcard.oaklandscioly.org^
@@ -16864,6 +16892,7 @@ Stand: 12.04.2026 05:55
 ||www-admin.mehtionthebeat.com^
 ||www-crizzler.stilxvr.com^
 ||www-croxy.ghgi.site^
+||www-g.ggtbg.art^
 ||www-learn.wafflenetwork.net^
 ||www-letsvpn-app.com^
 ||www-letsvpn.com^

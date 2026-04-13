@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 12.04.2026 15:25
+Stand: 13.04.2026 06:17
 
 ||0.6gpaactivities.bastaff.ru^
 ||0.6gpaactivities.pce-cihazlari.com.tr^
@@ -6369,9 +6369,12 @@ Stand: 12.04.2026 15:25
 ||etkarta.easterndns.com^
 ||ettego.com^
 ||eu-browse.startpage.com^
+||eu-proxy.startpage.com^
+||eu1-browse.startpage.com^
 ||eu1.dns.lavate.ch^
 ||eu2-browse.startpage.com^
 ||eu3-browse.startpage.com^
+||eu4-browse.startpage.com^
 ||eudnrn.churchmissionary.team^
 ||europe-west.avastdns.com^
 ||europe-west3-topvpn-873d5.cloudfunctions.net^
@@ -12559,18 +12562,22 @@ Stand: 12.04.2026 15:25
 ||proxy.searchfiles.de^
 ||proxy.sh^
 ||proxy.srs.su^
+||proxy.startpage.com^
 ||proxy.sx^
 ||proxy.vpner.com^
 ||proxy.wynd.network^
 ||proxy.yt^
 ||proxy0101.com^
 ||proxy1.startpage.com^
+||proxy2.startpage.com^
 ||proxy2u.net^
 ||proxy3.startpage.com^
+||proxy4.startpage.com^
 ||proxy4free.com^
 ||proxy4free.me^
 ||proxy4freedom.com^
 ||proxy5.net^
+||proxy5.startpage.com^
 ||proxy62.com^
 ||proxyadult.org^
 ||proxyapi.pot8o.dev^
@@ -13407,7 +13414,11 @@ Stand: 12.04.2026 15:25
 ||s1.s2.shahramv1.site^
 ||s1.srch.top^
 ||s1.yushuncompany.com^
+||s14-eu5.startpage.com^
 ||s14rdltz61tflufej500.online^
+||s15-us2.startpage.com^
+||s16-us2.startpage.com^
+||s17-us2.startpage.com^
 ||s1yuubk7t.online^
 ||s2.d3mik.ru^
 ||s3-oregon-1.s3-us-west-2.amazonaws.com^
@@ -13417,6 +13428,7 @@ Stand: 12.04.2026 15:25
 ||s4m.store^
 ||s4m.tech^
 ||s4m.xyz^
+||s5-us3.startpage.com^
 ||s57.top^
 ||s8.amazonaws.com.catbox.co^
 ||s8.amazonaws.jdymqic.shop^
@@ -15682,6 +15694,7 @@ Stand: 12.04.2026 15:25
 ||urnejesnejfndh.knowhowit.com.au^
 ||urology.wiki^
 ||us-ash-w-f-1.nashkan.net^
+||us-browse.startpage.com^
 ||us-central1-anku-e1b04.cloudfunctions.net^
 ||us-central1-prod-global-7vpn.cloudfunctions.net^
 ||us-central1-sky-cloud-6227a.cloudfunctions.net^
@@ -15701,6 +15714,7 @@ Stand: 12.04.2026 15:25
 ||us-nyc-w-f-1.nashkan.net^
 ||us-nyc-w-p-1.nashkan.net^
 ||us-proxy.org^
+||us-proxy.startpage.com^
 ||us-saj-w-f-1.nashkan.net^
 ||us-saj-w-p-1.nashkan.net^
 ||us-sj.foxyfy.net^
@@ -15713,6 +15727,7 @@ Stand: 12.04.2026 15:25
 ||us.novali.date^
 ||us.rslvr.eu^
 ||us.sc92.cn^
+||us1-browse.startpage.com^
 ||us1.blissdns.net^
 ||us1.dns.lavate.ch^
 ||us2-browse.startpage.com^
@@ -16716,6 +16731,7 @@ Stand: 12.04.2026 15:25
 ||whyarewearewhatarewearewhatarewe.dinprima.ro^
 ||whydidtheydoitrosin.olneybaptist.org^
 ||whyiswritingsobad.badgrade6741.greenfieldhk.org^
+||whyproxy.com^
 ||whywastherealinkforluminalcalledbigdih.mahesh-khanal.com.np^
 ||wicrypt.com^
 ||wide-eagle-601.guesstheanimal.org^
@@ -17400,6 +17416,8 @@ Stand: 12.04.2026 15:25
 ||xn--i8sz42af0t3gm.com^
 ||xn--i8sz42aukrmna.com^
 ||xn--imm-qr6el54e.com^
+||xn--infiniport-cn3r594m.com^
+||xn--ios-x03f946a09d.com^
 ||xn--justmysocks-pr1t577n.com^
 ||xn--justmysocks-yh8u864d2q7c.com^
 ||xn--kbt314a76igqcrwn.com^

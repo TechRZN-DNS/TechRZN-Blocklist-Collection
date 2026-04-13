@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 12.04.2026 15:25
+Stand: 13.04.2026 06:17
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -1398,6 +1398,7 @@ Stand: 12.04.2026 15:25
 ||benzoi.com^
 ||beqcoin.com^
 ||berando.de^
+||beratify.de^
 ||bercasa.de^
 ||berger-roland.com^
 ||bergermode.com^
@@ -1822,6 +1823,7 @@ Stand: 12.04.2026 15:25
 ||bluestyleshop.com^
 ||bluetyt.com^
 ||blum-film.de^
+||blum2000.com^
 ||blumen-guete.de^
 ||blumen-steu.com^
 ||blumenkstenzorn.com^
@@ -1971,6 +1973,7 @@ Stand: 12.04.2026 15:25
 ||bremsen-onshop.com^
 ||bremsenonshop.com^
 ||bremsenverkauf.com^
+||brennholz-anhaenger.de^
 ||brennholz-deckarm.de^
 ||brennholz-deutsch.com^
 ||brennholz-goignerog.at^
@@ -2242,6 +2245,7 @@ Stand: 12.04.2026 15:25
 ||candykeysangebotes.com^
 ||canillogermany.com^
 ||canjaume.com^
+||canmidy.com^
 ||canoefans.com^
 ||cantheme.com^
 ||cantinadautoress.com^
@@ -3173,6 +3177,7 @@ Stand: 12.04.2026 15:25
 ||degussa-goldhandel.ac^
 ||degussa-goldhandel.click^
 ||degussa-goldhandel.tv^
+||degussa-handel.de^
 ||degussa-onlineseite.de^
 ||degussa-onlineshop.de^
 ||degussa-page.de^
@@ -3227,6 +3232,7 @@ Stand: 12.04.2026 15:25
 ||dekotext.com^
 ||del.de^
 ||delebensmittel.com^
+||delecato.de^
 ||delegacar.com^
 ||delhihurricanes.com^
 ||delicioush.com^
@@ -4026,6 +4032,7 @@ Stand: 12.04.2026 15:25
 ||energieblitz24.de^
 ||energieheizen.de^
 ||energiekick.at^
+||energiepreise24.com^
 ||energy-lng.com^
 ||energyhood.de^
 ||enfunpro.com^
@@ -4668,6 +4675,7 @@ Stand: 12.04.2026 15:25
 ||filedenzu.com^
 ||filexstorage.site^
 ||fili-cc.tv^
+||fillamoda.com^
 ||fillethumn.com^
 ||fillinger.shop^
 ||filloutlet.com^
@@ -5603,6 +5611,7 @@ Stand: 12.04.2026 15:25
 ||gninvest-ag.com^
 ||gnope.com^
 ||goadapter.com^
+||goalbo.de^
 ||goandfind.net^
 ||goball.de^
 ||goblinkcl.shop^
@@ -5781,6 +5790,7 @@ Stand: 12.04.2026 15:25
 ||grkwork.com^
 ||grobenextapro.com^
 ||grobenextapro.org^
+||grootfmoveshop.com^
 ||grossiste-parfum-generique.com^
 ||grossmarkt24.com^
 ||groundiesdamen.de^
@@ -5895,6 +5905,7 @@ Stand: 12.04.2026 15:25
 ||haarprofis.com^
 ||haberfasher.com^
 ||habitatero.com^
+||habitatsoleil.com^
 ||habitualn.com^
 ||habitualy.com^
 ||habituatl.com^
@@ -6154,6 +6165,7 @@ Stand: 12.04.2026 15:25
 ||heizela.de^
 ||heizendirekt.de^
 ||heizenkleidung.com^
+||heizenperklick.de^
 ||heizensmart.de^
 ||heizensofort.de^
 ||heizera.com^
@@ -6168,6 +6180,7 @@ Stand: 12.04.2026 15:25
 ||heizgo.de^
 ||heizgut24.com^
 ||heizhandel.de^
+||heizholzkonig.de^
 ||heizigo.de^
 ||heizino.de^
 ||heizinsel.de^
@@ -6497,6 +6510,7 @@ Stand: 12.04.2026 15:25
 ||holzcuten.de^
 ||holzd24.com^
 ||holzdebrenn.com^
+||holzera.de^
 ||holzerneblocke.com^
 ||holzexpress24.eu^
 ||holzfursfeuer.de^
@@ -6856,6 +6870,7 @@ Stand: 12.04.2026 15:25
 ||immersiveaudiotheaters.com^
 ||immobilien-berghaus.de^
 ||immobilien-schaller.at^
+||immobilien-verwaltung-walter.de^
 ||immotecta.de^
 ||immunepharma.com^
 ||imo-energie.com^
@@ -7085,6 +7100,7 @@ Stand: 12.04.2026 15:25
 ||iqfleet.de^
 ||iqmind.co^
 ||iqtradeoptions.com^
+||irefbeod.shop^
 ||irisfrench.com^
 ||irishnewstoday.com^
 ||irishsupply.ie^
@@ -7328,6 +7344,7 @@ Stand: 12.04.2026 15:25
 ||kaisermodehaus.de^
 ||kalama-tech.de^
 ||kalamataolivenoel.de^
+||kaldrek.de^
 ||kalesafe.com^
 ||kallieswelpen.com^
 ||kaloszehunter.com^
@@ -7451,6 +7468,7 @@ Stand: 12.04.2026 15:25
 ||karlkani.shop^
 ||karmavana.de^
 ||karmikrituals.shop^
+||karnevalkostum.com^
 ||karpfenrutenneu.com^
 ||karrierevonzuhause.de^
 ||karylite.com^
@@ -8279,6 +8297,7 @@ Stand: 12.04.2026 15:25
 ||lloyddeutschland.com^
 ||lloydslovakia.com^
 ||lm-heizoel.de^
+||lmfmotoculture.com^
 ||lng-energie.net^
 ||loadbike.com^
 ||loakedanmarkshop.com^
@@ -8615,7 +8634,6 @@ Stand: 12.04.2026 15:25
 ||make-uphaarpflege.com^
 ||make-uppflege.com^
 ||makitabillig.de^
-||makitfornows.com^
 ||mako-gmbh.de^
 ||makunuoil.com^
 ||malaccastraitdaily.com^
@@ -9491,6 +9509,7 @@ Stand: 12.04.2026 15:25
 ||mycomfortattire.com^
 ||mycrypto24.com^
 ||mydealz.live^
+||mydovinia.com^
 ||myeasykit.com^
 ||myelektrocenter.com^
 ||myfaifo.com^
@@ -9654,6 +9673,7 @@ Stand: 12.04.2026 15:25
 ||navi98.com^
 ||navi99.com^
 ||navigatil.store^
+||navirexep.de^
 ||navoli.de^
 ||naxinv.com^
 ||nayatowerinstallation.in.net^
@@ -9892,6 +9912,7 @@ Stand: 12.04.2026 15:25
 ||nobullsrbija.com^
 ||nobulprojectnederland.me^
 ||noclegipolanczyk.pl^
+||nofish.org^
 ||nofotballshop.com^
 ||nofsclothing.de^
 ||nogentais.finance^
@@ -10668,6 +10689,7 @@ Stand: 12.04.2026 15:25
 ||payforweal.com^
 ||pazarst.com^
 ||pb-capital.net^
+||pbm-energy.com^
 ||pc-akku.at^
 ||pc.daefox.com^
 ||pcakkusdirekt.de^
@@ -11507,6 +11529,7 @@ Stand: 12.04.2026 15:25
 ||reisetaschensale.com^
 ||reiseweltat6.wixsite.com^
 ||reishungers.com^
+||reisonthelsen.de.com^
 ||reitz-handel.de^
 ||rekordpellets.com^
 ||rekten.com^
@@ -11991,6 +12014,7 @@ Stand: 12.04.2026 15:25
 ||saramaud.com^
 ||sarasarade.shop^
 ||sarlcresmar.com^
+||sarlprofildiffusion.com^
 ||saroni-handel.de^
 ||sarvamits.com^
 ||saskiabader.de^
@@ -12117,6 +12141,7 @@ Stand: 12.04.2026 15:25
 ||scootbike.de^
 ||scooter-chip.de^
 ||scorecope.com^
+||scoterwelt.shop^
 ||scottsummer.shop^
 ||scoutandspark.shop^
 ||screenacy.co^
@@ -12495,7 +12520,6 @@ Stand: 12.04.2026 15:25
 ||skinsociety.shop^
 ||skinszone.net^
 ||skinwell.store^
-||skipped.vip^
 ||skiracedepartment.com^
 ||skispeichern.com^
 ||skisurfskate.com^
@@ -14781,6 +14805,7 @@ Stand: 12.04.2026 15:25
 ||wassono.myshopify.com^
 ||watardrops.store^
 ||watch-fakes.to^
+||watchbyhand.com^
 ||watchcod-ca.shop^
 ||watchcod-en.shop^
 ||watchcod-hr.shop^
@@ -15008,6 +15033,7 @@ Stand: 12.04.2026 15:25
 ||wilsonsquare.com^
 ||wiltonsale.com^
 ||wimmer-boutique.at^
+||wimpanistaeu.shop^
 ||winandwine.com^
 ||windyys.com^
 ||wine-investments.com^
@@ -15020,6 +15046,7 @@ Stand: 12.04.2026 15:25
 ||winkler-elektronik.de^
 ||winkler-modehaus.de^
 ||winobin.com^
+||wintechfxglobal.com^
 ||winterfallkits.de^
 ||winterflashsale.club^
 ||winterholt.com^
@@ -15067,6 +15094,7 @@ Stand: 12.04.2026 15:25
 ||wohnweltplace.com^
 ||woin8.com^
 ||wolant.com^
+||wolf-juergen.de^
 ||wolffashion.de^
 ||wolffashiondeutschland.com^
 ||wolfmode.de^
@@ -15109,6 +15137,7 @@ Stand: 12.04.2026 15:25
 ||worldcompanyregister.org^
 ||worldfinanz-gruppe.com^
 ||worldsgreatpills.com^
+||worldshopmarket.com^
 ||wotoba.de^
 ||woumc.com^
 ||wowgyu.com^
@@ -15123,6 +15152,7 @@ Stand: 12.04.2026 15:25
 ||wpclick.cc^
 ||wrapsi.shop^
 ||wrestle-site.com^
+||wrightt.shop^
 ||wristbandpin.com^
 ||wrmetaxi.de^
 ||wrmgeist.de^
@@ -15163,7 +15193,9 @@ Stand: 12.04.2026 15:25
 ||xcren.shop^
 ||xcryptotrading.com^
 ||xeliionllimited.com^
+||xeodis.com^
 ||xeond.com^
+||xera.pro^
 ||xerofootwearuk.com^
 ||xeroschweiz.com^
 ||xeroshoesnz.com^
@@ -15201,6 +15233,7 @@ Stand: 12.04.2026 15:25
 ||xnvest.com^
 ||xo-trier.de^
 ||xobeautysupply.com^
+||xohapro.com^
 ||xpertmarket.com^
 ||xperttrekking.com^
 ||xpmarkets.com^
@@ -15284,6 +15317,7 @@ Stand: 12.04.2026 15:25
 ||yoocaa.com^
 ||yoohal.com^
 ||yooofa.com^
+||yooso.de^
 ||yorkbootsshop.de^
 ||youdebrid.com^
 ||youdenovahome.shop^
@@ -15291,6 +15325,7 @@ Stand: 12.04.2026 15:25
 ||younglasuomi.com^
 ||yourdatefind.com^
 ||yourhomeessences.com^
+||yourmre.com^
 ||yournaturalathlettrading.shop^
 ||yoursecrethookup.com^
 ||yourzencoach.co^
@@ -15404,6 +15439,7 @@ Stand: 12.04.2026 15:25
 ||zeppeespadrillas.com^
 ||zeppelindao.com^
 ||zeradaoautopecas.com^
+||zeriafunding.com^
 ||zerknij-tv.pl^
 ||zeroceann.com^
 ||zeroplay.de^
@@ -15450,6 +15486,7 @@ Stand: 12.04.2026 15:25
 ||zolara.de^
 ||zollernalb-film.de^
 ||zolrqw.palatlaldate.com^
+||zomzey.com^
 ||zoneautopro.com^
 ||zonnishop.com^
 ||zoofaster.de^
@@ -15467,6 +15504,7 @@ Stand: 12.04.2026 15:25
 ||zuhiog.com^
 ||zuhitz.de^
 ||zukunftspartner.digital^
+||zularo.de^
 ||zumaro.de^
 ||zumarus.de^
 ||zumil.de^

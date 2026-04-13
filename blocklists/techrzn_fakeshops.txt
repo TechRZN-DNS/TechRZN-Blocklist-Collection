@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 13.04.2026 06:17
+Stand: 13.04.2026 17:15
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -185,6 +185,7 @@ Stand: 13.04.2026 06:17
 ||activefinancial.trade^
 ||activityboardhauser.com^
 ||activmarkets.com^
+||actualys.com^
 ||acyen.com^
 ||ad-property.com^
 ||ad-zeal.com^
@@ -673,6 +674,7 @@ Stand: 13.04.2026 06:17
 ||antenaschile.cl^
 ||antepmobilya.com^
 ||anticipatei.com^
+||antminertech.com^
 ||antobi-shop.de^
 ||anuraclo.com^
 ||anwaelte-brinkmann.de^
@@ -776,6 +778,7 @@ Stand: 13.04.2026 06:17
 ||arbeitskleidung-shop.net^
 ||arbeitskleidungbillig.com^
 ||arbeitsplatze.co^
+||arbitics.com^
 ||arbitrage-solar.de^
 ||arbon.shop^
 ||arbreth.com^
@@ -1354,6 +1357,7 @@ Stand: 13.04.2026 06:17
 ||belenkawien.at^
 ||beleuchtungprada.com^
 ||belezapreventiva.com^
+||belgicainvest.ltd^
 ||beliora.de^
 ||belizal.com^
 ||bella-balu.de^
@@ -2264,6 +2268,7 @@ Stand: 13.04.2026 06:17
 ||capitalinvest-profit.org^
 ||capitalinvestmentreviews.com^
 ||capitalpilots.com^
+||capitalreserveltd.com^
 ||capitaltradefx.com^
 ||capitalvo.com^
 ||capofini.com^
@@ -2475,6 +2480,7 @@ Stand: 13.04.2026 06:17
 ||childsafetyseat-shop.com^
 ||chillgod.com^
 ||chilllady.com^
+||china-hifi-audio.com^
 ||chinesecanadianvoice.ca^
 ||chipcy.com^
 ||chippewa--boots.com^
@@ -2948,6 +2954,7 @@ Stand: 13.04.2026 06:17
 ||cyjumay.shop^
 ||cymgrup.com^
 ||cyno-sainti.ch^
+||cyrosalnix.com^
 ||cz-kamagra.com^
 ||cz-lekarna.com^
 ||cz-parts.de^
@@ -4637,6 +4644,7 @@ Stand: 13.04.2026 06:17
 ||festberg.de^
 ||festeinkauf.de^
 ||festgeld-finder.de^
+||festgeld-sofort.de^
 ||festgeld360.de^
 ||festgeld724.de^
 ||festgelder-eu.com^
@@ -4748,6 +4756,7 @@ Stand: 13.04.2026 06:17
 ||fintechnews.live^
 ||fintrexia.org^
 ||finvestai.org^
+||finvoire.com^
 ||fiorenz.com^
 ||fiorora.com^
 ||fip-treatment.com^
@@ -5065,8 +5074,10 @@ Stand: 13.04.2026 06:17
 ||fruitfuln.com^
 ||fruitfult.com^
 ||fryeschuhe.de^
+||ftexvip.com^
 ||ftmxglobal.com^
 ||ftradition.com^
+||ftrxvip.com^
 ||ftzs.net^
 ||fu-ostholstein.de^
 ||fuchssolar.de^
@@ -5335,6 +5346,7 @@ Stand: 13.04.2026 06:17
 ||geflowing.de^
 ||gelbente.de^
 ||geldencosmeticos.com^
+||geldermans.com^
 ||geldvision.com^
 ||gelmalls.com^
 ||gelschuhe.de^
@@ -6165,7 +6177,6 @@ Stand: 13.04.2026 06:17
 ||heizela.de^
 ||heizendirekt.de^
 ||heizenkleidung.com^
-||heizenperklick.de^
 ||heizensmart.de^
 ||heizensofort.de^
 ||heizera.com^
@@ -7100,7 +7111,6 @@ Stand: 13.04.2026 06:17
 ||iqfleet.de^
 ||iqmind.co^
 ||iqtradeoptions.com^
-||irefbeod.shop^
 ||irisfrench.com^
 ||irishnewstoday.com^
 ||irishsupply.ie^
@@ -7419,6 +7429,7 @@ Stand: 13.04.2026 06:17
 ||kamerarabatt.de^
 ||kameratraum.de^
 ||kamerino.de^
+||kamextrading.com^
 ||kamingmbh.de^
 ||kaminholz-briketts-holzpellets.eu^
 ||kaminholz-premium.de^
@@ -7434,6 +7445,7 @@ Stand: 13.04.2026 06:17
 ||kanimex.com^
 ||kanistyleshop.com^
 ||kantescharf.com^
+||kantfinance.pro^
 ||kanuonlineshop.com^
 ||kanyecharms.store^
 ||kanziii.net^
@@ -9174,6 +9186,7 @@ Stand: 13.04.2026 06:17
 ||mobile-wellnessoase.de^
 ||mobile.visc.top^
 ||mobileappkamapro.xyz^
+||mobilerheizungen.de^
 ||mobiliarluuna.com^
 ||mobilihomedecor.com^
 ||mobilitaetsnation.de^
@@ -12141,7 +12154,6 @@ Stand: 13.04.2026 06:17
 ||scootbike.de^
 ||scooter-chip.de^
 ||scorecope.com^
-||scoterwelt.shop^
 ||scottsummer.shop^
 ||scoutandspark.shop^
 ||screenacy.co^
@@ -13702,6 +13714,7 @@ Stand: 13.04.2026 06:17
 ||todo-para-embarcaciones.com^
 ||togetherrxacces.com^
 ||tojo-heizoel.de^
+||token-invest.com^
 ||toko-mode.com^
 ||toko999.net^
 ||toko999.shop^
@@ -13777,7 +13790,6 @@ Stand: 13.04.2026 06:17
 ||topbrennstoffe.de^
 ||topcollectibleshop.com^
 ||topeat.morepush.shop^
-||topelectronicshop.com^
 ||topeuro-shop.com^
 ||topfahrradzubehor.com^
 ||topfastorder.com^
@@ -13860,6 +13872,7 @@ Stand: 13.04.2026 06:17
 ||tradecapital24.com^
 ||tradect.com^
 ||tradeduac100.com^
+||tradelive.world^
 ||trademintus.com^
 ||tradenovainvestment.com^
 ||tradeogre.fr^
@@ -13877,6 +13890,7 @@ Stand: 13.04.2026 06:17
 ||tradersking.com^
 ||traderush.com^
 ||traderxp.com^
+||tradesverge.com^
 ||tradeswim.com^
 ||tradeviewforex.com^
 ||tradewave.live^
@@ -14021,6 +14035,7 @@ Stand: 13.04.2026 06:17
 ||trustedshops.store^
 ||trustedtablets.online^
 ||trustedxshop.com^
+||trusteryai.com^
 ||trustexpressfreight.com^
 ||trustfx.trade^
 ||trustinvestment-gmbh.com^
@@ -14724,6 +14739,7 @@ Stand: 13.04.2026 06:17
 ||vrtil.com^
 ||vswatches.net^
 ||vtmarketsfr.com^
+||vtmfr.com^
 ||vtoolstore.de^
 ||vttaccueilsolids.com^
 ||vudul.com^

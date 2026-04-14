@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 13.04.2026 17:15
+Stand: 14.04.2026 06:02
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -646,7 +646,6 @@ Stand: 13.04.2026 17:15
 ||ani--zoo.com^
 ||animalsbaby.com^
 ||animefigure.de^
-||animeshoppers.com^
 ||ankerflowtech.shop^
 ||ankerkrautde.shop^
 ||ankotec.de^
@@ -4324,6 +4323,7 @@ Stand: 13.04.2026 17:15
 ||evisaindia.org^
 ||evisaindiaonline.org^
 ||evisas.travel^
+||evisatoindia.org^
 ||evo-house.com^
 ||evo-pharmacy.com^
 ||evolgrafix.de^
@@ -8477,7 +8477,6 @@ Stand: 13.04.2026 17:15
 ||luckymind.org^
 ||luckyyise.com^
 ||lucrabot-gpt.net^
-||lucysstyle.com^
 ||ludwigmaria.at^
 ||luffglasses.com^
 ||luiliebeeu.shop^
@@ -9683,6 +9682,7 @@ Stand: 13.04.2026 17:15
 ||navi89.com^
 ||navi9.com^
 ||navi90.com^
+||navi95.com^
 ||navi98.com^
 ||navi99.com^
 ||navigatil.store^
@@ -13551,6 +13551,7 @@ Stand: 13.04.2026 17:15
 ||themaddengirl.com^
 ||themdbuilding.com^
 ||themirrornewstoday.com^
+||themountainwarehouse.com^
 ||thenetfarmacia.com^
 ||theneurobalancetherapy.org^
 ||thenorth-face.de^
@@ -13990,6 +13991,7 @@ Stand: 13.04.2026 17:15
 ||triton-online.com^
 ||tritoncapitalmarkets.com^
 ||trivanode.com^
+||trivo.uk^
 ||trivona.de^
 ||trixupmysleeve.com^
 ||trk.vta-gmz.com^

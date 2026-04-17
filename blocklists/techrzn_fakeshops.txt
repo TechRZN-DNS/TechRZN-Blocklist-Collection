@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 16.04.2026 12:40
+Stand: 17.04.2026 06:05
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -1886,7 +1886,6 @@ Stand: 16.04.2026 12:40
 ||bonsaiexperte.com^
 ||boohoo-shop.com^
 ||booking.com-id^
-||booking.transaction-processing.one^
 ||bookinginfo.at^
 ||booklng.com-^
 ||bookrecommendations.org^
@@ -3578,6 +3577,7 @@ Stand: 16.04.2026 12:40
 ||doysa-agri.com^
 ||dozepharmacy.com^
 ||dplantz.com^
+||dpsio.ink^
 ||dptdopni.shop^
 ||dr-estate.com^
 ||dr-kopfhoerer.de^
@@ -4806,7 +4806,6 @@ Stand: 16.04.2026 12:40
 ||fitflopparis.net^
 ||fitgirl-repacks-site.org^
 ||fitgirl-repacks.download^
-||fitgirl-repacks.vip^
 ||fitiwelt.com^
 ||fitliebe.de^
 ||fitness-7.de^
@@ -5054,7 +5053,6 @@ Stand: 16.04.2026 12:40
 ||fribooverkauf.com^
 ||friday89.com^
 ||friday99.com^
-||fridaylocalmanager.duckdns.org^
 ||frieda-taschen.de^
 ||friedaskitchen.de^
 ||friedberg-mode.de^
@@ -11255,6 +11253,7 @@ Stand: 16.04.2026 12:40
 ||prolebenklinik-igls.at^
 ||prolexkanzlei.de^
 ||promised.cc^
+||promo-offer.com^
 ||promoalfresco.com^
 ||promodosterreich.at^
 ||promomarkt.store^
@@ -11293,7 +11292,6 @@ Stand: 16.04.2026 12:40
 ||proximitye.com^
 ||prozess-profi.de^
 ||prozesswerk.digital^
-||prpages.com^
 ||prs-installateur.at^
 ||pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com^
 ||pt-sky.com^
@@ -13028,7 +13026,6 @@ Stand: 16.04.2026 12:40
 ||stella-zurich.com^
 ||stellapet.xyz^
 ||stellara.de^
-||stellasummer.com^
 ||stellennavigator.com^
 ||stengelra.com^
 ||stephanie-gustai.de^
@@ -13431,6 +13428,7 @@ Stand: 16.04.2026 12:40
 ||tcomplex.de^
 ||tddexpresslogistics.com^
 ||tdglobalcompany.io^
+||tdgrop168.vip^
 ||tdxsz.com^
 ||te.de^
 ||teachbrigh.com^

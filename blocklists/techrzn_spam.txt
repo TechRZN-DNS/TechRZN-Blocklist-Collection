@@ -1,5 +1,5 @@
 ### TechRZN - SPAM ###
-Stand: 18.04.2026 05:42
+Stand: 19.04.2026 05:59
 
 ||0-2spk-us.basecamp.app^
 ||0-amfauth.firebaseapp.com^
@@ -4345,6 +4345,7 @@ Stand: 18.04.2026 05:42
 ||86600.vip^
 ||8662639packastridrodriguez.filesusr.com^
 ||86776.43811.wap.shuaihu99.com^
+||86914025.xyz^
 ||8698ykh4kn.qwo231sdx.club^
 ||86tui.pbgnfxaftmuypz.workers.dev^
 ||86tvwhw7ns.qwo231sdx.club^
@@ -6290,6 +6291,10 @@ Stand: 18.04.2026 05:42
 ||about-aoke.com^
 ||about-au-pay.fctzszl.cn^
 ||about-au-pay.xiaoxiongdd.cn^
+||about-peypeyb.com^
+||about-peypeyc.com^
+||about-peypeyd.com^
+||about-peypeye.com^
 ||about.bridge-u.com^
 ||about.onesourcebackground.com^
 ||about.studiovolpi.com^
@@ -8678,6 +8683,7 @@ Stand: 18.04.2026 05:42
 ||alkomex.com^
 ||alkosign.in^
 ||alktalk.jetzt^
+||alktpmf.com^
 ||all-about-love.coachy.net^
 ||all-casinos.co.uk^
 ||all-deal.com^
@@ -14630,6 +14636,7 @@ Stand: 18.04.2026 05:42
 ||ayniplast.pe^
 ||aynrand.jetzt^
 ||ayodcareservices.ie^
+||ayola-firstpoint.com^
 ||ayome.biz^
 ||ayomi.com^
 ||ayopir.digital^
@@ -23631,6 +23638,7 @@ Stand: 18.04.2026 05:42
 ||bodastigq.buzz^
 ||bodcbke2.cyou^
 ||bodch.com^
+||boddrops.shop^
 ||bodegaslopezmoernas.com^
 ||bodeguia.com^
 ||bodeinvest.com^
@@ -42433,6 +42441,7 @@ Stand: 18.04.2026 05:42
 ||christyc.com^
 ||christypalooza.com^
 ||christyryanrealestate.com^
+||christysfoodfactory.com^
 ||christysgymnastics.net^
 ||chrisventura.com.br^
 ||chrisvigil.net^
@@ -46337,6 +46346,7 @@ Stand: 18.04.2026 05:42
 ||cn-metamask.biz^
 ||cn-metamask.co^
 ||cn-newsiraq.com^
+||cn-now-kysports.com^
 ||cn-people.org^
 ||cn-pvchose.com^
 ||cn-srvrsc2.xyz^
@@ -52868,6 +52878,7 @@ Stand: 18.04.2026 05:42
 ||controlmensajesfalabellacom.com^
 ||controlmybperrweb.com^
 ||controlpanel.elimanator.com^
+||controlpanel.register.it^
 ||controlpanel00.scienceontheweb.net^
 ||controlpanel00180722.server1.trinchera.dev^
 ||controlpanelhn0.060522h.repl.co^
@@ -71892,6 +71903,7 @@ Stand: 18.04.2026 05:42
 ||deutschebank-phototan6zi7y.web.app^
 ||deutschebank-phototan6zi7yi.firebaseapp.com^
 ||deutschebank-phototan6zi7yi.web.app^
+||deutschebank.meinkundenbereich.org^
 ||deutschediaba-serverices.xyz^
 ||deutschedibatansecreseverss.xyz^
 ||deutscheenergieaudit.eu^
@@ -75781,6 +75793,7 @@ Stand: 18.04.2026 05:42
 ||elmdew.com^
 ||elmedioambiente.music.blog^
 ||elmejorporno.eu^
+||elmexx.com^
 ||elmgem.com^
 ||elminutero.com.mx^
 ||elmore.catalog.tdslib.org^
@@ -79538,6 +79551,7 @@ Stand: 18.04.2026 05:42
 ||findbelizerealestate.com^
 ||findblogsnow.co^
 ||findclip.us^
+||findcutesingles.com^
 ||finddatex.us^
 ||finde-deinen-job.jetzt^
 ||finde-den-fehler.jetzt^
@@ -85058,6 +85072,7 @@ Stand: 18.04.2026 05:42
 ||growthdeal.sbs^
 ||growthhubs.org^
 ||growthlayne.com^
+||growthoptimizerx.com^
 ||growthplaybook.blog^
 ||growthrecords.com^
 ||growthsupplements.tdsclick.org^
@@ -88367,6 +88382,7 @@ Stand: 18.04.2026 05:42
 ||houstonpremiercasino.com^
 ||houstonstateofhealth.com^
 ||houtask.com^
+||hovsco.com^
 ||hovyckeltkcxykvivzea.pingdom.eu.com^
 ||howaccurateisestimatedpaymentrealestate.com^
 ||howard2006journal.blogspot.com^
@@ -91891,6 +91907,7 @@ Stand: 18.04.2026 05:42
 ||ix4ym1mhh9nsjqdlqtxh.s3.ca-central-1.amazonaws.com^
 ||ixa-technologies.com^
 ||ixopay.com^
+||ixqraewxyv.travel^
 ||ixrib.luckycornerx.com^
 ||ixtcore.com^
 ||ixtebbswusutqekn.cipof90976.workers.dev^
@@ -97278,6 +97295,7 @@ Stand: 18.04.2026 05:42
 ||kmnasdrtnm.top^
 ||kmp0cw4trk.com^
 ||kmpretty.ru.com^
+||kmr-konfigurator.cz^
 ||kmsfsemunm.ufn.gts.multisan.ap.ap.gtr-dev.certsbridge.com^
 ||kmu-digitalisierung.jetzt^
 ||kmudigital.jetzt^
@@ -98108,6 +98126,7 @@ Stand: 18.04.2026 05:42
 ||lacityview.org^
 ||lackey.gays-party.xyz^
 ||lacole.music.blog^
+||lacostaviral.ar^
 ||lacostr.com^
 ||lacoume.com^
 ||lacourparclement.fr^
@@ -100705,8 +100724,11 @@ Stand: 18.04.2026 05:42
 ||login.6xd5vo56.com^
 ||login.asis.pe^
 ||login.binxly.net^
+||login.cn-all-haixingsports.com^
+||login.cn-now-aiyouxi.com^
 ||login.cnt-home-kaiyunsports.com^
 ||login.encontrostuga.com^
+||login.h5-app-kaiyunsports.com^
 ||login.jetzt^
 ||login.kangaroodad.com^
 ||login.kgy.cc^
@@ -100729,6 +100751,7 @@ Stand: 18.04.2026 05:42
 ||login.xml-c7game.com^
 ||login.xxylt3a9.com^
 ||login.zh-html-jnty-sports.com^
+||login.zh-lite-1haoentertainment.com^
 ||loginaiq.com^
 ||logishotelscom.cable-modem.org^
 ||logisitca1-status1.com.ua^
@@ -100739,6 +100762,7 @@ Stand: 18.04.2026 05:42
 ||logistiquepro.com^
 ||logjyjd99.com^
 ||loglein.com^
+||logo.gemuesering.de^
 ||logo.jetzt^
 ||logo.wine^
 ||logodetectie.com^
@@ -100789,6 +100813,7 @@ Stand: 18.04.2026 05:42
 ||lokalnyromans.com^
 ||lokaltreffen.com^
 ||lokerpalangka.com^
+||lokey.gr^
 ||lokicasino.pl^
 ||lol.sex^
 ||lola-brennholz.com^
@@ -104270,6 +104295,7 @@ Stand: 18.04.2026 05:42
 ||makortv.com^
 ||makroyal.com^
 ||maladeaventuras.com^
+||malairdimalafasmalrdimalcoeimalakhfk-8713.twil.io^
 ||malangpedia.com^
 ||malarine.com^
 ||malawiart.com^
@@ -105721,6 +105747,7 @@ Stand: 18.04.2026 05:42
 ||melkassa.fi^
 ||mellowloftaa.shop^
 ||mellownoir.com^
+||mellowroseit.name^
 ||melodienicholsofficial.site^
 ||melody.cl^
 ||melodyelodie.com^
@@ -110335,6 +110362,7 @@ Stand: 18.04.2026 05:42
 ||nicehah.com^
 ||niceholidays.in^
 ||nicemag.gen.tr^
+||nicemoonlp.name^
 ||nicenature.top^
 ||nicene.family.blog^
 ||niceonenailsottawa.ca^
@@ -111784,6 +111812,7 @@ Stand: 18.04.2026 05:42
 ||nt.com^
 ||nt.io^
 ||nt.new-cars.com.es^
+||nt.win-host-server.cc^
 ||nta1vb6cdlrl.com^
 ||ntavcloqny.ctn.gts.multisan.st.ap.gtr-dev.certsbridge.com^
 ||ntb.agency^
@@ -116007,6 +116036,7 @@ Stand: 18.04.2026 05:42
 ||pianokeyinspirations.code.blog^
 ||pianolynx.com^
 ||piattaformafad.co^
+||pic.pathinsightsco.com^
 ||pic.theden.gay^
 ||pic2.ziyuan.wang^
 ||picaball.com^
@@ -116264,6 +116294,7 @@ Stand: 18.04.2026 05:42
 ||pisaluce.work^
 ||piscopoker.com^
 ||pisorox.bar^
+||pisoyalquiler.com^
 ||pisruicfurniture.forum^
 ||pit.avenue.us^
 ||pit.dapcorona.com^
@@ -122123,9 +122154,11 @@ Stand: 18.04.2026 05:42
 ||register-from-hypesquad.com^
 ||register.bdsmzone.com^
 ||register.checkin2work.com^
+||register.emailsp.com^
 ||register.flirtgranny.com^
 ||register.gay^
 ||register.gosexpertiza.kz^
+||register.it^
 ||register.ivalyu.live^
 ||register.predicine.com^
 ||register.solcitypoker.com^
@@ -126517,6 +126550,7 @@ Stand: 18.04.2026 05:42
 ||semature.info^
 ||semaykina-jurist.ru^
 ||semifabricate.ro^
+||semimupa.z1.web.core.windows.net^
 ||seminaire2021.lcsexpertise.com^
 ||seminar.jetzt^
 ||seminarios.gptsachila.gob.ec^
@@ -137258,6 +137292,7 @@ Stand: 18.04.2026 05:42
 ||telekomcon.info^
 ||telekomevinterneti.net^
 ||telekomm.biz^
+||telekomvens.info^
 ||telemarina.com^
 ||telemedia-smb-228.175.182.122.airtelbroadband.in^
 ||telemedicina.sanatoriofinochietto.com^
@@ -145096,6 +145131,7 @@ Stand: 18.04.2026 05:42
 ||vitbhopal.ac.in^
 ||vitesssmiio.online^
 ||vitevideopoker.com^
+||vitfrisch.de^
 ||vitluma.fun^
 ||vitori-kristallmatte.com^
 ||vitori.com^
@@ -154782,6 +154818,7 @@ Stand: 18.04.2026 05:42
 ||zha74434xf.com^
 ||zhangyunchen.cc^
 ||zharco.com^
+||zhcn-vip-kaiyun.com^
 ||zhejiangay1.com^
 ||zhejiangay2.com^
 ||zheng-he.amazili.net^
@@ -154943,6 +154980,7 @@ Stand: 18.04.2026 05:42
 ||zmtrmyaqquh8azq.bar^
 ||zmtwvyrzaow8upx.bar^
 ||zmvo3jfr.fvneym.beer^
+||zn-app-leisusports.com^
 ||znaj.homes^
 ||znergyworld.co^
 ||znj.be^

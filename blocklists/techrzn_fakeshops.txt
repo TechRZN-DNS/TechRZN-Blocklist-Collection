@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 20.04.2026 06:16
+Stand: 21.04.2026 06:04
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -643,6 +643,7 @@ Stand: 20.04.2026 06:16
 ||animalsbaby.com^
 ||animefigure.de^
 ||animefigureworld.com^
+||animeshoppers.com^
 ||ankerflowtech.shop^
 ||ankerkrautde.shop^
 ||ankotec.de^
@@ -1741,6 +1742,7 @@ Stand: 20.04.2026 06:16
 ||bitfinancial.info^
 ||bitgetzx.com^
 ||biticodes.com^
+||bitiiy.com^
 ||bitiq.app^
 ||bitlast.com^
 ||bitnixer.io^
@@ -7067,7 +7069,6 @@ Stand: 20.04.2026 06:16
 ||itemdohome.com^
 ||itemunusual.com^
 ||itguruu.com^
-||itq.cuteclub.org^
 ||itrolexshop.com^
 ||itseasy.com^
 ||ivannd.com^
@@ -8398,6 +8399,7 @@ Stand: 20.04.2026 06:16
 ||luckymind.org^
 ||luckyyise.com^
 ||lucrabot-gpt.net^
+||lucysstyle.com^
 ||ludwigmaria.at^
 ||luffglasses.com^
 ||luiliebeeu.shop^
@@ -9566,6 +9568,7 @@ Stand: 20.04.2026 06:16
 ||navi20.ru^
 ||navi21.com^
 ||navi21.ru^
+||navi22.com^
 ||navi22.ru^
 ||navi23.com^
 ||navi23.ru^
@@ -9601,12 +9604,12 @@ Stand: 20.04.2026 06:16
 ||navi77.com^
 ||navi78.ru^
 ||navi8.com^
-||navi85.com^
 ||navi86.ru^
 ||navi88.com^
 ||navi89.com^
 ||navi9.com^
 ||navi90.com^
+||navi95.com^
 ||navi98.com^
 ||navi99.com^
 ||navigatil.store^
@@ -9998,7 +10001,6 @@ Stand: 20.04.2026 06:16
 ||obindo.de^
 ||objectivew.com^
 ||objektiverklick.de^
-||obmarkets.com^
 ||obozboots.com^
 ||obozdeutschland.com^
 ||obroker.com^
@@ -10611,6 +10613,7 @@ Stand: 20.04.2026 06:16
 ||pawshoebox.com^
 ||paxmining.com^
 ||payforweal.com^
+||paypays.shop^
 ||pazarst.com^
 ||pb-capital.net^
 ||pbm-energy.com^
@@ -11566,6 +11569,7 @@ Stand: 20.04.2026 06:16
 ||rheinkuss-handel24.de^
 ||rhineritz.de^
 ||rhode.co.at^
+||rhodeshotel24.com^
 ||ri-lieeoodu.com^
 ||ricadihotelspage.com^
 ||ricasrucksack.com^
@@ -11957,6 +11961,7 @@ Stand: 20.04.2026 06:16
 ||sawfashionnew.com^
 ||saycom.net^
 ||saynthesis.com^
+||sberbank.avito.avito.pay.booking.id05196219.com^
 ||sbikeparts.com^
 ||scandifurn.com^
 ||scannero.io^
@@ -12149,7 +12154,6 @@ Stand: 20.04.2026 06:16
 ||senzza.de^
 ||separaten.com^
 ||sepgoal.com^
-||sepkicks.com^
 ||seprun.com^
 ||serenadeutschland.de^
 ||serendiplty.com^
@@ -12966,6 +12970,7 @@ Stand: 20.04.2026 06:16
 ||strausseu-vip-online.shop^
 ||strawberryjamshop.com^
 ||strawberrymilkshop.com^
+||streakk.io^
 ||streamabie.com^
 ||streamboo.com^
 ||streamloot.co^
@@ -13116,6 +13121,7 @@ Stand: 20.04.2026 06:16
 ||superretailstore.com^
 ||supership.top^
 ||supersocken.de^
+||superuniswap.xyz^
 ||superwipes.de^
 ||suppenmarkt.com^
 ||suppenterrinenshop.com^
@@ -14089,6 +14095,8 @@ Stand: 20.04.2026 06:16
 ||uniswap.ro^
 ||uniswapagent.com^
 ||uniswapai.xyz^
+||uniswapapp.xyz^
+||uniswapcapital.xyz^
 ||uniswapdao.xyz^
 ||uniswapdefi.xyz^
 ||uniswapetf.xyz^
@@ -14096,7 +14104,12 @@ Stand: 20.04.2026 06:16
 ||uniswaphub.xyz^
 ||uniswaplabs.xyz^
 ||uniswaplender.xyz^
+||uniswaplending.xyz^
+||uniswapnft.xyz^
+||uniswapstake.xyz^
 ||uniswapstaking.xyz^
+||uniswaptoken.xyz^
+||uniswaptrading.xyz^
 ||unitechnica.com^
 ||united-meds.com^
 ||uniteddeliveryagency.com^
@@ -14127,9 +14140,7 @@ Stand: 20.04.2026 06:16
 ||uplements.de^
 ||uplevelreward.com^
 ||uplifeshop.com^
-||upnews.me^
 ||uprising.kip.pro^
-||upshiftade.com^
 ||upsolutmv.com^
 ||upup.at^
 ||urameigpu.monster^
@@ -14201,7 +14212,6 @@ Stand: 20.04.2026 06:16
 ||uusilemmikki.com^
 ||uvh-apotheke.de^
 ||uwb-beratung.com^
-||uwrak.live^
 ||uwum.shop^
 ||uxceller.com^
 ||uyoo.store^
@@ -14247,14 +14257,12 @@ Stand: 20.04.2026 06:16
 ||vanss.co.at^
 ||vanss.de^
 ||vantagetrades.com^
-||vapecheap.de^
 ||vapegunstig.de^
 ||vapeversorgung.de^
 ||vapingonline.de^
 ||variableh.com^
 ||variera.de^
 ||varierfurnitureelite.com^
-||varioustool.com^
 ||varonet.de^
 ||varonovo.de^
 ||varoudin.store^
@@ -14372,7 +14380,6 @@ Stand: 20.04.2026 06:16
 ||verkaufpflanzen.com^
 ||verkehrsbande.com^
 ||verkettet-dogs.com^
-||vermoegensvermittler.com^
 ||vermontco.com.br^
 ||veroshell.com^
 ||versand-fuxx-ug.myshopify.com^
@@ -14387,7 +14394,6 @@ Stand: 20.04.2026 06:16
 ||vertexfy.com^
 ||vertisas.shop^
 ||vertow.com^
-||verummarkt.store^
 ||vervias.com^
 ||verwertung-sirrenberg.com^
 ||verycanvas.com^
@@ -14466,7 +14472,6 @@ Stand: 20.04.2026 06:16
 ||viking-solutions.com^
 ||vikingstore.co^
 ||vikliv.de^
-||vilbridis.com^
 ||villa-pegasus.de^
 ||villainworlld.de^
 ||villause.com^
@@ -14612,7 +14617,6 @@ Stand: 20.04.2026 06:16
 ||vollwertlust.de^
 ||vollyshop.de^
 ||voltabuy.com^
-||voltbankinternational.com^
 ||volthausgeraete.de^
 ||voltryzapex.at^
 ||volture.de^
@@ -14817,7 +14821,6 @@ Stand: 20.04.2026 06:16
 ||weekdeals.store^
 ||weelux.de^
 ||wefashion.net^
-||wegoflight.com^
 ||wegovymexicopharmacy.com^
 ||wehkampoutlet.nl^
 ||weichrn.qualitatmv.click^
@@ -15035,7 +15038,6 @@ Stand: 20.04.2026 06:16
 ||wolke-hundebett.de^
 ||wolkenweichboutique.de^
 ||wolkyschuheoutlet.de^
-||wolkyschuheoutlets.de^
 ||wolovos.myshopify.com^
 ||wolverinebootsde.com^
 ||womanism.de^
@@ -15156,7 +15158,6 @@ Stand: 20.04.2026 06:16
 ||xn--clarksespaa-beb.com^
 ||xn--clarkszrich-zhb.com^
 ||xn--drmartensshopsterreich-6hc.at^
-||xn--hellyhansenbelgi-prb.com^
 ||xn--hellyhansenespaa-lub.com^
 ||xn--hellyhansenper-yrb.com^
 ||xn--huntergummistvler-d1b.com^
@@ -15364,7 +15365,6 @@ Stand: 20.04.2026 06:16
 ||zenla.de^
 ||zenniagoods.com^
 ||zeno-paris.shop^
-||zenorylab.com^
 ||zenova-shop.de^
 ||zenovaa.store^
 ||zentempel.com^

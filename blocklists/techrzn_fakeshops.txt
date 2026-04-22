@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 22.04.2026 06:01
+Stand: 22.04.2026 12:38
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -1542,7 +1542,6 @@ Stand: 22.04.2026 06:01
 ||betrendy.site^
 ||betrmode.com^
 ||betrug.law^
-||betrugsexperten.de^
 ||betrugsrecht.de^
 ||bettbezugrabatt.com^
 ||bettdeckenkissen.com^
@@ -1767,7 +1766,6 @@ Stand: 22.04.2026 06:01
 ||black-shepp-gastroservice.com^
 ||blackabdo.company.site^
 ||blackdiamond-schweiz.com^
-||blackfridaymegastore.com^
 ||blackgurlzsmagickloset.com^
 ||blackoutarchertender.com^
 ||blacktridentpop.shop^
@@ -2387,6 +2385,7 @@ Stand: 22.04.2026 06:01
 ||cescory.com^
 ||ceska-lekarna.com^
 ||ceskaonlinelekarna.com^
+||cfd.diamond-tradeltd.com^
 ||cfd.swkinvest.com^
 ||cfdtc.com^
 ||cftmarteorvers.com^
@@ -4847,9 +4846,6 @@ Stand: 22.04.2026 06:01
 ||fmi-finance.com^
 ||fmlpr.preis-meister.com^
 ||fmtrader.com^
-||foamr.ch^
-||foamr.de^
-||foamr.nl^
 ||fodgramstar.com^
 ||fogatoshop.com^
 ||fokoomall.com^
@@ -5050,7 +5046,6 @@ Stand: 22.04.2026 06:01
 ||fuehrungszeugnis-service.de^
 ||fuehrungszeugnis.at^
 ||fuelglovet.com^
-||fuelmeister.de^
 ||fugespace.com^
 ||fugitive.top^
 ||fuhrmann.store^
@@ -5757,6 +5752,7 @@ Stand: 22.04.2026 06:01
 ||grillsgeschaft.com^
 ||grillstore-krefeld.com^
 ||grillstorebuchen.com^
+||grillterrasse.com^
 ||grillwelten.com^
 ||grillzentrale.shop^
 ||grillzentrum.com^
@@ -7472,6 +7468,7 @@ Stand: 22.04.2026 06:01
 ||kaulmann-berlin.de^
 ||kayh.tovy.shop^
 ||kayser-haushalt.de^
+||kazoomba.com^
 ||kbetake.com^
 ||kbnlogistics.com^
 ||kbs-kanzlei.de^
@@ -8223,6 +8220,7 @@ Stand: 22.04.2026 06:01
 ||liona.shop^
 ||lioralife.com^
 ||lipas.shop^
+||lippenrot.com^
 ||lipsfick.com^
 ||liring.hpattack.shop^
 ||lirunqiu.com^
@@ -8622,6 +8620,7 @@ Stand: 22.04.2026 06:01
 ||man-zone.cz^
 ||man-zone.fit^
 ||man-zone.sk^
+||management-zander.de^
 ||managementinvest.com^
 ||mandalaverkauf.shop^
 ||manduca-baby.com^
@@ -9438,6 +9437,7 @@ Stand: 22.04.2026 06:01
 ||munster-mode.de^
 ||muorgstore.com^
 ||music-musik.de^
+||musicgearcenter.com^
 ||musicgearfashion.com^
 ||musichotsale.com^
 ||musicworldde.com^
@@ -10032,6 +10032,7 @@ Stand: 22.04.2026 06:01
 ||obindo.de^
 ||objectivew.com^
 ||objektiverklick.de^
+||obmarkets.com^
 ||obozboots.com^
 ||obozdeutschland.com^
 ||obroker.com^
@@ -10170,8 +10171,6 @@ Stand: 22.04.2026 06:01
 ||okjordans.com^
 ||okohausplus.com^
 ||okun.shop^
-||okuracookware.ch^
-||okuracookware.de^
 ||okwave.taxenough.sbs^
 ||olangdeutschland.de^
 ||olangsdeutschland.de^
@@ -10187,6 +10186,7 @@ Stand: 22.04.2026 06:01
 ||olivercabelldeutschland.de^
 ||olivespielzeug.com^
 ||oliviamoreau.de^
+||olivias-horoskope.de^
 ||olley.ch^
 ||olukaiosterreich.at^
 ||olyava.com^
@@ -10255,7 +10255,6 @@ Stand: 22.04.2026 06:01
 ||onkel-nolte.de^
 ||online-apotek.no^
 ||online-arbeit.com^
-||online-betrugs-hilfe.de^
 ||online-binomo.com^
 ||online-eta.com^
 ||online-file-converter.com^
@@ -10341,6 +10340,7 @@ Stand: 22.04.2026 06:01
 ||oofos-sandals.net^
 ||oofossingaporestore.com^
 ||oolongtime.com^
+||oonowa.myshopify.com^
 ||opabitcoin.com^
 ||opcte.com^
 ||openuplife.com^
@@ -10491,6 +10491,7 @@ Stand: 22.04.2026 06:01
 ||outdoorsretail.com^
 ||outdoorsusrealm.com^
 ||outdoorventureson.com^
+||outdoorwarenhaus.com^
 ||outdoorzelte.com^
 ||outel.abmarketworks.com^
 ||outfany.com^
@@ -12196,6 +12197,7 @@ Stand: 22.04.2026 06:01
 ||senzza.de^
 ||separaten.com^
 ||sepgoal.com^
+||sepkicks.com^
 ||seprun.com^
 ||serenadeutschland.de^
 ||serendiplty.com^
@@ -12778,6 +12780,7 @@ Stand: 22.04.2026 06:01
 ||sport-titan.de^
 ||sport-verkaufs.com^
 ||sportandoutdoorstore.com^
+||sportanwaelte.de^
 ||sportapothekeonline.com^
 ||sportartikelwelt.com^
 ||sportausrustung-de.com^
@@ -13553,6 +13556,7 @@ Stand: 22.04.2026 06:01
 ||thevitic.com^
 ||thevitic.onshopbase.com^
 ||thewinestoreava.shop^
+||thiamtransports.com^
 ||thinkcarde.com^
 ||thirdeye-immobilien.at^
 ||thk-elektro24.de^
@@ -14504,7 +14508,6 @@ Stand: 22.04.2026 06:01
 ||viennaapartments.org^
 ||viennaaustrohotel.com^
 ||viennameerschaum.com^
-||viennamode.com^
 ||viennastil.at^
 ||vientooffice.de^
 ||vierjahreszeitengarten.com^
@@ -15322,6 +15325,7 @@ Stand: 22.04.2026 06:01
 ||yoyocats.com^
 ||ysolara.at^
 ||ytcycling.com^
+||ythebyre.top^
 ||ytvancedpro.com^
 ||yuan-paygroup.com^
 ||yuanpaygroup.org^

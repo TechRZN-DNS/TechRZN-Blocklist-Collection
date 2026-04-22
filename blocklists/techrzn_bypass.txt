@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 21.04.2026 09:42
+Stand: 22.04.2026 06:01
 
 ||0.6gpaactivities.bastaff.ru^
 ||0.6gpaactivities.pce-cihazlari.com.tr^
@@ -2461,6 +2461,7 @@ Stand: 21.04.2026 09:42
 ||booiuu.com^
 ||book.jj.am^
 ||bookcar92.com^
+||bookerndy.com^
 ||booket.cf^
 ||booking.traveling.com.ar^
 ||bookings.verandahotels.com^
@@ -16728,6 +16729,7 @@ Stand: 21.04.2026 09:42
 ||www-letsvpn.com^
 ||www-lud.monkey3three.com^
 ||www-madcodg.rgserver.in^
+||www-magma-mantle.laneesports.com^
 ||www-nsc.moebh.me^
 ||www-p.reaper.mx^
 ||www-p.yvseann.com^

@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 22.04.2026 12:38
+Stand: 23.04.2026 06:07
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -20,6 +20,7 @@ Stand: 22.04.2026 12:38
 ||1800rxonline.com^
 ||18023.ebizv4l.ebusiness-challenge.at^
 ||1875-financeinvest.com^
+||1bmo-reactivemyaccount0.com^
 ||1euro.at^
 ||1eurotip.com^
 ||1f6seh-tk.myshopify.com^
@@ -644,7 +645,6 @@ Stand: 22.04.2026 12:38
 ||animalsbaby.com^
 ||animefigure.de^
 ||animefigureworld.com^
-||animeshoppers.com^
 ||ankerflowtech.shop^
 ||ankerkrautde.shop^
 ||ankotec.de^
@@ -1532,7 +1532,6 @@ Stand: 22.04.2026 12:38
 ||besttobuy.company.site^
 ||besttoolsonline-de.com^
 ||besttoyspielzeug.com^
-||bestvod.pl^
 ||bestwear.club^
 ||bestwerkzeugeshop.com^
 ||betakom-tec.com^
@@ -2114,6 +2113,7 @@ Stand: 22.04.2026 12:38
 ||buybestmeds.com^
 ||buycheap.fun^
 ||buycircaknee.com^
+||buydubuy.com^
 ||buyfamgift.de^
 ||buygadgets.site^
 ||buygenerics.com^
@@ -2592,6 +2592,7 @@ Stand: 22.04.2026 12:38
 ||cloudtritt.de^
 ||clpmobelrabatt.com^
 ||cluckergifts.ecwid.com^
+||cma88.vip^
 ||cmccapital.net^
 ||cmchbhopal.com^
 ||cmoboy.com^
@@ -2908,6 +2909,7 @@ Stand: 22.04.2026 12:38
 ||customurink.com^
 ||cutblajat.com^
 ||cutcy.com^
+||cuteclub.org^
 ||cutlerymarkets.com^
 ||cutterfarm.de^
 ||cutty.app^
@@ -4754,6 +4756,7 @@ Stand: 22.04.2026 12:38
 ||fitflopparis.net^
 ||fitgirl-repacks-site.org^
 ||fitgirl-repacks.download^
+||fitgirl-repacks.vip^
 ||fitiwelt.com^
 ||fitliebe.de^
 ||fitness-7.de^
@@ -6747,6 +6750,7 @@ Stand: 22.04.2026 12:38
 ||igj.talentway-at.com^
 ||igk.talentway-at.com^
 ||iglangeh.com^
+||igloaptopto.net^
 ||igm-financial.com^
 ||igmaferramentas.com^
 ||igmholdings.com^
@@ -8424,7 +8428,6 @@ Stand: 22.04.2026 12:38
 ||luckymind.org^
 ||luckyyise.com^
 ||lucrabot-gpt.net^
-||lucysstyle.com^
 ||ludwigmaria.at^
 ||luffglasses.com^
 ||luiliebeeu.shop^
@@ -8520,6 +8523,7 @@ Stand: 22.04.2026 12:38
 ||lys-bois.com^
 ||m.bit2meua.com^
 ||m.blockchaintransactions.cc^
+||m.coinexeu.vip^
 ||m.daefox.com^
 ||m.kaufjoy.de^
 ||m.vbridal.com^
@@ -9604,7 +9608,6 @@ Stand: 22.04.2026 12:38
 ||navi23.ru^
 ||navi24.com^
 ||navi24.ru^
-||navi25.com^
 ||navi26.ru^
 ||navi27.ru^
 ||navi3.com^
@@ -10692,7 +10695,6 @@ Stand: 22.04.2026 12:38
 ||peelerrabatt.de^
 ||pegasus-invest.com^
 ||pehkonenbrennholz.de^
-||pekanbaru.one^
 ||pelagiot.cc^
 ||pellet-bio.company.site^
 ||pellet-ecos.company.site^
@@ -12561,7 +12563,6 @@ Stand: 22.04.2026 12:38
 ||smpecasparts.com^
 ||smtoygalaxy.com^
 ||smtpget.com^
-||smtpwire.com^
 ||smvisa.co.il^
 ||snapbartar.com^
 ||snapposh.com^
@@ -14140,6 +14141,7 @@ Stand: 22.04.2026 12:38
 ||uniquepharmaceuticals.com^
 ||unirockgestion.com^
 ||unisonmen.de^
+||uniswap.click^
 ||uniswap.host^
 ||uniswap.ro^
 ||uniswapagent.com^

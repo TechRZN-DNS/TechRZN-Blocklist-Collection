@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 23.04.2026 06:07
+Stand: 24.04.2026 06:09
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -20,7 +20,6 @@ Stand: 23.04.2026 06:07
 ||1800rxonline.com^
 ||18023.ebizv4l.ebusiness-challenge.at^
 ||1875-financeinvest.com^
-||1bmo-reactivemyaccount0.com^
 ||1euro.at^
 ||1eurotip.com^
 ||1f6seh-tk.myshopify.com^
@@ -289,6 +288,7 @@ Stand: 23.04.2026 06:07
 ||agriandindusupply.com^
 ||agricolaindustrial.com^
 ||agriculturi.com^
+||agriservice640.com^
 ||agserviceplus.com^
 ||aguasco.com^
 ||ahdoftime.com^
@@ -512,6 +512,7 @@ Stand: 23.04.2026 06:07
 ||alpstep.com^
 ||alro-stahlbau.de^
 ||alsara-online.de^
+||alstran-spedition.com^
 ||alta-roc.de^
 ||altaprotect.com^
 ||altenlaw.de^
@@ -645,6 +646,7 @@ Stand: 23.04.2026 06:07
 ||animalsbaby.com^
 ||animefigure.de^
 ||animefigureworld.com^
+||animeshoppers.com^
 ||ankerflowtech.shop^
 ||ankerkrautde.shop^
 ||ankotec.de^
@@ -748,6 +750,7 @@ Stand: 23.04.2026 06:07
 ||appolvintop.click^
 ||appreciatil.com^
 ||approvaln.com^
+||approve-reservation-euro.com^
 ||apps-4-you.net^
 ||appvalidation.com^
 ||appworldng.com^
@@ -1388,6 +1391,7 @@ Stand: 23.04.2026 06:07
 ||benner.store^
 ||bennet-bock.de^
 ||bennora.de^
+||benxi.info^
 ||benzinkanistertrichter.com^
 ||benzoi.com^
 ||beqcoin.com^
@@ -2592,7 +2596,6 @@ Stand: 23.04.2026 06:07
 ||cloudtritt.de^
 ||clpmobelrabatt.com^
 ||cluckergifts.ecwid.com^
-||cma88.vip^
 ||cmccapital.net^
 ||cmchbhopal.com^
 ||cmoboy.com^
@@ -2726,6 +2729,7 @@ Stand: 23.04.2026 06:07
 ||containably.com^
 ||containercargo.shop^
 ||containercompany.shop^
+||containerdienstheiliggmbh.de^
 ||containerhaus-anhanger.de^
 ||containersparks.com^
 ||containert.com^
@@ -2779,6 +2783,7 @@ Stand: 23.04.2026 06:07
 ||cosplayshow.com^
 ||cosplayverkauf.com^
 ||cotsrabatt.de^
+||cottanest.com^
 ||cottline.com^
 ||cottonshoesshop.com^
 ||cottonwears.com^
@@ -2909,7 +2914,6 @@ Stand: 23.04.2026 06:07
 ||customurink.com^
 ||cutblajat.com^
 ||cutcy.com^
-||cuteclub.org^
 ||cutlerymarkets.com^
 ||cutterfarm.de^
 ||cutty.app^
@@ -3037,6 +3041,7 @@ Stand: 23.04.2026 06:07
 ||davishop.de^
 ||dawahandel.de^
 ||daxrise.com^
+||dayoner.com^
 ||daysgiftrewards.com^
 ||daytoday-deals.com^
 ||dazalle.com^
@@ -4212,6 +4217,7 @@ Stand: 23.04.2026 06:07
 ||euromedicplus.com^
 ||euromedshop.net^
 ||euromedsonline.net^
+||eurometal-structure.com^
 ||euronics-ps5.de.de^
 ||euronicsde.de^
 ||euronicsdeutschlandshop.de^
@@ -4756,7 +4762,6 @@ Stand: 23.04.2026 06:07
 ||fitflopparis.net^
 ||fitgirl-repacks-site.org^
 ||fitgirl-repacks.download^
-||fitgirl-repacks.vip^
 ||fitiwelt.com^
 ||fitliebe.de^
 ||fitness-7.de^
@@ -4989,6 +4994,7 @@ Stand: 23.04.2026 06:07
 ||frendorf.de^
 ||frenzyfoodie.com^
 ||frequencyl.com^
+||freshelino.com^
 ||freshhoods.com^
 ||freshmarkt24.com^
 ||fressnapfs.shop^
@@ -5296,7 +5302,6 @@ Stand: 23.04.2026 06:07
 ||gearhomies.com^
 ||gearhuman.com^
 ||gearshifted.com^
-||gearstastic.com^
 ||gearver.com^
 ||gebaeudevorsorge.de^
 ||gebra-gartenhandel.de^
@@ -5926,6 +5931,7 @@ Stand: 23.04.2026 06:07
 ||handelcfx.com^
 ||handelsartikel.com^
 ||handelshaus-buchem.de^
+||handelsnation.com^
 ||handelsplanetdeutschland.de^
 ||handlebarprada.com^
 ||handlemylife.info^
@@ -6460,6 +6466,7 @@ Stand: 23.04.2026 06:07
 ||holtz-handel.de^
 ||holz-brennholzhandel.de^
 ||holz-discounter.com^
+||holz-hambach.com^
 ||holz-pellet-bestequalitat.de^
 ||holz-pellets24.com^
 ||holz-premium.de^
@@ -7088,6 +7095,8 @@ Stand: 23.04.2026 06:07
 ||itemdohome.com^
 ||itemunusual.com^
 ||itguruu.com^
+||itisrainvintage.com^
+||itq.cuteclub.org^
 ||itrolexshop.com^
 ||itseasy.com^
 ||ivannd.com^
@@ -7754,6 +7763,7 @@ Stand: 23.04.2026 06:07
 ||kra18.com^
 ||krabihotelsthailand.net^
 ||kraemer-garten.de^
+||kraftdesweins.com^
 ||kraftholz-pellet.shop^
 ||kraftholz.shop^
 ||krahl-container.eu^
@@ -8139,6 +8149,7 @@ Stand: 23.04.2026 06:07
 ||lidl-socce-de.vip^
 ||lidlde.online^
 ||lidleurireland.com^
+||lidlhh.shop^
 ||lidlpalace.com^
 ||lidnz.shop^
 ||lidora.de^
@@ -8271,6 +8282,7 @@ Stand: 23.04.2026 06:07
 ||loakedeutschland.de^
 ||loakeoutlet.shop^
 ||loakeschweiz.net^
+||locajardin.com^
 ||localgermany.de^
 ||locateanyphone.net^
 ||locationconseilsfinanciers.fr^
@@ -8428,6 +8440,7 @@ Stand: 23.04.2026 06:07
 ||luckymind.org^
 ||luckyyise.com^
 ||lucrabot-gpt.net^
+||lucysstyle.com^
 ||ludwigmaria.at^
 ||luffglasses.com^
 ||luiliebeeu.shop^
@@ -8523,7 +8536,6 @@ Stand: 23.04.2026 06:07
 ||lys-bois.com^
 ||m.bit2meua.com^
 ||m.blockchaintransactions.cc^
-||m.coinexeu.vip^
 ||m.daefox.com^
 ||m.kaufjoy.de^
 ||m.vbridal.com^
@@ -8657,6 +8669,7 @@ Stand: 23.04.2026 06:07
 ||marconzept.de^
 ||marcopolorabatt.com^
 ||marcosbrito.com^
+||marcuweklingboutique.shop^
 ||marcveriont.de^
 ||mardano.com^
 ||marecuperadora.online^
@@ -9400,6 +9413,7 @@ Stand: 23.04.2026 06:07
 ||mstf.de^
 ||mt4gestion.com^
 ||mt4invest.com^
+||mtbandroad.com^
 ||mtbcapitals.com^
 ||mth14.at^
 ||mto-service.com^
@@ -9446,6 +9460,7 @@ Stand: 23.04.2026 06:07
 ||musichotsale.com^
 ||musicworldde.com^
 ||musik-laden.com^
+||musikgarage.com^
 ||musikgearhub.com^
 ||musikgermany.com^
 ||musikgeschaft.com^
@@ -9684,7 +9699,6 @@ Stand: 23.04.2026 06:07
 ||neozor.com^
 ||neptun-media.de^
 ||neptuneiva.myshopify.com^
-||neptuneselectronics.com^
 ||neroo.de^
 ||neshno.de^
 ||nestkraft.de^
@@ -9886,6 +9900,7 @@ Stand: 23.04.2026 06:07
 ||nogentais.finance^
 ||nograinmedia.com^
 ||nojuwear.com^
+||nokimoon.shop^
 ||nolanmoto.com^
 ||nomorereactions.com^
 ||nomra.de^
@@ -12147,6 +12162,7 @@ Stand: 23.04.2026 06:07
 ||secrettime.shop^
 ||secrity2redline.com^
 ||secure.selure.de^
+||secure.staging.demo.www1.transaction-processing.one^
 ||secureinvest.org^
 ||securemed.shop^
 ||securemedsshop.com^
@@ -12236,6 +12252,7 @@ Stand: 23.04.2026 06:07
 ||seylab.shop^
 ||sezaneclothingshop.sa.com^
 ||sfzev.de^
+||sgtruffe.com^
 ||shaarks.com^
 ||shadowwear.store^
 ||shaeskin.com^
@@ -13153,6 +13170,7 @@ Stand: 23.04.2026 06:07
 ||superfitportugal.com^
 ||superfitromania.com^
 ||superfitromaniastore.com^
+||superfitstores.com^
 ||superfitsuisse.com^
 ||superheizung.de^
 ||superia.shop^
@@ -13164,6 +13182,7 @@ Stand: 23.04.2026 06:07
 ||supermeds24.com^
 ||superocas.com^
 ||superoptions.com^
+||superoutletshopsuomi.com^
 ||superpotence.com^
 ||superpotence.shop^
 ||superretailstore.com^
@@ -14123,6 +14142,7 @@ Stand: 23.04.2026 06:07
 ||undley.de^
 ||unexpectedm.com^
 ||ungi-analytics.de^
+||uni-swap.online^
 ||unibois-stammholz.com^
 ||unice688.com^
 ||unico-studio.com^
@@ -14141,7 +14161,6 @@ Stand: 23.04.2026 06:07
 ||uniquepharmaceuticals.com^
 ||unirockgestion.com^
 ||unisonmen.de^
-||uniswap.click^
 ||uniswap.host^
 ||uniswap.ro^
 ||uniswapagent.com^

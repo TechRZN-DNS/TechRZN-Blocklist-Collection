@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 24.04.2026 06:09
+Stand: 24.04.2026 13:22
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -1172,6 +1172,7 @@ Stand: 24.04.2026 06:09
 ||balfourcapitalgroup.com^
 ||balinvest-ch.com^
 ||balitaberlin.de^
+||balkongluck.com^
 ||balloret.com^
 ||ballszone.de^
 ||balony.de^
@@ -1888,6 +1889,7 @@ Stand: 24.04.2026 06:09
 ||booster-lastminute.com^
 ||bootsde.com^
 ||bootsprofi.com^
+||booxshop.de^
 ||boridashop.de^
 ||boroconcept.com^
 ||borpillshop.com^
@@ -2461,6 +2463,7 @@ Stand: 24.04.2026 06:09
 ||chicvo.com^
 ||chicwells.de^
 ||chikepod.com^
+||childeducationalshop.com^
 ||childsafetyseat-shop.com^
 ||chillgod.com^
 ||chilllady.com^
@@ -2777,6 +2780,7 @@ Stand: 24.04.2026 06:09
 ||coselle.eu^
 ||cosmeticcareclub.com^
 ||cosmeticshop.store^
+||cosmeticshopcenter.com^
 ||cosmopoint.de^
 ||cosmoscrisp.com^
 ||cosmozone.de^
@@ -3503,6 +3507,7 @@ Stand: 24.04.2026 06:09
 ||doh-gov.ph^
 ||dohahotel24.com^
 ||dohealths.com^
+||dokumentenkaufen.eu^
 ||dolaxe.com^
 ||dolceamara.com^
 ||dolcevitashoe.com^
@@ -4397,6 +4402,7 @@ Stand: 24.04.2026 06:09
 ||fahrradhandel-daempfle.de^
 ||fahrradhandel-hartmann.de^
 ||fahrradhandel-kappler.de^
+||fahrradhandel-koumagnon.de^
 ||fahrradhandel-kramer.de^
 ||fahrradhandel-krause.de^
 ||fahrradhandel-martin.de^
@@ -4480,6 +4486,7 @@ Stand: 24.04.2026 06:09
 ||fancyclothing.de^
 ||fancygrab.com^
 ||fanmalls.de^
+||fanskicke.com^
 ||fantasys.shop^
 ||fantomfinanzen.com^
 ||fanwish.cn^
@@ -5883,6 +5890,7 @@ Stand: 24.04.2026 06:09
 ||haberfasher.com^
 ||habitataro.com^
 ||habitatero.com^
+||habitatovae.com^
 ||habitatsoleil.com^
 ||habitualn.com^
 ||habitualy.com^
@@ -5965,6 +5973,7 @@ Stand: 24.04.2026 06:09
 ||hannelore.shop^
 ||hannover-mode.de^
 ||hannoverebike.de^
+||hans-engelke-energie.de^
 ||hans-fahrradhaus.de^
 ||hans-pick.de^
 ||hanse-consol.de^
@@ -7055,6 +7064,7 @@ Stand: 24.04.2026 06:09
 ||ipgatetrade.pro^
 ||iphone.quiztionnaire.biz^
 ||iprimmo.com^
+||iptvanbieter.at^
 ||iptvdutch.store^
 ||ipuroangebote.com^
 ||ipv6.claveliere-holding.com^
@@ -7467,6 +7477,7 @@ Stand: 24.04.2026 06:09
 ||kauffahrradzubehoer.com^
 ||kaufhardware.com^
 ||kaufhausaccessoires.com^
+||kaufhaushamburg.com^
 ||kaufhausonline.com^
 ||kaufhaussupermarkt.com^
 ||kaufhaustier.com^
@@ -8151,6 +8162,7 @@ Stand: 24.04.2026 06:09
 ||lidleurireland.com^
 ||lidlhh.shop^
 ||lidlpalace.com^
+||lidlpp.shop^
 ||lidnz.shop^
 ||lidora.de^
 ||lidou.shop^
@@ -9896,6 +9908,7 @@ Stand: 24.04.2026 06:09
 ||noclegipolanczyk.pl^
 ||nofish.org^
 ||nofotballshop.com^
+||nofs.online^
 ||nofsclothing.de^
 ||nogentais.finance^
 ||nograinmedia.com^
@@ -9943,7 +9956,6 @@ Stand: 24.04.2026 06:09
 ||northvapeusa.com^
 ||northwaveoff.com^
 ||northwestpharmacy.com^
-||norwayhotel.net^
 ||norxonline.biz^
 ||nosdaarte.com^
 ||not-bad.shop^
@@ -10754,6 +10766,7 @@ Stand: 24.04.2026 06:09
 ||pesos-shop.de^
 ||petbloom.de^
 ||peterjeskouhren.de^
+||peterkenkelgruppe.de^
 ||petfoodedeals.com^
 ||petfuttershop.com^
 ||petgroomingdeal.com^
@@ -11628,7 +11641,6 @@ Stand: 24.04.2026 06:09
 ||rheinkuss-handel24.de^
 ||rhineritz.de^
 ||rhode.co.at^
-||rhodeshotel24.com^
 ||ri-lieeoodu.com^
 ||ricadihotelspage.com^
 ||ricasrucksack.com^
@@ -12841,6 +12853,7 @@ Stand: 24.04.2026 06:09
 ||spowo.at^
 ||sprachgenie.at^
 ||sprayitonyou.com^
+||sprengler-direkt.de^
 ||spring4sale.com^
 ||springalo.myshopify.com^
 ||springclearance.club^
@@ -13047,7 +13060,6 @@ Stand: 24.04.2026 06:09
 ||streichduft.de^
 ||strengtheng.com^
 ||strengtheng.de^
-||strenuus-capital.com^
 ||stresstherapy.de^
 ||stretsure.com^
 ||streurmann.de^
@@ -13256,6 +13268,7 @@ Stand: 24.04.2026 06:09
 ||sylvieboutique.de^
 ||symbiosiswellbeing.com^
 ||symbolberlin.com^
+||syntek-ai.app^
 ||synthesizestylish.com^
 ||synthplatformtrust.click^
 ||syrokan.com^
@@ -13674,6 +13687,7 @@ Stand: 24.04.2026 06:09
 ||tjmrxp.shop^
 ||tk-eurituals.shop^
 ||tk-kontor.de^
+||tkensure.top^
 ||tkkfrms.net^
 ||tkonline.shop^
 ||tkpelletsgmbh.de^
@@ -14566,6 +14580,7 @@ Stand: 24.04.2026 06:09
 ||vintross.de^
 ||vinylcollectordeeu.shop^
 ||vinylcollectordepop.shop^
+||vinylrecordmall.com^
 ||vionicmexico.com^
 ||vionicschuhe.de^
 ||vionicshoesportugal.com^
@@ -14600,7 +14615,6 @@ Stand: 24.04.2026 06:09
 ||visionfancyclothing.com^
 ||visionfx.me^
 ||visioninvesti.com^
-||visitaserbia.com^
 ||visualframe.de^
 ||visualizem.com^
 ||visumbuitenland.nl^
@@ -14935,6 +14949,7 @@ Stand: 24.04.2026 06:09
 ||wellzy.de^
 ||welpenhimmel.de^
 ||welpenkaufen.at^
+||welpentraum.de^
 ||weltbibliothek.com^
 ||weltshop24.com^
 ||weltteppiche.com^

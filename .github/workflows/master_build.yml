@@ -16,7 +16,6 @@ on:
   
   workflow_dispatch:
 
-# --- HIER IST DER FIX FÜR DIE GELBE WARNUNG ---
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
@@ -25,13 +24,15 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      # WICHTIG: Erlaubnis zum Senden des Dependency-Snapshots hinzufügen
+      id-token: write
 
     steps:
       - name: 🛰️ Repository auschecken
         uses: actions/checkout@v4
         with:
-          ref: main           # FIX: Erzwingt den main-Branch
-          fetch-depth: 0      # FIX: Verhindert detached HEAD
+          ref: main
+          fetch-depth: 0
 
       - name: 🐍 Python einrichten
         uses: actions/setup-python@v5
@@ -41,13 +42,21 @@ jobs:
       - name: 📦 Abhängigkeiten installieren
         run: pip install requests
 
+      # --- NEUER SCHRITT: DEPENDENCY SUBMISSION ---
+      - name: 🛡️ Abhängigkeiten an GitHub Security melden
+        uses: mscoutermarsh/python-dependency-submission-action@v0.0.1
+        with:
+          # Scannt dein Repo nach requirements.txt oder pyproject.toml
+          pkg-manager: pip
+      # --------------------------------------------
+
       - name: 🛠️ Master-Liste bauen
         run: python scripts/build.py
 
       - name: 💾 Änderungen speichern (Commit & Push)
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          branch: main        # FIX: Ziel-Branch explizit angeben
+          branch: main
           commit_message: "build: Filter-Listen v1.2.0 aktualisiert [bot]"
           file_pattern: 'blocklists/*.txt Whitelists/*.txt'
           push_options: '--force'

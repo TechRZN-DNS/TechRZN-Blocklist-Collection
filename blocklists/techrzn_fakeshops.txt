@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 25.04.2026 05:50
+Stand: 25.04.2026 09:43
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -127,6 +127,7 @@ Stand: 25.04.2026 05:50
 ||abm-industrie.com^
 ||abodeare.com^
 ||abodeena.com^
+||abodeene.com^
 ||aboveinvesting.pro^
 ||abrahamr.com^
 ||abrisphere.com^
@@ -6475,7 +6476,6 @@ Stand: 25.04.2026 05:50
 ||hotdebrid.com^
 ||hotel-ds.com^
 ||hotelaustralien.de^
-||hotelinphuket.net^
 ||hotelladen.com^
 ||hotels-colombo.com^
 ||hotels-colorado.net^
@@ -9232,6 +9232,7 @@ Stand: 25.04.2026 05:50
 ||motorrader24.de^
 ||motorraderhelme.de^
 ||motorraders.de^
+||motorradking.com^
 ||motorradoutfit.com^
 ||motorradteileonline.com^
 ||motorradteileshop.com^
@@ -9791,6 +9792,8 @@ Stand: 25.04.2026 05:50
 ||northvapeusa.com^
 ||northwaveoff.com^
 ||northwestpharmacy.com^
+||norvahaus.de^
+||norwayhotel.net^
 ||norxonline.biz^
 ||nosdaarte.com^
 ||not-bad.shop^
@@ -10826,6 +10829,7 @@ Stand: 25.04.2026 05:50
 ||pool-shop-de.com^
 ||poolbay.de^
 ||poolchlorrabatt.com^
+||poolfreunde.com^
 ||poolina.de^
 ||poolsaunasupply.com^
 ||popbosch.com^
@@ -11453,6 +11457,7 @@ Stand: 25.04.2026 05:50
 ||rheinkuss-handel24.de^
 ||rhineritz.de^
 ||rhode.co.at^
+||rhodeshotel24.com^
 ||ri-lieeoodu.com^
 ||ricadihotelspage.com^
 ||ricasrucksack.com^
@@ -12660,6 +12665,7 @@ Stand: 25.04.2026 05:50
 ||squeezetoys.de^
 ||squidcow.com^
 ||srprisk.com^
+||srylab.bio^
 ||srzsnkrs.com^
 ||ss888.shop^
 ||ssceuns.shop^
@@ -13704,6 +13710,7 @@ Stand: 25.04.2026 05:50
 ||traxxas-de.com^
 ||treasureeshop.de^
 ||treasuresshop.top^
+||treemexholz.de^
 ||tremel.at^
 ||trencystore.com^
 ||trend-fuchs.de^
@@ -14710,10 +14717,12 @@ Stand: 25.04.2026 05:50
 ||werisee.com^
 ||werk-garten.de^
 ||werk-werkzeuge.com^
+||werkbedarf24.de^
 ||werkboxpro.com^
 ||werke-anhangers.com^
 ||werkerswelt-moelln.de^
 ||werkgeist.com^
+||werkora-industrial.com^
 ||werkvoorraden.com^
 ||werkzeug-haus.de^
 ||werkzeug-salesshop.com^
@@ -14796,6 +14805,7 @@ Stand: 25.04.2026 05:50
 ||wildlingshoesuk.com^
 ||wildschlaf.com^
 ||wilhelmfoodshop.com^
+||wilkesarahwelpen.de^
 ||willintter.shop^
 ||wilson.co.at^
 ||wilsonsquare.com^

@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 25.04.2026 10:47
+Stand: 26.04.2026 06:08
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -633,7 +633,6 @@ Stand: 25.04.2026 10:47
 ||animalsbaby.com^
 ||animefigure.de^
 ||animefigureworld.com^
-||animeshoppers.com^
 ||ankerflowtech.shop^
 ||ankerkrautde.shop^
 ||ankotec.de^
@@ -1072,7 +1071,6 @@ Stand: 25.04.2026 10:47
 ||azfittings-shop.com^
 ||azsolver.com^
 ||azuremodule.com^
-||azvclothing.com^
 ||azzunto.de^
 ||b-und-h.com^
 ||b196kaufen.de^
@@ -2544,7 +2542,6 @@ Stand: 25.04.2026 10:47
 ||cloudtritt.de^
 ||clpmobelrabatt.com^
 ||cluckergifts.ecwid.com^
-||cma88.vip^
 ||cmccapital.net^
 ||cmchbhopal.com^
 ||cmoboy.com^
@@ -2748,6 +2745,7 @@ Stand: 25.04.2026 10:47
 ||coviviocapital.com^
 ||cowboybootsnew.com^
 ||cozeymaison.de^
+||cozychicretreat.com^
 ||cozyhoome.com^
 ||cozysleepzone.com^
 ||cp24.pl^
@@ -3396,7 +3394,6 @@ Stand: 25.04.2026 10:47
 ||distinguishm.com^
 ||distributem.com^
 ||distrochooser.snehit.dev^
-||diteringion.com^
 ||dithclerk.com^
 ||dittmarwerkzeuge.com^
 ||divine-group.io^
@@ -4683,6 +4680,7 @@ Stand: 25.04.2026 10:47
 ||fitflopparis.net^
 ||fitgirl-repacks-site.org^
 ||fitgirl-repacks.download^
+||fitgirl-repacks.vip^
 ||fitiwelt.com^
 ||fitliebe.de^
 ||fitness-7.de^
@@ -5097,7 +5095,6 @@ Stand: 25.04.2026 10:47
 ||gamingbuddy.eu^
 ||gamingbuffs.com^
 ||gamingonline.store^
-||gamingtoolz.club^
 ||gammsey.com^
 ||gannioutlet.de^
 ||ganti-mode.de^
@@ -8306,7 +8303,6 @@ Stand: 25.04.2026 10:47
 ||luckyledge.com^
 ||luckyyise.com^
 ||lucrabot-gpt.net^
-||lucysstyle.com^
 ||ludwigmaria.at^
 ||luffglasses.com^
 ||luiliebeeu.shop^
@@ -9700,7 +9696,6 @@ Stand: 25.04.2026 10:47
 ||ninoplay.de^
 ||ninthcit.de^
 ||nioekure.com^
-||nip1.com^
 ||nip17.com^
 ||nip2.com^
 ||nip24.com^
@@ -10672,6 +10667,7 @@ Stand: 25.04.2026 10:47
 ||photo-schmiede24.de^
 ||photoschneider.de^
 ||photovoltaikprofis.de^
+||phpmyadmin.staging.demo.www1.transaction-processing.one^
 ||physicalg.com^
 ||physichope.com^
 ||physicisti.com^
@@ -13135,6 +13131,7 @@ Stand: 25.04.2026 10:47
 ||tcomplex.de^
 ||tddexpresslogistics.com^
 ||tdglobalcompany.io^
+||tdgrop168.vip^
 ||tdxsz.com^
 ||te.de^
 ||teachbrigh.com^

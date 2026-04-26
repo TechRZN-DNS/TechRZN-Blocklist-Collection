@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 26.04.2026 06:08
+Stand: 26.04.2026 21:31
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -289,7 +289,6 @@ Stand: 26.04.2026 06:08
 ||ahhaaaa.shop^
 ||ahyokaboutique.com^
 ||ai-energy.net^
-||ai-horoskope.de^
 ||ai.55aiagents.com^
 ||aiapp2025.com^
 ||aichaintrader.com^
@@ -502,7 +501,6 @@ Stand: 26.04.2026 06:08
 ||alpstep.com^
 ||alro-stahlbau.de^
 ||alsara-online.de^
-||alstran-spedition.com^
 ||alta-roc.de^
 ||altaprotect.com^
 ||altenlaw.de^
@@ -735,7 +733,6 @@ Stand: 26.04.2026 06:08
 ||appolvintop.click^
 ||appreciatil.com^
 ||approvaln.com^
-||approve-reservation-euro.com^
 ||apps-4-you.net^
 ||appvalidation.com^
 ||appworldng.com^
@@ -2336,7 +2333,6 @@ Stand: 26.04.2026 06:08
 ||cescory.com^
 ||ceska-lekarna.com^
 ||ceskaonlinelekarna.com^
-||cfd.diamond-tradeltd.com^
 ||cfdtc.com^
 ||cftmarteorvers.com^
 ||cfxfund.com^
@@ -2745,7 +2741,6 @@ Stand: 26.04.2026 06:08
 ||coviviocapital.com^
 ||cowboybootsnew.com^
 ||cozeymaison.de^
-||cozychicretreat.com^
 ||cozyhoome.com^
 ||cozysleepzone.com^
 ||cp24.pl^
@@ -3801,7 +3796,6 @@ Stand: 26.04.2026 06:08
 ||elektora.de^
 ||elektricworld24.de^
 ||elektriker-hilfe.at^
-||elektriker-hoffmeyer.de^
 ||elektriker-koc.at^
 ||elektriker-notdienstwien.com^
 ||elektriker.lindens.at^
@@ -5836,7 +5830,6 @@ Stand: 26.04.2026 06:08
 ||handelcfx.com^
 ||handelsartikel.com^
 ||handelshaus-buchem.de^
-||handelsnation.com^
 ||handelsplanetdeutschland.de^
 ||handlebarprada.com^
 ||handlemylife.info^
@@ -5852,7 +5845,6 @@ Stand: 26.04.2026 06:08
 ||handtoolworld.com^
 ||handwerker-katalog.net^
 ||handwerkzeugshop.com^
-||handy-horoskope.de^
 ||handylocate.com^
 ||handyorten.de^
 ||handyprotool.com^
@@ -6473,6 +6465,7 @@ Stand: 26.04.2026 06:08
 ||hotdebrid.com^
 ||hotel-ds.com^
 ||hotelaustralien.de^
+||hotelinphuket.net^
 ||hotelladen.com^
 ||hotels-colombo.com^
 ||hotels-colorado.net^
@@ -7276,8 +7269,6 @@ Stand: 26.04.2026 06:08
 ||kaminholzbeumer.de^
 ||kaminholzmoppel-de.com^
 ||kaminoland.de^
-||kammerjaeger-fischer.de^
-||kammerjaeger-hoffmeyer.de^
 ||kammerjaeger-notruf.at^
 ||kamodygarten.de^
 ||kamoni.de^
@@ -7648,7 +7639,6 @@ Stand: 26.04.2026 06:08
 ||kredit-pro.com^
 ||kreditberatungs.de^
 ||kreditfuralle.com^
-||kredithaus24.eu^
 ||kreditwizard.com^
 ||kremer-mode.de^
 ||krimisthriller.com^
@@ -10047,7 +10037,6 @@ Stand: 26.04.2026 06:08
 ||olivercabelldeutschland.de^
 ||olivespielzeug.com^
 ||oliviamoreau.de^
-||olivias-horoskope.de^
 ||olley.ch^
 ||olukaiosterreich.at^
 ||olyava.com^
@@ -11838,7 +11827,6 @@ Stand: 26.04.2026 06:08
 ||saycom.net^
 ||saynthesis.com^
 ||sbikeparts.com^
-||sbk-hoffmeyer.de^
 ||scandifurn.com^
 ||scannero.io^
 ||scarpejoya.com^
@@ -13048,7 +13036,6 @@ Stand: 26.04.2026 06:08
 ||sylvieboutique.de^
 ||symbiosiswellbeing.com^
 ||symbolberlin.com^
-||syntek-ai.app^
 ||synthesizestylish.com^
 ||synthplatformtrust.click^
 ||syrokan.com^
@@ -14373,7 +14360,7 @@ Stand: 26.04.2026 06:08
 ||visionauto-solution.com^
 ||visionfancyclothing.com^
 ||visionfx.me^
-||visioninvesti.com^
+||visitaserbia.com^
 ||visualframe.de^
 ||visumbuitenland.nl^
 ||visvishengelsnl.com^

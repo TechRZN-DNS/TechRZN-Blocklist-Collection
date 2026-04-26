@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 26.04.2026 06:08
+Stand: 26.04.2026 21:31
 
 ||0.6gpaactivities.bastaff.ru^
 ||0.6gpaactivities.pce-cihazlari.com.tr^
@@ -2700,6 +2700,7 @@ Stand: 26.04.2026 06:08
 ||bright-vpn.help^
 ||bright4good.eco^
 ||brightcoding.hotelconsuladoinn.com^
+||brightdata-app-production-app-bucket.s3.us-east-1.amazonaws.com^
 ||brightdata.com^
 ||brightfuture.bostoncareercounselor.com^
 ||brightfuture.ltu.one.pl^

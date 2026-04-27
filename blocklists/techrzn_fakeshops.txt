@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 26.04.2026 21:31
+Stand: 27.04.2026 06:29
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -347,7 +347,6 @@ Stand: 26.04.2026 21:31
 ||aktion-motorrad.de^
 ||aktionheizung.de^
 ||aktivimfreien.com^
-||akulaku.me^
 ||akustikholz.shop^
 ||al-nassr.shop^
 ||al-nassr.store^
@@ -1737,6 +1736,7 @@ Stand: 26.04.2026 21:31
 ||blaudonu.de^
 ||blaue-dragoner.de^
 ||blaujade.com^
+||blaunexus.inc^
 ||blazertokids.com^
 ||blibean.com^
 ||blikeuhij.click^
@@ -2126,7 +2126,6 @@ Stand: 26.04.2026 21:31
 ||calmstructure.com^
 ||calorie-active.ernahrungsweg.de^
 ||caloubois.com^
-||caly-film.cc^
 ||cameogmbh.de^
 ||cameragearshop.de^
 ||cameraverse.de^
@@ -2158,7 +2157,6 @@ Stand: 26.04.2026 21:31
 ||canada-pharmacy-24h.com^
 ||canadadrugstore.com^
 ||canadanewsreport.com^
-||canadapharmacyonline.com^
 ||canadapharmacypro.com^
 ||canadapharmacytrust.net^
 ||canadasale365.com^
@@ -2968,6 +2966,7 @@ Stand: 26.04.2026 21:31
 ||davanu.com^
 ||daveamor.us^
 ||daveintheshop.com^
+||davelectro.com^
 ||davesbiomarkt.de^
 ||davidbeckershop.de^
 ||davinci-wear.com^
@@ -3356,7 +3355,6 @@ Stand: 26.04.2026 21:31
 ||direkte-verarbeitung.site^
 ||dirkuhren.de^
 ||dirndlzeit.de^
-||dischargebackhanded.com^
 ||disciplineh.com^
 ||disciplinem.com^
 ||discount-audio-equipment.com^
@@ -3427,6 +3425,7 @@ Stand: 26.04.2026 21:31
 ||dogsdreamaustria.at^
 ||dogsmopolitanshopeu.shop^
 ||dogzy.de^
+||doh-gov.com^
 ||doh-gov.ph^
 ||dohahotel24.com^
 ||dohealths.com^
@@ -3891,6 +3890,7 @@ Stand: 26.04.2026 21:31
 ||ema-schmuck.com^
 ||emamold.com^
 ||emaschmuck.com^
+||emberio.com^
 ||embertime.com^
 ||embrellar.de^
 ||emeingarten24.com^
@@ -4674,7 +4674,6 @@ Stand: 26.04.2026 21:31
 ||fitflopparis.net^
 ||fitgirl-repacks-site.org^
 ||fitgirl-repacks.download^
-||fitgirl-repacks.vip^
 ||fitiwelt.com^
 ||fitliebe.de^
 ||fitness-7.de^
@@ -9473,7 +9472,7 @@ Stand: 26.04.2026 21:31
 ||navi39.ru^
 ||navi4.com^
 ||navi42.ru^
-||navi45.ru^
+||navi44.com^
 ||navi5.com^
 ||navi52.com^
 ||navi53.com^
@@ -10015,6 +10014,7 @@ Stand: 26.04.2026 21:31
 ||oils-natural.eu^
 ||oiltrex.de^
 ||oins.shop^
+||ojlkimed.vip^
 ||ojoro-tech.de^
 ||okatode.com^
 ||okbon.de^
@@ -10656,7 +10656,6 @@ Stand: 26.04.2026 21:31
 ||photo-schmiede24.de^
 ||photoschneider.de^
 ||photovoltaikprofis.de^
-||phpmyadmin.staging.demo.www1.transaction-processing.one^
 ||physicalg.com^
 ||physichope.com^
 ||physicisti.com^
@@ -10702,7 +10701,6 @@ Stand: 26.04.2026 21:31
 ||pintaro.de^
 ||pipecigardiscount.com^
 ||pipelineroster.com^
-||pipopi.com^
 ||piragroup.com^
 ||piratedrive.com^
 ||piscineria.shop^
@@ -13078,6 +13076,7 @@ Stand: 26.04.2026 21:31
 ||tallerfelix.com^
 ||tamed-exotics.com^
 ||tandexo.com^
+||tanganyassetmanagement.com^
 ||tangent-capital.pro^
 ||tangobonn.de^
 ||tanner-shoes.com^
@@ -13118,7 +13117,6 @@ Stand: 26.04.2026 21:31
 ||tcomplex.de^
 ||tddexpresslogistics.com^
 ||tdglobalcompany.io^
-||tdgrop168.vip^
 ||tdxsz.com^
 ||te.de^
 ||teachbrigh.com^
@@ -13155,7 +13153,6 @@ Stand: 26.04.2026 21:31
 ||tedbakeroutletsuomi.com^
 ||tedbakersuomi.net^
 ||teddith.co.uk^
-||teearrow.com^
 ||teenovi.com^
 ||tees-hip.com^
 ||teetassenstore.com^
@@ -14578,7 +14575,6 @@ Stand: 26.04.2026 21:31
 ||watchharbor.de^
 ||watchly.top^
 ||watchmark.shop^
-||watchseniorfit.com^
 ||waterdrop-osterreich.at^
 ||watermotionod.com^
 ||watersportsgalaxy.com^
@@ -14586,7 +14582,6 @@ Stand: 26.04.2026 21:31
 ||wattcafe.fr^
 ||watteimall.com^
 ||waveriderco.com^
-||wavetshirt.com^
 ||waworld.de^
 ||waxify.de^
 ||wayofwade.at^

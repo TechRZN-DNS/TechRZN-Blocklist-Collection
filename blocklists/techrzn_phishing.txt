@@ -1,5 +1,5 @@
 ### TechRZN - PHISHING ###
-Stand: 28.04.2026 15:00
+Stand: 28.04.2026 15:02
 
 ||0-1-x.16215785.xyz^
 ||0-1-x.26215785.xyz^
@@ -41539,6 +41539,7 @@ Stand: 28.04.2026 15:00
 ||click-theo.com^
 ||click.kit-mail6.com^
 ||click.meetwo.de^
+||click.pstmrk.it^
 ||click.swiftpage.marketing^
 ||click.trbope.com^
 ||click.trecipol.com^
@@ -84159,6 +84160,7 @@ Stand: 28.04.2026 15:00
 ||linkshopho.shop^
 ||linkslotjos.online^
 ||linkspull.sbs^
+||linksredirect.com^
 ||linksta.cc^
 ||linktechglobal.com^
 ||linktrauberks.info^
@@ -141680,6 +141682,7 @@ Stand: 28.04.2026 15:00
 ||trjls.com^
 ||trjt-mrl2703.pro^
 ||trk-mkt.tason.com^
+||trk.affapp.io^
 ||trk.aldtellafriends.com^
 ||trk.socialdemokrat.info^
 ||trkamepn.com^

@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 28.04.2026 15:00
+Stand: 28.04.2026 15:02
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -13262,6 +13262,7 @@ Stand: 28.04.2026 15:00
 ||ad.belleeau.jp^
 ||ad.csr11.net.daraz.com^
 ||ad.csr41.application.net.daraz.com^
+||ad.doubleclick.net^
 ||ad.e-dpe.jp^
 ||ad.ehello.jp^
 ||ad.hoikushibank.com^
@@ -14855,6 +14856,7 @@ Stand: 28.04.2026 15:00
 ||affiliate.levsalonu.cz^
 ||affiliate.lg-store.cz^
 ||affiliate.licit.cz^
+||affiliate.logitravel.com^
 ||affiliate.luxor.cz^
 ||affiliate.marketingminer.com^
 ||affiliate.martinchudy.sk^
@@ -17933,6 +17935,7 @@ Stand: 28.04.2026 15:00
 ||app-measurement.com^
 ||app-stats.supernotes.app^
 ||app-www.rgsdocker.net.daraz.com^
+||app.adjust.com^
 ||app.albertina.at^
 ||app.api-static-stage.net.daraz.com^
 ||app.chaarmant.at^
@@ -24678,6 +24681,7 @@ Stand: 28.04.2026 15:00
 ||ch.credithypo.com^
 ||ch.drs.wa.gov^
 ||ch.sharpmarketing.eu^
+||ch0p.darty.com^
 ||ch1.luxbridgenetwork.com^
 ||chakoblog-bollyshare.net.daraz.com^
 ||challenge-stage.joatoon.net.daraz.com^
@@ -26790,6 +26794,7 @@ Stand: 28.04.2026 15:00
 ||csdpn.hurraheroes.mx^
 ||csdri.gardner-white.com^
 ||csdrnf.a24.kr^
+||cse3.chausport.com^
 ||csebt.bloomist.com^
 ||csengb.manfredijewels.com^
 ||csghyg.reginaclinic.jp^
@@ -30009,6 +30014,8 @@ Stand: 28.04.2026 15:00
 ||data.diariovasco.com^
 ||data.diekuechedirekt.de^
 ||data.digital.adobe.com^
+||data.digital.costco.ca^
+||data.digital.costco.com^
 ||data.digitalcampusvorarlberg.at^
 ||data.digitalmedia.adobe.com^
 ||data.diks.net^
@@ -34462,6 +34469,7 @@ Stand: 28.04.2026 15:00
 ||eulerian.tgv-europe.nl^
 ||eulerian.thalasseo.com^
 ||eulerian.voyage-prive.com^
+||eultech.fnac.com^
 ||eumarketing.sedgwick.com^
 ||eunzi.beistravel.com^
 ||euomc.pcaskin.com^
@@ -36782,6 +36790,7 @@ Stand: 28.04.2026 15:00
 ||google-csr31.net.daraz.com^
 ||google00d70000000motieas.net.daraz.com^
 ||googleads.g.doubleclick.net^
+||googleadservices.com^
 ||goose.accountsjs.com^
 ||goose.markerchase.com^
 ||goose.surfboardpayments.com^
@@ -56177,6 +56186,7 @@ Stand: 28.04.2026 15:00
 ||marketing.tourismwinnipeg.com^
 ||marketing.toxicology.abbott^
 ||marketing.toyotaofeasley.com^
+||marketing.tr.netsalesmedia.pl^
 ||marketing.trackmarketing.net^
 ||marketing.transcore.com^
 ||marketing.transitair.com^
@@ -65258,7 +65268,11 @@ Stand: 28.04.2026 15:00
 ||r-is-1-2.net.daraz.com^
 ||r-oa-1.net.daraz.com^
 ||r-oa-2.net.daraz.com^
+||r.akipam.com^
 ||r.hokodo.co^
+||r.jakuli.com^
+||r.lafamo.com^
+||r.powuta.com^
 ||r.readyhow.com^
 ||r.studiosarte.com^
 ||r.tt.omtrdc.net^
@@ -91158,6 +91172,7 @@ Stand: 28.04.2026 15:00
 ||target.mercolamarket.com^
 ||target.miaprova.com^
 ||target.microchip.com^
+||target.microsoft.com^
 ||target.monaco.pwc.fr^
 ||target.myhealthtoolkit.com^
 ||target.myparliament.com^
@@ -97154,6 +97169,7 @@ Stand: 28.04.2026 15:00
 ||vfljt.coffeeandmotivation.com^
 ||vfmahn.slevomat.cz^
 ||vfnab.vegamour.com^
+||vfo.voyage-prive.co.uk^
 ||vfo4.carrefour-banque.fr^
 ||vfoycy.nhk-ep.com^
 ||vfp.intuit.com^

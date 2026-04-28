@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 28.04.2026 15:00
+Stand: 28.04.2026 15:02
 
 ||0.6gpaactivities.bastaff.ru^
 ||0.6gpaactivities.pce-cihazlari.com.tr^
@@ -6667,6 +6667,7 @@ Stand: 28.04.2026 15:00
 ||evoproxy.net^
 ||evovpn.app^
 ||evpn.net^
+||evyy.net^
 ||ewantt.net^
 ||ewanw15.net^
 ||ewanwzz.net^

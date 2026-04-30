@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 29.04.2026 06:25
+Stand: 30.04.2026 06:29
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -22250,6 +22250,7 @@ Stand: 29.04.2026 06:25
 ||backoffice.verintsystemsinc.com^
 ||backpackworldstage-stage.captchaclub.net.daraz.com^
 ||backpackworldstage.net.daraz.com^
+||backtension.com^
 ||backup-authenticate.net.daraz.com^
 ||backup-patnercgi.net.daraz.com^
 ||backup.006-zigzagstr.net.daraz.com^
@@ -52064,6 +52065,7 @@ Stand: 29.04.2026 06:25
 ||intranet00d70000000motieas.net.daraz.com^
 ||intranetmarketingpush.net.daraz.com^
 ||intricateberry.com^
+||introjava.com^
 ||intuit.tt.omtrdc.net^
 ||intuition-agile-7.com^
 ||intuitioncreative-52.com^
@@ -72492,6 +72494,7 @@ Stand: 29.04.2026 06:25
 ||naqvv.astroguia.net^
 ||naranja.tt.omtrdc.net^
 ||narc-dc.actonservice.com^
+||narrativ.com^
 ||narthurmiddletoncapit.tt.omtrdc.net^
 ||naruk.saintluciferspice.com^
 ||naruspot.net.daraz.com^
@@ -74926,6 +74929,7 @@ Stand: 29.04.2026 06:25
 ||onoztg.ultimate-guitar.com^
 ||onpage.actonservice.com^
 ||onsgp.tryrecoverx.com^
+||onsitestats.bluecore.com^
 ||ontarioteacherspensi.tt.omtrdc.net^
 ||ontxgr.hofer-reisen.at^
 ||onupnu.edreams.com.au^
@@ -105131,7 +105135,6 @@ Stand: 29.04.2026 06:25
 ||stats.seesteg-norderney.de^
 ||stats.selectam.io^
 ||stats.semipol.de^
-||stats.sender.net^
 ||stats.sendngnt.com^
 ||stats.senty.com.au^
 ||stats.seriouscircus.com^

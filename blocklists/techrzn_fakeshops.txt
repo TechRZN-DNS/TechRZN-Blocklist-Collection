@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 29.04.2026 06:25
+Stand: 30.04.2026 06:29
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -505,6 +505,7 @@ Stand: 29.04.2026 06:25
 ||alpivogue.ch^
 ||alpstep.com^
 ||alro-stahlbau.de^
+||alsa-shop.de^
 ||alsara-online.de^
 ||alstran-spedition.com^
 ||alta-roc.de^
@@ -2933,6 +2934,7 @@ Stand: 29.04.2026 06:25
 ||dailog.de^
 ||daily-jewelry123.com^
 ||daily-option.com^
+||dailygermanshop.com^
 ||dailyjoy.shop^
 ||dailylifeyouth.de^
 ||dailyrosy.com^
@@ -3331,6 +3333,7 @@ Stand: 29.04.2026 06:25
 ||dgeyone.com^
 ||dghpts.com^
 ||dgtlfuture.com^
+||dhg-versand.de^
 ||dhrys.com^
 ||diaetolin.com^
 ||diaetoxil.de^
@@ -4402,7 +4405,6 @@ Stand: 29.04.2026 06:25
 ||fairvesta.de^
 ||fairyshomes.com^
 ||fairytalecreators.com^
-||fakeshop.at^
 ||faketasche.de^
 ||falinas.at^
 ||falinas.de^
@@ -5003,6 +5005,7 @@ Stand: 29.04.2026 06:25
 ||ftmxglobal.com^
 ||ftradition.com^
 ||ftrxvip.com^
+||fts-gmbhmaschine.com^
 ||ftzs.net^
 ||fu-ostholstein.de^
 ||fuchssolar.de^
@@ -5643,7 +5646,6 @@ Stand: 29.04.2026 06:25
 ||govmedcareers.com^
 ||gplate.de^
 ||gpslocatorphone.com^
-||gpt-definity.com^
 ||gpt-immediate.com^
 ||gpt55x.io^
 ||gr.gluconv.com^
@@ -5663,7 +5665,6 @@ Stand: 29.04.2026 06:25
 ||grandprixfactory.com^
 ||grandsoft.uz^
 ||grandwent.com^
-||granimator.live^
 ||grantaste.com^
 ||grapewinesales.com^
 ||graphad.xyz^
@@ -6005,6 +6006,7 @@ Stand: 29.04.2026 06:25
 ||haustierbedarfshop.com^
 ||haustiererabatt.com^
 ||haustiereshop.com^
+||haustierstolz.de^
 ||haustirwelten.de^
 ||hausture.com^
 ||hausundgarten.haus^
@@ -7399,6 +7401,7 @@ Stand: 29.04.2026 06:25
 ||kaufenozemp25mg.com^
 ||kauffahrradzubehoer.com^
 ||kaufhardware.com^
+||kaufhaus-pankratz.com^
 ||kaufhausaccessoires.com^
 ||kaufhaushamburg.com^
 ||kaufhausonline.com^
@@ -11232,6 +11235,7 @@ Stand: 29.04.2026 06:25
 ||rabattzelte.com^
 ||rabbeatsvapes.com^
 ||rabbit-fitness.de^
+||rabeagrigmbh.de^
 ||rabeinriver.de^
 ||raceoption.com^
 ||rachelentwistle-store.com^
@@ -12090,6 +12094,7 @@ Stand: 29.04.2026 06:25
 ||senzza.de^
 ||separaten.com^
 ||sepgoal.com^
+||sepkicks.com^
 ||seprun.com^
 ||serenadeutschland.de^
 ||serendiplty.com^
@@ -12465,6 +12470,7 @@ Stand: 29.04.2026 06:25
 ||snowboardprofi.com^
 ||snowfitgear.com^
 ||snowhow.shop^
+||snugist.com^
 ||so-hub.com^
 ||soapandmore.shop^
 ||sobipack-tech.de^
@@ -12756,6 +12762,7 @@ Stand: 29.04.2026 06:25
 ||stanlly-a.com^
 ||stanton-energie.de^
 ||stantonamarlberghotels.com^
+||staplerbatterien.de^
 ||star-apotheke.org^
 ||star-gamer.com^
 ||starcici.com^
@@ -12794,6 +12801,7 @@ Stand: 29.04.2026 06:25
 ||steinersalzburg.at^
 ||steinersalzburg.com^
 ||steinhaus-berlin.co^
+||steinkamp-container.com^
 ||steinkampbillig.com^
 ||stelcore-retail24.de^
 ||stella-zurich.com^
@@ -13090,6 +13098,7 @@ Stand: 29.04.2026 06:25
 ||swellsup.com^
 ||swevix.de^
 ||swiss-vests.com^
+||swissalpha.io^
 ||swissbitcoins.com^
 ||swisscoinco.com^
 ||swisslona.ch^
@@ -13982,6 +13991,7 @@ Stand: 29.04.2026 06:25
 ||unconstituted.com^
 ||uncut-market.com^
 ||undaektschn.de^
+||under-armour.com.de^
 ||underarmourchaussures.net^
 ||underarmourosterreich.com^
 ||underarmours-hrvatska.com^
@@ -14371,6 +14381,7 @@ Stand: 29.04.2026 06:25
 ||vienna-stil.at^
 ||viennaapartments.org^
 ||viennaaustrohotel.com^
+||viennameerschaum.com^
 ||viennastil.at^
 ||vientooffice.de^
 ||vierjahreszeitengarten.com^

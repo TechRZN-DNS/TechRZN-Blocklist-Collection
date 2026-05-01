@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 30.04.2026 06:29
+Stand: 01.05.2026 06:38
 
 ||0.6gpaactivities.bastaff.ru^
 ||0.6gpaactivities.pce-cihazlari.com.tr^
@@ -3663,6 +3663,7 @@ Stand: 30.04.2026 06:29
 ||crash1ytics.com^
 ||cratesg.top^
 ||crawlbase.com^
+||crawler.mobi^
 ||crazybrazytazyboatforthagoat.goat.chickenkiller.com^
 ||crazycattle3d.lol^
 ||crazycattle3d.lol.cdn.cloudflare.net^
@@ -6981,6 +6982,7 @@ Stand: 30.04.2026 06:29
 ||fastproxy-sj0.pages.dev^
 ||fastproxy.nl^
 ||fastproxy.org^
+||fastproxy.win^
 ||fastproxynetwork.com^
 ||fastpubg.com^
 ||fastpure.net^
@@ -13312,6 +13314,7 @@ Stand: 30.04.2026 06:29
 ||proxybrowser.xyz^
 ||proxybrowsing.com^
 ||proxybuss.com^
+||proxycell.app^
 ||proxycloud.net^
 ||proxycloyd.com^
 ||proxycompass.com^
@@ -13386,6 +13389,7 @@ Stand: 30.04.2026 06:29
 ||proxyshare.app^
 ||proxyshare.com^
 ||proxyshare.dev^
+||proxyshare.network^
 ||proxysheep.com^
 ||proxysite.cc^
 ||proxysite.cloud^
@@ -16098,6 +16102,7 @@ Stand: 30.04.2026 06:29
 ||tzzudzb.cn^
 ||u-kuailian.com.cn^
 ||u-proxy.com^
+||u2dpn.xyz^
 ||u8sj3.com^
 ||uabqnyzc.com^
 ||uaconnecter.click^

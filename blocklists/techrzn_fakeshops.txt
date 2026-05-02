@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 01.05.2026 06:38
+Stand: 02.05.2026 06:08
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -221,6 +221,7 @@ Stand: 01.05.2026 06:38
 ||adl.lreubk.shop^
 ||adl.okhxm.shop^
 ||adl.wiksh.shop^
+||adl.zixoko.shop^
 ||adler-energie.de^
 ||adllwyj67.wuhlzk.shop^
 ||adminicesm.life^
@@ -2200,7 +2201,6 @@ Stand: 01.05.2026 06:38
 ||canaryvacationhome.com^
 ||canbrace.com^
 ||candia-handel.de^
-||candlesbymadison.com^
 ||candlesselling.com^
 ||candykeysangebotes.com^
 ||canillogermany.com^
@@ -2481,6 +2481,7 @@ Stand: 01.05.2026 06:38
 ||civiliank.com^
 ||ciyuanshijie.com^
 ||cizmesorel.com^
+||ckkebt.shop^
 ||cklogi.de^
 ||cklogistik.de^
 ||claimshub.xyz^
@@ -2752,6 +2753,7 @@ Stand: 01.05.2026 06:38
 ||cosplayshow.com^
 ||cosplayverkauf.com^
 ||cotsrabatt.de^
+||cottagoshop.com^
 ||cottanest.com^
 ||cottline.com^
 ||cottonshoesshop.com^
@@ -3097,6 +3099,7 @@ Stand: 01.05.2026 06:38
 ||decentake.com^
 ||decisionw.com^
 ||deckcalmn.com^
+||decohousely.com^
 ||decokento.com^
 ||decookware.com^
 ||decoopy.com^
@@ -4664,6 +4667,7 @@ Stand: 01.05.2026 06:38
 ||finarixisx.de^
 ||finasport.de^
 ||finaurex.com^
+||finca-selection.com^
 ||fincacheck.com^
 ||finchmarkets.com^
 ||finconnect.fr^
@@ -4976,7 +4980,6 @@ Stand: 01.05.2026 06:38
 ||fribooverkauf.com^
 ||friday89.com^
 ||friday99.com^
-||fridaylocalmanager.duckdns.org^
 ||frieda-taschen.de^
 ||friedaskitchen.de^
 ||friedberg-mode.de^
@@ -5454,6 +5457,7 @@ Stand: 01.05.2026 06:38
 ||giesswein-outdoor.de^
 ||giesswein.ro^
 ||giesswein.shop^
+||giessweinno.com^
 ||giessweins.it^
 ||giessweinschuhe.com^
 ||giessweinsneaker.com^
@@ -7018,7 +7022,6 @@ Stand: 01.05.2026 06:38
 ||iq-online-test.com^
 ||iqcenter.net^
 ||iqcheckup.com^
-||iqcreditcheck.com^
 ||iqfleet.de^
 ||iqmind.co^
 ||iqtradeoptions.com^
@@ -7617,6 +7620,7 @@ Stand: 01.05.2026 06:38
 ||klum-braun.de^
 ||kluthbaustoffeeu.shop^
 ||klynu.com^
+||km-baumarkt.de^
 ||kmgr-shop.com^
 ||kmncvsdou.shop^
 ||kms-pc.com^
@@ -8444,6 +8448,7 @@ Stand: 01.05.2026 06:38
 ||luxeinvesting.com^
 ||luxeparfum.co.uk^
 ||luxeron.de^
+||luxevibehub.com^
 ||luxfi.de^
 ||luxhause.de^
 ||luxmaher.at^
@@ -8774,6 +8779,7 @@ Stand: 01.05.2026 06:38
 ||medzrezeptfrei.com^
 ||meertickets.de^
 ||meetcurve.de^
+||meetdo.waraid.shop^
 ||meetfigure.com^
 ||mega-heritage.com^
 ||mega-kino.pl^
@@ -9085,6 +9091,7 @@ Stand: 01.05.2026 06:38
 ||mobelsverkauf.com^
 ||mobelzauber.com^
 ||mobelzuhause.com^
+||mobetrix.com^
 ||mobile-find.mobi^
 ||mobile-wellnessoase.de^
 ||mobile.visc.top^
@@ -9630,6 +9637,7 @@ Stand: 01.05.2026 06:38
 ||nestleovae.com^
 ||nestmypad.com^
 ||nestrack.shop^
+||nestscapehub.com^
 ||nestyheim.de^
 ||net-investissement.net^
 ||netcfd.com^
@@ -10587,6 +10595,7 @@ Stand: 01.05.2026 06:38
 ||paxmining.com^
 ||payforweal.com^
 ||paypays.shop^
+||paywayslite.com^
 ||pazarst.com^
 ||pb-capital.net^
 ||pbm-energy.com^
@@ -10908,6 +10917,7 @@ Stand: 01.05.2026 06:38
 ||poolchlorrabatt.com^
 ||poolfreunde.com^
 ||poolina.de^
+||pooloase.shop^
 ||poolsaunasupply.com^
 ||popbosch.com^
 ||popcartruck.com^
@@ -11962,6 +11972,7 @@ Stand: 01.05.2026 06:38
 ||schmid-rechtsanwaelte.de^
 ||schmidt-digital.de^
 ||schmidt-express.com^
+||schmidtiefbaugmbh.de^
 ||schmidtmode.de^
 ||schmidts-handel.de^
 ||schmidtstil.com^
@@ -12892,6 +12903,7 @@ Stand: 01.05.2026 06:38
 ||store-uni-app.com^
 ||store.aeotec.com^
 ||store.aktuellerezensionen.de^
+||store.savemarketed.com^
 ||store.useum.org^
 ||store.yeelight.com^
 ||store25848025.company.site^
@@ -13691,7 +13703,6 @@ Stand: 01.05.2026 06:38
 ||tovfurnishing.com^
 ||tower-home.com^
 ||toweragency.in^
-||townaptdesk.info^
 ||toxic-off.shop^
 ||toy-boxsales.com^
 ||toyfuel.myshopify.com^
@@ -13778,6 +13789,7 @@ Stand: 01.05.2026 06:38
 ||transmarketconssrl.com^
 ||transparentk.com^
 ||transparentw.com^
+||transportwelt.com^
 ||trapple.de^
 ||trapstaraustria.at^
 ||tratonfinn.com^
@@ -14101,6 +14113,7 @@ Stand: 01.05.2026 06:38
 ||urbanixa.shop^
 ||urbanoutletstores.com^
 ||urbanstepzone.cfd^
+||urbanvibesretreat.com^
 ||urbmale.cc^
 ||urbradeln.de^
 ||urdotx.com^
@@ -14444,6 +14457,7 @@ Stand: 01.05.2026 06:38
 ||vionicschuhe.de^
 ||vionicshoesportugal.com^
 ||vip-vision.za.com^
+||vip.frontiermarket.icu^
 ||vip100.cc^
 ||vipaksideu.com^
 ||vipbinary.com^
@@ -14701,6 +14715,7 @@ Stand: 01.05.2026 06:38
 ||watson-manchester.com^
 ||wattcafe.fr^
 ||watteimall.com^
+||wattpionier.de^
 ||waveriderco.com^
 ||wavetshirt.com^
 ||waworld.de^

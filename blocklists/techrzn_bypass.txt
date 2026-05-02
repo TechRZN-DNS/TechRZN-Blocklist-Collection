@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 01.05.2026 06:38
+Stand: 02.05.2026 06:08
 
 ||0.6gpaactivities.bastaff.ru^
 ||0.6gpaactivities.pce-cihazlari.com.tr^
@@ -303,7 +303,6 @@ Stand: 01.05.2026 06:38
 ||2024y.homes^
 ||2025-happynewyear.f5.si^
 ||2025appdown.com^
-||204806.xyz^
 ||205-209-125-106.backname.io^
 ||205-209-125-106.nip.io^
 ||205-209-125-106.plesk.page^
@@ -2793,7 +2792,6 @@ Stand: 01.05.2026 06:38
 ||buaswhxr.com^
 ||bubbleset.com^
 ||bubra.net^
-||bubyrajkepepslap.1337.cx^
 ||bucheli.synology.me^
 ||buffered.com^
 ||buildmyplays.org^
@@ -6430,7 +6428,6 @@ Stand: 01.05.2026 06:38
 ||edu.ts-me.com.my^
 ||edu.ucecom-craiova.ro^
 ||education-learning.wanhuiarchitect.com^
-||education.1copa.com^
 ||education.babushkamail.com^
 ||education.balalaikamail.com^
 ||education.com.boxathome.net^
@@ -11369,6 +11366,7 @@ Stand: 01.05.2026 06:38
 ||mnqwscym.com^
 ||mnsvless.ikwb.com^
 ||moacity.com^
+||moamao.shop^
 ||mobile-socket.culturegps.com^
 ||mobile.development.sanluix.org^
 ||mobilejump.mobi^
@@ -13042,6 +13040,7 @@ Stand: 01.05.2026 06:38
 ||portal.app.dontdrinkthekoolaid.duckdns.org^
 ||portal.dont-let-securly-block-this.duckdns.org^
 ||portbj.xyz^
+||portbuddy.dev^
 ||portionsigh.com^
 ||portmap.io^
 ||portmapper.myonlineportal.net^
@@ -17698,6 +17697,7 @@ Stand: 01.05.2026 06:38
 ||www-pro.nolife.uk^
 ||www-proxy.2d.su^
 ||www-proxy.777kingslots.fun^
+||www-proxy.dariomingio.it^
 ||www-proxy.deersserverhosting.com^
 ||www-proxy.facil.wtf^
 ||www-proxy.fluxis.xyz^

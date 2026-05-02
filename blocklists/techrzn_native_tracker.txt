@@ -1,5 +1,5 @@
 ### TechRZN - NATIVE_TRACKER ###
-Stand: 01.05.2026 06:38
+Stand: 02.05.2026 06:08
 
 ||0001-metrics1-data-hicloud-com.geac.dbankedge.cn^
 ||0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
@@ -107,16 +107,21 @@ Stand: 01.05.2026 06:38
 ||adx-kh.ads.heytapmobile.com^
 ||adx-mm.ads.heytapmobile.com^
 ||adx-my.ads.heytapmobile.com^
+||adx-op-fr.heytapmobile.com^
+||adx-op-in.heytapmobile.com^
+||adx-op-ru.heytapmobile.com^
 ||adx-op-sg.heytapmobile.com^
 ||adx-ph.ads.heytapmobile.com^
 ||adx-sg.ads.heytapmobi.com^
 ||adx-sg.ads.heytapmobile.com^
 ||adx-th.ads.heytapmobile.com^
 ||adx-tw.ads.heytapmobile.com^
+||adx-u-sg.heytapmobile.com^
 ||adx-vn.ads.heytapmobile.com^
 ||adx.ads.heytapmobi.com^
 ||adx.ads.oppomobile.com^
 ||adxlog-adnet.vivo.com.cn^
+||adxu-bigo-sg.heytapmobile.com^
 ||aic-ngfts.lge.com^
 ||album-cn01a.ocloud.heytapmobi.com^
 ||album-sg01a.ocloud.heytapmobi.com^

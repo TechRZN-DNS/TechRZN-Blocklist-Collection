@@ -1,5 +1,5 @@
 ### TechRZN - POPUPS ###
-Stand: 01.05.2026 06:38
+Stand: 02.05.2026 06:08
 
 ||0--0.info^
 ||0--4.com^
@@ -21,7 +21,6 @@ Stand: 01.05.2026 06:38
 ||0-emissions.com^
 ||0-energy.com^
 ||0-eve.com^
-||0-gravity.com^
 ||0-hassle-search-engine-submission.com^
 ||0-lab.com^
 ||0-mile.com^
@@ -244,7 +243,6 @@ Stand: 01.05.2026 06:38
 ||007.ca^
 ||007.name^
 ||0070.net^
-||0070tv.com^
 ||00712.com^
 ||0072.org^
 ||0074.biz^
@@ -385,10 +383,8 @@ Stand: 01.05.2026 06:38
 ||010korea.com^
 ||010law.com^
 ||010mail.com^
-||010map.com^
 ||010music.com^
 ||010net.com^
-||010news.com^
 ||010olo.com^
 ||010pay.com^
 ||010phone.com^
@@ -530,7 +526,6 @@ Stand: 01.05.2026 06:38
 ||01ooo.com^
 ||01r8.com^
 ||01recovery.com^
-||01resellers.com^
 ||01she.com^
 ||01startups.com^
 ||01step.net^
@@ -736,7 +731,6 @@ Stand: 01.05.2026 06:38
 ||03019.com^
 ||0302.info^
 ||03023.com^
-||030245.vip^
 ||030463.com^
 ||03048.com^
 ||0305.org^
@@ -841,7 +835,6 @@ Stand: 01.05.2026 06:38
 ||04-19check.com^
 ||04.law^
 ||04.yoga^
-||040009.vip^
 ||040302.com^
 ||04040.com^
 ||040405.com^
@@ -879,7 +872,6 @@ Stand: 01.05.2026 06:38
 ||0448.org^
 ||04482.com^
 ||045.us^
-||045229.vip^
 ||04526.com^
 ||0453.us^
 ||04536.com^
@@ -1148,7 +1140,6 @@ Stand: 01.05.2026 06:38
 ||072stream.com^
 ||072t.com^
 ||073000.com^
-||073391.vip^
 ||0735tc.cn^
 ||07437.com^
 ||07468.com^
@@ -1329,7 +1320,6 @@ Stand: 01.05.2026 06:38
 ||0download.info^
 ||0downsolarfinance.com^
 ||0downsolarpower.com^
-||0dp870.vip^
 ||0dporn.com^
 ||0drugs.com^
 ||0du123.com^
@@ -1350,7 +1340,6 @@ Stand: 01.05.2026 06:38
 ||0fucks.xyz^
 ||0gamestop.com^
 ||0gb.us^
-||0ghovv.vip^
 ||0gomovies123.com^
 ||0gw7e6s3wrao9y3q.pro^
 ||0h0j.com^
@@ -1804,7 +1793,6 @@ Stand: 01.05.2026 06:38
 ||101freshclick.com^
 ||101fxgroup.com^
 ||101group.net^
-||101horrormovies.com^
 ||101hotwebs.com^
 ||101hrs.com^
 ||101igra.net^
@@ -2004,7 +1992,6 @@ Stand: 01.05.2026 06:38
 ||10bet.de^
 ||10bet.online^
 ||10bez10.com^
-||10boxcareer.com^
 ||10bucktruck.com^
 ||10byouda-soa.com^
 ||10cams.com^
@@ -2357,7 +2344,6 @@ Stand: 01.05.2026 06:38
 ||122cafc086.com^
 ||122cams.com^
 ||123-cigs.com^
-||123-dr.xyz^
 ||123-fmovies.com^
 ||123-games.net^
 ||123-hp.us^
@@ -2413,8 +2399,6 @@ Stand: 01.05.2026 06:38
 ||123brl.com^
 ||123cabinets.com^
 ||123cars.club^
-||123cartoon.com^
-||123cax.com^
 ||123century.com^
 ||123chase.com^
 ||123chatgroups.com^
@@ -2524,7 +2508,6 @@ Stand: 01.05.2026 06:38
 ||123moviesfast.com^
 ||123moviesfree.club^
 ||123moviesfree.org^
-||123moviesfree.site^
 ||123moviesfree.to^
 ||123moviesfreego.com^
 ||123moviesfreenow.com^
@@ -2547,7 +2530,6 @@ Stand: 01.05.2026 06:38
 ||123moviesok.org^
 ||123moviesoknow.com^
 ||123moviespad.com^
-||123moviespedia.com^
 ||123moviesplus.net^
 ||123moviespower.com^
 ||123moviesprime.com^
@@ -2594,7 +2576,6 @@ Stand: 01.05.2026 06:38
 ||123short.com^
 ||123solarmovies.net^
 ||123streaming.net^
-||123streams.club^
 ||123techinfo.com^
 ||123tomovies.com^
 ||123torrent.org^
@@ -2784,7 +2765,6 @@ Stand: 01.05.2026 06:38
 ||1382kai.com^
 ||138408.com^
 ||13888sf.com^
-||138dav.com^
 ||138fldh.com^
 ||138jt.com^
 ||139003.com^
@@ -2995,7 +2975,6 @@ Stand: 01.05.2026 06:38
 ||1619.top^
 ||1619music.com^
 ||161crew.com^
-||1620labs.com^
 ||1620thebrightside.com^
 ||162121.com^
 ||16268.com^
@@ -3106,9 +3085,7 @@ Stand: 01.05.2026 06:38
 ||17dvdv.com^
 ||17ed256d85.com^
 ||17gay.com^
-||17googoo.com^
 ||17indoors.com^
-||17joker.com^
 ||17kp8.com^
 ||17lure.com^
 ||17machinestudios.com^
@@ -3141,7 +3118,6 @@ Stand: 01.05.2026 06:38
 ||180creditsolutions.com^
 ||180degreemarketing.com^
 ||180hs.com^
-||180nn.com^
 ||180xpjdc.net^
 ||181162.com^
 ||1812challenge.com^
@@ -3153,7 +3129,6 @@ Stand: 01.05.2026 06:38
 ||183.us^
 ||183757.com^
 ||18376767022.com^
-||183949.com^
 ||184668.com^
 ||1848haus.com^
 ||1848tricolour.com^
@@ -3250,7 +3225,6 @@ Stand: 01.05.2026 06:38
 ||18xxx.info^
 ||18xxx.net^
 ||18xxx.top^
-||18xyx.com^
 ||18yous.net^
 ||18yyav.com^
 ||18zaa.com^
@@ -3487,7 +3461,6 @@ Stand: 01.05.2026 06:38
 ||1push.io^
 ||1qgxtxd2n.com^
 ||1r4g65b63.de^
-||1r8435gsqldr.com^
 ||1rajbet.in^
 ||1royalbank.com^
 ||1rx.io^
@@ -3495,7 +3468,6 @@ Stand: 01.05.2026 06:38
 ||1s-forum.fun^
 ||1s.click^
 ||1s1r7hr1k.de^
-||1salary.com^
 ||1sam8.net^
 ||1secondad.com^
 ||1share1condom.com^
@@ -3645,7 +3617,6 @@ Stand: 01.05.2026 06:38
 ||20seven.org^
 ||20thcpaint.org^
 ||20tracks.com^
-||20won.games^
 ||21-dream.com^
 ||21-media.com^
 ||2116844.com^
@@ -3670,7 +3641,6 @@ Stand: 01.05.2026 06:38
 ||21streetwear.com^
 ||21wiz.com^
 ||22-plaisir.com^
-||220qp.com^
 ||2222rv.com^
 ||2226wurpatw.tokyo^
 ||222764f169.com^
@@ -3761,7 +3731,6 @@ Stand: 01.05.2026 06:38
 ||24df4bd648.com^
 ||24fa.top^
 ||24hmedia.net^
-||24hrteledoc.org^
 ||24illustrateurs.com^
 ||24iweb.com^
 ||24kwx.cc^
@@ -24676,7 +24645,6 @@ Stand: 01.05.2026 06:38
 ||houbmjcujavil.store^
 ||houcedqscszcu.space^
 ||hougen-talk.com^
-||houhoogroo.net^
 ||houmoowhaustoul.net^
 ||houndverticallyartificial.com^
 ||houndychiasmi.life^
@@ -38140,7 +38108,6 @@ Stand: 01.05.2026 06:38
 ||pyjamaspamper.com^
 ||pyjamasweated.com^
 ||pykije.com^
-||pykrsz.17yaoqi.cc^
 ||pykvbmltjxrgl.website^
 ||pylqeypkcxzka.site^
 ||pynhtpjgflnph.online^
@@ -39185,6 +39152,7 @@ Stand: 01.05.2026 06:38
 ||recitalfinancially.com^
 ||recitdams.com^
 ||reckdimout.top^
+||reckless-message.pro^
 ||reckless-variation.pro^
 ||recklesshumiliated.com^
 ||reckonsouvenirwounded.com^

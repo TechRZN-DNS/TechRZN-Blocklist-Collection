@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 01.05.2026 06:38
+Stand: 02.05.2026 06:08
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -16849,6 +16849,7 @@ Stand: 01.05.2026 06:38
 ||analytics-consent-manager-v2-prod.azureedge.net^
 ||analytics-dataplane.invideo.io^
 ||analytics-fe.digital-cloud-prem.medallia.com^
+||analytics-fe.digital-cloud.medallia.ca^
 ||analytics-fe.digital-cloud.medallia.com^
 ||analytics-gw.games.wanmei.com^
 ||analytics-hub.3plearning.com^
@@ -21697,6 +21698,7 @@ Stand: 01.05.2026 06:38
 ||autwwwenticate.net.daraz.com^
 ||auvto.venusetfleur.com^
 ||auwdff.dyfashion.ro^
+||aux-log.bidmatic.io^
 ||aux.lansator.ro^
 ||av.aaramverse.com^
 ||av.assets.net.daraz.com^
@@ -24566,6 +24568,7 @@ Stand: 01.05.2026 06:38
 ||bijkep.hotelesestelar.com^
 ||bike.turbobd.com^
 ||bike6debt.com^
+||bikeexerciser.com^
 ||bikepaws.com^
 ||bikesboard.com^
 ||bikesstage.net.daraz.com^
@@ -24708,6 +24711,7 @@ Stand: 01.05.2026 06:38
 ||biologia4amaristaskatmoviehd.net.daraz.com^
 ||biologia4amaristasstage-esattamatka.net.daraz.com^
 ||biologia4amaristasstagehasani.net.daraz.com^
+||biologylog.com^
 ||biologyprojectty-staging-srv.net.daraz.com^
 ||biologyprojectty-staging.captchaclub.net.daraz.com^
 ||biologyprojectty-staging.staging.freshmaza.net.daraz.com^
@@ -26365,6 +26369,8 @@ Stand: 01.05.2026 06:38
 ||bznxqj.fiat.it^
 ||bzpgi.plankandbeam.com^
 ||bzqxze.remixshop.com^
+||bzr.openai.com^
+||bzrcdn.openai.com^
 ||bzrch.heyskipperfishing.com^
 ||bzrpp.nakednutrition.ca^
 ||bzsfvi.fnacpro.com^

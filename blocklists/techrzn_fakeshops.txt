@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 02.05.2026 06:08
+Stand: 02.05.2026 14:01
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -127,7 +127,6 @@ Stand: 02.05.2026 06:08
 ||abm-industrie.com^
 ||abodeare.com^
 ||abodeena.com^
-||abodeene.com^
 ||aboveinvesting.pro^
 ||abrahamr.com^
 ||abrisphere.com^
@@ -299,7 +298,6 @@ Stand: 02.05.2026 06:08
 ||aichecker.club^
 ||aicheleholzgmbh.de^
 ||aidulovesm.click^
-||aieurope.fr^
 ||aifundbtc.com^
 ||aigleoutletuk.com^
 ||aik-yr.shop^
@@ -409,17 +407,14 @@ Stand: 02.05.2026 06:08
 ||allbuysport.com^
 ||allcart.xyz^
 ||allclothes.club^
-||alldiamondpaintingdeeu.shop^
 ||alle-hebel.de^
 ||allefoxmesser.com^
 ||allegoo.com^
 ||allergyfl.com^
 ||alles-anhanger.com^
 ||allesescooter.de^
-||allesfurbaby.de^
 ||allesfurzuhause.de^
 ||allesheizung.de^
-||allesoutdoor.de^
 ||alleuropills.com^
 ||allforyourlife.org^
 ||allgamesinone.com^
@@ -550,7 +545,6 @@ Stand: 02.05.2026 06:08
 ||amazonboxus.com^
 ||amazonglobal.live^
 ||amazongori.com^
-||amazonia-investing.com^
 ||amazonliw.com^
 ||amazonspallet.com^
 ||ambestenkleider.com^
@@ -570,7 +564,6 @@ Stand: 02.05.2026 06:08
 ||amethysts.de^
 ||amffrance.com^
 ||amffrance.org^
-||aminatakidseu.shop^
 ||amira-boutique.de^
 ||amkleidung.com^
 ||amodafashion.de^
@@ -6734,6 +6727,7 @@ Stand: 02.05.2026 06:08
 ||ihrepotenzmittel.de^
 ||ihrrasentraktor.com^
 ||iinfitenily.com^
+||ikea-eu.shop^
 ||ikici.com^
 ||ikiha.com^
 ||ikkimelpoppstar.de^
@@ -12530,6 +12524,7 @@ Stand: 02.05.2026 06:08
 ||sohoohair.de^
 ||soideverteilung.com^
 ||sola-mode.de^
+||solagoshop.de^
 ||solamira.de^
 ||solancie.com^
 ||solandis.com^

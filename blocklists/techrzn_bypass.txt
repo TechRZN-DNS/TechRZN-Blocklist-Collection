@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 03.05.2026 06:27
+Stand: 03.05.2026 18:16
 
 ||0.6gpaactivities.bastaff.ru^
 ||0.6gpaactivities.pce-cihazlari.com.tr^
@@ -1046,7 +1046,6 @@ Stand: 03.05.2026 06:27
 ||adguard.depieri.net^
 ||adguard.dervart.ru^
 ||adguard.dessoi.cloud^
-||adguard.dientutronghuong.com^
 ||adguard.discounthost.co.uk^
 ||adguard.diylab.in^
 ||adguard.doranpierst.com.tr^
@@ -1683,7 +1682,6 @@ Stand: 03.05.2026 06:27
 ||app-kuailianvpn.com^
 ||app-lets.com^
 ||app-letsvpn.com^
-||app.plugga-matte.ct.ws^
 ||app.sailforeducation.org^
 ||app.vincenzodimaro.it^
 ||app.vincenzodimaro.it.cdn.cloudflare.net^
@@ -3570,7 +3568,6 @@ Stand: 03.05.2026 06:27
 ||covering.run^
 ||coverproxy.com^
 ||covertheorange.com^
-||covertproxy.com^
 ||covpn.mom^
 ||covwskpb.cc^
 ||cppcoding.site^
@@ -3593,7 +3590,6 @@ Stand: 03.05.2026 06:27
 ||crazycattle3d.lol^
 ||crazycattle3d.lol.cdn.cloudflare.net^
 ||crazyfastrace.lol^
-||crazyproxy.org^
 ||crazysurfer.info^
 ||crbtqxdu.com^
 ||crd.circl.lu^
@@ -3641,7 +3637,6 @@ Stand: 03.05.2026 06:27
 ||crushus.com^
 ||crusnik80.co.za^
 ||cryoutdome.cryodome.com^
-||cryptd.space^
 ||crypticvpn.com^
 ||crypto-college.cc^
 ||crypto.sx^
@@ -4172,7 +4167,6 @@ Stand: 03.05.2026 06:27
 ||darklight.neo-space.space^
 ||darkness.is.my.waifu.cz^
 ||darknet.to^
-||darknovafern123amazonaws.ddns.wtf^
 ||darkweb.cyou^
 ||dart.kpsn.org^
 ||darvilo.ru^
@@ -4309,7 +4303,6 @@ Stand: 03.05.2026 06:27
 ||dendrolatry.karrozzin.cloud-ip.cc^
 ||denstro.ru^
 ||departlamb.com^
-||departsettle.com^
 ||deproxyserver.com^
 ||depute.cefsk.ca^
 ||deqyutix.online^
@@ -4432,7 +4425,6 @@ Stand: 03.05.2026 06:27
 ||directory.leeschoolsk12.org.cdn.cloudflare.net^
 ||directoryproxy.info^
 ||dirrectumrx.duckdns.org^
-||dirtyworkproxy.com^
 ||disbish.com^
 ||disconnect.me^
 ||discord.tattoo^
@@ -4499,7 +4491,6 @@ Stand: 03.05.2026 06:27
 ||dns-family.adguard.com^
 ||dns-family.esegece.com^
 ||dns-fra.imo.im^
-||dns-free.link^
 ||dns-gcp.aaflalo.me^
 ||dns-idx1.itsec.my.id^
 ||dns-idx2.itsec.my.id^
@@ -5944,7 +5935,6 @@ Stand: 03.05.2026 06:27
 ||downloadhiro.app^
 ||downloadqq.xyz^
 ||downloads-kl.com^
-||downloads-klvpn.com^
 ||downloads-kuailian.com^
 ||downloads-lets.com^
 ||downloads-letsvpn.com^
@@ -8362,7 +8352,6 @@ Stand: 03.05.2026 06:27
 ||hi-git.com^
 ||hi-green.net^
 ||hi-ios.com^
-||hi-kyler.developer.li^
 ||hi-lantern.com^
 ||hi-magic.net^
 ||hi-mogu.com^
@@ -13678,7 +13667,6 @@ Stand: 03.05.2026 06:27
 ||rammerhead-10.swanndvr.net^
 ||rammerhead.8bit.ca^
 ||rammerhead.casacam.net^
-||rammerhead.crackerstreams.org^
 ||rammerhead.easterndns.com^
 ||rammerhead.eu.org^
 ||rammerhead.geometry-games.online^

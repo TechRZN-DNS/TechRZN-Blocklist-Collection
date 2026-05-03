@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 02.05.2026 14:01
+Stand: 03.05.2026 06:27
 
 ||0.6gpaactivities.bastaff.ru^
 ||0.6gpaactivities.pce-cihazlari.com.tr^
@@ -1615,7 +1615,6 @@ Stand: 02.05.2026 14:01
 ||anything.dontbreakthiswildcard.doge.motorcycles^
 ||anything.dylix.org^
 ||anything.mathhomework.abrdns.com^
-||anzcjujms4ufj.online^
 ||aox666.com^
 ||aox777.xyz^
 ||aoxblog.com^
@@ -1997,7 +1996,6 @@ Stand: 02.05.2026 14:01
 ||baldi2.sportconceptmedia.ru^
 ||baldwinprepbyjerrydaniels.wakemeup.ru^
 ||ballbang.com^
-||balls.faizinternational.com.np^
 ||banana-vpn.com^
 ||banana.global.ssl.fastly.net^
 ||bananakun.camdvr.org^
@@ -2126,7 +2124,6 @@ Stand: 02.05.2026 14:01
 ||bebro.live^
 ||bebro.loan^
 ||bebrochka.loan^
-||bedra.online^
 ||beecomf.xyz^
 ||beenvpn.help^
 ||beepassvpn.com^
@@ -2362,7 +2359,6 @@ Stand: 02.05.2026 14:01
 ||bestuplay.com^
 ||bestusgame.net^
 ||bestveee.com^
-||bestvideoproxy.com^
 ||bestvpn.help^
 ||bestvpn.org^
 ||bestvpnonline.online^
@@ -2436,7 +2432,6 @@ Stand: 02.05.2026 14:01
 ||bifenggangssr.com^
 ||big.tent.cloud-ip.cc^
 ||bigairportgw.com^
-||bigbang.pics^
 ||bigbang.pics.cdn.cloudflare.net^
 ||bigbugpoppearblack.super-modding.quest^
 ||bigdih.shop^
@@ -2571,8 +2566,6 @@ Stand: 02.05.2026 14:01
 ||bmlfhjeq.cc^
 ||bmqan2static.b-cdn.net^
 ||bo.what.cloudns.nz^
-||bobbyrizz.canadianlocomotivelogistics.ca^
-||bobbyrizz2.canadianlocomotivelogistics.ca^
 ||bobr.netphoenix.ru^
 ||bobra.bid^
 ||bobstrecansky.com^
@@ -2637,7 +2630,6 @@ Stand: 02.05.2026 14:01
 ||boowuu.com^
 ||borbgbfx.cc^
 ||borderlessvpn.io^
-||bordom.bamapos.com^
 ||bore.pub^
 ||boredom.chiangmaiorganics.com^
 ||boredomarcade.xyz^
@@ -2648,7 +2640,6 @@ Stand: 02.05.2026 14:01
 ||boslifegw.com^
 ||bostoncareer-chose.com.bostoncareercounselor.com^
 ||botany.classes.spacejamhd.com^
-||botclassic.com^
 ||botvpn.help^
 ||botvpntype.com^
 ||bouquetberlin.org^
@@ -2864,7 +2855,6 @@ Stand: 02.05.2026 14:01
 ||bytzvpn.com^
 ||bzfnngeb.com^
 ||bzndkv.route64.de^
-||bzrkicrc.online^
 ||c-dns.com^
 ||c-kailian.com^
 ||c-kuailian.com^
@@ -2919,7 +2909,6 @@ Stand: 02.05.2026 14:01
 ||camping.tent.cloud-ip.cc^
 ||canaanstoneworks.com^
 ||canaanstoneworks.com.cdn.cloudflare.net^
-||canadaproxy.info^
 ||canadiancanadacancandacaaaannndadadananaacaaa.parafernalhalocacoes.com.br^
 ||canadianshield.cira.ca^
 ||canceroutbreaks.screenclip.net^
@@ -2963,7 +2952,6 @@ Stand: 02.05.2026 14:01
 ||care.daybits.net^
 ||carebuzz.com^
 ||carebuzz.io^
-||career.lekhnathfb.com.np^
 ||career.snwy.dev^
 ||careers.asistdoc.ar^
 ||careersandjobs.org^
@@ -3126,9 +3114,6 @@ Stand: 02.05.2026 14:01
 ||changjinglu.one^
 ||chaos-system.de^
 ||chaosu111.com^
-||chaosu202501.com^
-||chaosu202502.xyz^
-||chaosu202503.xyz^
 ||chaosu444.com^
 ||chaosu777.com^
 ||chaosu888.com^
@@ -3249,101 +3234,51 @@ Stand: 02.05.2026 14:01
 ||cknzusrx.cc^
 ||clarity.registration.abrdns.com^
 ||clase-de-arte.vercel.app^
-||clash-for-ios.com^
-||clash-for-win.com^
-||clash-for-window.com^
-||clash-forwindows.com^
 ||clash-mi.org^
 ||clash-party.org^
 ||clash1d.com^
 ||clash1o.com^
 ||clash2u.com^
 ||clash8i.com^
-||clashappx.com^
-||clashaw.com^
-||clashbj.com^
 ||clashbo.com^
-||clashbv.com^
 ||clashbw.com^
-||clashca.com^
-||clashcl.com^
 ||clashd6.com^
-||clashdq.com^
-||clashdt.com^
-||clashej.com^
 ||clashfb.com^
-||clashfd.com^
-||clashfh.com^
 ||clashfl.com^
 ||clashforandroid.org^
-||clashformac.com^
 ||clashforwindows.org^
 ||clashgb.com^
-||clashgc.com^
-||clashgd.com^
-||clashgi.com^
 ||clashgithub.com^
-||clashgs.com^
 ||clashgui.com^
 ||clashhf.com^
-||clashhm.com^
 ||clashios.com^
-||clashji.com^
 ||clashjn.com^
-||clashkv.com^
-||clashkz.com^
 ||clashlg.com^
-||clashlh.com^
 ||clashli.com^
 ||clashln.com^
-||clashlv.com^
 ||clashlz.com^
-||clashmk.com^
-||clashmt.com^
-||clashnh.com^
 ||clashni.com^
-||clashnr.com^
-||clashnu.com^
 ||clashnyanpasu.org^
 ||clashp1.com^
 ||clashpf.com^
-||clashpj.com^
 ||clashpm.com^
 ||clashpq.com^
-||clashpr.com^
-||clashqi.com^
-||clashqw.com^
 ||clashqy.com^
-||clashrf.com^
-||clashrs.com^
 ||clashsubs.com^
 ||clashsy.com^
-||clashta.com^
 ||clashtm.com^
 ||clashtp.com^
-||clashtq.com^
 ||clashts.com^
-||clashud.com^
-||clashui.com^
-||clashuv.com^
-||clashuy.com^
 ||clashuz.com^
 ||clashverge.org^
 ||clashvergerev.org^
 ||clashvpn.org^
 ||clashw1.com^
 ||clashw2.com^
-||clashx-for-android.com^
-||clashx-for-ios.com^
-||clashx-for-windows.com^
-||clashx-verge.com^
 ||clashx.org^
 ||clashxpro.org^
-||clashxr.com^
 ||clashyb.com^
 ||clashyi.com^
-||clashzf.com^
-||clashzz.com^
 ||class.bio.prettybirdserver.com^
 ||class.desmos.live^
 ||class.desmos.live.cdn.cloudflare.net^
@@ -3407,7 +3342,6 @@ Stand: 02.05.2026 14:01
 ||cloaked.myhousesetup.com^
 ||cloaker.ca^
 ||cloaker.us^
-||cloakpoint.com^
 ||cloakvpn.com^
 ||clock.engalsaati.com^
 ||clorvan.ru^
@@ -3592,7 +3526,6 @@ Stand: 02.05.2026 14:01
 ||coolguy.uzhi.ru^
 ||coolkidd.chickenkiller.com^
 ||coolpro.bloguinsports.com^
-||coolproxy.org^
 ||coolsitebroughttoyoubyant.cpub.ir^
 ||coolsubdomain.strangersduo.com^
 ||cooluniverse-galaxy.zone.id^
@@ -3695,6 +3628,7 @@ Stand: 02.05.2026 14:01
 ||croxyproxy.co.in^
 ||croxyproxy.com^
 ||croxyproxy.com.in^
+||croxyproxy.my.id^
 ||croxyproxy.net^
 ||croxyproxy.rocks^
 ||croxyproxy.vip^
@@ -3740,7 +3674,6 @@ Stand: 02.05.2026 14:01
 ||cukptk.website^
 ||cukubst.top^
 ||cukvrub.top^
-||culture-de.brasilera.org^
 ||cunybr.com^
 ||curd.io^
 ||curly.orienta.com.br^
@@ -7533,7 +7466,6 @@ Stand: 02.05.2026 14:01
 ||freshhistory.drsanjay.com.au^
 ||freshstats.banglaraloprotidin.com^
 ||frey.tent.cloud-ip.cc^
-||fridaynightfunkinisthebest.boxathome.net^
 ||friedchimkensaurus.tvjumbleanswers.com^
 ||friend.bedro.cloud^
 ||frigginpacketyo.global.ssl.fastly.net^
@@ -9419,14 +9351,12 @@ Stand: 02.05.2026 14:01
 ||itopviipn.com^
 ||itopvpn.com^
 ||itranslator.info^
-||itrsa.chiqui.ar^
 ||itrsa.env.lntxbox.com^
 ||itrsa.home.next.youradbyus.com^
 ||itrsa.nevuer.com^
 ||itscauseiamblack.tvjumbleanswers.com^
 ||itself.cc^
 ||itsnotevil.com^
-||itsystems.rawal-karan.com.np^
 ||itworks4u.nl^
 ||iuewkgfbvakludg.swanndvr.net^
 ||iufotrkr.cc^
@@ -11357,6 +11287,7 @@ Stand: 02.05.2026 14:01
 ||mnqwscym.com^
 ||mnsvless.ikwb.com^
 ||moacity.com^
+||moamao.shop^
 ||mobile-socket.culturegps.com^
 ||mobile.development.sanluix.org^
 ||mobilejump.mobi^
@@ -12048,7 +11979,6 @@ Stand: 02.05.2026 14:01
 ||noblocc.co.uk^
 ||noblocc.com^
 ||noblocc.uk^
-||nobodycaresaboutmetheycareaboutthewebsite.boxathome.net^
 ||nocensor.work^
 ||node.network^
 ||node3.b4el.ru^
@@ -12267,7 +12197,6 @@ Stand: 02.05.2026 14:01
 ||nuevita.org^
 ||numopayi.cc^
 ||nuralek.baby^
-||nursing.drsanjay.com.au^
 ||nustran.ru^
 ||nutlskyp.com^
 ||nuxarivo.ru^
@@ -12543,7 +12472,6 @@ Stand: 02.05.2026 14:01
 ||overcloak2.allisons.org^
 ||overcloaked.atamanco.eu^
 ||overcloaked.blindatech.cl^
-||overcloaked.boxathome.net^
 ||overcloaked.chickenkiller.com^
 ||overcloaked.onlinechildcareclass.com^
 ||overcloaked.was-on-decayeds-island.xyz^
@@ -13409,7 +13337,6 @@ Stand: 02.05.2026 14:01
 ||proxyvpn.eu^
 ||proxyvpnserver.com^
 ||proxyway.com^
-||proxyweb.com.es^
 ||proxywebsite.co.uk^
 ||prprcloudgw.com^
 ||pruvanta.ru^
@@ -13604,7 +13531,6 @@ Stand: 02.05.2026 14:01
 ||quantumultx.org^
 ||quantvpn.app^
 ||quarkvpn.com^
-||quasar.boxathome.net^
 ||quasar.ezlearning.qzz.io^
 ||quasar.lbry.ru^
 ||quasar.ub.phuri.cc^
@@ -14868,7 +14794,6 @@ Stand: 02.05.2026 14:01
 ||sm5q237c0.g666gle.me^
 ||small-kids.foxgateway.com^
 ||small-soul-737.guesstheanimal.org^
-||small-uk-schools.shentaichiacademy.co.uk^
 ||smart-force-177.nowgg.me^
 ||smart-river-784.conwordable.com^
 ||smart-sense.org^
@@ -15333,6 +15258,7 @@ Stand: 02.05.2026 14:01
 ||supported.testing4fun.xyz^
 ||supportsktech.infotechnology.com^
 ||supposing.kaiak.top^
+||supremebarbershopclarendon.net^
 ||sure.registration.abrdns.com^
 ||suredns.nl^
 ||sureee.vercel.app^
@@ -15494,7 +15420,6 @@ Stand: 02.05.2026 14:01
 ||task.major.assholetenants.com^
 ||tasks.gov.heronquays.com^
 ||tasks.know.kabindrakajibajracharya.com.np^
-||tasks.media.bianchetti.com.ar^
 ||tatakai001.8bit.ca^
 ||taxif.us^
 ||tb.qr-code.co.za^
@@ -17667,6 +17592,7 @@ Stand: 02.05.2026 14:01
 ||wwqxglgbi.ipv64.net^
 ||wwrubljx.com^
 ||wws.152-53-136-204.plesk.page^
+||www-666.020202.best^
 ||www-8.shaammy.ir^
 ||www-admin.mehtionthebeat.com^
 ||www-crizzler.stilxvr.com^

@@ -1,5 +1,5 @@
 ### TechRZN - POPUPS ###
-Stand: 03.05.2026 18:16
+Stand: 04.05.2026 06:40
 
 ||0--0.info^
 ||0--4.com^
@@ -7608,6 +7608,7 @@ Stand: 03.05.2026 18:16
 ||ambientplatform.vn^
 ||ambiguityornamenttell.com^
 ||ambiguousafternoon.com^
+||ambiguousinternational.com^
 ||ambiliarcarwin.com^
 ||ambitious-cook.com^
 ||ambitious-quote.com^
@@ -8127,6 +8128,7 @@ Stand: 03.05.2026 18:16
 ||app-atomic.co.com^
 ||app-gala-games-online-3yhh6.com^
 ||app-gamesonline-9zhq.com^
+||app-google-zh.hl.cn^
 ||app-ledger-desktop.wasmer.app^
 ||app-momentum.com^
 ||app-phantom.co.com^
@@ -8221,6 +8223,7 @@ Stand: 03.05.2026 18:16
 ||approximatelylimitation.com^
 ||apprupt.com^
 ||apps-analytics.net^
+||apps-chrome-zh.hl.cn^
 ||apps-okx.com^
 ||apps-sougoupinyin.com^
 ||apps-tencent.com^
@@ -9624,7 +9627,6 @@ Stand: 03.05.2026 18:16
 ||barytemarkup.com^
 ||barytethynnid.com^
 ||base-dawgz.web.app^
-||base.shop^
 ||baseballletters.com^
 ||basejudgementquizmaster.com^
 ||basementunfamiliar.com^
@@ -13012,6 +13014,7 @@ Stand: 03.05.2026 18:16
 ||chivalrousreschedule.com^
 ||chivalroussecond.com^
 ||chiveraccede.com^
+||chiyouranai.base.shop^
 ||chizonixe.pro^
 ||chl3.net^
 ||chl7rysobc3ol6xla.com^
@@ -13074,6 +13077,8 @@ Stand: 03.05.2026 18:16
 ||christmasperjury.com^
 ||christmaspoisonouswiped.com^
 ||christophephilippe.net^
+||chrome-gooogle-zh.hl.cn^
+||chrome-hl.hl.cn^
 ||chromebookaccessories.com^
 ||chromegoogle.cn^
 ||chromeupdates.com^
@@ -13638,6 +13643,7 @@ Stand: 03.05.2026 18:16
 ||cnwafglwlbcro.life^
 ||cnwucnf.top^
 ||cnyojprieezzh.store^
+||cnzh-google-apps.hl.cn^
 ||cnzixiang.com^
 ||cnzz.biz^
 ||cnzzv.net^
@@ -15607,7 +15613,6 @@ Stand: 03.05.2026 18:16
 ||daubdissemblerebel.com^
 ||daughterinlawnineteenpie.com^
 ||daughterkiller.com^
-||daugrugli.net^
 ||dauntonedder.com^
 ||dauntroof.com^
 ||dauvoowhou.net^
@@ -17409,7 +17414,6 @@ Stand: 03.05.2026 18:16
 ||dualneatly.com^
 ||dualstiff.com^
 ||duamilsyr.com^
-||dubai-signage.net^
 ||dubiobesoot.com^
 ||dubiousgrudge.com^
 ||dubiouspenthousedollar.com^
@@ -17490,7 +17494,6 @@ Stand: 03.05.2026 18:16
 ||dusk.com.tw^
 ||duskedaruac.com^
 ||dust-0001.delorazahnow.workers.dev^
-||dustarmature.com^
 ||dustersaying.com^
 ||dustexhibition.com^
 ||dustinga.com^
@@ -17503,7 +17506,6 @@ Stand: 03.05.2026 18:16
 ||dutalonflameer.com^
 ||dutchmadameraised.com^
 ||dutftuaz.icu^
-||dutiesvijay.shop^
 ||dutifuldatabase.com^
 ||dutorterraom.com^
 ||dutyfalteroats.com^
@@ -17562,7 +17564,6 @@ Stand: 03.05.2026 18:16
 ||dwvdofpcelstt.site^
 ||dwyofqsfugu.com^
 ||dwztkzptvisct.site^
-||dx-44717-tr.xyz^
 ||dx-fu.com^
 ||dx.hollyhopsack.shop^
 ||dx.lobssurah.com^
@@ -17928,7 +17929,6 @@ Stand: 03.05.2026 18:16
 ||eduseio.com^
 ||edutechlearners.com^
 ||edvfwlacluo.com^
-||edvipubjekzec.xyz^
 ||edwmpt.com^
 ||edxilaprgjxqt.site^
 ||ee-billing-recovery.web.app^
@@ -18074,7 +18074,6 @@ Stand: 03.05.2026 18:16
 ||ehlfnpduxldcy.online^
 ||ehlrxixabvzbo.tech^
 ||ehmnmovcnwkyb.website^
-||ehrydnmdoe.com^
 ||ehtkfjhrozkeu.website^
 ||ehungroundt.org^
 ||ehwtrxeivhora.site^
@@ -18250,18 +18249,15 @@ Stand: 03.05.2026 18:16
 ||elliptical-schedule.com^
 ||ellipticalofficial.com^
 ||ellipticaltrack.com^
-||elmassar-ar.com^
 ||elmbzm.datingzoone.com^
 ||elmbzm.dreamsyoulove.com^
 ||elmbzm.magicgirlhere.net^
 ||elmnassa.com^
-||elninodigital.store^
 ||elogiado.info^
 ||elonreptiloid.com^
 ||eloquentrealestate.com^
 ||eloypatrick.pro^
 ||elozmm.gaycoaiition.net^
-||elpex.site^
 ||elqklb.ddreamlove.com^
 ||elqxaa.onlyforyougirl.com^
 ||elqznq.onllyforyougirl.com^
@@ -18319,7 +18315,6 @@ Stand: 03.05.2026 18:16
 ||embraceofficefurniture.com^
 ||embroiderynaturalistsfighter.com^
 ||embtrk.com^
-||embusyjurata.help^
 ||embwmpt.com^
 ||emediate.dk^
 ||ementrandings.org^
@@ -18491,7 +18486,6 @@ Stand: 03.05.2026 18:16
 ||engbjwqvwznxg.website^
 ||enginecorruptiontrice.com^
 ||enginedriverlatter.com^
-||engineeringultra.com^
 ||engineersbyzipcode.com^
 ||engineexplicitfootrest.com^
 ||englandconfident.com^
@@ -18572,7 +18566,6 @@ Stand: 03.05.2026 18:16
 ||entertainrankreprimand.com^
 ||enthaitingshospic.org^
 ||enthronediscovering.com^
-||enthroneunborn.com^
 ||enthusiasticfibreassembly.com^
 ||enthusiasticground.com^
 ||enthusiasticraspberrydecoy.com^
@@ -18797,7 +18790,6 @@ Stand: 03.05.2026 18:16
 ||escribedas.com^
 ||escy55gxubl6.com^
 ||esegaybine.shop^
-||esemnjeptffjb.xyz^
 ||esemrvueskrke.site^
 ||esesmyinteukre.org^
 ||esfljmhdtpdvj.xyz^
@@ -18828,7 +18820,6 @@ Stand: 03.05.2026 18:16
 ||essaytheshark.com^
 ||essbld.com^
 ||essence-one.net^
-||essencesnore.com^
 ||essencewidow.com^
 ||essential-trash.com^
 ||essentialmost.com^
@@ -18983,7 +18974,6 @@ Stand: 03.05.2026 18:16
 ||everhiking.com^
 ||everinform.com^
 ||everlasting-instance.pro^
-||everlastinghighlight.com^
 ||everlastingrisk.pro^
 ||evernorthrentals.com^
 ||everpharmanet.cn.tv^
@@ -19114,7 +19104,6 @@ Stand: 03.05.2026 18:16
 ||exebasusion.org^
 ||executeknowledge.com^
 ||executivehadregent.com^
-||exejfbqkavbst.rocks^
 ||exemplarymouse.com^
 ||exemplarymuscle.com^
 ||exemptmet.com^
@@ -19172,7 +19161,6 @@ Stand: 03.05.2026 18:16
 ||expendtheatres.com^
 ||expensesillinessreversion.com^
 ||expensesmentor.xyz^
-||expensiveadoptionevent.com^
 ||expensivediscipline.pro^
 ||expensiveinspection.com^
 ||expensivelikeness.com^
@@ -19194,8 +19182,6 @@ Stand: 03.05.2026 18:16
 ||explodeddeitycomparatively.com^
 ||explorads.com^
 ||explore-site.com^
-||explorerapiecebachelor.com^
-||explorerippledisperse.com^
 ||explorerpurity.com^
 ||explorersloft.ca^
 ||explorewanderer.com^
@@ -19474,7 +19460,6 @@ Stand: 03.05.2026 18:16
 ||familytogel.fun^
 ||familywinemerchants.com^
 ||famousassistant.pro^
-||famtoaphoobo.com^
 ||fanatics.bet^
 ||fancifuidates.net^
 ||fancifuldates.net^
@@ -19611,7 +19596,6 @@ Stand: 03.05.2026 18:16
 ||faverogroup.com^
 ||favicon.net.cn^
 ||favoritedawn.com^
-||favorkiss.net^
 ||favorsbch.com^
 ||favorscenes.com^
 ||favoshepe.com^
@@ -19673,12 +19657,10 @@ Stand: 03.05.2026 18:16
 ||fcseed.com^
 ||fcswogrcyplcs.space^
 ||fcvxmhtpvpuld.space^
-||fcw724.xyz^
 ||fcwdsidinixoz.website^
 ||fcwenming.cn^
 ||fcxbs.com^
 ||fd.borskanawha.top^
-||fd.fattensnines.shop^
 ||fd01ce9a02.0012e30263.com^
 ||fdbdzwnpffxcg.space^
 ||fdc99e538f.com^
@@ -19728,7 +19710,6 @@ Stand: 03.05.2026 18:16
 ||fed2626bed.com^
 ||fedease.com^
 ||federationconservativewomen.org^
-||fedim.site^
 ||fedirresponsibilityface.com^
 ||fedlee.com^
 ||fedra.info^
@@ -19886,7 +19867,6 @@ Stand: 03.05.2026 18:16
 ||ffhash.com^
 ||ffjrpdfduteic.website^
 ||ffkan.com^
-||fflbpi.top^
 ||ffpmlheychmat.store^
 ||ffpwnd.icu^
 ||ffqumyjlunpga.online^
@@ -19903,7 +19883,6 @@ Stand: 03.05.2026 18:16
 ||fgmxaceav.xyz^
 ||fgnuvjwe.icu^
 ||fgqyxgbqfxyot.website^
-||fgtsrewz.icu^
 ||fgzjcspcnzrhf.store^
 ||fh-dxy.com^
 ||fh-wgt.com^
@@ -19990,7 +19969,6 @@ Stand: 03.05.2026 18:16
 ||filetarget.net^
 ||filetool.cn^
 ||filetrac.io^
-||filewings.cloud^
 ||filexstorage.site^
 ||filezilla.es^
 ||filezilla.fr^
@@ -20076,7 +20054,6 @@ Stand: 03.05.2026 18:16
 ||finestmortifyfertility.com^
 ||finetrack.ru^
 ||fingerboarding.com^
-||fingercough.xyz^
 ||fingerlastingadmissible.com^
 ||fingerrealistic.com^
 ||fingertipsquintinclusion.com^
@@ -20143,7 +20120,6 @@ Stand: 03.05.2026 18:16
 ||fistevasionjoint.com^
 ||fistulywi.pro^
 ||fistwaygrub.com^
-||fitformfusion.com^
 ||fitforpurposetreatment.org^
 ||fitheaters.com^
 ||fitnesspools.com^
@@ -20192,7 +20168,6 @@ Stand: 03.05.2026 18:16
 ||fjwdlijdyntkc.store^
 ||fjwhpouzlllfh.space^
 ||fjxiqjmutcgqo.store^
-||fjzht.com^
 ||fk.anonqtr.com^
 ||fk.broomsunvoted.com^
 ||fk.mirakdunes.com^
@@ -20534,7 +20509,6 @@ Stand: 03.05.2026 18:16
 ||foldedaddress.com^
 ||foldinsinuate.com^
 ||foldyahoolestorderly.com^
-||foliaryshaping.shop^
 ||foliosenumbing.com^
 ||folkgrid.com^
 ||folkswrymyrtle.com^
@@ -20558,7 +20532,6 @@ Stand: 03.05.2026 18:16
 ||fondlevolleyballdata.com^
 ||fondonberake.com^
 ||fondstudy.com^
-||fonduesrhythms.cfd^
 ||fongumporg.net^
 ||foniuhuuwwnhm.tech^
 ||foodieblogroll.com^
@@ -20572,7 +20545,6 @@ Stand: 03.05.2026 18:16
 ||foomaque.net^
 ||fooptoat.com^
 ||foot.wiki^
-||footageostentatious.com^
 ||footballdismantleidle.com^
 ||footbathmockerpurse.com^
 ||footerfont.com^
@@ -20901,7 +20873,6 @@ Stand: 03.05.2026 18:16
 ||freegamefinder.com^
 ||freegamezone.net^
 ||freehookupaffair.com^
-||freelocalwebcamchat.com^
 ||freelovehere.com^
 ||freelyglossarylend.com^
 ||freemanaccordingly.com^
@@ -20996,7 +20967,6 @@ Stand: 03.05.2026 18:16
 ||frjrwixwogqjt.site^
 ||frmmqfwviupoa.today^
 ||froaqldtuqssk.website^
-||frockherbal.com^
 ||frocogue.store^
 ||frocompactcountless.com^
 ||frodo.space^
@@ -21049,7 +21019,6 @@ Stand: 03.05.2026 18:16
 ||fruwtikawxko.com^
 ||frwgxofndcasv.site^
 ||fryboldlymalice.com^
-||frycornwhole.com^
 ||frydtyhhya.com^
 ||fs-loader.com^
 ||fs.goofdiam.com^
@@ -21057,7 +21026,6 @@ Stand: 03.05.2026 18:16
 ||fsdfvnmf.icu^
 ||fsdzafmzbdyan.store^
 ||fsfibjccvgkki.site^
-||fsghdhdwww.click^
 ||fsgkzonhuoafn.store^
 ||fsgpxvemqbven.store^
 ||fsled.com^
@@ -21231,7 +21199,6 @@ Stand: 03.05.2026 18:16
 ||futcceabr.com^
 ||futebolmania.net^
 ||futilereposerefreshments.com^
-||future-future55.com^
 ||future-hawk-content.co.uk^
 ||future-marvellous.com^
 ||futureads.io^
@@ -21260,7 +21227,6 @@ Stand: 03.05.2026 18:16
 ||fw.matteryshou.com^
 ||fwbntw.com^
 ||fwcavwstvmekw.online^
-||fwciiqsskqyih.site^
 ||fwefafajrjaz.com^
 ||fwledzup.icu^
 ||fwode.com^
@@ -21661,6 +21627,7 @@ Stand: 03.05.2026 18:16
 ||genieessp.com^
 ||genipwitloof.com^
 ||genishury.pro^
+||geniusclip.eu.com^
 ||geniusdexchange.com^
 ||geniusmatch.ai^
 ||geniusonclick.com^
@@ -21747,6 +21714,7 @@ Stand: 03.05.2026 18:16
 ||getdstudio.app^
 ||getdstudio.com^
 ||getdstudio.dev^
+||getfinefile.com^
 ||getflowads.net^
 ||getfresh298.com^
 ||getgx.net^
@@ -22271,6 +22239,7 @@ Stand: 03.05.2026 18:16
 ||go-ld-li-ne.site^
 ||go-static.info^
 ||go-to-website.com^
+||go-todesk.hl.cn^
 ||go-wegame.com^
 ||go.adstroop.com^
 ||go.adxoclick.com^
@@ -22488,8 +22457,10 @@ Stand: 03.05.2026 18:16
 ||goodyhitherto.com^
 ||goodyrabbitcare.com^
 ||goodyraincoatunprofessional.com^
+||googgle-chrrome.hl.cn^
 ||googie-anaiytics.com^
 ||google-ch-chrome.com.cn^
+||google-chrrome-zh.hl.cn^
 ||google-zhcn-chrome.com.cn^
 ||googleads-cn.com^
 ||googleadservices-cn.com^
@@ -24131,7 +24102,6 @@ Stand: 03.05.2026 18:16
 ||hkygalzumaqv.com^
 ||hkzhongzhuangzhan.cc^
 ||hl.armseyechamps.com^
-||hl.cn^
 ||hl.koumyscampana.com^
 ||hl2u.com^
 ||hlbmaat.com^
@@ -34029,6 +33999,7 @@ Stand: 03.05.2026 18:16
 ||offfurreton.com^
 ||offgridcrops.com^
 ||offhandpump.com^
+||office-wps-hl.hl.cn^
 ||office.org^
 ||officerpersonalimmersed.com^
 ||officesoftcn.com^
@@ -39851,7 +39822,6 @@ Stand: 03.05.2026 18:16
 ||rnxmgb.fairyromanty.com^
 ||rnywgmiidmivb.online^
 ||ro.cornofuggy.com^
-||ro.dykagegemini.shop^
 ||roacheenazak.com^
 ||roadcontagion.com^
 ||roadmapappendfiles.com^
@@ -44999,7 +44969,6 @@ Stand: 03.05.2026 18:16
 ||tiypa.com^
 ||tizlpifaxm.com^
 ||tj.bingoputlog.shop^
-||tj.eldresspaine.top^
 ||tj.ferrygame.com^
 ||tj.tazzaspices.com^
 ||tj.witessreacts.com^
@@ -45125,6 +45094,7 @@ Stand: 03.05.2026 18:16
 ||todeataxed.website^
 ||todecorstore.com^
 ||todesk-zh.cn^
+||todesk-zh.hl.cn^
 ||todesk.ac.cn^
 ||todesk.im^
 ||todeskapp.com^
@@ -45160,6 +45130,7 @@ Stand: 03.05.2026 18:16
 ||tokimekitaine.net^
 ||tokoshienslot.org^
 ||toksoudsoab.net^
+||tokujiro.base.shop^
 ||tokujirou.stores.jp^
 ||tokumeichat135.net^
 ||tokumeichatmail.net^
@@ -45988,7 +45959,6 @@ Stand: 03.05.2026 18:16
 ||tuckedtucked.com^
 ||tuckerk.com^
 ||tuckmudjackson.com^
-||tudthrone.cn.com^
 ||tuesdayfetidlit.com^
 ||tufaaijqffzug.site^
 ||tufarhdweg.com^
@@ -46936,6 +46906,7 @@ Stand: 03.05.2026 18:16
 ||uralicchatot.com^
 ||urami.net^
 ||uranai-hit.com^
+||uranai1111.base.shop^
 ||urara02032023.com^
 ||urban-signal.pro^
 ||urbanaesthetic.com^
@@ -51297,6 +51268,7 @@ Stand: 03.05.2026 18:16
 ||zgxncjs.com^
 ||zgxzeicunptms.store^
 ||zgzjny.com^
+||zh-googlle-chrome.hl.cn^
 ||zh-tenxun.com^
 ||zh-ys.com^
 ||zh.jingallshikker.digital^
@@ -51310,6 +51282,7 @@ Stand: 03.05.2026 18:16
 ||zhaoshang-sh.com^
 ||zhaoshentu011.cn^
 ||zhaoxieliao.com^
+||zhcn-googele.hl.cn^
 ||zhcn8.com^
 ||zhcyrfxkupdvs.store^
 ||zhdc0898.com^

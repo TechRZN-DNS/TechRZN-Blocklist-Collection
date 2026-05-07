@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 06.05.2026 06:31
+Stand: 07.05.2026 06:37
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -37308,6 +37308,7 @@ Stand: 06.05.2026 06:31
 ||displaymaxmerchandising.actonservice.com^
 ||distiller.kano.link^
 ||distillery.wistia.com^
+||distilltable.com^
 ||distribuidoraliverpo.tt.omtrdc.net^
 ||distribution.provenpharma.com^
 ||distributionpocket.com^
@@ -38451,6 +38452,7 @@ Stand: 06.05.2026 06:31
 ||e.slickdealscdn.com^
 ||e.synchronybank.com^
 ||e.unchealthcare.org^
+||e.usesneakpeek.com^
 ||e.vcty.co^
 ||e.viously.com^
 ||e035.pandasuite.io^
@@ -41909,7 +41911,6 @@ Stand: 06.05.2026 06:31
 ||fishersfinds.com^
 ||fishing.bucketbro.com.au^
 ||fishing.daigostudio.com^
-||fishingtoolsbox.com^
 ||fit.bedrijfsfitnessnederland.nl^
 ||fit.wingsfit1.com^
 ||fitbitinc.tt.omtrdc.net^
@@ -41940,7 +41941,6 @@ Stand: 06.05.2026 06:31
 ||fjjkh.thelostestate.com^
 ||fjkjaj.peterhahn.nl^
 ||fjnrh.period.co^
-||fjordsand.com^
 ||fjortk.braun-hamburg.com^
 ||fjqtg.resthavenokc.com^
 ||fjqtyu.bethowen.ru^
@@ -83142,6 +83142,7 @@ Stand: 06.05.2026 06:31
 ||securian.tt.omtrdc.net^
 ||security.ns1.twtelecom.net.daraz.com^
 ||security.vanquis.com^
+||securityannex.net^
 ||securityartner.net.daraz.com^
 ||securityins.actonservice.com^
 ||securityintelligence.verint.com^

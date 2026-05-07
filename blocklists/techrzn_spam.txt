@@ -1,5 +1,5 @@
 ### TechRZN - SPAM ###
-Stand: 06.05.2026 06:31
+Stand: 07.05.2026 06:37
 
 ||0-2spk-us.basecamp.app^
 ||0-amfauth.firebaseapp.com^
@@ -72422,6 +72422,7 @@ Stand: 06.05.2026 06:31
 ||dev.ptp.brown.edu^
 ||dev.rara.co^
 ||dev.relion.dk^
+||dev.rezept-frei.de^
 ||dev.rezeptfrei-bestellung.de^
 ||dev.rezeptfrei.ch^
 ||dev.rezeptfrei.info^

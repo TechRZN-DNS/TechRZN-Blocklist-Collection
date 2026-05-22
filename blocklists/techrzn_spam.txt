@@ -1,5 +1,5 @@
 ### TechRZN - SPAM ###
-Stand: 21.05.2026 07:57
+Stand: 22.05.2026 07:48
 
 ||0-2spk-us.basecamp.app^
 ||0-amfauth.firebaseapp.com^
@@ -117501,7 +117501,6 @@ Stand: 21.05.2026 07:57
 ||pay.zeynepgayran.com^
 ||payables.valorcompliance.com^
 ||payain.top^
-||payback.de^
 ||paybyphone.de^
 ||paybyphonecasinos.dd97f531ceec4366274e86e10-18158.sites.k-hosting.co.uk^
 ||paybyphonecasinos.uk^

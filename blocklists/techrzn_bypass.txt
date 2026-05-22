@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 21.05.2026 07:57
+Stand: 22.05.2026 07:48
 
 ||0.6gpaactivities.bastaff.ru^
 ||0.6gpaactivities.pce-cihazlari.com.tr^
@@ -14968,6 +14968,7 @@ Stand: 21.05.2026 07:57
 ||travelvpn.net^
 ||travis90x.ddns.net^
 ||traysub.com^
+||trayvpn.com^
 ||tree.152.53.136.204.nip.io^
 ||tree.greenfieldhk.org^
 ||trees.app^

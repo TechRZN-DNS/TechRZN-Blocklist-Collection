@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 22.05.2026 07:48
+Stand: 23.05.2026 06:35
 
 ||0.6gpaactivities.bastaff.ru^
 ||0.6gpaactivities.pce-cihazlari.com.tr^
@@ -5514,6 +5514,7 @@ Stand: 22.05.2026 07:48
 ||doh.xfinity.com^
 ||doh.xorlet.ru^
 ||doh.xyz^
+||doh.zephyrus.id^
 ||doh.zhongbr.uk^
 ||doh.zknt.org^
 ||doh003.280blocker.net^
@@ -15762,6 +15763,7 @@ Stand: 22.05.2026 07:48
 ||villi.shurakenas.ru^
 ||vilor.site^
 ||vimstera.xyz^
+||vinny-stinks-like-dudu.com^
 ||vipdownloadmena.xyz^
 ||vipfive.xyz^
 ||vipfour.xyz^

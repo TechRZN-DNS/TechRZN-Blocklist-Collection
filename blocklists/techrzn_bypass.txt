@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 23.05.2026 06:35
+Stand: 23.05.2026 13:45
 
 ||0.6gpaactivities.bastaff.ru^
 ||0.6gpaactivities.pce-cihazlari.com.tr^
@@ -16728,7 +16728,6 @@ Stand: 23.05.2026 06:35
 ||www-vpn.52oupa.com^
 ||www-web.sshub.win^
 ||www-web.veranon.io^
-||www-webprxsvc.drewcotech.com^
 ||www-yt.nikooo.ir^
 ||www-yy.in6.to^
 ||wwwportal.app.dontdrinkthekoolaid.duckdns.org^

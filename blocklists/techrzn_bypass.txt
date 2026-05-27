@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 26.05.2026 07:52
+Stand: 27.05.2026 08:06
 
 ||0.6gpaactivities.pce-cihazlari.com.tr^
 ||0.6gpaactivities.pulsaudio.ro^
@@ -5342,6 +5342,7 @@ Stand: 26.05.2026 07:52
 ||doh-03.spectrum.com^
 ||doh-2.seby.io^
 ||doh-ca.naftalie.net^
+||doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr^
 ||doh-dns-apple-com.v.aaplimg.com^
 ||doh-lb-atl.dnsflex.com^
 ||doh-lb-br.dnsflex.com^
@@ -5489,6 +5490,7 @@ Stand: 26.05.2026 07:52
 ||doh.us.moe.tips^
 ||doh.valscosmos.com^
 ||doh.viatech.com.tw^
+||doh.vpsdns.co.za^
 ||doh.webnmail.de^
 ||doh.wewitro.net^
 ||doh.xcom.pro^

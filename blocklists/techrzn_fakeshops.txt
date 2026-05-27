@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 26.05.2026 07:52
+Stand: 27.05.2026 08:06
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -539,6 +539,7 @@ Stand: 26.05.2026 07:52
 ||alpineskiequipment.com^
 ||alpinestil.at^
 ||alpinex.at^
+||alpinvolt.de^
 ||alpionki.com^
 ||alpivogue.ch^
 ||alpstep.com^
@@ -694,6 +695,7 @@ Stand: 26.05.2026 07:52
 ||animationsummer.at^
 ||animefigure.de^
 ||animefigureworld.com^
+||animeshoppers.com^
 ||ankaufo.de^
 ||ankerflowtech.shop^
 ||ankerkrautde.shop^
@@ -779,6 +781,7 @@ Stand: 26.05.2026 07:52
 ||apotheken24de.com^
 ||apothekeohnerezept.de^
 ||apotheker365.com^
+||apothekerwissen.online^
 ||apoversand24.com^
 ||app-alpha.net^
 ||app-analyse.de^
@@ -900,6 +903,7 @@ Stand: 26.05.2026 07:52
 ||artidomo.shop^
 ||artizenti.de^
 ||artnewsnet.com^
+||artofbeautys.de^
 ||artosnomics.com^
 ||artourose.com^
 ||artovitel.com^
@@ -1417,6 +1421,7 @@ Stand: 26.05.2026 07:52
 ||beamdeals.de^
 ||beatricesavoy.de^
 ||beatusbikes.com^
+||beautifyshop.de^
 ||beauty-begins-here.com^
 ||beauty365.site^
 ||beautyaftercare.com^
@@ -1580,6 +1585,7 @@ Stand: 26.05.2026 07:52
 ||beruhig-ende.de^
 ||beruhmteskajak.com^
 ||beryour.com^
+||beschlaege-markt.de^
 ||beschlaegeprofi.de^
 ||besellics.com^
 ||beseregesundheit.com^
@@ -1732,6 +1738,7 @@ Stand: 26.05.2026 07:52
 ||bienll.de^
 ||bierbankdruckerei.de^
 ||biergarten-am-kuenettegraben.de^
+||bierundgarten.de^
 ||bigagnesoutlet.com^
 ||biggainersalerts-members.com^
 ||bighomelife.com^
@@ -1860,7 +1867,6 @@ Stand: 26.05.2026 07:52
 ||biologischestation.de^
 ||bioluxgmbh.com^
 ||bionaturkosmetik.com^
-||bioxtrim.com^
 ||biranco.com^
 ||birgit-hamburg.de^
 ||birkenstock-berlin.shop^
@@ -1969,6 +1975,7 @@ Stand: 26.05.2026 07:52
 ||bluepeaksfinance.com^
 ||blueribbon.site^
 ||blueskycargoes.com^
+||bluestonesolar.de^
 ||bluestyleshop.com^
 ||bluetyt.com^
 ||blum-film.de^
@@ -3429,6 +3436,7 @@ Stand: 26.05.2026 07:52
 ||dein-modehaus.de^
 ||dein-rundfunkbeitrag.de^
 ||dein-sicheres-bad.de^
+||deinautoteileshop.de^
 ||deinbikeprofi.de^
 ||deinegartenprofis.de^
 ||deinemoebelpacker24.at^
@@ -3766,6 +3774,7 @@ Stand: 26.05.2026 07:52
 ||doleras.com^
 ||dolomite.co.at^
 ||dolomite.com.de^
+||dolomiteoutlet.com^
 ||dolystore.com^
 ||domatin.com^
 ||domelus.de^
@@ -3933,6 +3942,7 @@ Stand: 26.05.2026 07:52
 ||dxvape.com^
 ||dyn-amo.com^
 ||dynamic-store.com^
+||dynamo-shop.at^
 ||dynamodeal.de^
 ||dynamos.at^
 ||dynapharmacy.online^
@@ -5631,6 +5641,7 @@ Stand: 26.05.2026 07:52
 ||gartentrend.shop^
 ||gartenundanhaenger.de^
 ||gartenundoutdoor-de.com^
+||gartenvision2.de^
 ||gartenzau.de^
 ||gartenzon.de^
 ||garved.com^
@@ -6124,6 +6135,7 @@ Stand: 26.05.2026 07:52
 ||grasoftness.com^
 ||gratis-produkttests.com^
 ||gratis-produkttests.de^
+||grauwindgarten.de^
 ||gravelbikede.com^
 ||gravitonprofit.com^
 ||graycanyon.com^
@@ -6132,6 +6144,7 @@ Stand: 26.05.2026 07:52
 ||great-market.com^
 ||greatescapery.com^
 ||greatestpod.com^
+||greatpillsshops.com^
 ||greattioa.com^
 ||greecefarmakeio.com^
 ||green-shop.com.ua^
@@ -6181,6 +6194,7 @@ Stand: 26.05.2026 07:52
 ||grobenextapro.org^
 ||groomifypetsstore.com^
 ||grootfmoveshop.com^
+||grosshandelwebservice.de^
 ||grossiste-parfum-generique.com^
 ||grossmarkt24.com^
 ||groundiesdamen.de^
@@ -6504,6 +6518,7 @@ Stand: 26.05.2026 07:52
 ||healthful-pills.com^
 ||healthlifereport.com^
 ||healthonlineshop24.com^
+||healthpillsonline.com^
 ||healthroutine.com^
 ||healththrivewith.com^
 ||healthybear.io^
@@ -7648,7 +7663,6 @@ Stand: 26.05.2026 07:52
 ||jerusalemcharity.com^
 ||jessena.com^
 ||jetprofund.net^
-||jetterix.com^
 ||jeulia.de^
 ||jewellery-palace.com^
 ||jewelleryina.com^
@@ -7811,6 +7825,7 @@ Stand: 26.05.2026 07:52
 ||kafushop.com^
 ||kagasa.com^
 ||kagokamin.de^
+||kahmannskaffee.de^
 ||kahrmannsown.de^
 ||kaimoro.de^
 ||kaisermodehaus.de^
@@ -7882,6 +7897,7 @@ Stand: 26.05.2026 07:52
 ||kamagraman.cz^
 ||kamagraobchod.cz^
 ||kamagraonline.sk^
+||kamagrapreis.de^
 ||kamagraprodej.net^
 ||kamagrashop.online^
 ||kamagrashop.sk^
@@ -8025,6 +8041,7 @@ Stand: 26.05.2026 07:52
 ||keen-schuhe.com^
 ||keendeutsch.de^
 ||keendeutschland.de^
+||keenfootwearsale.com^
 ||keenknown.com^
 ||keenschuhe.at^
 ||keenshoedeals.com^
@@ -10301,14 +10318,12 @@ Stand: 26.05.2026 07:52
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
-||navi75.ru^
 ||navi77.com^
 ||navi78.ru^
 ||navi8.com^
 ||navi86.ru^
 ||navi88.com^
 ||navi89.com^
-||navi89.ru^
 ||navi9.com^
 ||navi90.com^
 ||navi98.com^
@@ -10861,7 +10876,6 @@ Stand: 26.05.2026 07:52
 ||oiltrex.de^
 ||oilvinegarmarket.shop^
 ||oins.shop^
-||ojlkimed.vip^
 ||ojoro-tech.de^
 ||okatode.com^
 ||okbon.de^
@@ -11586,7 +11600,6 @@ Stand: 26.05.2026 07:52
 ||phytrix1.com^
 ||pianidicotturascontato.com^
 ||pibok.de^
-||piccu.org^
 ||pickleballoffer.com^
 ||pickledfoodonline.com^
 ||picom-nfz.de^
@@ -12035,7 +12048,6 @@ Stand: 26.05.2026 07:52
 ||purprints.net^
 ||pusheen.de-imex.de^
 ||pushup.at^
-||puzzdeal.com^
 ||pv-analyse.com^
 ||pvqkcuin.shop^
 ||pw-express.com^
@@ -12094,6 +12106,7 @@ Stand: 26.05.2026 07:52
 ||quellshop.de^
 ||quelltool.com^
 ||quendora.com^
+||quentisolarveix.de^
 ||quick-kredit.com^
 ||quickbills-online.com^
 ||quickdna.com^
@@ -12389,7 +12402,6 @@ Stand: 26.05.2026 07:52
 ||repsfuse.com^
 ||repstop.xyz^
 ||repuhren.de^
-||request.report^
 ||resalelogic.com^
 ||resellalcool.com^
 ||resemblancey.com^
@@ -12557,6 +12569,7 @@ Stand: 26.05.2026 07:52
 ||robotxmarkt.de^
 ||robowerkstatten.com^
 ||robustwerkzeug.com^
+||robuxmenu.vip^
 ||rochobbies.com^
 ||rockchief.com^
 ||rockportbootsireland.com^
@@ -12882,7 +12895,6 @@ Stand: 26.05.2026 07:52
 ||saycom.net^
 ||saynebeauty.com^
 ||saynthesis.com^
-||sberbank.www.avito.id5189145677.com^
 ||sbikeparts.com^
 ||sbk-hoffmeyer.de^
 ||sboxcontainers.com^
@@ -13031,7 +13043,6 @@ Stand: 26.05.2026 07:52
 ||sec.gmgeurope.online^
 ||secrettime.shop^
 ||secrity2redline.com^
-||secure-freedom-mobile.com^
 ||secure.selure.de^
 ||secureinvest.org^
 ||securemed.shop^
@@ -13425,6 +13436,7 @@ Stand: 26.05.2026 07:52
 ||skinsociety.shop^
 ||skinszone.net^
 ||skinwell.store^
+||skipped.vip^
 ||skiracedepartment.com^
 ||skirt-discount-store.shop^
 ||skispeichern.com^
@@ -13584,6 +13596,7 @@ Stand: 26.05.2026 07:52
 ||solarenergie-beleuchtung.de^
 ||solarflowcrm.com^
 ||solarheim.com^
+||solaricstore.com^
 ||solarien-berlin.de^
 ||solarinstallerscapetown.com^
 ||solarlc.com^
@@ -13760,6 +13773,7 @@ Stand: 26.05.2026 07:52
 ||sportbekleidungde.com^
 ||sportdamen.de^
 ||sportfanlab.com^
+||sportfirestore.com^
 ||sportgearde.com^
 ||sportkleidungwelt.com^
 ||sportlife.mytestopay.com^
@@ -13925,6 +13939,7 @@ Stand: 26.05.2026 07:52
 ||stilhausfreiburg.com^
 ||still-sonderaktionen.de^
 ||stillhandel.de^
+||stillsonline.de^
 ||stilmark.de^
 ||stilmoment.com^
 ||stilovo.de^
@@ -14329,7 +14344,6 @@ Stand: 26.05.2026 07:52
 ||tcomplex.de^
 ||tddexpresslogistics.com^
 ||tdglobalcompany.io^
-||tdgrop168.vip^
 ||tdxsz.com^
 ||te.de^
 ||teachbrigh.com^
@@ -14424,7 +14438,6 @@ Stand: 26.05.2026 07:52
 ||tesler-inc.trade^
 ||tesler.software^
 ||test-iq-online.com^
-||test4.com^
 ||testcortiy.com^
 ||testereo.com^
 ||testorino.de^
@@ -14592,6 +14605,7 @@ Stand: 26.05.2026 07:52
 ||thevitic.com^
 ||thevitic.onshopbase.com^
 ||thewhitehousestore.com^
+||thewindowsactivator.com^
 ||theworkshopoflife.com^
 ||thinkcarde.com^
 ||thirdeye-immobilien.at^
@@ -16163,6 +16177,7 @@ Stand: 26.05.2026 07:52
 ||wittelsbach-partner.com^
 ||wittelsheimholz.com^
 ||wivaro.de^
+||wlandrucker-tests.de^
 ||wlinme.com^
 ||wloom.com^
 ||wmbra.de^

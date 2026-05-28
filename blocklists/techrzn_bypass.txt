@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 27.05.2026 08:06
+Stand: 28.05.2026 08:02
 
 ||0.6gpaactivities.pce-cihazlari.com.tr^
 ||0.6gpaactivities.pulsaudio.ro^
@@ -5471,6 +5471,7 @@ Stand: 27.05.2026 08:06
 ||doh.sa-sa.eu^
 ||doh.sb^
 ||doh.seby.io^
+||doh.serverhost.no^
 ||doh.sidnlabs.nl^
 ||doh.sublime9.xyz^
 ||doh.suche.org^

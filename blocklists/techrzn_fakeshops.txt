@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 31.05.2026 07:47
+Stand: 31.05.2026 14:21
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -1216,7 +1216,6 @@ Stand: 31.05.2026 07:47
 ||babybay-de.com^
 ||babybeddingdesign.com^
 ||babybox-schweiz.ch^
-||babybubblestore.com^
 ||babygea.com^
 ||babyglueckshop.com^
 ||babylissde.de^
@@ -2355,6 +2354,7 @@ Stand: 31.05.2026 07:47
 ||ca-agentur.de^
 ||ca-pharm.net^
 ||caactioncoalition.org^
+||caballde.com^
 ||cabergbrema.com^
 ||cachetone.com^
 ||cacyro.com^
@@ -2834,6 +2834,7 @@ Stand: 31.05.2026 07:47
 ||coffeeequipmentsupply.com^
 ||coffeehotsale.com^
 ||coffeeliftin.com^
+||coffeena.de^
 ||coffeesbliss.myshopify.com^
 ||coffeeshopus.com^
 ||cognatesyringe.com^
@@ -3111,7 +3112,6 @@ Stand: 31.05.2026 07:47
 ||crystal-inter.com^
 ||crystalli.de^
 ||crystalnova.de^
-||cryzor.com^
 ||cs-pharmacy.net^
 ||cs.penoxal.com^
 ||cs.russianpharmacy.net^
@@ -7092,10 +7092,8 @@ Stand: 31.05.2026 07:47
 ||hotel-ds.com^
 ||hotel-krone-muc.de^
 ||hotelaustralien.de^
-||hotelinphuket.net^
 ||hotelladen.com^
 ||hotels-colombo.com^
-||hotels-colorado.net^
 ||hotels-in-tyrol.com^
 ||hotelsinperm.ru^
 ||hotelsinvienna.org^
@@ -7703,7 +7701,6 @@ Stand: 31.05.2026 07:47
 ||jeffkelleher.shop^
 ||jeffora.de^
 ||jeffspoolservice.com^
-||jeinn.com^
 ||jellycatkuscheltiere.de^
 ||jellycats.de^
 ||jellylight.at^
@@ -7715,6 +7712,7 @@ Stand: 31.05.2026 07:47
 ||jerusalemcharity.com^
 ||jessena.com^
 ||jetprofund.net^
+||jetterix.com^
 ||jeulia.de^
 ||jewellery-palace.com^
 ||jewelleryina.com^
@@ -10697,7 +10695,6 @@ Stand: 31.05.2026 07:47
 ||northwestpharmacy.com^
 ||norvahaus.de^
 ||norvexapharma.com^
-||norwayhotel.net^
 ||norwaynewstoday.com^
 ||norxonline.biz^
 ||nosdaarte.com^
@@ -12112,6 +12109,7 @@ Stand: 31.05.2026 07:47
 ||pumpkin-bubbe.com^
 ||pun168-online.com^
 ||punchonsol.top^
+||pundmannshop.de^
 ||punjabicloud.com^
 ||punkrave.ch^
 ||punkravestore.de^
@@ -13828,6 +13826,7 @@ Stand: 31.05.2026 07:47
 ||spielzeug-ente.com^
 ||spielzeug-traum.com^
 ||spielzeug-wunderwelt.com^
+||spielzeugarthub.com^
 ||spielzeugautosrabatt.com^
 ||spielzeugautowelt.com^
 ||spielzeugelektronik.com^
@@ -14269,6 +14268,7 @@ Stand: 31.05.2026 07:47
 ||superiorwilderdog.com^
 ||superkamagra.store^
 ||supermarktdeutschland.com^
+||supermarktdigital.de^
 ||supermarkteonline.com^
 ||supermeds24.com^
 ||superocas.com^
@@ -15158,7 +15158,6 @@ Stand: 31.05.2026 07:47
 ||trustedconsumerreview.online^
 ||trustedmedstore24.com^
 ||trustednorx.com^
-||trustedrxsolutions.com^
 ||trustedshops.store^
 ||trustedtablets.online^
 ||trustedxshop.com^
@@ -15892,6 +15891,7 @@ Stand: 31.05.2026 07:47
 ||voltabuy.com^
 ||voltedage.com^
 ||volthausgeraete.de^
+||voltradbike.de^
 ||voltryzapex.at^
 ||volture.de^
 ||voltus-elektroshop.de^

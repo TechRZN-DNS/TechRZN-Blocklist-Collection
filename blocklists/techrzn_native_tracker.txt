@@ -1,5 +1,5 @@
 ### TechRZN - NATIVE_TRACKER ###
-Stand: 31.05.2026 14:21
+Stand: 01.06.2026 09:28
 
 ||0001-metrics1-data-hicloud-com.geac.dbankedge.cn^
 ||0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
@@ -379,6 +379,9 @@ Stand: 31.05.2026 14:21
 ||cloudi-th.browser.heytapmobile.com^
 ||cloudi-vn.browser.heytapmobile.com^
 ||cloudservices.roku.com^
+||cn-zh-ort-stsdk.vivoglobal.com^
+||cn-zh-prt-stsdk.vivoglobal.com^
+||cn-zh-stsdk.vivoglobal.com^
 ||cname-ali-asia-stsdk.vivoglobal.com^
 ||cname-asia-comonrt-stsdk.vivoglobal.com^
 ||cname-asia-st-exappupgrade.vivoglobal.com^

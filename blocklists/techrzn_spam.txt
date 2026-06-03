@@ -1,5 +1,5 @@
 ### TechRZN - SPAM ###
-Stand: 02.06.2026 08:39
+Stand: 03.06.2026 08:57
 
 ||0-2spk-us.basecamp.app^
 ||0-amfauth.firebaseapp.com^
@@ -119341,7 +119341,6 @@ Stand: 02.06.2026 08:39
 ||pkdmmfwxqa.ufn.gts.multisan.st.ap.gtr-dev.certsbridge.com^
 ||pkdxnuu.thelittlesensory.co^
 ||pkgtsgdp.jetzt^
-||pki.goog^
 ||pkjobcollect.com^
 ||pkptamu053dev.tamu.edu^
 ||pkr.com^

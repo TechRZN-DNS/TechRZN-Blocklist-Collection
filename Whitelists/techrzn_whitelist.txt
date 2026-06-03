@@ -1,7 +1,7 @@
 ### TechRZN Master Whitelist ###
-### Stand: 31.03.2026 22:58 ###
+### Stand: 03.06.2026 ###
 
--go.kelkoogroup.net
+go.kelkoogroup.net
 1-aclk.net
 1aurl.io
 1aurl.net
@@ -66,31 +66,9 @@ action.metaffiliation.com
 ad.admitad.com
 ad.adverticum.net
 ad.atdmt.com
-ad.doubleclick.net
 ad.dyntracker.de
-ad.lifesight.io
-adaxxcloud.com
-adfoc.us
-adform.com
-adj.st
-adlucent.com
-admarkt.kleinanzeigen.de
-admd.ink
-adn.wargaming.net
-adnt.wargaming.net
-adobetarget.data.adobedc.net
-adorama.rfvk.net
-adosiz.io
-ads.revjet.com
-adscendmedia.com
-adservice.google.
-adsmeasurement.com
-adspeed.net
-adsplusgrowth.com
-adsplusmetrics.com
-adsplustracker.com
-adsv.svc.litv.tv
-advise.gallup.com
+adservice.google.com
+adservice.google.de
 adx.io
 adzerk.com
 adzerk.net
@@ -110,14 +88,7 @@ alitems.site
 amazon-value-service.com
 amnet.tw
 analytics-prd.aws.wehaa.net
-analytics.adjust.cn
-analytics.adjust.com
-analytics.adjust.io
-analytics.adjust.net.in
-analytics.adjust.world
 analytics.barnebys.sh
-analytics.twitter.com
-analyticstrustyou.com
 anrdoezrs.net
 api-moengage.com
 api.bam-x.com
@@ -133,17 +104,10 @@ apiservices.krxd.net
 apmebf.com
 apms5.com
 aporasal.net
-app.adjust.cn
-app.adjust.com
-app.adjust.io
-app.adjust.net.in
-app.adjust.world
-app.appsflyer.com
 app.e.sigsauer.com
 app.getresponse.com
 app.link
 app.link.nba.com
-app.metricsverse.com
 app.sephora.com
 appsalesmanago.pl
 arttrk.com
@@ -157,8 +121,6 @@ attorneyandlegal.com
 attribution.uk.customer360.co
 audience-api.wts-okube.com
 aumtrack.com
-auth-analytics.com
-auth-analytix.com
 auto-swiat.pl
 autolinkmaker.itunes.apple.com
 automotive.services
@@ -436,7 +398,6 @@ godev.trakaff.net
 goflx1.com
 gomobupps.com
 google.itgreen.com.vn
-googleadservices.com
 gopjn.com
 goto.algolia.com
 goto.jet.com
@@ -517,8 +478,6 @@ linksmail.geosolinc.com
 linkspasson.com
 linksredirect.com
 linksshift.com
-linkvertise.com
-linkvertise.net
 list-manage.com
 list-unsubscribe.eservice.emarsys.net
 lndata.com
@@ -651,7 +610,6 @@ receive-us.solar-engine.io
 recommenderscarabresearch.com
 red.wargaming.net
 redir.wargaming.net
-redirect.appmetrica.yandex.
 redirect.at
 redirect.aws.a2z.com
 redirect.tracify.ai
@@ -892,11 +850,9 @@ ttradetracker.net
 ue.flipboard.com
 uinterbox.com
 uintertool.com
-ulink.adjust.com
 unileverdemdex.net
 uns.apsis.one
 unsubscribe.leanplum.com
-us-serve.nrich.ai
 userlinx.com
 usrlnx.com
 v.short.gy

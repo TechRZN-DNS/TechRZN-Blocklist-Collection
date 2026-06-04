@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 03.06.2026 08:57
+Stand: 04.06.2026 08:22
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -16941,6 +16941,7 @@ Stand: 03.06.2026 08:57
 ||analytics.atara.sa^
 ||analytics.ateeq-sa.com^
 ||analytics.athome.com^
+||analytics.atom.com^
 ||analytics.audioeye.com^
 ||analytics.audionow.de^
 ||analytics.autozone.com^
@@ -24881,6 +24882,7 @@ Stand: 03.06.2026 08:57
 ||bizmkt.lguplus.com^
 ||biznews.oregon.gov^
 ||biztechsandbox.tt.omtrdc.net^
+||biztoolsbrief.com^
 ||bizz.cochraneco.com^
 ||bja2.destinia.cz^
 ||bjc.hrm.healthgrades.com^
@@ -25355,6 +25357,7 @@ Stand: 03.06.2026 08:57
 ||board.docs.net.daraz.com^
 ||board.ebs.10-marketing.net.daraz.com^
 ||board.net.daraz.com^
+||boardbumpers.com^
 ||boardcontainer-r-ht-1.net.daraz.com^
 ||boardedge-interaction.net.daraz.com^
 ||boardelasticbeanstalkallseason.net.daraz.com^
@@ -28701,6 +28704,7 @@ Stand: 03.06.2026 08:57
 ||citizensclimate.actonservice.com^
 ||citizenship.quantresear.ch^
 ||citrix-available.net.daraz.com^
+||citydeal.net^
 ||citynationalbank.tt.omtrdc.net^
 ||cityofsanmateo.analytics.open.law^
 ||cityrobotflower.com^
@@ -28830,6 +28834,7 @@ Stand: 03.06.2026 08:57
 ||clear.wallapop.com^
 ||clearbitscripts.com^
 ||clearbrands.actonservice.com^
+||clearclips.com^
 ||clearviewcrm.softrek.com^
 ||cleduudfreduntcar31.net.daraz.com^
 ||clelasticbeanstalk-r-dw-1dr-oa-2.net.daraz.com^
@@ -40827,6 +40832,7 @@ Stand: 03.06.2026 08:57
 ||eventos.ubmmexico.com^
 ||eventos.usj.es^
 ||events-endpoint.pointandplace.com^
+||events-ingestion-helpcenter.services.gorgias.help^
 ||events-logs.doctolib.com^
 ||events-meta-events.outsideonline.com^
 ||events-ocu.zipify.com^
@@ -42128,7 +42134,6 @@ Stand: 03.06.2026 08:57
 ||followborder.com^
 ||fomhr.superlash.pl^
 ||fonts.simoneferretti.net^
-||fontserif.com^
 ||food.docsnewnautilus12345proxy3.net.daraz.com^
 ||food.informaengage.com^
 ||food.n-switch.net.daraz.com^
@@ -79271,6 +79276,7 @@ Stand: 03.06.2026 08:57
 ||reach-id.orbit.tm-awx.com^
 ||reach.ironmountain.com^
 ||reach.terumo-bct.com^
+||reachhumans.com^
 ||react-admin-telemetry.marmelab.com^
 ||reactioncommerce.actonservice.com^
 ||reactjspdf.com^

@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 05.06.2026 08:09
+Stand: 06.06.2026 06:55
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -28993,6 +28993,7 @@ Stand: 05.06.2026 08:09
 ||client-log.karte.io^
 ||client-logger.beta.salemove.com^
 ||client-logger.salemove.com^
+||client-logs-a.wbx2.com^
 ||client-metrics.chess.com^
 ||client-r-ht-6.net.daraz.com.00d900000010xcyeay.net.daraz.com^
 ||client-w-a.r.net.daraz.com^
@@ -36144,6 +36145,7 @@ Stand: 05.06.2026 08:09
 ||daytoday.ownbazarbd.com^
 ||dayyfq.rapidonline.com^
 ||dazdmx.cobra.fr^
+||dazzlescript.com^
 ||dazzlingbook.com^
 ||db-caauthenticate21-10-authenticate-oa-1.net.daraz.com^
 ||db1.management-application-spring.net.daraz.com^
@@ -37674,6 +37676,7 @@ Stand: 05.06.2026 08:09
 ||documentsns.emailvision.net.daraz.com^
 ||documentsr-es-1.net.daraz.com^
 ||documentsr-oa-2.net.daraz.com^
+||documentstock.com^
 ||documentsvision.net.daraz.com^
 ||documentsviviotech.net.daraz.com^
 ||docyjy.ryderwear.com^
@@ -38446,6 +38449,7 @@ Stand: 05.06.2026 08:09
 ||e.usesneakpeek.com^
 ||e.vcty.co^
 ||e.viously.com^
+||e.zg-api.com^
 ||e035.pandasuite.io^
 ||e045f561.b-cdn.net^
 ||e1.usenarae.com^
@@ -44500,7 +44504,6 @@ Stand: 05.06.2026 08:09
 ||gonytours.tt.omtrdc.net^
 ||good.debbeq.com^
 ||good.iamandco.com^
-||goodbark.com^
 ||goodlifefitnesscentr.tt.omtrdc.net^
 ||goods.preoponno.com^
 ||goodyear.tt.omtrdc.net^
@@ -76898,6 +76901,7 @@ Stand: 05.06.2026 08:09
 ||pixel.lilystyle.ai^
 ||pixel.locker2.com^
 ||pixel.mangooutletshop.com^
+||pixel.marqo-ep.ai^
 ||pixel.mintigo.com^
 ||pixel.mtrcs.samba.tv^
 ||pixel.newscred.com^
@@ -78867,6 +78871,7 @@ Stand: 05.06.2026 08:09
 ||qubcn.fancypantsthestore.com^
 ||qubitanalytics.appspot.com^
 ||quebec.savills.ca^
+||queen-one.net^
 ||queenjam.com^
 ||queenskart.com^
 ||quelea.llresearch.dev^
@@ -118679,6 +118684,7 @@ Stand: 05.06.2026 08:09
 ||x.babe.today^
 ||x.bloggurat.net^
 ||x.crockers.co.nz^
+||x.designboom.com^
 ||x.disabledpartner.net.daraz.com^
 ||x.disq.us^
 ||x.gldn.io^

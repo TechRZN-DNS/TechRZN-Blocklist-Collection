@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 08.06.2026 08:56
+Stand: 09.06.2026 07:52
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -41794,6 +41794,7 @@ Stand: 08.06.2026 08:56
 ||findomestic.tt.omtrdc.net^
 ||findthetruth.allergyai.com^
 ||findyourdailyjoy.com^
+||findyourdelight.com^
 ||findyourinfluence.actonservice.com^
 ||fine.aftershoot.com^
 ||fine.ampelmannshop.com^
@@ -82442,6 +82443,7 @@ Stand: 08.06.2026 08:56
 ||search.valuehunter.site^
 ||searchestracker.org^
 ||searsholdings.tt.omtrdc.net^
+||seaskypro.com^
 ||seat6worn.com^
 ||seatac15.com^
 ||seatsa.tt.omtrdc.net^

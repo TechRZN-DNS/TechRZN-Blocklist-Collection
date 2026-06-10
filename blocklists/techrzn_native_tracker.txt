@@ -1,5 +1,5 @@
 ### TechRZN - NATIVE_TRACKER ###
-Stand: 09.06.2026 07:52
+Stand: 10.06.2026 08:10
 
 ||0001-metrics1-data-hicloud-com.geac.dbankedge.cn^
 ||0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
@@ -57,6 +57,8 @@ Stand: 09.06.2026 07:52
 ||ads-drcn.platform.hihonorcloud.com^
 ||ads-drru.cloud.huawei.ru^
 ||ads-drru.platform.hihonorcloud.com^
+||ads-marketing-vivofs.vivo.com.cn^
+||ads-marketing-vivofs.vivo.com.cn.ctdns.cn^
 ||ads-us-east-1.delivery.roku.com^
 ||ads-us-east-2.delivery.roku.com^
 ||ads-us-west-2.delivery.roku.com^
@@ -69,6 +71,7 @@ Stand: 09.06.2026 07:52
 ||ads.roku.com^
 ||ads.spotx.tv^
 ||ads.staging.roku.com^
+||adsdk.vivo.com.cn^
 ||adservices.roku.com^
 ||adsfs-sdkconfig.heytapimage.com^
 ||adsfs.oppomobile.com^
@@ -89,6 +92,7 @@ Stand: 09.06.2026 07:52
 ||adx-dra-op-dbankcloud-com-dra.region.dbankedge.cn^
 ||adx-dra-op-hicloud-com-dra.appacc.dbankedge.cn^
 ||adx-dra-op-hicloud-com-dra.edge.dbankedge.cn^
+||adx-dra-op-hicloud-com-dra.region.dbankedge.cn^
 ||adx-dra.op.dbankcloud.com^
 ||adx-dra.op.hicloud.com^
 ||adx-drcn.op.dbankcloud.cn^
@@ -391,6 +395,7 @@ Stand: 09.06.2026 07:52
 ||cname-in-ctdbonrt-stsdk.vivoglobal.com^
 ||cname-sin01-stsdk09.vivoglobal.com^
 ||cnames.raps.ravm.tv^
+||co-domaincfg.vivoglobal.com^
 ||co-pnrt-stsdk.vivoglobal.com^
 ||co-romsp-unifyconfig.vivoglobal.com^
 ||co-st-sl.vivoglobal.com^
@@ -1104,6 +1109,7 @@ Stand: 09.06.2026 07:52
 ||sca-onrt-stsdk.vivoglobal.com^
 ||sca-ort-stsdk.vivoglobal.com^
 ||sca-p.vivoglobal.com^
+||sca-pnrt-stsdk.vivoglobal.com^
 ||sca-romsp-unifyconfig.vivoglobal.com^
 ||sca-st-sl.vivoglobal.com^
 ||sca-stsdk.vivoglobal.com^
@@ -1140,6 +1146,7 @@ Stand: 09.06.2026 07:52
 ||sms.ads.oppomobile.com^
 ||sonybivstatic-a.akamaihd.net^
 ||ssp-adx.ads.heytapmobi.com^
+||st-ads-jssdk.vivo.com.cn^
 ||start.digitaltext.rtl.de^
 ||stat.browser.heytapmobi.com^
 ||stg-data-f.ads.heytapmobi.com^

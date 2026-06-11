@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 10.06.2026 08:10
+Stand: 11.06.2026 08:48
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -7138,7 +7138,6 @@ Stand: 10.06.2026 08:10
 ||1bva.sg.fr^
 ||1bw7etm93lf.www.woodbrass.com^
 ||1cdnpre3pago.docs.net.daraz.com^
-||1cros.net^
 ||1csr12.net.daraz.com^
 ||1csr12w12-promojenkins.net.daraz.com^
 ||1csr41-freebsd.net.daraz.com^
@@ -7751,7 +7750,6 @@ Stand: 10.06.2026 08:10
 ||41fa85c01ff2679602a5.00-car21-web-wwww15node-webapp-okta.net.daraz.com^
 ||423-games.cvs.21-car21-web-wwww9node-okta-applications-yancancook.net.daraz.com^
 ||423pago.n-switch.docs.net.daraz.com^
-||4251.tech^
 ||425275.net.daraz.com^
 ||42fa85c01ff2673502a5.00-car21-web-wwww11node-webapp-okta.net.daraz.com^
 ||42gvwa5xy.net.daraz.com^
@@ -9381,7 +9379,6 @@ Stand: 10.06.2026 08:10
 ||a1i281.tt.omtrdc.net^
 ||a1i326.tt.omtrdc.net^
 ||a1i525.tt.omtrdc.net^
-||a1webstrategy.com^
 ||a2.0di-uf0063dea-c033-s1507746104-i95143f0d.am.net.daraz.com^
 ||a2.americasavingsexperts.com^
 ||a2.avomeen.com^
@@ -12988,7 +12985,6 @@ Stand: 10.06.2026 08:10
 ||aaucna.casasbahia.com.br^
 ||aauthenticatevision.net.daraz.com^
 ||aauthorizationhpartner.net.daraz.com^
-||aaxwall.com^
 ||aazfby.auto.de^
 ||aazmiw.reisenthel.com^
 ||ab-machine.forbes.com^
@@ -16562,7 +16558,6 @@ Stand: 10.06.2026 08:10
 ||alpha.smilepop.pl^
 ||alpha.viviotech.net.daraz.com^
 ||alpha.zigzagstr.administrators.net.daraz.com^
-||alpha1trk.com^
 ||alphafreshegg.net.daraz.com^
 ||alphanewnautilus12345proxy3.net.daraz.com^
 ||alphans3.cl.bellsouth.net.daraz.com^
@@ -26385,6 +26380,7 @@ Stand: 10.06.2026 08:10
 ||c-ae29-sjc12-dr01.net.daraz.com^
 ||c-c-l.actonservice.com^
 ||c-partner-alpha.net.daraz.com^
+||c-stat.eu^
 ||c-t.topya.com^
 ||c.active.ns.emailvision.net.daraz.com^
 ||c.albss.com^
@@ -27602,7 +27598,6 @@ Stand: 10.06.2026 08:10
 ||catschickens.com^
 ||catshark.janetalexandersson.com^
 ||catshark.jimmyaldape.dev^
-||catsunrunjam.com^
 ||cattell.loanzify.app^
 ||cattle.apisyouwonthate.com^
 ||cattle.driftbot.io^
@@ -29252,6 +29247,7 @@ Stand: 10.06.2026 08:10
 ||cloupayfrontcar31.net.daraz.com^
 ||cloupgsqlfrontcar31.net.daraz.com^
 ||clovergo.june-testing.firstdata.com^
+||cloverkeys.com^
 ||cloverleaf.infor.com^
 ||clownfish.onvard.de^
 ||clownfish.philipkiely.com^
@@ -36104,7 +36100,6 @@ Stand: 10.06.2026 08:10
 ||datahub.unit4.com^
 ||datalayer.orange.fr^
 ||datanoticias.prisasd.com^
-||dataofpages.com^
 ||datapickles.com^
 ||datas.connectingthreads.com^
 ||datas.knitpicks.com^
@@ -39848,7 +39843,6 @@ Stand: 10.06.2026 08:10
 ||emails.travelchannel.com^
 ||emails.verishop.com^
 ||emails.watchown.tv^
-||emailsnow.info^
 ||emailvision.authenticate.net.daraz.com^
 ||emailvision.ebs.net.daraz.com^
 ||emailvision.net.daraz.com^
@@ -49221,6 +49215,7 @@ Stand: 10.06.2026 08:10
 ||hooks.geralbet.bet.br^
 ||hooks.lider.bet.br^
 ||hookworm.campaignzee.com^
+||hoorayplay.com^
 ||hooru.regence.com^
 ||hootsuite.branch.rocks^
 ||hop.bouclidom.com^
@@ -49630,7 +49625,6 @@ Stand: 10.06.2026 08:10
 ||i3bcjtloeuyyxjjh.net.daraz.com^
 ||i4yyt954d0ireka7.net.daraz.com^
 ||i5ixiwch2f.themakersmob.com^
-||ia-dmp.com^
 ||ia.51.la^
 ||ia.ekstrabladet.dk^
 ||ia84berzxy7v.de.themoneytizer.com^
@@ -49998,6 +49992,7 @@ Stand: 10.06.2026 08:10
 ||image.thermoscientific.com^
 ||image.tt.omtrdc.net^
 ||imageavailable.net.daraz.com^
+||imagebuffer.com^
 ||imagecutie.com^
 ||imageenticate.net.daraz.com^
 ||imagenes.ubmmexico.com^
@@ -52497,7 +52492,6 @@ Stand: 10.06.2026 08:10
 ||jambwe.transsibinfo.com^
 ||james.edge45.testandtarget.omniture.com^
 ||jamexport.com^
-||jams.wiki^
 ||jannat.hayaofmuslimah.com^
 ||janus.r.jakuli.com^
 ||janzoz.1001pneus.fr^
@@ -71201,7 +71195,6 @@ Stand: 10.06.2026 08:10
 ||miqeuu.timberland.it^
 ||miqznq.eszonyeg.hu^
 ||mirabelanalytics.com^
-||mircheigeshoa.com^
 ||mirec.ubmmexico.com^
 ||mirror-restricted-r-ht-2.net.daraz.com^
 ||mirvso.boggi.com^
@@ -71644,7 +71637,6 @@ Stand: 10.06.2026 08:10
 ||mormont.gamer-network.net^
 ||morningstar.tt.omtrdc.net^
 ||morrellinc.actonservice.com^
-||mors22.com^
 ||morsn.repwearfitness.com^
 ||mortgage.equifax.com^
 ||mortgage.inform.equifax.com^
@@ -78345,7 +78337,6 @@ Stand: 10.06.2026 08:10
 ||pushmaster-cdn.xyz^
 ||pushpatner.net.daraz.com^
 ||pushspring.actonservice.com^
-||pushvisit.xyz^
 ||putphc.zuhre.com.tr^
 ||puzzle.spiriteq.com^
 ||pv.hd.sohu.com^
@@ -79052,7 +79043,6 @@ Stand: 10.06.2026 08:10
 ||r7s.scl.swisscom.ch^
 ||ra.estejaondequiser.com.br^
 ||raab3frog.com^
-||raac33.net^
 ||rabbit.donald.cat^
 ||rabbit.kilowatt.media^
 ||rabbit.radicalxchange.org^
@@ -104141,7 +104131,6 @@ Stand: 10.06.2026 08:10
 ||statistic.jac-systeme.de^
 ||statistic.qzone.qq.com^
 ||statistic2.reichelt.de^
-||statisticplatform.com^
 ||statistics.bergland.de^
 ||statistics.csob.cz^
 ||statistics.daktilo.com^
@@ -104704,6 +104693,7 @@ Stand: 10.06.2026 08:10
 ||stats.jetzt-aktivieren.de^
 ||stats.jhsheridan.com^
 ||stats.jjude.com^
+||stats.jkdesa.com^
 ||stats.jmmr.dev^
 ||stats.joaopedro.dev^
 ||stats.johanneswienke.de^
@@ -108979,7 +108969,6 @@ Stand: 10.06.2026 08:10
 ||test.takedwn.ws^
 ||test.thei.co^
 ||test.thomsonreuters.com^
-||test.vast^
 ||test.zeus-wifi.jp^
 ||test123.proudclinic.co.jp^
 ||test2.majelan.com^
@@ -111609,7 +111598,6 @@ Stand: 10.06.2026 08:10
 ||track-github.net.daraz.com^
 ||track-mail.homage.co^
 ||track-s-f4c70430.everreal.co^
-||track-selectmedia.com^
 ||track-srv.vietnamnet.vn^
 ||track-test.workframe.com^
 ||track-v4.ipadpresence.com^
@@ -113579,7 +113567,6 @@ Stand: 10.06.2026 08:10
 ||traker.leonardomariani.com.br^
 ||traker.pinkplus.com.br^
 ||traker.preventaudiosp.com.br^
-||trakle01.online^
 ||traktor.adventures.is^
 ||traktor.lozkoholicy.pl^
 ||tranquilcan.com^
@@ -114876,6 +114863,7 @@ Stand: 10.06.2026 08:10
 ||ucuhvo.jm-bruneau.be^
 ||ud.autoboativeshow.com^
 ||ud.freshdentalcare.com^
+||ud.galaxus.ch^
 ||ud.galaxus.de^
 ||ud.habs.tixonlinenow.com^
 ||ud.tranquilityspacecoast.com^

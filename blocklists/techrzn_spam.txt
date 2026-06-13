@@ -1,5 +1,5 @@
 ### TechRZN - SPAM ###
-Stand: 13.06.2026 07:50
+Stand: 13.06.2026 23:03
 
 ||0-2spk-us.basecamp.app^
 ||0-amfauth.firebaseapp.com^
@@ -10314,7 +10314,6 @@ Stand: 13.06.2026 07:50
 ||anthony2008journal.blogspot.com^
 ||anthonypierpontrealty.com^
 ||anthonyruiz.dev^
-||anthropic.com^
 ||anthropologica.ca^
 ||anthropophuisms.com^
 ||anthrosource.onlinelibrary.wiley.com.oca.rizal.library.remotexs.co^
@@ -102386,7 +102385,6 @@ Stand: 13.06.2026 07:50
 ||linkreferral.sexycandidgirls.com^
 ||linkreveal.com^
 ||links.airalo.com^
-||links.anthropic.com^
 ||links.artizan-sa.com^
 ||links.classplanner.app^
 ||links.email.lifehacker.com^
@@ -123240,7 +123238,6 @@ Stand: 13.06.2026 07:50
 ||priv8.pw^
 ||privacy-nest.net^
 ||privacy-service-realtime-internet.autos^
-||privacy.anthropic.com^
 ||privacy.jetzt^
 ||privacyfencecincinnati.com^
 ||privacyguard.pro^

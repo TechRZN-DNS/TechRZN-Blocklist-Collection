@@ -1,5 +1,5 @@
 ### TechRZN - NATIVE_TRACKER ###
-Stand: 12.06.2026 08:27
+Stand: 13.06.2026 07:50
 
 ||0001-metrics1-data-hicloud-com.geac.dbankedge.cn^
 ||0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
@@ -29,7 +29,9 @@ Stand: 12.06.2026 08:27
 ||ad.lgappstv.com^
 ||ad.nettvservices.com^
 ||ad.prod.rpay.int.roku.com^
+||ad.qa.ap.int.roku.com^
 ||ad.staging.rpay.int.roku.com^
+||ad.usw2.qa.ap.int.roku.com^
 ||adeng-identity-prod3.bdp.roku.com^
 ||adeng-looker-bi-oneview-prod-1001.bdp.roku.com^
 ||adeng-looker-dev-1001.bdp.roku.com^
@@ -390,6 +392,7 @@ Stand: 12.06.2026 08:27
 ||cname-asia-st-exappupgrade.vivoglobal.com^
 ||cname-asia-stsdk09.vivoglobal.com^
 ||cname-asia02-stsdk.vivoglobal.com^
+||cname-de-stsdk.vivoglobal.com^
 ||cname-in-apport-stsdk.vivoglobal.com^
 ||cname-in-bom01-nginxpool03.vivoglobal.com^
 ||cname-in-ctdbonrt-stsdk.vivoglobal.com^
@@ -533,7 +536,6 @@ Stand: 12.06.2026 08:27
 ||err-up.vivoglobal.com^
 ||err.up.vivoglobal.com^
 ||esp.logs.roku.com^
-||eu-album-api.vivoglobal.com^
 ||eu-cota.vivoglobal.com^
 ||eu-domaincfg.vivoglobal.com^
 ||eu-errup.vivoglobal.com^
@@ -702,7 +704,6 @@ Stand: 12.06.2026 08:27
 ||in-apport-stsdk.vivoglobal.com^
 ||in-apppnrt-stsdk.vivoglobal.com^
 ||in-appprt-stsdk.vivoglobal.com^
-||in-cfg-stsdk.vivoglobal.com^
 ||in-cota.vivoglobal.com^
 ||in-ctdbonrt-stsdk.vivoglobal.com^
 ||in-ctdbort-stsdk.vivoglobal.com^
@@ -1104,19 +1105,6 @@ Stand: 12.06.2026 08:27
 ||sau-server-in.allawnos.com^
 ||sau-server-sg.allawnos.com^
 ||sau-server-us.allawnos.com^
-||sca-domaincfg.vivoglobal.com^
-||sca-err-up.vivoglobal.com^
-||sca-onrt-stsdk.vivoglobal.com^
-||sca-ort-stsdk.vivoglobal.com^
-||sca-p.vivoglobal.com^
-||sca-pnrt-stsdk.vivoglobal.com^
-||sca-romsp-unifyconfig.vivoglobal.com^
-||sca-st-sl.vivoglobal.com^
-||sca-stsdk.vivoglobal.com^
-||sca-timesync.vivoglobal.com^
-||sca-vcode-api.vivoglobal.com^
-||sca-vcode-od.vivoglobal.com^
-||sca-vcode-or.vivoglobal.com^
 ||sca.samsung.com^
 ||scribe.logs.roku.com^
 ||script.ioam.de^
@@ -1180,7 +1168,6 @@ Stand: 12.06.2026 08:27
 ||tr-album-api.vivoglobal.com^
 ||tr-cota.vivoglobal.com^
 ||tr-domaincfg.vivoglobal.com^
-||tr-err-up.vivoglobal.com^
 ||tr-gdpr-vgc-datacenter.vivoglobal.com^
 ||tr-onrt-stsdk.vivoglobal.com^
 ||tr-ort-stsdk.vivoglobal.com^
@@ -1249,7 +1236,6 @@ Stand: 12.06.2026 08:27
 ||wwwimg.roku.com^
 ||wwwimg.staging.roku.com^
 ||xml.opera.com$ctag=device_tv^
-||xn--ex-adreq-asa-c5b.vivoglobal.com^
 ||xn-ex-adreq-asa-c5b.vivoglobal.com^
 ||yumenetworks.com^
 ||za-p.vivoglobal.com^

@@ -1,5 +1,5 @@
 ### TechRZN - SPAM ###
-Stand: 15.06.2026 10:25
+Stand: 16.06.2026 09:28
 
 ||0-2spk-us.basecamp.app^
 ||0-amfauth.firebaseapp.com^
@@ -93129,6 +93129,7 @@ Stand: 15.06.2026 10:25
 ||info.org^
 ||info.proview.thomsonreuters.com.bdigitaluss.remotexs.co^
 ||info.religionnews.com^
+||info.rezeptfreiespotenzmittel.de^
 ||info.scribesoft.com^
 ||info.susanneklatten.de^
 ||info.theretirementsolution.com^

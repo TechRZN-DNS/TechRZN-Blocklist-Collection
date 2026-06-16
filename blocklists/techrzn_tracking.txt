@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 15.06.2026 10:25
+Stand: 16.06.2026 09:28
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -49722,6 +49722,7 @@ Stand: 15.06.2026 10:25
 ||id.db4devs.com.br^
 ||id.idnkt78.com^
 ||id.latitudefinancial.com^
+||id.nbcuni.com^
 ||id.patner.net.daraz.com^
 ||id.promo.skf.com^
 ||id.solidgate.com^
@@ -55926,7 +55927,6 @@ Stand: 15.06.2026 10:25
 ||liosix.studio55.fi^
 ||lipit.sandcloud.com^
 ||lipolym.erosbd.shop^
-||lipstat.com^
 ||liqmh.pureromance.com^
 ||liquid.agora.pl^
 ||liraq.uniqcondominio.com.br^
@@ -68006,6 +68006,7 @@ Stand: 15.06.2026 10:25
 ||massmutual.actonservice.com^
 ||master.cifraclub.com.br^
 ||mastercard.tt.omtrdc.net^
+||masterenter.com^
 ||masternaut.actonservice.com^
 ||mastersoftgroup.actonservice.com^
 ||masterstransportation.actonservice.com^
@@ -74554,6 +74555,7 @@ Stand: 15.06.2026 10:25
 ||omahasteaks.com.102.122.207.net^
 ||ombet.condition1.com^
 ||omcshw.pharmasi.it^
+||omegaroutes.com^
 ||omes.tt.omtrdc.net^
 ||ometrics.ameds.com^
 ||ometrics.lorealparisusa.com^
@@ -77964,7 +77966,6 @@ Stand: 15.06.2026 10:25
 ||profiling.ruukki.com^
 ||profit.edc.ca^
 ||profitrumour.com^
-||proftrafficcounter.com^
 ||profusesupport.com^
 ||profuturo.tt.omtrdc.net^
 ||progmxs.com^
@@ -112603,8 +112604,6 @@ Stand: 15.06.2026 10:25
 ||tracking.cashbet.bet^
 ||tracking.cat898.com^
 ||tracking.cdiscount.com^
-||tracking.cds.dmm.co.jp^
-||tracking.cds.dmm.com^
 ||tracking.cello-square.com^
 ||tracking.cengage.com^
 ||tracking.cenomicenters.com^

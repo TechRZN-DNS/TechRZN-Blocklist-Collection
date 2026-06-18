@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 17.06.2026 23:31
+Stand: 18.06.2026 08:48
 
 ||0.6gpaactivities.pce-cihazlari.com.tr^
 ||0.6gpaactivities.pulsaudio.ro^
@@ -14777,6 +14777,7 @@ Stand: 17.06.2026 23:31
 ||tor.bravesoftware.com^
 ||tor.calyxinstitute.org^
 ||tor.eff.org^
+||tor.r0cket.net^
 ||tor.vasi.li^
 ||tor2web.fi^
 ||tor2web.io^

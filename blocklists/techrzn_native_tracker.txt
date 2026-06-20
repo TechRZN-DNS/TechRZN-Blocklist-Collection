@@ -1,5 +1,5 @@
 ### TechRZN - NATIVE_TRACKER ###
-Stand: 19.06.2026 09:06
+Stand: 20.06.2026 07:52
 
 ||0001-metrics1-data-hicloud-com.geac.dbankedge.cn^
 ||0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
@@ -536,6 +536,7 @@ Stand: 19.06.2026 09:06
 ||err-up.vivoglobal.com^
 ||err.up.vivoglobal.com^
 ||esp.logs.roku.com^
+||eu-album-api.vivoglobal.com^
 ||eu-cota.vivoglobal.com^
 ||eu-domaincfg.vivoglobal.com^
 ||eu-errup.vivoglobal.com^
@@ -767,6 +768,7 @@ Stand: 19.06.2026 09:06
 ||login.ads.roku.com^
 ||login.ads.staging.roku.com^
 ||logs.dev.sr.roku.com^
+||logs.qa.ap.int.roku.com^
 ||logs.roku.com^
 ||logs.sr.roku.com^
 ||logs1409.xiti.com^
@@ -1168,6 +1170,7 @@ Stand: 19.06.2026 09:06
 ||tr-album-api.vivoglobal.com^
 ||tr-cota.vivoglobal.com^
 ||tr-domaincfg.vivoglobal.com^
+||tr-err-up.vivoglobal.com^
 ||tr-gdpr-vgc-datacenter.vivoglobal.com^
 ||tr-onrt-stsdk.vivoglobal.com^
 ||tr-ort-stsdk.vivoglobal.com^

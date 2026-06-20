@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 19.06.2026 09:06
+Stand: 20.06.2026 07:52
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -416,6 +416,7 @@ Stand: 19.06.2026 09:06
 ||aktionstag-familie2008.de^
 ||aktivabenteuer.de^
 ||aktivanzug.com^
+||aktivbike24.com^
 ||aktivimfreien.com^
 ||aktivmaxx.com^
 ||akustikholz.shop^
@@ -747,7 +748,6 @@ Stand: 19.06.2026 09:06
 ||animationsummer.at^
 ||animefigure.de^
 ||animefigureworld.com^
-||animeshoppers.com^
 ||ankauf-neodym-magnete.de^
 ||ankerflowtech.shop^
 ||ankerkrautde.shop^
@@ -6610,6 +6610,7 @@ Stand: 19.06.2026 09:06
 ||graphad.xyz^
 ||graskaufen.net^
 ||grasoftness.com^
+||gratanurex.net^
 ||gratis-produkttests.com^
 ||gratis-produkttests.de^
 ||gratis-testen-aktionen.de^
@@ -8696,7 +8697,9 @@ Stand: 19.06.2026 09:06
 ||keyom.de^
 ||kezono.com^
 ||kfmdso.com^
+||kfznachweis.de^
 ||kfzonlineabmelden.de^
+||kfzproof.de^
 ||kfzteileverkaufen.com^
 ||kgerad.de^
 ||kgfghij.com^
@@ -8974,6 +8977,7 @@ Stand: 19.06.2026 09:06
 ||kreditfuralle.com^
 ||kredithaus24.eu^
 ||kreditwizard.com^
+||kreherland.shop^
 ||kremer-mode.de^
 ||kremmling-moebel.com^
 ||krf-mbh.com^
@@ -9735,7 +9739,6 @@ Stand: 19.06.2026 09:06
 ||luckyyise.com^
 ||lucya-ag.com^
 ||lucyloopshop.com^
-||lucysstyle.com^
 ||ludwigmaria.at^
 ||ludwigmode.de^
 ||luffglasses.com^
@@ -10814,6 +10817,7 @@ Stand: 19.06.2026 09:06
 ||mosmankoch.at^
 ||mosmankoch.de^
 ||mosplains.com^
+||mostorejoboutiquestore.com^
 ||motallo.com^
 ||motel-miio.com^
 ||motelmio.shop^
@@ -10855,6 +10859,7 @@ Stand: 19.06.2026 09:06
 ||moxonline.de^
 ||mozoshop.myshopify.com^
 ||mpgarten-shop.de^
+||mpgartenshop.com^
 ||mpreis-2023.myfreesites.net^
 ||mpso.deveri.de^
 ||mrair.xyz^
@@ -11029,7 +11034,6 @@ Stand: 19.06.2026 09:06
 ||mywhomeofficial.com^
 ||mywonderfy.com^
 ||myzenistitch.com^
-||nabaza.shop^
 ||nabenprada.com^
 ||nabolu.de^
 ||nabonlinesupport.com^
@@ -11719,6 +11723,7 @@ Stand: 19.06.2026 09:06
 ||oils-natural.eu^
 ||oiltrex.de^
 ||oins.shop^
+||ojlkimed.vip^
 ||ojoro-tech.de^
 ||okatode.com^
 ||okbon.de^
@@ -15015,6 +15020,7 @@ Stand: 19.06.2026 09:06
 ||steinkamp-container.com^
 ||steinkampbillig.com^
 ||stelcore-retail24.de^
+||stellantis-workshop.com^
 ||stellapet.xyz^
 ||stellara.de^
 ||stellennavigator.com^
@@ -15472,7 +15478,6 @@ Stand: 19.06.2026 09:06
 ||tcomplex.de^
 ||tddexpresslogistics.com^
 ||tdglobalcompany.io^
-||tdgrop168.vip^
 ||tdxsz.com^
 ||te.de^
 ||teachbrigh.com^
@@ -16940,8 +16945,6 @@ Stand: 19.06.2026 09:06
 ||vivaiaschuhe.de^
 ||vivaiaschuhesale.de^
 ||vivaiaschweiz.com^
-||vivaldi-park.com^
-||vivaldiparking.com^
 ||vivaraisehome.com^
 ||vivensowasserstaubsauger.de^
 ||vivibo-kueche.de^
@@ -17063,7 +17066,6 @@ Stand: 19.06.2026 09:06
 ||vulcanus.at^
 ||vumonvision.com^
 ||vutereck.com^
-||vuxocap.co^
 ||vwutaq.com^
 ||vyjak.com^
 ||vynox.de^
@@ -17198,7 +17200,6 @@ Stand: 19.06.2026 09:06
 ||weatherwear.de^
 ||weathly.com^
 ||web-welten.de^
-||web.bdweurope.com^
 ||web.bossaapp.com^
 ||web.matignondeveloppement2-group.com^
 ||web.tyrioncapital.live^

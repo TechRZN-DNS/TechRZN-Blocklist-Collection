@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 19.06.2026 09:06
+Stand: 20.06.2026 07:52
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -16814,6 +16814,7 @@ Stand: 19.06.2026 09:06
 ||analytic.calif.aaa.com^
 ||analytic.capitalgroup.com^
 ||analytic.cibc.com^
+||analytic.divee.ai^
 ||analytic.fishtrack.com^
 ||analytic.haramain.shop^
 ||analytic.hawaii.aaa.com^
@@ -17414,6 +17415,7 @@ Stand: 19.06.2026 09:06
 ||analytics.metro.ua^
 ||analytics.meubelstoffeerderij.nl^
 ||analytics.meygeneralbau.de^
+||analytics.mgm.gov.tr^
 ||analytics.midas-antilles.fr^
 ||analytics.midas.be^
 ||analytics.midas.ci^
@@ -36360,6 +36362,7 @@ Stand: 19.06.2026 09:06
 ||ddl.alma.iltalehti.fi^
 ||ddlbr.timesclub.co^
 ||ddlcvm.clas.style^
+||ddlnk.net^
 ||ddm.frandroid.com^
 ||ddmfrg.modivo.bg^
 ||ddnahc.mesbagages.com^
@@ -80185,6 +80188,7 @@ Stand: 19.06.2026 09:06
 ||robertwoodjohnsonfou.tt.omtrdc.net^
 ||robotflowermobile.com^
 ||robotgarages.com^
+||robotsrefinery.com^
 ||roccofortehotels.tt.omtrdc.net^
 ||rochelle.wantsext.me^
 ||rock5rice.com^
@@ -103875,6 +103879,7 @@ Stand: 19.06.2026 09:06
 ||starbuckskr.tt.omtrdc.net^
 ||starchild.odencat.com^
 ||starfish.taskflow.io^
+||starfurniture.net^
 ||starget.aircanada.com^
 ||starget.airmiles.ca^
 ||starget.bestoforlando.com^
@@ -105877,6 +105882,7 @@ Stand: 19.06.2026 09:06
 ||studentadvantage.actonservice.com^
 ||studio.joinsalut.com^
 ||studio.osstudio.dk^
+||studioalkaline.com^
 ||studioibi.ibijus.com^
 ||study.jcu.edu.au^
 ||study.vu.edu.au^
@@ -109154,6 +109160,7 @@ Stand: 19.06.2026 09:06
 ||thebrauncorporation.tt.omtrdc.net^
 ||thecea.actonservice.com^
 ||thecontainerstore.tt.omtrdc.net^
+||thecounter.net^
 ||thecrazychili.com^
 ||thedoc.doctronic.ai^
 ||thedowchemicalcompan.tt.omtrdc.net^
@@ -117193,6 +117200,7 @@ Stand: 19.06.2026 09:06
 ||warnwing.com^
 ||warrenfcu.actonservice.com^
 ||warrjy.feiler.jp^
+||wart.val.town^
 ||wartsila.actonservice.com^
 ||was.epson.com^
 ||was.stubhub.com^

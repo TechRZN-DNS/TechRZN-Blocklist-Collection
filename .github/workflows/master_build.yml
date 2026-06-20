@@ -28,7 +28,7 @@ jobs:
 
     steps:
       - name: 🛰️ Repository auschecken
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: main
           fetch-depth: 0

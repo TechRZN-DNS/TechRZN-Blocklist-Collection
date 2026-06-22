@@ -1,5 +1,5 @@
 ### TechRZN - ADS ###
-Stand: 22.06.2026 09:49
+Stand: 22.06.2026 10:49
 
 ||0--0.info^
 ||0--4.com^
@@ -49121,6 +49121,7 @@ Stand: 22.06.2026 09:49
 ||alebilet.74379.shop^
 ||alebilet.74945.vu^
 ||alebilet.87430.vu^
+||alebilet.9871528412.lol^
 ||alebilet.bilet.forum^
 ||alebilet.inne-kategorie-671.club^
 ||alebilet.kup-bilet.cyou^
@@ -50731,6 +50732,7 @@ Stand: 22.06.2026 09:49
 ||allinautotrade.com^
 ||allincosmetics.club^
 ||allinfinity.store^
+||allingiena.cyou^
 ||allinone-outlet.com^
 ||allinonemarketcomilla.com^
 ||allinoursite.com^
@@ -66327,6 +66329,7 @@ Stand: 22.06.2026 09:49
 ||asas-store.com^
 ||asasaf.pages.dev^
 ||asaseafricafoundation.org^
+||asasgumruk.com^
 ||asasi-bim.com^
 ||asatomalivesteam.com^
 ||asatomalivesteam.io^
@@ -70891,6 +70894,7 @@ Stand: 22.06.2026 09:49
 ||autotechlk.com^
 ||autoteilefachmarkt.de^
 ||autoteilejetzt.com^
+||autotfigli.cyou^
 ||autoticket49.com^
 ||autotrack.studyquicks.com^
 ||autotransportbroker.directory^
@@ -71339,6 +71343,7 @@ Stand: 22.06.2026 09:49
 ||avionicasaltamontes.com^
 ||avionselect.com^
 ||avionskekarte.co.rs^
+||avioraturkey.com^
 ||aviormucevherat.com^
 ||avipreview.com^
 ||avips.top^
@@ -76708,6 +76713,7 @@ Stand: 22.06.2026 09:49
 ||barinvent.net^
 ||barisarabuluculuk.org^
 ||barisc.info^
+||barisenginbag.com^
 ||bariseupho.com^
 ||barisports.pk^
 ||barissokmen.com^
@@ -82131,6 +82137,7 @@ Stand: 22.06.2026 09:49
 ||bezpalatki.ru^
 ||bezpekug0d4.cyou^
 ||bezpieczenstwowlasnyport.com^
+||bezpiecznapoczta24-glitch.github.io^
 ||bezpieczny-kontorozliczenia.com^
 ||bezprocenta.store^
 ||bezproudoff.cz^
@@ -94401,6 +94408,7 @@ Stand: 22.06.2026 09:49
 ||bursamalaysia.tt.omtrdc.net^
 ||bursamebel.com^
 ||bursamucevherat.com^
+||bursaopel.com^
 ||bursatemlak.com^
 ||bursatmgd.com^
 ||bursazincate.cyou^
@@ -100287,6 +100295,7 @@ Stand: 22.06.2026 09:49
 ||casapalaciovillazambra.com^
 ||casaperch.com^
 ||casapolicy.com^
+||casapoopowleoadok.site^
 ||casaraodosofa.com^
 ||casarenda.com^
 ||casaruraldelgeneralalbelda.com^
@@ -101797,6 +101806,7 @@ Stand: 22.06.2026 09:49
 ||cayot.ir^
 ||cayynespargeting.info^
 ||cazacas.com^
+||cazakaioadidkaaododfk.site^
 ||cazamba.com^
 ||cazaremos.today^
 ||cazasdifunabu.world^
@@ -104385,6 +104395,7 @@ Stand: 22.06.2026 09:49
 ||ceramicsandsculpture2.weebly.com^
 ||ceramicturtleremnant.com^
 ||ceramigeek.com^
+||ceramika-artystyczna-pl.com^
 ||ceramiqueselect.com^
 ||ceratinmaistloveful.cyou^
 ||cerbailliance.fr^
@@ -120679,6 +120690,7 @@ Stand: 22.06.2026 09:49
 ||corivenpath.cloud^
 ||corkage-fees.com^
 ||corkassumedharden.com^
+||corkclog.shop^
 ||corkdeclarationfourteenth.com^
 ||corkery.biz^
 ||corkk.pl^
@@ -146873,7 +146885,9 @@ Stand: 22.06.2026 09:49
 ||dpd-padnu.com^
 ||dpd-parilti.org^
 ||dpd-pl.bowikela.cfd^
+||dpd-pl.icu^
 ||dpd-pl.sendofxtjn.shop^
+||dpd-pl.shop^
 ||dpd-pl.sowizendo.cfd^
 ||dpd-pl.tajinefl.cfd^
 ||dpd-pl.uunuyi.icu^
@@ -146919,16 +146933,24 @@ Stand: 22.06.2026 09:49
 ||dpdlocal-co.icu^
 ||dpdlocal-co.sbs^
 ||dpdlocal-co.shop^
+||dpdlocal-pl.cfd^
+||dpdlocal-pl.icu^
 ||dpdlocal-pl.shop^
 ||dpdlocalab.sbs^
 ||dpdlocalac.sbs^
 ||dpdlocalad.sbs^
 ||dpdlocalaf.sbs^
 ||dpdlocalham.cyou^
+||dpdlocali-pl.cyou^
+||dpdlocali-pl.shop^
+||dpdlocali-pl.xyz^
 ||dpdlocall-pl.cfd^
+||dpdlocall-pl.cyou^
+||dpdlocall-pl.icu^
 ||dpdlocall-pl.sbs^
 ||dpdlocalq-pl.cfd^
 ||dpdlocalq-pl.cyou^
+||dpdlocalq-pl.eu.cc^
 ||dpdlocalq-pl.shop^
 ||dpdlocalq-pl.xyz^
 ||dpdlocaxq.shop^
@@ -149125,6 +149147,7 @@ Stand: 22.06.2026 09:49
 ||dtag.breadfinancial.com^
 ||dtakdb1z5gq7e.cloudfront.net^
 ||dtalk.top^
+||dtantalya.com^
 ||dtashjvcjswq.info^
 ||dtasjc.com^
 ||dtasrvr.com^
@@ -149344,6 +149367,7 @@ Stand: 22.06.2026 09:49
 ||dualmarket.info^
 ||dualneatly.com^
 ||dualping.com^
+||dualquiz.com^
 ||dualsaguan.pages.dev^
 ||dualspace.com^
 ||dualspacetech.com^
@@ -164390,6 +164414,7 @@ Stand: 22.06.2026 09:49
 ||executivebschool.com^
 ||executivehadregent.com^
 ||executivehoroscope.com^
+||executivetradestation.com^
 ||executors2550.com^
 ||executors456.com^
 ||executors4app.com^
@@ -165567,6 +165592,7 @@ Stand: 22.06.2026 09:49
 ||ezebra-sale.sbs^
 ||ezebra.euoutlea.shop^
 ||ezebra.onlinao.com^
+||ezebra.outletoa.com^
 ||ezebra.sale^
 ||ezebraapl.weebly.com^
 ||ezebracas.com^
@@ -170822,6 +170848,7 @@ Stand: 22.06.2026 09:49
 ||fernandomalta.adv.br^
 ||fernandomvoq720.weebly.com^
 ||fernandoros.com^
+||fernarooven.com^
 ||fernbrookup.info^
 ||ferndalerealtygroup.homes^
 ||fernfootwear.shop^
@@ -180192,6 +180219,7 @@ Stand: 22.06.2026 09:49
 ||frisco.top^
 ||frisco.voetbalshopnl.shop^
 ||frisco.westwing-pl.shop^
+||friscoes.life^
 ||friscofellowship.com^
 ||friscohill.com^
 ||friscooutrant.cfd^
@@ -180595,6 +180623,7 @@ Stand: 22.06.2026 09:49
 ||frtgrrrrrrrrrr.weebly.com^
 ||frtihyvwigowg.online^
 ||frtiyu.com^
+||frtkarahan.com^
 ||frtkis.com^
 ||frtoi.calpaktravel.com^
 ||frtya.com^
@@ -185705,6 +185734,7 @@ Stand: 22.06.2026 09:49
 ||gdsoq.com^
 ||gdsqwy.org^
 ||gdstwierprkflfo.weebly.com^
+||gdswer687-hnjuiyi089.veramassive.su^
 ||gdt.qq.com^
 ||gdtgkshmc.com^
 ||gdtimg.com^
@@ -186165,6 +186195,7 @@ Stand: 22.06.2026 09:49
 ||general-ledger.us^
 ||general-possession.com^
 ||general-trading.weebly.com^
+||general.agency^
 ||general231.myportfolio.com^
 ||generalaffair.net^
 ||generalbikes.com^
@@ -193315,6 +193346,7 @@ Stand: 22.06.2026 09:49
 ||govpedagio.vercel.app^
 ||govpkgovpk.qpon^
 ||govpkpk.shop^
+||govpl.bond^
 ||govpl.one^
 ||govpoes.cyou^
 ||govps.cloud^
@@ -218912,6 +218944,7 @@ Stand: 22.06.2026 09:49
 ||inpost.ordero.shop^
 ||inpost.orderoi.bond^
 ||inpost.orderoii.shop^
+||inpost.paycore24-expressi.xyz^
 ||inpost.placmt.world^
 ||inpost.processing-skrill.cfd^
 ||inpost.sid-1731521921.shop^
@@ -235779,6 +235812,7 @@ Stand: 22.06.2026 09:49
 ||kawf.cn^
 ||kawfulxh.com^
 ||kawgcabwyti.in^
+||kawieooadiidweiok.site^
 ||kawikadodger.shop^
 ||kawinhome.com^
 ||kawmindset.com^
@@ -237843,6 +237877,7 @@ Stand: 22.06.2026 09:49
 ||kijbwvznaofju.website^
 ||kijia.com^
 ||kijoji.com^
+||kijuopooaoaidoadiok.site^
 ||kik76.weebly.com^
 ||kik888.com^
 ||kikakaz.com^
@@ -238375,8 +238410,10 @@ Stand: 22.06.2026 09:49
 ||kioaidisdoalaewrew.site^
 ||kioasdiadoiadoqekado.site^
 ||kioeaistles.cfd^
+||kioiaodioadpoadeweiok.site^
 ||kioikosofifoisdoisd.site^
 ||kioioerosidfoeriosrper.site^
+||kioiokaqwqwiaok.site^
 ||kioisfoieroiaeori.site^
 ||kioksdifkadidosd.site^
 ||kiolakdaoadposdkados.site^
@@ -264435,6 +264472,7 @@ Stand: 22.06.2026 09:49
 ||maniaimbar.pro^
 ||maniaki-lordfilm.ru^
 ||manica.online^
+||manicmulti.cyou^
 ||manicure.cc^
 ||maniefenrir.cyou^
 ||maniesenle.pages.dev^
@@ -287558,6 +287596,7 @@ Stand: 22.06.2026 09:49
 ||naigupea.live^
 ||naijaextra.com^
 ||naijaloanhub.com^
+||naijasitemarket.com^
 ||naijax-app.com^
 ||naikterus.net^
 ||nailadversary.com^
@@ -288077,6 +288116,7 @@ Stand: 22.06.2026 09:49
 ||nas-news2.club^
 ||nas.nct.vn^
 ||nasadadkadiodakdid.site^
+||nasadasduiadjaddodfk.site^
 ||nasadfgzaq.com^
 ||nasagrinruadu.pro^
 ||nasaladphrao48.com^
@@ -289710,6 +289750,7 @@ Stand: 22.06.2026 09:49
 ||neficalcu1980.blogspot.com^
 ||nefing.com^
 ||nefislokumlarburada.xyz^
+||nefisoyun.com^
 ||nefius.com^
 ||nefloridahomevalues.com^
 ||nefpaocsgp.com^
@@ -295487,6 +295528,7 @@ Stand: 22.06.2026 09:49
 ||nonofy.com^
 ||nonopscarm.cyou^
 ||nonotro.name^
+||nonpajans.cyou^
 ||nonparalrrlel.info^
 ||nonpawfit.net^
 ||nonpossessuuions.info^
@@ -300641,6 +300683,7 @@ Stand: 22.06.2026 09:49
 ||ofdoyluowkolk.website^
 ||ofdpmoabbtak.in^
 ||ofe1924812034-yh345.shop^
+||ofe92387812940-j5.baby^
 ||ofei712632832gf2.click^
 ||ofekcuorbbcpvyv.xyz^
 ||ofelekidr.com^
@@ -306925,6 +306968,7 @@ Stand: 22.06.2026 09:49
 ||organicroots37d.info^
 ||organicwi.today^
 ||organiczoneh.info^
+||organikdunya.com^
 ||organikhit.com^
 ||organisationwallet.com^
 ||organismdespite.com^
@@ -315187,6 +315231,7 @@ Stand: 22.06.2026 09:49
 ||pennasilicocarservice.com^
 ||penndennest.com^
 ||pennedup.com^
+||pennehub.com^
 ||pennelec.com^
 ||pennetdhotispulpous.qpon^
 ||pennetflamsessoin.cyou^
@@ -315661,6 +315706,7 @@ Stand: 22.06.2026 09:49
 ||perfumella.pl^
 ||perfumereviewguide.com^
 ||perfumeria-notino.shop^
+||perfumeria.lovixa.top^
 ||perfumeriaife.pl^
 ||perfumio.pl^
 ||perfumistta.com^
@@ -346940,6 +346986,7 @@ Stand: 22.06.2026 09:49
 ||recdappauth.pages.dev^
 ||recdiaseti1982.blogspot.be^
 ||recdirectgo.biz^
+||recdwsxnsacs.site^
 ||recebaagora.cfd^
 ||recebaseudireito.cfd^
 ||recebasuavalor.cfd^
@@ -347868,6 +347915,7 @@ Stand: 22.06.2026 09:49
 ||redotexoriginal.com^
 ||redoubt.digital^
 ||redox-os.ru^
+||redpars.com^
 ||redpillvn.com^
 ||redpineapplemedia.com^
 ||redpinevikoviethan.weebly.com^
@@ -360788,6 +360836,7 @@ Stand: 22.06.2026 09:49
 ||sadabienesraices.com^
 ||sadabiz.com^
 ||sadadasdoplwopwlod.site^
+||sadadkkadoadpaospadok.site^
 ||sadaf-garden.com^
 ||sadaghatbar.com^
 ||sadakatkarti.com^
@@ -367281,6 +367330,7 @@ Stand: 22.06.2026 09:49
 ||seisedamsel.qpon^
 ||seiser.info^
 ||seishinyoga.com^
+||seismer.com^
 ||seismhaed.shop^
 ||seismo-metrics.ethz.ch^
 ||seismology4102600.weebly.com^
@@ -367461,6 +367511,7 @@ Stand: 22.06.2026 09:49
 ||selgros24-pl.shop^
 ||selgros24.berlinova.top^
 ||selgros24.jollydeal.shop^
+||selgros24.lovixa.top^
 ||selgros24.org^
 ||selgros24.shilavcoil.sbs^
 ||selhofer2.weebly.com^
@@ -370222,6 +370273,7 @@ Stand: 22.06.2026 09:49
 ||sepet-odemesi-1988.com^
 ||sepet.okuldeposu.com^
 ||sepetimdeindirimleriyakala.com^
+||sepetliplatformdenizli.com^
 ||sepetlivincdenizli.com^
 ||sepeton.net^
 ||sepetto.net^
@@ -402166,6 +402218,7 @@ Stand: 22.06.2026 09:49
 ||suttondirtworks.com^
 ||suttonledger.com^
 ||suttonsurveyors.com.au^
+||suttrridis.cyou^
 ||sutuqe.com^
 ||sututuo.pro^
 ||sutzcaladow.com^
@@ -408566,6 +408619,7 @@ Stand: 22.06.2026 09:49
 ||technicianultimatum.com^
 ||technickauniverzitaostravaupdate.weebly.com^
 ||technicserv.com^
+||techniczny-alert.netlify.app^
 ||technihub.com^
 ||technik-doku-design.de^
 ||technika-remont.ru^
@@ -409112,6 +409166,7 @@ Stand: 22.06.2026 09:49
 ||tejeradiantp.xin^
 ||tejerallc.com^
 ||tejeskyporta.help^
+||tejesolution.ink^
 ||tejespectrum.fit^
 ||tejespeedway.luxe^
 ||tejetmzqwhf.work^
@@ -414582,6 +414637,7 @@ Stand: 22.06.2026 09:49
 ||thewellnessqueendom.com^
 ||thewellnesstreeaz.com^
 ||theweltandtread.shop^
+||theweltline.shop^
 ||thewescoheel.shop^
 ||thewestmines.com^
 ||thewfhgame.com^
@@ -432107,6 +432163,7 @@ Stand: 22.06.2026 09:49
 ||unhealthyshirt.pro^
 ||unhealthystickevents.com^
 ||unhealthytrack.com^
+||unhefsconc.cyou^
 ||unheldmordv.cyou^
 ||unhewedranli.cyou^
 ||unhhcongenialityjimmies.info^
@@ -438284,6 +438341,7 @@ Stand: 22.06.2026 09:49
 ||vas-hl-x.snssdk.com^
 ||vas.funshion.com^
 ||vasafreja100.weebly.com^
+||vasananadioapdoadodfk.site^
 ||vasantvihar.co^
 ||vascsurg.com^
 ||vascularhealthclinics.net^
@@ -452033,6 +452091,7 @@ Stand: 22.06.2026 09:49
 ||wereport-atelier.fr^
 ||wererearedbreadth.com^
 ||wererxrzmp.com^
+||weretenozlio.com^
 ||wereyboy.objectives.ws^
 ||werfg56453.weebly.com^
 ||wergexty.info^
@@ -453928,6 +453987,7 @@ Stand: 22.06.2026 09:49
 ||wiesciporanne.xyz^
 ||wiesciredakcja.pro^
 ||wiescizbliska.xyz^
+||wiescizdzielnic.top^
 ||wiescizpolski.info^
 ||wiescizpowiatu.xyz^
 ||wietloket.nl^
@@ -455531,6 +455591,7 @@ Stand: 22.06.2026 09:49
 ||wittchen-outletstore.shop^
 ||wittchen-pl.sbs^
 ||wittchen.eusalesoutlet.com^
+||wittchen.saleseuoutlet.com^
 ||wittchenmalls-pl.shop^
 ||wittchenpl-store.shop^
 ||wittchensale-pl.com^
@@ -459747,6 +459808,7 @@ Stand: 22.06.2026 09:49
 ||wypozyczalniasiedlce.pl^
 ||wypqtf.com^
 ||wypromuj.nazwa.pl^
+||wyprzedaz24-pl.top^
 ||wyprzedaze-majowe.cyou^
 ||wyprzedaze-pl.com^
 ||wyprzedazhit.shop^
@@ -468759,6 +468821,7 @@ Stand: 22.06.2026 09:49
 ||yiyuan.nagezan.net^
 ||yiyun024.com^
 ||yizghfwqrbhgy.space^
+||yizgo.com^
 ||yizj5fcwaj.com^
 ||yizjfsgpdtkpq.space^
 ||yizp4vm81mt4if2.cfd^

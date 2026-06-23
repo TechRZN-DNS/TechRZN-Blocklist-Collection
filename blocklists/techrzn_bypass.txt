@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 22.06.2026 10:49
+Stand: 23.06.2026 07:51
 
 ||0.6gpaactivities.pce-cihazlari.com.tr^
 ||0.6gpaactivities.pulsaudio.ro^
@@ -12500,6 +12500,7 @@ Stand: 22.06.2026 10:49
 ||proxymaster.me^
 ||proxymesh.com^
 ||proxymist.com^
+||proxymonster.sale^
 ||proxynova.com^
 ||proxyof.com^
 ||proxyone.net^

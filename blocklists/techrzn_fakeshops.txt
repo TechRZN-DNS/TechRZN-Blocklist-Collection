@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 23.06.2026 07:51
+Stand: 24.06.2026 07:43
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -133,6 +133,7 @@ Stand: 23.06.2026 07:51
 ||aacreek-ranch.de^
 ||aaronallen.top^
 ||aatrailers.de^
+||abbandemo.com^
 ||abbigliamentoscarpe.com^
 ||abc-apotheke-hamburg.de^
 ||abcbinaire.com^
@@ -734,7 +735,6 @@ Stand: 23.06.2026 07:51
 ||animationsummer.at^
 ||animefigure.de^
 ||animefigureworld.com^
-||animeshoppers.com^
 ||ankauf-neodym-magnete.de^
 ||ankerflowtech.shop^
 ||ankerkrautde.shop^
@@ -824,6 +824,7 @@ Stand: 23.06.2026 07:51
 ||apothekenkarte.com^
 ||apothekeohnerezept.de^
 ||apotheker365.com^
+||apothekerezeptfrei-1.puzl.com^
 ||apothekerwissen.online^
 ||apoversand24.com^
 ||app-alpha.net^
@@ -1417,7 +1418,6 @@ Stand: 23.06.2026 07:51
 ||bassbetcasino-online.de^
 ||bassiami.com^
 ||basspool.de^
-||bassthompson.com^
 ||baswad.com^
 ||batchof.com^
 ||bateg24.de^
@@ -1550,6 +1550,7 @@ Stand: 23.06.2026 07:51
 ||bekleidungonstore.com^
 ||bekleidungsoutlet.com^
 ||bekos.at^
+||belarismall.com^
 ||belbachirconcept.com^
 ||belenkawien.at^
 ||beleuchtungprada.com^
@@ -2755,7 +2756,6 @@ Stand: 23.06.2026 07:51
 ||chaps-herrenmode.de^
 ||chapterrest.store^
 ||characterh.com^
-||charismatico.com^
 ||charj7.myshopify.com^
 ||charlesashford.shop^
 ||charlystore.de^
@@ -3655,6 +3655,7 @@ Stand: 23.06.2026 07:51
 ||deinetierliebe.de^
 ||deinhandwerkershop.de^
 ||deinheizoel.de^
+||deini.com^
 ||deinliebesmensch.de^
 ||deinlieblingstier.co^
 ||deinmodetrends.com^
@@ -4009,6 +4010,7 @@ Stand: 23.06.2026 07:51
 ||domelus.de^
 ||dominguesequipamentos.com^
 ||domino-handel.de^
+||domuslumi.com^
 ||don-art.de^
 ||donalovehair.de^
 ||donate2camerafraud.com^
@@ -4282,6 +4284,7 @@ Stand: 23.06.2026 07:51
 ||echers.com^
 ||echlat.com^
 ||echtdokumente.com^
+||echtdruck.de^
 ||eck-grill.de^
 ||eckert-handel.de^
 ||eclipsa.de^
@@ -5069,6 +5072,7 @@ Stand: 23.06.2026 07:51
 ||familygiftville.com^
 ||familyhistoryjamaica.com^
 ||familymedsmarket.com^
+||familyshark.com^
 ||familyshoptop.com^
 ||familystore.com^
 ||famore-fashion.com^
@@ -5277,7 +5281,6 @@ Stand: 23.06.2026 07:51
 ||filamniceent.com^
 ||filedenzu.com^
 ||filexstorage.site^
-||fili-cc.tv^
 ||fillamoda.com^
 ||fillethumn.com^
 ||fillinger.shop^
@@ -5349,7 +5352,6 @@ Stand: 23.06.2026 07:51
 ||finnflarede.shop^
 ||finosso.com^
 ||finovesta-france.com^
-||finovexpro-app.com^
 ||finpari.com^
 ||finprofm.com^
 ||finrally.com^
@@ -5453,6 +5455,7 @@ Stand: 23.06.2026 07:51
 ||flexihubstore.com^
 ||flexioptions.com^
 ||flexiworkde.works^
+||flexsugges.com^
 ||flextrader.co^
 ||flidop.com^
 ||fliegen-de.de^
@@ -6068,6 +6071,7 @@ Stand: 23.06.2026 07:51
 ||gemstarz.company.site^
 ||generic4all-global.com^
 ||generic4allglobal.com^
+||genericdoctor.com^
 ||genericeupills.com^
 ||genericsbot.com^
 ||genericshop-247.eu^
@@ -6644,6 +6648,7 @@ Stand: 23.06.2026 07:51
 ||gtltic-anhaenger.de^
 ||gtmn.store^
 ||gtoptions.com^
+||gtsusa.net^
 ||guamthuc.com^
 ||guaranteeddealhub.com^
 ||guardiannewstoday.com^
@@ -6831,6 +6836,7 @@ Stand: 23.06.2026 07:51
 ||happyfamilystore.link^
 ||happyhun.de^
 ||happykidtoys.ru^
+||happymod.cloud^
 ||harderex.com^
 ||hardloverz.com^
 ||hardwaremall.top^
@@ -8119,6 +8125,7 @@ Stand: 23.06.2026 07:51
 ||jeffkelleher.shop^
 ||jeffora.de^
 ||jeffspoolservice.com^
+||jeinn.com^
 ||jellycats.de^
 ||jellylight.at^
 ||jellystores.com^
@@ -8139,6 +8146,7 @@ Stand: 23.06.2026 07:51
 ||jewelrynovashop.com^
 ||jgfrqhh.top^
 ||jh-machines-nord.com^
+||jhagriconseil.com^
 ||jiajo.com^
 ||jiangekj.xyz^
 ||jieper.com^
@@ -8200,6 +8208,7 @@ Stand: 23.06.2026 07:51
 ||jon-balkanshop.de^
 ||jonas-klara.at^
 ||jonasblsake.com^
+||jonla.shop^
 ||jooribeauty.shop^
 ||joox388-online.com^
 ||jordan-shoes.us.com^
@@ -8257,6 +8266,7 @@ Stand: 23.06.2026 07:51
 ||justpowertool.com^
 ||justrader.com^
 ||justvanilla.de^
+||jutevibers.com^
 ||juvenda.de^
 ||juwelierkunst.de^
 ||jyaashop.com^
@@ -8650,7 +8660,6 @@ Stand: 23.06.2026 07:51
 ||kingsire.co^
 ||kingstonbathroom.com^
 ||kingwwy.com^
-||kino-cda.pl^
 ||kino.tolle-nachrichten.com^
 ||kinoion.top^
 ||kinomaniak.cc^
@@ -8815,6 +8824,7 @@ Stand: 23.06.2026 07:51
 ||kontomeinelbaraiffeisen.com^
 ||kontoraiffeisenmeinelba.com^
 ||kontribusiuang.top^
+||koochand.com^
 ||koodakde.shop^
 ||kopfsacheonline.de^
 ||kopisusu.co.id^
@@ -9281,6 +9291,7 @@ Stand: 23.06.2026 07:51
 ||lhsnr.shop^
 ||liabilis.com^
 ||lianonline.com^
+||libaanet.com^
 ||liberalm.com^
 ||liberalw.com^
 ||liberiapage.com^
@@ -9298,6 +9309,7 @@ Stand: 23.06.2026 07:51
 ||lidlhh.shop^
 ||lidlpalace.com^
 ||lidora.de^
+||lidou.shop^
 ||liebeart.de^
 ||liebem.de^
 ||liebes-decke.de^
@@ -9438,6 +9450,7 @@ Stand: 23.06.2026 07:51
 ||lm-heizoel.de^
 ||lmfmotoculture.com^
 ||lmsffr.shop^
+||lmvae.shop^
 ||loakedeutschland.de^
 ||loakeschweiz.net^
 ||loaspool.de^
@@ -9608,7 +9621,6 @@ Stand: 23.06.2026 07:51
 ||luckyyise.com^
 ||lucya-ag.com^
 ||lucyloopshop.com^
-||lucysstyle.com^
 ||ludwigmaria.at^
 ||ludwigmode.de^
 ||luffglasses.com^
@@ -10993,7 +11005,6 @@ Stand: 23.06.2026 07:51
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi42.ru^
 ||navi5.com^
 ||navi52.com^
 ||navi53.com^
@@ -11839,6 +11850,7 @@ Stand: 23.06.2026 07:51
 ||ordergunmagazinesonline.com^
 ||ordernow24.de^
 ||orderquilt.com^
+||orderrxstore.com^
 ||ordersurfsite.com^
 ||orderumbrella.com^
 ||ordinarlim.com^
@@ -12593,6 +12605,7 @@ Stand: 23.06.2026 07:51
 ||poweromasch.shop^
 ||powitech.com^
 ||pp-handels-gmbh.myshopify.com^
+||ppsecuresite.com^
 ||pqhw.com^
 ||practs.de^
 ||praezisionswerkzeugbau.de^
@@ -13717,6 +13730,7 @@ Stand: 23.06.2026 07:51
 ||saunazelt-shop.com^
 ||sauvequipeut-online.com^
 ||saveeeee.myshopify.com^
+||savehubx.com^
 ||savela.de^
 ||savemarthub.com^
 ||saveoffer.de^
@@ -13925,6 +13939,7 @@ Stand: 23.06.2026 07:51
 ||select-football.com^
 ||selectedmedsonline.com^
 ||selectro.ch^
+||selegalsolutions.com^
 ||self-portrait.com.de^
 ||sellercenter.shop^
 ||sellerhiking.com^
@@ -13961,6 +13976,7 @@ Stand: 23.06.2026 07:51
 ||serentia-shop.com^
 ||seriale.co^
 ||serialefilmy.pl^
+||seriesplus.org^
 ||serndalle.com^
 ||serolulimited.com^
 ||serolushop.de^
@@ -14301,6 +14317,7 @@ Stand: 23.06.2026 07:51
 ||skinliy.com^
 ||skinnfitts.com^
 ||skinnycaps.com^
+||skinqira.de^
 ||skinsociety.shop^
 ||skinszone.net^
 ||skinwell.store^
@@ -15198,6 +15215,7 @@ Stand: 23.06.2026 07:51
 ||synthplatformtrust.click^
 ||syrokan.com^
 ||system-capital.org^
+||systemgram.com^
 ||systemiy.com^
 ||systemofdown.com^
 ||sz-fishing.de^
@@ -16604,6 +16622,7 @@ Stand: 23.06.2026 07:51
 ||video-markt.com^
 ||videospiel-markt.de^
 ||vider-cda.online^
+||vider-pl.pl^
 ||vider.com.pl^
 ||vider.fun^
 ||vider.info.pl^
@@ -17259,6 +17278,7 @@ Stand: 23.06.2026 07:51
 ||wolffashion.de^
 ||wolffashiondeutschland.com^
 ||wolffcomerce.de^
+||wolffcommerce.de^
 ||wolfgangcontainers.de^
 ||wolfmode.de^
 ||wolke-hundebett.de^

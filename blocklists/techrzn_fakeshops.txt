@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 24.06.2026 07:43
+Stand: 25.06.2026 07:46
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -422,7 +422,6 @@ Stand: 24.06.2026 07:43
 ||albimo.shop^
 ||albrechtmode.de^
 ||alderhofatelier.myshopify.com^
-||aldi-life.vip^
 ||aldo.co.at^
 ||aldobolsasmexico.com^
 ||aldofashion.com^
@@ -713,6 +712,7 @@ Stand: 24.06.2026 07:43
 ||anhaenger-geraete.com^
 ||anhaenger-von-thule.de^
 ||anhaengerkauf24.com^
+||anhaengerklasen.de^
 ||anhaengerkreuter.com^
 ||anhaengermarkt.com^
 ||anhaengers.online^
@@ -1026,7 +1026,6 @@ Stand: 24.06.2026 07:43
 ||at.nneelkwerf.net^
 ||at.qfmiceden.shop^
 ||at.rattaay.com^
-||at.trabajo.org^
 ||at.ultimate-gainz.com^
 ||at9.ketonaktiv.com^
 ||atacadao-pneus.com^
@@ -1505,6 +1504,7 @@ Stand: 24.06.2026 07:43
 ||beautyhaarshop.com^
 ||beautyhabitps.shop^
 ||beautyhausberlin.de^
+||beautyhealthsupplies.com^
 ||beautyketten.com^
 ||beautykoopje.com^
 ||beautyonthebrink.com^
@@ -2126,7 +2126,6 @@ Stand: 24.06.2026 07:43
 ||bobbyananta.com^
 ||bobostore.de^
 ||bocancilowa.com^
-||bocapital.com^
 ||bocastory.com^
 ||bocceli.com^
 ||body-gear.to^
@@ -2312,7 +2311,6 @@ Stand: 24.06.2026 07:43
 ||brinkmannkanzlei.de^
 ||briospielzeug.com^
 ||briospielzeugrabatt.com^
-||british-columbia-hotels.com^
 ||britishnewstoday.com^
 ||brivalfin-invest.com^
 ||brivani.com.br^
@@ -3325,7 +3323,6 @@ Stand: 24.06.2026 07:43
 ||cutterfarm.de^
 ||cutty.app^
 ||cv-tech-onlineshop.de^
-||cvc-capital-partners.com^
 ||cvmaker.de^
 ||cvneed.com^
 ||cwl-experts.org^
@@ -3663,6 +3660,7 @@ Stand: 24.06.2026 07:43
 ||deinrufretter.com^
 ||deinsportimperium.de^
 ||deinthuleshop.de^
+||deintrikot.at^
 ||dejia.shop^
 ||dekhujoshop.com^
 ||dekoartikelrabatt.de^
@@ -5099,6 +5097,7 @@ Stand: 24.06.2026 07:43
 ||faobunricate.com^
 ||fapst.com^
 ||farahattire.com^
+||farben-profis.com^
 ||farben-store.com^
 ||farbenruhe.ch^
 ||fargo-global.com^
@@ -5397,7 +5396,6 @@ Stand: 24.06.2026 07:43
 ||fitflopparis.net^
 ||fitgirl-repacks-site.org^
 ||fitgirl-repacks.download^
-||fitgirl-repacks.vip^
 ||fitiwelt.com^
 ||fitliebe.de^
 ||fitnessbezogen.com^
@@ -5966,6 +5964,7 @@ Stand: 24.06.2026 07:43
 ||gartenmaher.com^
 ||gartenmaschinen24.de^
 ||gartenmaschinenzubehor.com^
+||gartenmaxe.de^
 ||gartenmoebelangebote.de^
 ||gartenmoebelwelt.com^
 ||gartenmotor.de^
@@ -6350,7 +6349,6 @@ Stand: 24.06.2026 07:43
 ||glossierireland.com^
 ||glossise.com^
 ||glovano.com^
-||glovio.de^
 ||glow-haven.de^
 ||glowblend.de^
 ||glowency.de^
@@ -6470,7 +6468,6 @@ Stand: 24.06.2026 07:43
 ||goodideatrade.com^
 ||goodiptvc.com^
 ||goodjobfull.com^
-||goodlike.de^
 ||goodmecar.click^
 ||goodmedsshops.com^
 ||goodotisnop.click^
@@ -6661,6 +6658,7 @@ Stand: 24.06.2026 07:43
 ||guessosterreich.at^
 ||guessoutletdeutschland.de^
 ||guest-pend3120.com^
+||gueta-handel.com^
 ||gueyeclasse-shop.com^
 ||gugeunk.de^
 ||guide-placements-alternatifs.com^
@@ -7044,6 +7042,7 @@ Stand: 24.06.2026 07:43
 ||heizklar.eu^
 ||heizl.de^
 ||heizlager.de^
+||heizleo.de^
 ||heizline.at^
 ||heiznow.de^
 ||heizo24.de^
@@ -7494,7 +7493,6 @@ Stand: 24.06.2026 07:43
 ||hotels-colombo.com^
 ||hotels-inform4281.com^
 ||hotelsinperm.ru^
-||hotelsofmenorca.com^
 ||hotelwareus.com^
 ||hotelwhales.com^
 ||hotix.de^
@@ -7626,6 +7624,7 @@ Stand: 24.06.2026 07:43
 ||hypnodeals.xyz^
 ||hypulse.de^
 ||hysszhh.com^
+||i-grade.online^
 ||i-velus.com^
 ||i-visaindia.com^
 ||i-vlus.com^
@@ -8168,6 +8167,7 @@ Stand: 24.06.2026 07:43
 ||jn-recruitment.at^
 ||jncojeans.de^
 ||jo-joshop.com^
+||joachim-gartengeraete.de^
 ||joaostoreoficial.com^
 ||jobam.shop^
 ||jobdreamonline.com^
@@ -8660,6 +8660,7 @@ Stand: 24.06.2026 07:43
 ||kingsire.co^
 ||kingstonbathroom.com^
 ||kingwwy.com^
+||kino-cda.pl^
 ||kino.tolle-nachrichten.com^
 ||kinoion.top^
 ||kinomaniak.cc^
@@ -8847,7 +8848,6 @@ Stand: 24.06.2026 07:43
 ||kowela.com^
 ||kpoweronline.com^
 ||kra18.com^
-||krabihotelsthailand.net^
 ||kraft-profil-technik.eu^
 ||kraftdesweins.com^
 ||kraftholz-pellet.shop^
@@ -9442,6 +9442,7 @@ Stand: 24.06.2026 07:43
 ||lkw-reifenpanne.com^
 ||ller.net^
 ||lloen.shop^
+||lloyd.co.at^
 ||lloyddeutschland.com^
 ||lloydschuhesale.de^
 ||lloydslovakia.com^
@@ -9732,7 +9733,6 @@ Stand: 24.06.2026 07:43
 ||m-sicherekauf.de^
 ||m-wanted.at^
 ||m.bit2meua.com^
-||m.coinexeu.vip^
 ||m.kaufjoy.de^
 ||m.lavonde.de^
 ||m.vbridal.com^
@@ -9832,6 +9832,7 @@ Stand: 24.06.2026 07:43
 ||malens-boutique.de^
 ||malentestheaterpalast.de^
 ||malerbedarf-sales.com^
+||malergeschaft.com^
 ||mall-outdoors.com^
 ||mallof.shop^
 ||mallorca-holidayhomes.com^
@@ -11005,6 +11006,7 @@ Stand: 24.06.2026 07:43
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
+||navi42.ru^
 ||navi5.com^
 ||navi52.com^
 ||navi53.com^
@@ -11429,7 +11431,6 @@ Stand: 24.06.2026 07:43
 ||nxtstreetlondon.com^
 ||nyfolk.de^
 ||nyutxe.shop^
-||nze.com^
 ||nzwir.shop^
 ||nzxsxn.98kk89.com^
 ||o.bglgtzht83.life^
@@ -11586,7 +11587,6 @@ Stand: 24.06.2026 07:43
 ||oils-natural.eu^
 ||oiltrex.de^
 ||oins.shop^
-||ojlkimed.vip^
 ||ojoro-tech.de^
 ||okatode.com^
 ||okbon.de^
@@ -11823,7 +11823,6 @@ Stand: 24.06.2026 07:43
 ||optessentialoils.com^
 ||optimalattire.com^
 ||optimaltackle.com^
-||optimarkets.com^
 ||optimia.top^
 ||optimizeactive.shop^
 ||optimizehq.shop^
@@ -12187,6 +12186,7 @@ Stand: 24.06.2026 07:43
 ||pedalfreunde.de^
 ||pedalpalast.de^
 ||pedalparadies.com^
+||pedalprofi.de^
 ||pedalyst.com^
 ||peekcloppenburg-berlin.de^
 ||peekpok.com^
@@ -13396,7 +13396,6 @@ Stand: 24.06.2026 07:43
 ||robowerkstatten.com^
 ||robozen-fx.com^
 ||robustwerkzeug.com^
-||robuxmenu.vip^
 ||rochobbies.com^
 ||rockchief.com^
 ||rocketplayonlinecasino.net^
@@ -13754,6 +13753,7 @@ Stand: 24.06.2026 07:43
 ||schachworkshop.de^
 ||schafflutzel-motorgerate.com^
 ||schallreiniger.de^
+||schaltersteckdosen.com^
 ||schaltwerkfahrrad.de^
 ||scharfemesser.de^
 ||scharfeprofession.com^
@@ -14489,6 +14489,7 @@ Stand: 24.06.2026 07:43
 ||solarc.click^
 ||solarcheck.at^
 ||solaregis.com^
+||solarek-energie.com^
 ||solarenergie-beleuchtung.de^
 ||solarenergyplatinum.com^
 ||solarfehlercodes.de^
@@ -15260,6 +15261,7 @@ Stand: 24.06.2026 07:43
 ||talerkaffee.de^
 ||talkbuds.de^
 ||tallerfelix.com^
+||talvurieks.at^
 ||tamarisoutlet.com^
 ||tambaro.de^
 ||tamed-exotics.com^
@@ -15307,9 +15309,7 @@ Stand: 24.06.2026 07:43
 ||tcomplex.de^
 ||tddexpresslogistics.com^
 ||tdglobalcompany.io^
-||tdgrop168.vip^
 ||tdxsz.com^
-||te.de^
 ||teachbrigh.com^
 ||teambike-hamburg.de^
 ||teameffekt.de^
@@ -15857,6 +15857,7 @@ Stand: 24.06.2026 07:43
 ||toy-boxsales.com^
 ||toyevs.store^
 ||toyfuel.myshopify.com^
+||toyfunrealm.com^
 ||toyhasbro.com^
 ||toymr.com^
 ||toyowner.com^
@@ -16109,7 +16110,6 @@ Stand: 24.06.2026 07:43
 ||ttkarriere.com^
 ||tts-beratung.de^
 ||tttrilliant-fx.net^
-||tudio.de^
 ||tuftex-balloons.com^
 ||tuinbalkon.com^
 ||tunepart.com^
@@ -16940,6 +16940,7 @@ Stand: 24.06.2026 07:43
 ||warmlifes.com^
 ||warmlogic.de^
 ||warmood.ch^
+||warmthota.com^
 ||warmthsta.com^
 ||warmthvo.com^
 ||wascheparfume.de^
@@ -17235,7 +17236,6 @@ Stand: 24.06.2026 07:43
 ||wintopia-online.de^
 ||wirbelsanft.com^
 ||wisdomandprudence.net^
-||wisdomganga.com^
 ||wise-banque.com^
 ||wise-guys-consulting.de^
 ||wisebanc.com^
@@ -17673,6 +17673,7 @@ Stand: 24.06.2026 07:43
 ||zfggmbh.de^
 ||zhongda.info^
 ||zhubni.eu^
+||zibitcoin.net^
 ||ziegler-handel.de^
 ||ziegler-kanzlei.de^
 ||ziegler-rechtsanwaelte.de^
@@ -17740,6 +17741,7 @@ Stand: 24.06.2026 07:43
 ||zusammenmitthule.de^
 ||zusellmk.click^
 ||zuverlassigerkredit.com^
+||zwclsaablueashe.shop^
 ||zweirad-dach.de^
 ||zwergspitzpomeranian.com^
 ||zxmcm.com^

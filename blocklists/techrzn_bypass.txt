@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 25.06.2026 07:46
+Stand: 26.06.2026 07:56
 
 ||0.6gpaactivities.pce-cihazlari.com.tr^
 ||0.6gpaactivities.pulsaudio.ro^
@@ -3491,6 +3491,7 @@ Stand: 25.06.2026 07:46
 ||cskqmqic.cc^
 ||ct-access.pro^
 ||ct-vpn.com^
+||ct1doh.cipherdns.co.za^
 ||ctc.run^
 ||cteqqjve.com^
 ||ctilqhzv.cc^
@@ -16522,6 +16523,7 @@ Stand: 25.06.2026 07:46
 ||www-proxy.facil.wtf^
 ||www-proxy.fluxis.xyz^
 ||www-proxy.formen.cc^
+||www-proxy.gelaxiz.xyz^
 ||www-proxy.huorbx.com^
 ||www-proxy.konstl01.xyz^
 ||www-proxy.ladifsoftware.com^

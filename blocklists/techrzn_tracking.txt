@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 26.06.2026 07:56
+Stand: 27.06.2026 06:53
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -20822,7 +20822,6 @@ Stand: 26.06.2026 07:56
 ||ask.antalis.ro^
 ||ask.antalis.se^
 ||ask.wearelistening.co.nz^
-||askdriver.com^
 ||askulcorporation.tt.omtrdc.net^
 ||aslkv.yarn.com^
 ||aslscc.globehunters.ie^
@@ -32123,6 +32122,7 @@ Stand: 26.06.2026 07:56
 ||d2cpw6kwpff7n5.cloudfront.net^
 ||d2ezz24t9nm0vu.cloudfront.net^
 ||d2gbtcuv3w9qyv.cloudfront.net^
+||d2gt2ux04o03l1.cloudfront.net^
 ||d2i34c80a0ftze.cloudfront.net^
 ||d2ibu2ug0mt5qp.cloudfront.net^
 ||d2j1fszo1axgmp.cloudfront.net^
@@ -44499,6 +44499,7 @@ Stand: 26.06.2026 07:56
 ||golem.met.vgwort.de^
 ||golfcartlaws.com^
 ||golfersrow.com^
+||gollum.monotote.com^
 ||golp4elik.com^
 ||gomerchant.groupon.com^
 ||gominis.actonservice.com^
@@ -48806,6 +48807,7 @@ Stand: 26.06.2026 07:56
 ||heerlijkslapen.matrasconcurrent.nl^
 ||hegnl.befashionablygreek.com^
 ||heiferprojectsintern.tt.omtrdc.net^
+||heimdall.hearstapps.com^
 ||heimdall.sexafterretirement.com^
 ||heise.met.vgwort.de^
 ||hej.henriksommerfeld.se^
@@ -48860,6 +48862,7 @@ Stand: 26.06.2026 07:56
 ||herb7calk.com^
 ||herbalife.tt.omtrdc.net^
 ||herbgreencolumn.com^
+||herbstarsbuilding.com^
 ||hercules-authpartner.net.daraz.com^
 ||hermanmiller.tt.omtrdc.net^
 ||hero.shapero.com^
@@ -54343,6 +54346,7 @@ Stand: 26.06.2026 07:56
 ||l.entrenous.fr^
 ||l.eshizuoka.jp^
 ||l.ffsagami.com^
+||l.ffx.io^
 ||l.football.fr^
 ||l.football365.fr^
 ||l.francetvinfo.fr^
@@ -54830,6 +54834,7 @@ Stand: 26.06.2026 07:56
 ||legalhold.ediscovery.com^
 ||legalzoom.tt.omtrdc.net^
 ||leghe.tappycard.com^
+||legolas.monotote.com^
 ||legoo.simonpearce.com^
 ||leina.erleina-store.com^
 ||lejlfpuz.foryoursuccess.co^
@@ -64780,6 +64785,7 @@ Stand: 26.06.2026 07:56
 ||log.seekda.com^
 ||log.sina.cn^
 ||log.snapdeal.com^
+||log.strawpoll.com^
 ||log.tagtic.cn^
 ||log.targetpush.co.kr^
 ||log.tossinvest.com^
@@ -75299,6 +75305,7 @@ Stand: 26.06.2026 07:56
 ||outdoor.theres.co^
 ||outdoorsoil.com^
 ||outdoorthingy.com^
+||outerwords.com^
 ||outfit.wingsfit1.com^
 ||outreach.allmy-data.com^
 ||outreach.connectednation.org^
@@ -78757,6 +78764,7 @@ Stand: 26.06.2026 07:56
 ||qotms.aestheticmanagementpartners.com^
 ||qotnke.natureone.co.kr^
 ||qouxkn.natuurhuisje.nl^
+||qovani.com^
 ||qovbv.thesoutherntrapper.com^
 ||qowfuv.virbacavto.ru^
 ||qoygsv.born2be.pl^
@@ -107122,6 +107130,7 @@ Stand: 26.06.2026 07:56
 ||t.mindbodycheck.com^
 ||t.mktg.genesys.com^
 ||t.mmaeast.com^
+||t.mmganalytics.com^
 ||t.montecarlosbm.com^
 ||t.moonstreet.pl^
 ||t.morvextoys.com^
@@ -108500,6 +108509,7 @@ Stand: 26.06.2026 07:56
 ||tbjzg.coastguardgear.com^
 ||tbk.p61gallery.com^
 ||tbknig.ecc.jp^
+||tblcontent.com^
 ||tblsdp.staging.tonybet.ca^
 ||tblsdp.tonybet.ca^
 ||tbmgyz.centerparcs.de^
@@ -108820,6 +108830,7 @@ Stand: 26.06.2026 07:56
 ||telemetry.bowflex.ca^
 ||telemetry.bowflex.com^
 ||telemetry.boxt.co.uk^
+||telemetry.bydata.com^
 ||telemetry.canva.com^
 ||telemetry.cardfactory.co.uk^
 ||telemetry.cfraresearch.com^
@@ -113891,6 +113902,7 @@ Stand: 26.06.2026 07:56
 ||trk.e.mailchimp.com^
 ||trk.e.underarmour.com^
 ||trk.earthday.org^
+||trk.edf.fr^
 ||trk.elmlea.com^
 ||trk.elmorietschle.com^
 ||trk.elq.mcphersonoil.com^
@@ -115225,7 +115237,6 @@ Stand: 26.06.2026 07:56
 ||unknownidea.com^
 ||unl1zvy2zuyn.franchiseplus.nl^
 ||unleash.livepix.gg^
-||unloadyourself.com^
 ||unlock.eleganceclothing.co^
 ||unm.emol.com^
 ||unmetric.actonservice.com^

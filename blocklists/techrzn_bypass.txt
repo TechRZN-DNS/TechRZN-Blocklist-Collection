@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 27.06.2026 12:30
+Stand: 28.06.2026 07:53
 
 ||0.6gpaactivities.pce-cihazlari.com.tr^
 ||0.6gpaactivities.pulsaudio.ro^
@@ -15715,6 +15715,7 @@ Stand: 27.06.2026 12:30
 ||vpn-shield.help^
 ||vpn-simple.com^
 ||vpn-sky.info^
+||vpn-th.net^
 ||vpn-tn.com^
 ||vpn-toggle.com^
 ||vpn-tube.com^

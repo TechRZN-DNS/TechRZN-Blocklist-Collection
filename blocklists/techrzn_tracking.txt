@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 29.06.2026 09:00
+Stand: 30.06.2026 07:55
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -16832,6 +16832,7 @@ Stand: 29.06.2026 09:00
 ||analyticcdn.globalmailer.com^
 ||analyticcdn.wlmediahub.com^
 ||analytics-1.cavai.com^
+||analytics-api-s.cloudinary.com^
 ||analytics-api.gemcommerce.com^
 ||analytics-api.klickly.com^
 ||analytics-api.samsunghealthcn.com^
@@ -16936,6 +16937,7 @@ Stand: 29.06.2026 09:00
 ||analytics.atara.sa^
 ||analytics.ateeq-sa.com^
 ||analytics.athome.com^
+||analytics.atlas5.co^
 ||analytics.atom.com^
 ||analytics.audioeye.com^
 ||analytics.audionow.de^
@@ -17100,6 +17102,7 @@ Stand: 29.06.2026 09:00
 ||analytics.disneyplus.com^
 ||analytics.distributednews.com^
 ||analytics.diversitybestpractices.com^
+||analytics.divulg.org^
 ||analytics.dollybeauty.com^
 ||analytics.dollymusical.com^
 ||analytics.dollyslifeofmanycolors.com^
@@ -36285,6 +36288,7 @@ Stand: 29.06.2026 09:00
 ||dclientsabledpartner.net.daraz.com^
 ||dclnxirp001cou.net.jumia.co.tz^
 ||dcloud-car21-web-wwww0node.net.daraz.com^
+||dclsrv.com^
 ||dcluc.boxousa.com^
 ||dcmgd.bristlehealth.com^
 ||dcnkrd.baseballsavings.com^
@@ -38019,6 +38023,7 @@ Stand: 29.06.2026 09:00
 ||dsnfo.pokemoncenter.com^
 ||dsnurj.nissan-rentacar.com^
 ||dsoxjxin5jji.controlconceptsusa.com^
+||dsp-track-global.zmaticoo.com^
 ||dspil.jcp.com^
 ||dspx.tv^
 ||dspyder.ns.emailvision.authenticate.net.daraz.com^
@@ -75141,6 +75146,7 @@ Stand: 29.06.2026 09:00
 ||origin.www.images.2.forms.healthcare.philips.com^
 ||origin6-zigzagstr.net.daraz.com^
 ||originblocks.com^
+||orion.bendingspoons.com^
 ||orionember.com^
 ||orionkeraily.fi^
 ||orionmarketing.actonservice.com^
@@ -106630,6 +106636,7 @@ Stand: 29.06.2026 09:00
 ||sync.adap.tv^
 ||sync.rambler.ru^
 ||sync.shinobi.jp^
+||syncingbridge.com^
 ||syndicate-365-perception.com^
 ||syndicate-company.com^
 ||synonymoussticks.com^
@@ -112356,6 +112363,7 @@ Stand: 29.06.2026 09:00
 ||tracker-remp.active.radio^
 ||tracker-remp.premiumtimesng.com^
 ||tracker-server.high-cdn.com^
+||tracker-shr.ortb.net^
 ||tracker-v4.gamedock.io^
 ||tracker.3dissue.com^
 ||tracker.520call.me^
@@ -114371,6 +114379,7 @@ Stand: 29.06.2026 09:00
 ||ts.wurm.com^
 ||ts.x18.is^
 ||ts04358.picpay.com^
+||tsa-f.webex.com^
 ||tsa.taxslayer.com^
 ||tsa.webex.com^
 ||tsab.tt.omtrdc.net^

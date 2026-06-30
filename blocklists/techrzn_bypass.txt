@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 29.06.2026 09:00
+Stand: 30.06.2026 07:55
 
 ||0.6gpaactivities.pce-cihazlari.com.tr^
 ||0.6gpaactivities.pulsaudio.ro^
@@ -6738,7 +6738,6 @@ Stand: 29.06.2026 09:00
 ||feitan.cloud^
 ||feitan.me^
 ||feiyujiasu.net^
-||feiyulink.net^
 ||felqorn.lol^
 ||felravo.ru^
 ||feltra.ru^

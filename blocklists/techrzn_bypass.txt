@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 30.06.2026 07:55
+Stand: 01.07.2026 08:15
 
 ||0.6gpaactivities.pce-cihazlari.com.tr^
 ||0.6gpaactivities.pulsaudio.ro^
@@ -143,7 +143,6 @@ Stand: 30.06.2026 07:55
 ||1346049272.rsc.cdn77.org^
 ||134744072.work^
 ||1373151536.rsc.cdn77.org^
-||13fwvc7ka.online^
 ||1414230960.rsc.cdn77.org^
 ||1437165997.rsc.cdn77.org^
 ||144-217-77-9.backname.io^
@@ -1621,6 +1620,7 @@ Stand: 30.06.2026 07:55
 ||apache-iv.com^
 ||apamerican.govt.hu^
 ||apexofficial.accesscam.org^
+||apfgexfusion.com^
 ||aphistorytutoring.bastaff.ru^
 ||aphistorytutoring.bisblick.org^
 ||aphistorytutoring.cencopro.cl^
@@ -6817,6 +6817,7 @@ Stand: 30.06.2026 07:55
 ||fiberproxy.net^
 ||fiberproxy.us^
 ||fidelius.top^
+||fifaworldcupfreelivewatchtemporary.xyz^
 ||figcat.cc^
 ||figdon.com^
 ||figure.run^
@@ -11603,7 +11604,6 @@ Stand: 30.06.2026 07:55
 ||oneproxy.biz^
 ||onestreaming.org^
 ||onesy.top^
-||onetwobucklemyshoethreefourbucklesomemore56nike.2022yw.com^
 ||onevpn.com^
 ||onion.am^
 ||onion.ca^

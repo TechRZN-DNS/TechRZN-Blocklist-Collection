@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 01.07.2026 08:15
+Stand: 02.07.2026 07:34
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -107,7 +107,6 @@ Stand: 01.07.2026 08:15
 ||74days.com^
 ||74invest.com^
 ||77jobwear.com^
-||77options.com^
 ||77unishop.com^
 ||7dealdays.de^
 ||7econds.com^
@@ -423,6 +422,7 @@ Stand: 01.07.2026 08:15
 ||albimo.shop^
 ||albrechtmode.de^
 ||alderhofatelier.myshopify.com^
+||aldi-life.vip^
 ||aldo.co.at^
 ||aldobolsasmexico.com^
 ||aldofashion.com^
@@ -1480,7 +1480,6 @@ Stand: 01.07.2026 08:15
 ||bayerischeu.de^
 ||bayowns.com^
 ||bayreuth-boutique.de^
-||bayro-markt.com^
 ||bazaarskedeals.shop^
 ||bazorlo.com^
 ||bb-consults.com^
@@ -3464,7 +3463,6 @@ Stand: 01.07.2026 08:15
 ||danxon.de^
 ||danylevych.com^
 ||dap-deals.de^
-||dapenex.com^
 ||dapperlogistik.com^
 ||dar-germany.de^
 ||darasports.de^
@@ -5741,7 +5739,6 @@ Stand: 01.07.2026 08:15
 ||fribooverkauf.com^
 ||friday89.com^
 ||friday99.com^
-||fridaylocalmanager.duckdns.org^
 ||fridayrollcasino-online.de^
 ||frieda-taschen.de^
 ||friedaskitchen.de^
@@ -6101,7 +6098,6 @@ Stand: 01.07.2026 08:15
 ||gearhuman.com^
 ||gearshifted.com^
 ||gearstastic.com^
-||gearver.com^
 ||gebaeudevorsorge.de^
 ||gebra-gartenhandel.de^
 ||gebraucht-sixt-car-sales.de^
@@ -6658,7 +6654,6 @@ Stand: 01.07.2026 08:15
 ||griw.xyz^
 ||grizzlyroids.shop^
 ||grkwork.com^
-||grlavfta.shop^
 ||groomifypetsstore.com^
 ||grosshandelwebservice.de^
 ||grossiste-parfum-generique.com^
@@ -7301,7 +7296,6 @@ Stand: 01.07.2026 08:15
 ||hezoposo.com^
 ||hfr67jhqrw8.com^
 ||hgtyfd.shop^
-||hhvmerch.com^
 ||hi-goeedoo.com^
 ||hibote.de^
 ||hicity.de^
@@ -9011,6 +9005,8 @@ Stand: 01.07.2026 08:15
 ||kundendienstline.de^
 ||kundenservice-hotline.at^
 ||kundigenbei.at^
+||kunstanders.de^
+||kunstanders.shop^
 ||kunstgeschwind.de^
 ||kunstkulisse.de^
 ||kunstpfadkarte.de^
@@ -9827,7 +9823,6 @@ Stand: 01.07.2026 08:15
 ||m-sicherekauf.de^
 ||m-wanted.at^
 ||m.bit2meua.com^
-||m.coinexeu.vip^
 ||m.kaufjoy.de^
 ||m.lavonde.de^
 ||m.vbridal.com^
@@ -11357,6 +11352,7 @@ Stand: 01.07.2026 08:15
 ||nkd-store.com^
 ||nkgartengardenandliving.de^
 ||nl-fashion.de^
+||nlepfpteg.com^
 ||nlmedsusa.com^
 ||nloia.shop^
 ||nlynelly.com^
@@ -12464,6 +12460,7 @@ Stand: 01.07.2026 08:15
 ||philosophyk.com^
 ||philsshorthairorientalkittens.com^
 ||phippstrailer.com^
+||phirussacmush.net^
 ||phmall.org^
 ||phnl-agentur.de^
 ||phoenix-elektro.com^
@@ -13520,7 +13517,6 @@ Stand: 01.07.2026 08:15
 ||robowerkstatten.com^
 ||robozen-fx.com^
 ||robustwerkzeug.com^
-||robuxmenu.vip^
 ||rochobbies.com^
 ||rockchief.com^
 ||rocketplayonlinecasino.net^
@@ -14452,7 +14448,6 @@ Stand: 01.07.2026 08:15
 ||skinsociety.shop^
 ||skinszone.net^
 ||skinwell.store^
-||skipped.vip^
 ||skiracedepartment.com^
 ||skirt-discount-store.shop^
 ||skispeichern.com^
@@ -15455,6 +15450,7 @@ Stand: 01.07.2026 08:15
 ||tcomplex.de^
 ||tddexpresslogistics.com^
 ||tdglobalcompany.io^
+||tdgrop168.vip^
 ||tdxsz.com^
 ||teachbrigh.com^
 ||teambike-hamburg.de^
@@ -15547,6 +15543,7 @@ Stand: 01.07.2026 08:15
 ||terraviva-gartenbau.de^
 ||terremassif.com^
 ||terverystaio.info^
+||teslacase.org^
 ||teslacoin.io^
 ||teslaminingprogram.com^
 ||teslarea.com^
@@ -16255,6 +16252,7 @@ Stand: 01.07.2026 08:15
 ||trysoftr.com^
 ||trysolara.store^
 ||tsl-handel.de^
+||tsla-stock.com^
 ||tsonlinestore.com^
 ||tsptheshop.com^
 ||tsssm.com^
@@ -16405,8 +16403,10 @@ Stand: 01.07.2026 08:15
 ||unirockgestion.com^
 ||unisaschuheoutlet.de^
 ||unisonmen.de^
+||uniswap-paladium-claim.run^
 ||uniswap.host^
 ||uniswap.ro^
+||uniswap7.work^
 ||uniswapagent.com^
 ||uniswapai.xyz^
 ||uniswapapp.xyz^
@@ -17408,6 +17408,7 @@ Stand: 01.07.2026 08:15
 ||wintopia-online.de^
 ||wirbelsanft.com^
 ||wisdomandprudence.net^
+||wisdomganga.com^
 ||wise-banque.com^
 ||wise-guys-consulting.de^
 ||wisebanc.com^
@@ -17709,7 +17710,6 @@ Stand: 01.07.2026 08:15
 ||youutube.com^
 ||youzuu.de^
 ||yoyocats.com^
-||ysmnfewy.shop^
 ||ysolara.at^
 ||ytcycling.com^
 ||ythebyre.top^

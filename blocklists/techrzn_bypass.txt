@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 03.07.2026 07:22
+Stand: 04.07.2026 06:48
 
 ||0.6gpaactivities.pce-cihazlari.com.tr^
 ||0.6gpaactivities.pulsaudio.ro^
@@ -493,7 +493,6 @@ Stand: 03.07.2026 07:22
 ||55laomao.com^
 ||5656io.easterndns.com^
 ||56rah0pl8g.execute-api.us-east-1.amazonaws.com^
-||57-188-496.57.bujanoci.net^
 ||57824.com^
 ||583838.xyz^
 ||58catnet.com^
@@ -702,7 +701,6 @@ Stand: 03.07.2026 07:22
 ||ababaershop67thatscostaquartar.404.mn^
 ||ababi-nimma.cf^
 ||abc123.welltypers.it.com^
-||abcde.sigma.chickenkiller.com^
 ||abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com^
 ||abcmathforkids.jumpingcrab.com^
 ||abcproxy.com^
@@ -712,7 +710,6 @@ Stand: 03.07.2026 07:22
 ||ablock.fuckit.ovh^
 ||abluehope.com^
 ||aboba.pro^
-||aboot.blank.crabdance.com^
 ||about.baltimorefellowship.org^
 ||about.infotechnology.com^
 ||about.izenimplant.ro^
@@ -1384,7 +1381,6 @@ Stand: 03.07.2026 07:22
 ||akakamaized.net^
 ||akamai360.net^
 ||akanethegoat.sentinet.co.za^
-||akanethegoat.worldoflights.co.za^
 ||akari.anime.com.my^
 ||akasacl.beer^
 ||akashiro.co.id^
@@ -2540,7 +2536,6 @@ Stand: 03.07.2026 07:22
 ||borbgbfx.cc^
 ||borderlessvpn.io^
 ||bore.pub^
-||boredom.chiangmaiorganics.com^
 ||boredomarcade.xyz^
 ||boredombyjonas.allysports.com.ar^
 ||boredomss.a.ssl.fastly.net^
@@ -2617,8 +2612,6 @@ Stand: 03.07.2026 07:22
 ||brother.let.boxathome.net^
 ||brothislinkfire.chickenkiller.com^
 ||brovpn.io^
-||browgatis.bujanoci.net^
-||browgatis.com.chickenkiller.com^
 ||browpay.biz^
 ||browpay.info^
 ||browpay.net^
@@ -2658,7 +2651,6 @@ Stand: 03.07.2026 07:22
 ||bsbollbn.com^
 ||bsdup.com^
 ||bsrjrllv.cc^
-||bst2200.site^
 ||bsupdate.com^
 ||bt.luoo.cc^
 ||btc4animals.com^
@@ -2823,7 +2815,6 @@ Stand: 03.07.2026 07:22
 ||candytally09.vip^
 ||canieep.org^
 ||canisleeppls.dev^
-||canlite.mymcreditos.com.ar^
 ||canlite.org^
 ||canlite.org.cdn.cloudflare.net^
 ||canliteweb.dnsitalia.org^
@@ -2863,7 +2854,6 @@ Stand: 03.07.2026 07:22
 ||cartable92.com^
 ||cashraven.io^
 ||casinovpn.com^
-||cassiusthund.crabdance.com^
 ||casuary.beer^
 ||catchcurrent.com^
 ||catchen121299.top^
@@ -3253,7 +3243,6 @@ Stand: 03.07.2026 07:22
 ||cnamehead.ipv64.net^
 ||cnamerannmertest.ints.f5.si^
 ||cnelectrictools.com^
-||cnlrdoxd.com^
 ||cns-kuailian.cn^
 ||cns-kuailian.com^
 ||cns-kuailian.com.cn^
@@ -3476,7 +3465,6 @@ Stand: 03.07.2026 07:22
 ||ctkangh.cn^
 ||cube.neubsi.at^
 ||cubedns.com^
-||cubixpvp.net^
 ||cuckepiso.de^
 ||cudahysdschoolwork.pages.dev^
 ||cudfhbej.com^
@@ -4167,9 +4155,7 @@ Stand: 03.07.2026 07:22
 ||diddle.club.cdn.cloudflare.net^
 ||diddy.info.north-kazakhstan.su.cdn.cloudflare.net^
 ||diddyscoming.ignorelist.com^
-||diddywasinnocent.crabdance.com^
 ||diddywasinnocent.undo.it^
-||diddywasinoccent.crabdance.com^
 ||dieuy732rkuvo.cloudfront.net^
 ||difference.clean.abrdns.com^
 ||differentiate.ddnsgeek.com^
@@ -4186,7 +4172,6 @@ Stand: 03.07.2026 07:22
 ||dild.loan^
 ||dimqara.ru^
 ||dingdangnao.com^
-||dingleberry67.chickenkiller.com^
 ||dingus-mcgoogle-learning.eminescusm.ro^
 ||dining.dipeshshahi.com.np^
 ||dinoo.org^
@@ -5254,7 +5239,6 @@ Stand: 03.07.2026 07:22
 ||dns4me.net^
 ||dns6.web.id^
 ||dns8.org^
-||dnsadguard.co.uk^
 ||dnsbk.wns.watch^
 ||dnsblock.grisumedia.de^
 ||dnsbunker.org^
@@ -5420,7 +5404,6 @@ Stand: 03.07.2026 07:22
 ||doh.boje8.me^
 ||doh.bortzmeyer.fr^
 ||doh.bt.com^
-||doh.bugdns.com^
 ||doh.buzz^
 ||doh.captnemo.in^
 ||doh.ccb-net.it^
@@ -6117,7 +6100,6 @@ Stand: 03.07.2026 07:22
 ||educationbooks.boxrepublic.co.za^
 ||educationdean.us^
 ||educationforindia.com^
-||educationresources.candbcountrymeats.com^
 ||educationtutor.net^
 ||edugovconnect.com^
 ||edulearnisgood.dmtr.ru^
@@ -6142,7 +6124,6 @@ Stand: 03.07.2026 07:22
 ||ehsduckday.duckdns.org^
 ||eigokentei.easterndns.com^
 ||eime.goip.de^
-||eisdproxy.chickenkiller.com^
 ||eixeix.com^
 ||ejaysss.dev^
 ||ejlkjsdfks.xklvjdsf.1000pizzas.com^
@@ -6364,8 +6345,6 @@ Stand: 03.07.2026 07:22
 ||factsforfish.canalspa.cl^
 ||fahfahfah.ignorelist.com^
 ||fahfahfahbigd.ignorelist.com^
-||fahh.crabdance.com^
-||fahhhhhhhhhhhhhhhhhh.kshitizkiran.com.np^
 ||fair-earth-131.guesstheanimal.org^
 ||fair-sun-507.conwordable.com^
 ||fair-tiger-688.nowgg.me^
@@ -6712,14 +6691,12 @@ Stand: 03.07.2026 07:22
 ||fern2.allisons.org^
 ||fern3.allisons.org^
 ||fern4.allisons.org^
-||fernbyjonas.allysports.com.ar^
 ||fernfr.sentinet.co.za^
 ||ferniiiiiiiii1.rainbowcreative.web.id^
 ||ferniiiiiiiii2.rainbowcreative.web.id^
 ||ferniiiiiiiii3.rainbowcreative.web.id^
 ||ferniiiiiiiii4.rainbowcreative.web.id^
 ||ferniiiiiiiii5.rainbowcreative.web.id^
-||fernlol.chiangmaiorganics.com^
 ||fernontop.marchd.ru^
 ||fernontopmadebycarteryes.marchd.ru^
 ||fernrecatquestionmark.shop^
@@ -7127,7 +7104,6 @@ Stand: 03.07.2026 07:22
 ||fullaccesstointernet.jp.eu.org^
 ||fumarkel.com^
 ||fumatek.baby^
-||fun-math.algebra.coffeeon.me^
 ||funknetwork.com^
 ||funmathgames.ddnsfree.com^
 ||funmathgames.freeddns.org^
@@ -7151,7 +7127,6 @@ Stand: 03.07.2026 07:22
 ||fvtcxryf.ipv64.net^
 ||fwe.graphicon.ru^
 ||fweeeeeeeethegoat.graphicon.ru^
-||fweeeeeisawesome.worldoflights.co.za^
 ||fwgw.orangepipc.mywire.org^
 ||fwkgvzln.cc^
 ||fx2hub.ir^
@@ -7501,7 +7476,6 @@ Stand: 03.07.2026 07:22
 ||goodusa.net^
 ||goofygang.twilightparadox.com^
 ||goofygoober.atamanco.eu^
-||googla.cryodome.com^
 ||google-public-dns-a.google.com^
 ||google-public-dns-b.google.com^
 ||google-search-s.easterndns.com^
@@ -7994,7 +7968,6 @@ Stand: 03.07.2026 07:22
 ||hidemy.life^
 ||hidemy.name^
 ||hidemy.vip^
-||hidemyass.co.uk^
 ||hidemyass.com^
 ||hidemycomp.com^
 ||hidemyfirst.name^
@@ -8107,7 +8080,6 @@ Stand: 03.07.2026 07:22
 ||himariokart.com^
 ||himeko297.asuscomm.com^
 ||himfswgj.com^
-||himik.chickenkiller.com^
 ||himinecraft.com^
 ||hintz.pics^
 ||hiproxy.net^
@@ -8328,7 +8300,6 @@ Stand: 03.07.2026 07:22
 ||how-about-no.esal.cl^
 ||how.learn.harimurti.web.id^
 ||how.prep.topmoto.pl^
-||how2math.destroyerkisscover.com.br^
 ||howaboutweexecuten.nicher.cl^
 ||howdy.id^
 ||howmanylions.xyz^
@@ -8598,7 +8569,6 @@ Stand: 03.07.2026 07:22
 ||ilovepetezahparty.vincenzodimaro.it^
 ||ilovepetezahparty.vincenzodimaro.it.cdn.cloudflare.net^
 ||iloveproxysdiddy.gigaportal.pl^
-||ilovesecurly.kshitizkiran.com.np^
 ||iloveteachers.graphicon.org^
 ||ilovethiswebsite.001-lab.space^
 ||iloveto.talk4fun.net^
@@ -8618,7 +8588,6 @@ Stand: 03.07.2026 07:22
 ||imgcache.b-cdn.net^
 ||imgg.work^
 ||imgonnaticklefrank.strangled.net^
-||imgooningtojacksongillrn.kshitizkiran.com.np^
 ||imhewcwd.com^
 ||imhigheffortsite.school^
 ||imisstheocean.dinprima.ro^
@@ -8850,7 +8819,6 @@ Stand: 03.07.2026 07:22
 ||ixl-by-brunys.web.app^
 ||ixl-signin.onrender.com^
 ||ixl-testingiframes.onrender.com^
-||ixl.com.de^
 ||ixl.com.de.cdn.cloudflare.net^
 ||ixl.com.papillon.cl^
 ||ixl.greenfieldhk.org^
@@ -8883,8 +8851,6 @@ Stand: 03.07.2026 07:22
 ||ja3dery.oops.wtf^
 ||jabber-germany.de^
 ||jabber-server.de^
-||jackyboo.kshitizkiran.com.np^
-||jackyboocomeback.kshitizkiran.com.np^
 ||jackyes.ovh^
 ||jacobcheeseman.fundacioncidea.org.ar^
 ||jacobliu.hotelconsuladoinn.com^
@@ -8907,7 +8873,6 @@ Stand: 03.07.2026 07:22
 ||january2026.smasesorias.cl^
 ||janvet.website.pl^
 ||japan.dnsovertor.cc^
-||jark24.endis.org.chickenkiller.com^
 ||jarvis5.ddns.net^
 ||jashwin.is.wierd.spacejamhd.com^
 ||jasper.crabdance.com^
@@ -9030,8 +8995,6 @@ Stand: 03.07.2026 07:22
 ||jobs.bostoncareercounselor.com^
 ||joczxcrdycxbhslwzu.online^
 ||joebidenisgay.giize.com^
-||joesproxy.crabdance.com^
-||johannnnnnnny.kshitizpaudel.com.np^
 ||johnbartlett.keybusinessconnection.com^
 ||johnbingofelden.org^
 ||johneldenring.lol^
@@ -9049,7 +9012,6 @@ Stand: 03.07.2026 07:22
 ||joltero.ru^
 ||joltravo.ru^
 ||jomalex.baby^
-||jonasmadethisfr.allysports.com.ar^
 ||jonathanaugusto.freeddns.org^
 ||jongserver.xyz^
 ||joniro.ru^
@@ -9090,7 +9052,6 @@ Stand: 03.07.2026 07:22
 ||js72dh.online^
 ||jsa1004.com^
 ||jsaswhugfhtrgunko.easterndns.com^
-||jsdin.chickenkiller.com^
 ||jsiafjql.com^
 ||jsjsq.cc^
 ||jslfgcu.cn^
@@ -9199,7 +9160,6 @@ Stand: 03.07.2026 07:22
 ||kahoot.mom^
 ||kahoot.mom.cdn.cloudflare.net^
 ||kahoot67.webs.vc^
-||kaidenb.crabdance.com^
 ||kaidenhelpzu.info.north-kazakhstan.su.cdn.cloudflare.net^
 ||kailovefurries.wakemeup.ru^
 ||kainoaslothower.art^
@@ -9229,7 +9189,6 @@ Stand: 03.07.2026 07:22
 ||karo-vpn.xyz^
 ||kastino.ru^
 ||katakanachart.com^
-||katyisd-you-cant-stop-me.chiangmaiorganics.com^
 ||kavkaz.monster^
 ||kaydeolib.io^
 ||kayleesickfern.gleeze.com^
@@ -9622,7 +9581,6 @@ Stand: 03.07.2026 07:22
 ||kuailian-hk.com^
 ||kuailian-inst.com^
 ||kuailian-it.com^
-||kuailian-it.com.cn^
 ||kuailian-k.com^
 ||kuailian-ki.com^
 ||kuailian-letsvpn-world.com^
@@ -9985,7 +9943,6 @@ Stand: 03.07.2026 07:22
 ||letswrhvpn.com^
 ||letsxvpn.com^
 ||letsyuivpn.com^
-||letvpn.com.cn^
 ||letvpn.net^
 ||letvpna.com^
 ||level.how.denizbuklet.com^
@@ -10004,7 +9961,6 @@ Stand: 03.07.2026 07:22
 ||library.bostoncareercounselor.com^
 ||libredns.gr^
 ||librevpn.org^
-||lickingheights.crabdance.com^
 ||liebaojiasu.net^
 ||liedn.cc^
 ||lifeisa.live^
@@ -10041,7 +9997,6 @@ Stand: 03.07.2026 07:22
 ||lindsay.run^
 ||lindung.pp.ua^
 ||linen.freeddns.org^
-||linewize9w8didjdsowjsi.clocking.ro^
 ||linewizenet.easterndns.com^
 ||linewizesucks.myclarevision.com^
 ||linghun999.com^
@@ -10230,7 +10185,6 @@ Stand: 03.07.2026 07:22
 ||luzubu.com^
 ||lvchavpn.click^
 ||lvejbaqzj4v1xupusybd.online^
-||lvpqirhbat.castroyasociados.cl^
 ||ly-1.net^
 ||lyfesinks.com^
 ||lynksignal.com^
@@ -10306,7 +10260,6 @@ Stand: 03.07.2026 07:22
 ||marslink.homes^
 ||marslink.org^
 ||marslink.vip^
-||maselivolovesscience.crabdance.com^
 ||masgl.store^
 ||mask-api.fe.apple-dns.net^
 ||mask-canary.icloud.com^
@@ -10766,7 +10719,6 @@ Stand: 03.07.2026 07:22
 ||mrbuwfks.com^
 ||mrcrossmathhelp.oresumodaopera.com.br^
 ||mresquire.com^
-||mroybtnd.crabdance.com^
 ||mrr-qa-static.b-cdn.net^
 ||mrr-qa2-static.b-cdn.net^
 ||mrr-qa3-static.b-cdn.net^
@@ -11188,7 +11140,6 @@ Stand: 03.07.2026 07:22
 ||noads.jpsrvr.com^
 ||noah1.hosteriafutaleufu.cl^
 ||noahiscool.twilightparadox.com^
-||noahlikesmenlol.chickenkiller.com^
 ||noapi.xyz^
 ||nobansocial.com^
 ||noblo.cc^
@@ -11640,7 +11591,6 @@ Stand: 03.07.2026 07:22
 ||otownwiki.net^
 ||otownwiki.online^
 ||ouer.cc^
-||ourschooliscool.bg.geekarouny.crabdance.com^
 ||oury.privado.ovh^
 ||outerspace.env.pm^
 ||outerspace.is-a.software^
@@ -12091,7 +12041,6 @@ Stand: 03.07.2026 07:22
 ||pooblet.co.za^
 ||poobungus.ydns.eu^
 ||pooooof.latinliturgy.com^
-||pooppoopopopo.kshitizkiran.com.np^
 ||pop123.myaddr.tools^
 ||popteeeeee-cfcfgcgfchfchfcnnnhgcy.swanndvr.net^
 ||poqenglp.cc^
@@ -12734,21 +12683,17 @@ Stand: 03.07.2026 07:22
 ||r1bnc.com^
 ||r1bnc.eu.org^
 ||r4ferntest.eminescusm.ro^
-||r4ne-fern-2.suwal.com.np^
 ||r4sele.dinprima.ro^
 ||r4sele.eminescusm.ro^
 ||r4sele.suwal.com.np^
 ||r4yne-endis-2.eminescusm.ro^
 ||r4yne-endis-auiscool.eminescusm.ro^
 ||r4yne-endis-idk.eminescusm.ro^
-||r4yne-endis-kydf.suwal.com.np^
-||r4yne-endis-rvaht.suwal.com.np^
 ||r4yne-endis.eminescusm.ro^
 ||r4yne-fern.dinprima.ro^
 ||r4yne-fern.eminescusm.ro^
 ||r4yne-galaxy.dinprima.ro^
 ||r4yne-galaxy.eminescusm.ro^
-||r4yne-galaxy.suwal.com.np^
 ||r6oemdos.online^
 ||r8gjg2-8000.csb.app^
 ||ra4wvpn.com^
@@ -12801,7 +12746,6 @@ Stand: 03.07.2026 07:22
 ||rammernutsack.ooguy.com^
 ||rammersharkie.freeddns.org^
 ||ramy.run.place^
-||random12.crabdance.com^
 ||randomdomain.shop^
 ||rankedmc.win^
 ||rannma-saikou.easterndns.com^
@@ -13210,7 +13154,6 @@ Stand: 03.07.2026 07:22
 ||salvadoserver.duckdns.org^
 ||samex-10.ipv64.net^
 ||samj.codes^
-||sammyspawnedhotspot.keriss.co.id^
 ||sampanei.viar3d.com^
 ||sampledemo.b4a.app^
 ||sams.adg.siudzinski.net^
@@ -13273,7 +13216,6 @@ Stand: 03.07.2026 07:22
 ||schoolcomminicate.com^
 ||schoolcool.ddnsfree.com^
 ||schooleducation.camdvr.org^
-||schoolisamazing.chickenkiller.com^
 ||schoolisfun.site^
 ||schoolmath.hop.sh^
 ||schoolnewsletter.us^
@@ -13293,7 +13235,6 @@ Stand: 03.07.2026 07:22
 ||schooltechreadong.mywire.org^
 ||schoolwebproxy.com^
 ||schoolwebsite.zapto.org^
-||schoolwork67.chickenkiller.com^
 ||schoool.ignorelist.com^
 ||schulhelfer-mathe-deutsch.de^
 ||sci.add.countyohio.info^
@@ -13402,7 +13343,6 @@ Stand: 03.07.2026 07:22
 ||securly.com.dnscream.com^
 ||securly.com.dnsear.com^
 ||securly.com.dynamosolutions.com.ar^
-||securly.com.fern.chickenkiller.com^
 ||securly.com.frostcatcher.com^
 ||securly.com.installgentoo.com^
 ||securly.com.jackietian.com^
@@ -13475,7 +13415,6 @@ Stand: 03.07.2026 07:22
 ||setupvpn.com^
 ||sevengain.com^
 ||sevenlaks.mooo.com^
-||sevenlaks.omprakashyadav.com.np^
 ||sewage.myclarevision.com^
 ||sf-helper.com^
 ||sfasoftballcamps.com^
@@ -13875,7 +13814,6 @@ Stand: 03.07.2026 07:22
 ||spoilers.pages.dev^
 ||spoken.fun^
 ||spolb.xyz^
-||spongebob.q3r26.chickenkiller.com^
 ||sporium.org^
 ||sports-vpn.com^
 ||sportsballhub.com^
@@ -14037,7 +13975,6 @@ Stand: 03.07.2026 07:22
 ||storefront.ink^
 ||stormnighter.com^
 ||stormproxies.com^
-||stranged.org.chickenkiller.com^
 ||strangerandomdomain1.space^
 ||strangewheat.org^
 ||strassmair.org^
@@ -14319,7 +14256,6 @@ Stand: 03.07.2026 07:22
 ||tbjr6.com^
 ||tbjr6.net^
 ||tbjr6.org^
-||tbnjp123.chickenkiller.com^
 ||tbunet.com^
 ||tcp-reset-club.net^
 ||tcpghe.tcp64.de^
@@ -15228,7 +15164,6 @@ Stand: 03.07.2026 07:22
 ||utopia.ub.phuri.cc^
 ||utopiabest.linkpc.net^
 ||utopianpal.com^
-||utopiaunblocker.crabdance.com^
 ||utthaninternational.com^
 ||utube.cc^
 ||utunnel.io^
@@ -15518,7 +15453,6 @@ Stand: 03.07.2026 07:22
 ||vm.delfini.online^
 ||vm.mathfilm.dk^
 ||vm596152.eurodir.ru^
-||vmi2604183.contaboserver.net^
 ||vmpdyias.cc^
 ||vn.dns.abpvn.com^
 ||vnaxhmfs.com^
@@ -15540,7 +15474,6 @@ Stand: 03.07.2026 07:22
 ||voidkeepthisasecret.undoanarchy.rocks^
 ||voidnettty.thanatos.com^
 ||voidnetwork.space.cdn.cloudflare.net^
-||voidnrtowkr93urridudi.geetabasyal.com.np^
 ||voidtickets.xyz^
 ||voidvoidyesyes.ignorelist.com^
 ||volatr.xyz^
@@ -16255,10 +16188,8 @@ Stand: 03.07.2026 07:22
 ||wildcard.oaklandscioly.org^
 ||wildcard.serviciosit.com.ar^
 ||wildcard.thetravelingtourguide.com^
-||wildistheguys.name.net.lieable.chickenkiller.com^
 ||william.tienda^
 ||william.tienda.cdn.cloudflare.net^
-||willratz28.chickenkiller.com^
 ||wilway.christmas^
 ||wilway.today^
 ||wilway.today.cdn.cloudflare.net^
@@ -16353,10 +16284,8 @@ Stand: 03.07.2026 07:22
 ||worldwideproxy4u.win^
 ||wormhole.is.your-savior.spacejamhd.com^
 ||wossow.com^
-||wow.education.cellophaneslinger.net^
 ||wow.fun.cool.glasstechnik.ro^
 ||wowie.infinityon.com^
-||wowiewowwow.chickenkiller.com^
 ||wowinterstellar.pages.dev^
 ||wp-test.fvds.ru^
 ||wplkdmqra.com^

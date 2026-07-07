@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 06.07.2026 08:22
+Stand: 07.07.2026 07:41
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -16845,6 +16845,7 @@ Stand: 06.07.2026 08:22
 ||analytics-consent-manager-v2-prod.azureedge.net^
 ||analytics-dataplane.invideo.io^
 ||analytics-fe.digital-cloud-prem.medallia.com^
+||analytics-fe.digital-cloud-prem.medallia.eu^
 ||analytics-fe.digital-cloud.medallia.ca^
 ||analytics-fe.digital-cloud.medallia.com^
 ||analytics-gw.games.wanmei.com^
@@ -22412,6 +22413,7 @@ Stand: 06.07.2026 08:22
 ||barista-mhb-dhcp.net.daraz.com^
 ||barista-stock.net.daraz.com^
 ||barium.cheezdev.com^
+||barkfactor.com^
 ||barkin.jubileescents.co.uk^
 ||barn5bake.com^
 ||barnacle.big-in-japan.com^

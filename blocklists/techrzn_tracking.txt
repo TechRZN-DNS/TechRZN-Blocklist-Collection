@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 08.07.2026 06:29
+Stand: 09.07.2026 07:48
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -17807,6 +17807,7 @@ Stand: 08.07.2026 06:29
 ||analytics.vivantskincare.com^
 ||analytics.vivint.com^
 ||analytics.vixcloud.co^
+||analytics.vk.asahi.co.jp^
 ||analytics.vodafone.com.au^
 ||analytics.vortexscans.com^
 ||analytics.voxbusinesscard.com^
@@ -28495,6 +28496,7 @@ Stand: 08.07.2026 06:29
 ||chem-engstage.stagingwww.ysr.net.daraz.com^
 ||chem-engstagehasani.net.daraz.com^
 ||chem-engstageymangaonline.net.daraz.com^
+||chemistrycore.com^
 ||chemsketch.staging.mp4teluguwap.net.daraz.com^
 ||cherriescare.com^
 ||cherry.le.com^
@@ -36420,6 +36422,7 @@ Stand: 08.07.2026 06:29
 ||debug-r.rover.com^
 ||deceuninck.tt.omtrdc.net^
 ||decidedrum.com^
+||decisionhut.com^
 ||decisivebase.com^
 ||decisivedrawer.com^
 ||deck.versafloor.com^
@@ -36560,6 +36563,7 @@ Stand: 08.07.2026 06:29
 ||design.informabi.com^
 ||design.nanawall.com^
 ||designbyfriday.actonservice.com^
+||designdew.com^
 ||designsforhealth.actonservice.com^
 ||designsgrid.com^
 ||desirebucket.com^
@@ -39878,6 +39882,7 @@ Stand: 08.07.2026 06:29
 ||embellishedmeadow.com^
 ||emberwhisper.com^
 ||embknh.perriconemd.com^
+||embossedpaper.com^
 ||embut.hoki-11.com^
 ||emc.dr-stick.shop^
 ||emcalliance.vmware.com^

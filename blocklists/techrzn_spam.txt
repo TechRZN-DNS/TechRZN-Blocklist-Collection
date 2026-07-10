@@ -1,5 +1,5 @@
 ### TechRZN - SPAM ###
-Stand: 09.07.2026 07:48
+Stand: 10.07.2026 07:38
 
 ||0-2spk-us.basecamp.app^
 ||0-amfauth.firebaseapp.com^
@@ -129297,6 +129297,7 @@ Stand: 09.07.2026 07:48
 ||rezeptfrei-eu-apotheke.de.sellingdcep.com^
 ||rezeptfrei-eu-apotheke.de.trademark4vip.com^
 ||rezeptfrei-eu-apotheke.de.vitolini.com^
+||rezeptfrei-fuchs.com.ph^
 ||rezeptfrei-fuchs.net^
 ||rezeptfrei-garantiert.nl^
 ||rezeptfrei-gesund.de^

@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 10.07.2026 07:38
+Stand: 11.07.2026 06:15
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -41931,6 +41931,7 @@ Stand: 10.07.2026 07:38
 ||fitmessage.com^
 ||fitnessmapper.com^
 ||fitwear.szfitwear.com.br^
+||fitwithalpine.com^
 ||fiuoo.molarclean.com^
 ||five.coxshutkiacher.com^
 ||five.purnatafashion.com^
@@ -42018,6 +42019,7 @@ Stand: 10.07.2026 07:38
 ||fldoai.municipal.com^
 ||flea.elbertsnaturalfoods.com^
 ||flea.welikeoliver.com^
+||fleathecat.com^
 ||fleet-eml.postmates.com^
 ||flexibleplan.actonservice.com^
 ||flexpod.ynsecureserver.net^
@@ -42263,6 +42265,7 @@ Stand: 10.07.2026 07:38
 ||forosraganforosforosropobjects.net.daraz.com^
 ||foroswww.partner.net.daraz.com^
 ||forpci3.siege-corp.com^
+||fortbeach.com^
 ||fortinet.tt.omtrdc.net^
 ||fortunatemark.com^
 ||forums.net.daraz.com^
@@ -49191,6 +49194,7 @@ Stand: 10.07.2026 07:38
 ||hoafot.itoman.com^
 ||hoaqzs.manier.ro^
 ||hocgeese.com^
+||hockeyfool.com^
 ||hod.asphalte.com^
 ||hodges.actonservice.com^
 ||hodgesmace.actonservice.com^
@@ -51914,6 +51918,7 @@ Stand: 10.07.2026 07:38
 ||insights.partnerwithfacet.com^
 ||insights.pembepanjur.com^
 ||insights.perfecttransport.nl^
+||insights.playpilot.net^
 ||insights.prophet.com^
 ||insights.reservesrliving.com^
 ||insights.scrumble.nl^
@@ -72801,6 +72806,7 @@ Stand: 10.07.2026 07:38
 ||net35.net.jumia.cm^
 ||net4ever.graciaflamenca.es^
 ||net63.net.jumia.ci^
+||netandbytes.com^
 ||netbotz.net.daraz.com^
 ||netc.sfr.fr^
 ||netdns1.freshegg.net.daraz.com^
@@ -76607,6 +76613,7 @@ Stand: 10.07.2026 07:38
 ||people.mbtionline.com^
 ||people.moderncampground.com^
 ||people.spaciousskiescampgrounds.com^
+||peoplebrain.net^
 ||peoplehr.actonservice.com^
 ||peoplestrategy.actonservice.com^
 ||peoplesunitedbank.tt.omtrdc.net^

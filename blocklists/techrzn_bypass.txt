@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 10.07.2026 07:38
+Stand: 11.07.2026 06:15
 
 ||0.6gpaactivities.pce-cihazlari.com.tr^
 ||0.6gpaactivities.pulsaudio.ro^
@@ -1388,7 +1388,6 @@ Stand: 10.07.2026 07:38
 ||akunssh.net^
 ||akylah.zapto.org^
 ||akzhfsyv.cc^
-||al-malki-top.zavoj.ch^
 ||alarmstat.click^
 ||albertcoolters.server.warhawkenterprises.com^
 ||alearluvsruby.twilightparadox.com^
@@ -2341,7 +2340,6 @@ Stand: 10.07.2026 07:38
 ||bigquerycdn.com^
 ||bigseal1.gu-natee.uk^
 ||bikeshopthe.org^
-||bilidon.dnsuser.info^
 ||binamon.ir^
 ||bingle.icu^
 ||bingojiasu.com^
@@ -2534,7 +2532,6 @@ Stand: 10.07.2026 07:38
 ||brafnex.ru^
 ||brain.innovativegovernance.com^
 ||brain.sci.now-incorporate.com^
-||brainpop.zeptoinitiative.org^
 ||brakeeagle.com^
 ||bramka-proxy.pl^
 ||bran-ex.ru^
@@ -4318,6 +4315,7 @@ Stand: 10.07.2026 07:38
 ||dns.belnet.be^
 ||dns.bermeitinger.eu^
 ||dns.beta.gandi.net^
+||dns.bezmezhau.com^
 ||dns.bgeneto.com^
 ||dns.bibica.net^
 ||dns.bibitos.cc^
@@ -5457,7 +5455,6 @@ Stand: 10.07.2026 07:38
 ||doh.xfinity.com^
 ||doh.xorlet.ru^
 ||doh.xyz^
-||doh.yspv.ru^
 ||doh.ywhost.com^
 ||doh.zephyrus.id^
 ||doh.zhongbr.uk^
@@ -5682,7 +5679,6 @@ Stand: 10.07.2026 07:38
 ||driftvibe.cfd^
 ||drinksnucleus.com^
 ||drive.sparks.ddns-ip.net^
-||drive.zeptoinitiative.org^
 ||drixel.ru^
 ||drkcloud.ddns.net^
 ||drmvkcdd.com^
@@ -6012,7 +6008,6 @@ Stand: 10.07.2026 07:38
 ||education.gpu74.ru^
 ||education.info.north-kazakhstan.su.cdn.cloudflare.net^
 ||education.tejidosdedignidad.org^
-||education.zeptoinitiative.org^
 ||educational-site.24x7.hk^
 ||educational.radissontucson.com^
 ||educational2learn.highdesertcoders.com^
@@ -6227,6 +6222,7 @@ Stand: 10.07.2026 07:38
 ||expressvpn.tools^
 ||expressvpn.works^
 ||expressvpn.xyz^
+||ext.troywell.io^
 ||ext.troywell.org^
 ||extra.mask.ad^
 ||extratv.org^
@@ -6643,7 +6639,6 @@ Stand: 10.07.2026 07:38
 ||fi-hel-w-f-2.nashkan.net^
 ||fi-hel-w-p-1.nashkan.net^
 ||fi.r5acq.com^
-||fi.wjcload.tech^
 ||fiberprox.com^
 ||fiberprox.me^
 ||fiberprox.net^
@@ -6986,7 +6981,6 @@ Stand: 10.07.2026 07:38
 ||frogiesarcade.xyz^
 ||frogs.look.good.pxi-fusion.com.cdn.cloudflare.net^
 ||frogs.sh^
-||frogstudioslearning.xlntsolutions.com^
 ||fromthe.app^
 ||frontend.development.sanluix.org^
 ||frootvpn.com^
@@ -8453,7 +8447,6 @@ Stand: 10.07.2026 07:38
 ||imbavpn.mom^
 ||imbored.crabdance.com^
 ||imbored.kinemasot.cl^
-||imcrine.zeptoinitiative.org^
 ||imfroggingit.soloo.win^
 ||imgcache.b-cdn.net^
 ||imgg.work^
@@ -8656,7 +8649,6 @@ Stand: 10.07.2026 07:38
 ||itopviipn.com^
 ||itopvpn.com^
 ||itranslator.info^
-||itrsa.home.next.youradbyus.com^
 ||itrsa.nevuer.com^
 ||itscauseiamblack.tvjumbleanswers.com^
 ||itself.cc^
@@ -10020,8 +10012,6 @@ Stand: 10.07.2026 07:38
 ||mad4todo.com^
 ||madeby-vcsa.ramalhais.com^
 ||madebyconcon.halfwaythere.ca^
-||madebynathan.zeptoinitiative.org^
-||madebynathan1.zeptoinitiative.org^
 ||madeinchile.io^
 ||madeinchina1987.zapto.org^
 ||madonna.run^
@@ -10088,7 +10078,6 @@ Stand: 10.07.2026 07:38
 ||master-clock.us^
 ||master.dont.beat.me.spacejamhd.com^
 ||mastergad.me^
-||mastergotmeworkin.zeptoinitiative.org^
 ||masterproxy-proxy.github.io^
 ||masterrepo.com^
 ||masters-of-cloud.de^
@@ -12555,7 +12544,6 @@ Stand: 10.07.2026 07:38
 ||read.coach.ratnikov.com^
 ||read.registration.abrdns.com^
 ||reading.englishpapers.online^
-||reading.zeptoinitiative.org^
 ||readingforfun.co.com^
 ||ready.graphicon.org^
 ||real.coremindx.com^
@@ -13241,7 +13229,6 @@ Stand: 10.07.2026 07:38
 ||shark.thatguy.space^
 ||sharp-wolf-979.biologyscholar.org^
 ||sharp.swift.cl^
-||shawtagramma.yao.cl^
 ||shdjdgdhsidhwfs.graphicon.ru^
 ||shedatear.sparks.ddns-ip.net^
 ||shellfire.net^
@@ -16262,7 +16249,6 @@ Stand: 10.07.2026 07:38
 ||xvhquwjv.com^
 ||xvless.site^
 ||xvmess.online^
-||xvmess.site^
 ||xvpn.io^
 ||xvpnsecurity.com^
 ||xwkpmbnez.com^
@@ -16314,7 +16300,6 @@ Stand: 10.07.2026 07:38
 ||yapwxciu.com^
 ||yarak.luminiferous.abrdns.com^
 ||yarvio.ru^
-||yasharteam.com^
 ||yavdvcrs.com^
 ||yawdg.net^
 ||yawn.affable.cloud-ip.cc^
@@ -16324,7 +16309,6 @@ Stand: 10.07.2026 07:38
 ||ybmtkbiq.com^
 ||ybqjaguuii0obex4w.online^
 ||ybqlymsu.com^
-||ybstbrpb.com^
 ||ychen.cf^
 ||ychen.gq^
 ||ychk.ft1991.top^
@@ -16429,7 +16413,6 @@ Stand: 10.07.2026 07:38
 ||yoyovpn.org^
 ||yoyoyaya.thecastcaddy.com^
 ||yozoragames.mills-family.us^
-||yplsambm.com^
 ||ypork.com^
 ||yqchonhx.com^
 ||yrikse.com^
@@ -16484,7 +16467,6 @@ Stand: 10.07.2026 07:38
 ||z1j9ortoc.online^
 ||z2l8ae5mv83sgzkutimxp.online^
 ||z3d9.com^
-||z4qczlf.online^
 ||za.mreasandiego.com^
 ||zabolotskikh.dev^
 ||zaborona.help^
@@ -16600,7 +16582,6 @@ Stand: 10.07.2026 07:38
 ||zgendpnts.s3.amazonaws.com^
 ||zgfree.info^
 ||zgproxy.org^
-||zgsjhdzb.com^
 ||zgvpn.net^
 ||zgvpn.org^
 ||zh-index-kuailian.com.cn^

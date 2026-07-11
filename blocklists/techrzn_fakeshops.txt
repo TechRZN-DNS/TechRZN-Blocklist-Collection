@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 11.07.2026 06:15
+Stand: 11.07.2026 11:05
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -150,6 +150,7 @@ Stand: 11.07.2026 06:15
 ||abipartyxxl.de^
 ||abl-finance.com^
 ||abm-industrie.com^
+||abmdistrib.com^
 ||abodeare.com^
 ||abodeena.com^
 ||abodespot.com^
@@ -591,6 +592,7 @@ Stand: 11.07.2026 06:15
 ||aluhsda.com^
 ||alunaclo.de^
 ||aluvea.de^
+||alverogmbh.myshopify.com^
 ||alvexo-data.com^
 ||alvexo.io^
 ||alwansolarhq.shop^
@@ -1114,6 +1116,7 @@ Stand: 11.07.2026 06:15
 ||auszeit-seminar.de^
 ||authilama.com^
 ||auto-bund.com^
+||auto-export-augsburg.de^
 ||auto-handel.org^
 ||auto-logik.de^
 ||auto-partshome.com^
@@ -1132,6 +1135,7 @@ Stand: 11.07.2026 06:15
 ||autoforumoberursel.de^
 ||autogalerie29.de^
 ||autogearlabflow.com^
+||autohaus-ferkl.de^
 ||autohausberg-gmbh.de^
 ||autohausbismuth.de^
 ||autohauselsdorf.de^
@@ -1464,6 +1468,7 @@ Stand: 11.07.2026 06:15
 ||be-aetlcnshop.com^
 ||beaccustomed.com^
 ||beachitem.com^
+||beachwalkbali.com^
 ||beambead.com^
 ||beamdeals.de^
 ||beatricesavoy.de^
@@ -1956,6 +1961,7 @@ Stand: 11.07.2026 06:15
 ||bitcoin-everest-ai.fr^
 ||bitcoin-pharmacy.com^
 ||bitcoin-trader.net^
+||bitcoin-up.io^
 ||bitcoin-xact.fr^
 ||bitcoinarchon.com^
 ||bitcoindecode.io^
@@ -2207,6 +2213,7 @@ Stand: 11.07.2026 06:15
 ||braucheschnell.com^
 ||braunboutique.com^
 ||brauneagrar.com^
+||braunsale.de^
 ||bravedrawer.com^
 ||braviamarket.com^
 ||brazuque.com.br^
@@ -3507,6 +3514,7 @@ Stand: 11.07.2026 06:15
 ||deckcalmn.com^
 ||decohousely.com^
 ||decokento.com^
+||deconestprolab.com^
 ||decookware.com^
 ||decoopy.com^
 ||decor-muse.com^
@@ -4341,6 +4349,7 @@ Stand: 11.07.2026 06:15
 ||electro-market-store.com^
 ||electro-redeker.de^
 ||electrokaufen.de^
+||electrolager.de^
 ||electronia24.de^
 ||electronicade.com^
 ||electronicgood.com^
@@ -4703,6 +4712,7 @@ Stand: 11.07.2026 06:15
 ||eugeneoutlet.com^
 ||eumarketstores.com^
 ||eumeds24.com^
+||eumedz.com^
 ||eunits.de^
 ||euonlinedeal.shop^
 ||euortovox.shop^
@@ -4821,6 +4831,7 @@ Stand: 11.07.2026 06:15
 ||exivara24.com^
 ||exklusiv-online.de^
 ||exklusivendesign.com^
+||exklusivrad.de^
 ||exo-marketing.com^
 ||exodermin.com^
 ||exodermin.eu^
@@ -4842,6 +4853,7 @@ Stand: 11.07.2026 06:15
 ||exptablets.com^
 ||exquisitpflanze.com^
 ||exteriork.com^
+||extralangrotary.com^
 ||extraordiny.com^
 ||extrapassion.club^
 ||extshginm.com^
@@ -4915,6 +4927,7 @@ Stand: 11.07.2026 06:15
 ||fahrradladen-brand.de^
 ||fahrradladen-gronau.de^
 ||fahrradladen-hoffmann.de^
+||fahrradladen-klasen.de^
 ||fahrradladen-neu.com^
 ||fahrradladenbrand.de^
 ||fahrradladende.com^
@@ -5143,7 +5156,6 @@ Stand: 11.07.2026 06:15
 ||festgeldsicher.at^
 ||festivaldefrente.com^
 ||festoolz.shop^
-||fetishmegastore.com^
 ||fettabsaugung-in-koeln.de^
 ||fettverbrenneronline.com^
 ||feuchtigkeits.de^
@@ -5732,7 +5744,6 @@ Stand: 11.07.2026 06:15
 ||galeriemodehaus.com^
 ||galerieoswald.de^
 ||galeryfile.com^
-||galileofx.com^
 ||galleria-kaufhof.de^
 ||gambystudios.com^
 ||game.toys^
@@ -7786,10 +7797,12 @@ Stand: 11.07.2026 06:15
 ||interactivecoins.com^
 ||interactiveoption.com^
 ||interactp.com^
+||interholz-de.com^
 ||interiordesignusa.com^
 ||interiordome.com^
 ||interiorene.com^
 ||interiorlightingshop.com^
+||interlux-zentrum.com^
 ||intermaschineauktion.com^
 ||interpellet.at^
 ||intersport-at.myshoplaza.com^
@@ -7975,6 +7988,7 @@ Stand: 11.07.2026 06:15
 ||jerusalemcharity.com^
 ||jessena.com^
 ||jetprofund.net^
+||jette-handel.de^
 ||jeulia.de^
 ||jewellery-palace.com^
 ||jewelleryina.com^
@@ -8083,6 +8097,7 @@ Stand: 11.07.2026 06:15
 ||jssolution.com^
 ||jtgmarket.com^
 ||jtshoponline.com^
+||jubin-bicycle.com^
 ||juergen-runge.de^
 ||juergenkehrer.de^
 ||jufahotels.de^
@@ -8111,6 +8126,7 @@ Stand: 11.07.2026 06:15
 ||jyskonlinemall.sa.com^
 ||jyxliness.com^
 ||k-apotheke.de^
+||k-ebikegmbh.de^
 ||k-elite-shop.com^
 ||k4-kulturgarten.de^
 ||ka-pharm.com^
@@ -8120,6 +8136,7 @@ Stand: 11.07.2026 06:15
 ||kadiwo.de^
 ||kadonimo.de^
 ||kadoshops.de^
+||kaelte-bringer.de^
 ||kaelte-held.com^
 ||kaffee-burg.de^
 ||kaffee-de.com^
@@ -8568,6 +8585,8 @@ Stand: 11.07.2026 06:15
 ||klempnerwerkzeug.com^
 ||kleversholz.com^
 ||klimabonus2026.at^
+||klimacare24.de^
+||klimag.myshopify.com^
 ||klimahaus.myshopify.com^
 ||klimmotorrad.com^
 ||klingerdirndl.com^
@@ -9269,6 +9288,7 @@ Stand: 11.07.2026 06:15
 ||lodiac.com^
 ||lodischuhedeutschland.com^
 ||lodischuheonlineshop.de^
+||loewe-osterreich.com^
 ||loewe.co.at^
 ||loewedeutschland.de^
 ||loftmyhub.com^
@@ -10102,10 +10122,12 @@ Stand: 11.07.2026 06:15
 ||microsoft1drive.net^
 ||microsotfsstore.com^
 ||midasmarkt.com^
+||midea-deutschland.de^
 ||midea-europa.de^
 ||midea-europe.de^
 ||midea-germany.de^
 ||midea-klima.de^
+||midea-portasplit.com^
 ||mideadeutschland.de^
 ||mideaklima.de^
 ||midikleider.com^
@@ -10865,6 +10887,7 @@ Stand: 11.07.2026 06:15
 ||nestwohn.com^
 ||nestyheim.de^
 ||net-investissement.net^
+||netatmo.com.de^
 ||netcfd.com^
 ||netelektro.com^
 ||netfusiontechservices.com^
@@ -12093,7 +12116,6 @@ Stand: 11.07.2026 06:15
 ||pharmaracapital.com^
 ||pharmaright.vu^
 ||pharmaris.net^
-||pharmaserve.com^
 ||pharmatheke-europe.com^
 ||pharmedio.de^
 ||pharmrx-1.com^
@@ -13232,6 +13254,7 @@ Stand: 11.07.2026 06:15
 ||rozomii.info^
 ||rpebike.online^
 ||rpgmerchstore.com^
+||rqhtyztv.shop^
 ||rrsstore.com^
 ||rs-remorque.com^
 ||rsaonlinenow.com.au^
@@ -14160,6 +14183,7 @@ Stand: 11.07.2026 06:15
 ||sofotron.de^
 ||soft-handel.de^
 ||softdays-shop.de^
+||softelektro.com^
 ||softgetpc.com^
 ||softritualsco.shop^
 ||software-onsale.com^
@@ -14306,7 +14330,6 @@ Stand: 11.07.2026 06:15
 ||southvalley.com.br^
 ||sovectoron-1-naatlasix-losolara.com^
 ||sovkonc.ept.se^
-||sowaswillichauch.de^
 ||soxfinancial.com^
 ||space-tennis.com^
 ||spacebuds.de^
@@ -16204,6 +16227,7 @@ Stand: 11.07.2026 06:15
 ||veramodehaus.de^
 ||veranoclothing.de^
 ||veraziahgroup.com^
+||verbraucherfokus-test.de^
 ||vercc.com.br^
 ||vereinsregisterauszug.at^
 ||verfun.com^
@@ -16221,6 +16245,7 @@ Stand: 11.07.2026 06:15
 ||vermontco.com.br^
 ||veroshell.com^
 ||versand-fuxx-ug.myshopify.com^
+||versand-kaufhaus.de^
 ||versandhaus-herrmann.de^
 ||versandoase.de^
 ||versandpharma.com^
@@ -16398,6 +16423,7 @@ Stand: 11.07.2026 06:15
 ||vivagopro.com^
 ||vivaharmoni.com^
 ||vivaia-schuhe.de^
+||vivaiacollection.com^
 ||vivaiaschuhe.at^
 ||vivaiaschuhe.com^
 ||vivaiaschuhe.de^
@@ -16537,6 +16563,7 @@ Stand: 11.07.2026 06:15
 ||wacoo.de^
 ||wacooball.com^
 ||wadahlapak.top^
+||waerme-pumpen24.de^
 ||waermepumpe-solar.de^
 ||waermewald.de^
 ||waermewelt.com^
@@ -16794,6 +16821,7 @@ Stand: 11.07.2026 06:15
 ||wertalmpro.at^
 ||wertexmarkt.de^
 ||wertglanzedelmetall.de^
+||wertlebenshop.com^
 ||wertovia.com^
 ||wertpuls.de^
 ||weserstore.de^
@@ -17261,7 +17289,6 @@ Stand: 11.07.2026 06:15
 ||zebrainvest.com^
 ||zedbubble.com^
 ||zegnakaufen.de^
-||zeigdeinbein.de^
 ||zeigebericht.de^
 ||zeigstil.com^
 ||zeit-modehaus.com^

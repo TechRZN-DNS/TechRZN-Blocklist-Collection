@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 13.07.2026 06:55
+Stand: 14.07.2026 06:12
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -17270,6 +17270,7 @@ Stand: 13.07.2026 06:55
 ||analytics.infosysequinox.com^
 ||analytics.infosysprize.org^
 ||analytics.infosyspublicservices.com^
+||analytics.infraloods.nl^
 ||analytics.inquisitr.com^
 ||analytics.iraiser.eu^
 ||analytics.ishopchangi.com^
@@ -27137,6 +27138,7 @@ Stand: 13.07.2026 06:55
 ||capisvr.falaqfood.com^
 ||capitalgroupcompanie.tt.omtrdc.net^
 ||capitaloneservices.tt.omtrdc.net^
+||capitalopera.com^
 ||capitfes.andrefilipe.com.br^
 ||capitp.teacherpimenta.com^
 ||capping.sirius.press^
@@ -27809,6 +27811,7 @@ Stand: 13.07.2026 06:55
 ||cdn.nvisioncenters.com^
 ||cdn.piazzasquareitaliano.com^
 ||cdn.polarbyte.com^
+||cdn.prod.euid.eu^
 ||cdn.providercheck.nl^
 ||cdn.ravm.tv^
 ||cdn.saltstone.shop^
@@ -44663,6 +44666,7 @@ Stand: 13.07.2026 06:55
 ||greenjapan-cname.green-japan.com^
 ||greenroofoutfitters.actonservice.com^
 ||greif.actonservice.com^
+||gresrv.com^
 ||grgnsht.nzxt.com^
 ||grhgq.printique.com^
 ||grht.perchemtl.com^
@@ -74861,6 +74865,7 @@ Stand: 13.07.2026 06:55
 ||onedisabledpartner.net.daraz.com^
 ||onedropocean.com^
 ||oneid.mmstat.com^
+||onekindmarket.com^
 ||onelink.taptalk.io^
 ||onelinksmartscript.appsflyer.com^
 ||onelinksmartscript.appsflyersdk.com^
@@ -74882,6 +74887,7 @@ Stand: 13.07.2026 06:55
 ||ongreed.ongreed.com^
 ||onhqz.rocksbox.com^
 ||onigh.colorwowhair.com^
+||onioncomic.com^
 ||onjjbn.koffiemarkt.be^
 ||onjmsj.sumai-surfin.com^
 ||onldlx.snowuniverse.com^
@@ -76786,6 +76792,7 @@ Stand: 13.07.2026 06:55
 ||phyon.visit-x.net^
 ||physicstees.com^
 ||pi.ispot.tv^
+||pi.pdfjs.express^
 ||pi.technik3d.com^
 ||pia.propxusa.com^
 ||piafapp.poste.it^
@@ -79749,6 +79756,7 @@ Stand: 13.07.2026 06:55
 ||research.insidesales.com^
 ||research.leads360.com^
 ||research.velocify.com^
+||researchlog.dbresearch.com^
 ||reset.tt.omtrdc.net^
 ||resetpassword.surepetcare.io^
 ||resftpricted-r-ht-2.net.daraz.com^
@@ -80225,6 +80233,7 @@ Stand: 13.07.2026 06:55
 ||robertwoodjohnsonfou.tt.omtrdc.net^
 ||robotflowermobile.com^
 ||robotgarages.com^
+||robotrefinery.com^
 ||robotsrefinery.com^
 ||roccofortehotels.tt.omtrdc.net^
 ||rochelle.wantsext.me^
@@ -114266,6 +114275,7 @@ Stand: 13.07.2026 06:55
 ||trksrv44.com^
 ||trksrv45.com^
 ||trksrv46.com^
+||trkweb.clinch.co^
 ||trlcn.lindywell.com^
 ||trljnk.frankandeileen.com^
 ||trnha.coophomegoods.com^

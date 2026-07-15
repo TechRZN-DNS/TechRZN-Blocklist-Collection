@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 14.07.2026 06:12
+Stand: 15.07.2026 06:16
 
 ||0.6gpaactivities.pce-cihazlari.com.tr^
 ||0.6gpaactivities.pulsaudio.ro^
@@ -4397,7 +4397,6 @@ Stand: 14.07.2026 06:12
 ||dns.controld.com^
 ||dns.cooluc.com^
 ||dns.corefusion.xyz^
-||dns.criena.net^
 ||dns.cryptomize.com^
 ||dns.crystalyx.net^
 ||dns.csaonline.de^
@@ -7534,7 +7533,6 @@ Stand: 14.07.2026 06:12
 ||guestappearance.us^
 ||guide.terms.gatpp.com^
 ||guidetoworld.link^
-||guigu.dns.army^
 ||guildstashtracker.xyz^
 ||gulaaron.ru^
 ||gule.loan^

@@ -1,5 +1,5 @@
 ### TechRZN - NATIVE_TRACKER ###
-Stand: 14.07.2026 06:12
+Stand: 15.07.2026 06:16
 
 ||0001-metrics1-data-hicloud-com.geac.dbankedge.cn^
 ||0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
@@ -27,6 +27,9 @@ Stand: 14.07.2026 06:12
 ||ad-eng-pci.prod.rpay.int.roku.com^
 ||ad-eng.prod.rpay.int.roku.com^
 ||ad-eng.staging.rpay.int.roku.com^
+||ad-growth-in.heytapmobile.com^
+||ad-growth-ru.heytapmobile.com^
+||ad-growth-sg.heytapmobile.com^
 ||ad.71i.de^
 ||ad.lgappstv.com^
 ||ad.nettvservices.com^

@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 15.07.2026 06:16
+Stand: 16.07.2026 06:20
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -41196,6 +41196,7 @@ Stand: 15.07.2026 06:16
 ||ext.sofinco.fr^
 ||extendyourreach.actonservice.com^
 ||external-bos5-1.xx.fbcdn.net.iberostar.com^
+||external-tag.mysquadbeyond.com^
 ||external.fpbc1-1.fna.fbcdn.net.iberostar.com^
 ||external.techopian.com^
 ||external3arketing.net.daraz.com^
@@ -48821,6 +48822,7 @@ Stand: 15.07.2026 06:16
 ||heat6have.com^
 ||heatexperience.com^
 ||heathrow.tt.omtrdc.net^
+||heatmap.support-inc.co.jp^
 ||heatmaps.lcisoft.it^
 ||heatoor-ss.primeshopers.com^
 ||heavydetail.com^
@@ -49232,6 +49234,7 @@ Stand: 15.07.2026 06:16
 ||homelycrown.com^
 ||homelyheater.com^
 ||homer6-zigzagstr.net.daraz.com^
+||homerunfood.com^
 ||homeslick.com^
 ||hommies.homestuffbd.com^
 ||honestdata.honesteco.org^
@@ -76399,6 +76402,7 @@ Stand: 15.07.2026 06:16
 ||passivepolo.com^
 ||passr-is-1-2.net.daraz.com^
 ||passt.cleens.co.uk^
+||passwordbyte.com^
 ||pastoralroad.com^
 ||pasvntnesvn.net.daraz.com^
 ||path-follower.com^
@@ -77279,6 +77283,7 @@ Stand: 15.07.2026 06:16
 ||playbook.convio.com^
 ||player-metrics.instaread.co^
 ||player-telemetry.vimeo.com^
+||playerhappy.com^
 ||playfulriver.com^
 ||plazadatner.net.daraz.com^
 ||plbcsd.vidaxl.se^
@@ -80241,6 +80246,7 @@ Stand: 15.07.2026 06:16
 ||rockagainst.com^
 ||rocket.bubble.dk^
 ||rocketmatter.actonservice.com^
+||rocketmonitor.com^
 ||rockm.sydneyhydroplumbing.com.au^
 ||rockstarwriter.com^
 ||rockwellautomation.tt.omtrdc.net^
@@ -80300,6 +80306,7 @@ Stand: 15.07.2026 06:16
 ||route.atlasbus.com.ua^
 ||route.empresanoautomatico.com.br^
 ||route.kcvisibility.com^
+||routebug.com^
 ||router28.net.anwalt.de^
 ||routes.navibration.com^
 ||rovememoirs.com^
@@ -82260,6 +82267,7 @@ Stand: 15.07.2026 06:16
 ||science.ygoprint.org^
 ||scienceaaas.org^
 ||sciencedart.com^
+||sciencevault.net^
 ||scientificshirt.com^
 ||scii.spolaorimoveis.com.br^
 ||scintillatingscissors.com^
@@ -82486,6 +82494,7 @@ Stand: 15.07.2026 06:16
 ||seamless.wtaxgroup.co^
 ||seamlesssalon.com^
 ||seao.business.samsung.com^
+||seaotterplay.com^
 ||search-application-spring.net.daraz.com^
 ||search.anonymous.ads.brave.com^
 ||search.dailytopoptions.com^
@@ -83203,6 +83212,7 @@ Stand: 15.07.2026 06:16
 ||send.merit.me^
 ||send.preply.com^
 ||sendgrid.employeelinkapp.com^
+||sendinblast.com^
 ||sendingspire.com^
 ||sendmoney.americanexpress.co.uk^
 ||sendpulsenewtest.branch.rocks^

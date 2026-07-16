@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 15.07.2026 06:16
+Stand: 16.07.2026 06:20
 
 ||0.6gpaactivities.pce-cihazlari.com.tr^
 ||0.6gpaactivities.pulsaudio.ro^
@@ -92,6 +92,7 @@ Stand: 15.07.2026 06:16
 ||1195409979.rsc.cdn77.org^
 ||123-24.eport.gr^
 ||123-proxy.net^
+||123-proxy.org^
 ||123000123.xyz^
 ||123417.xyz^
 ||1234567890qwertyuiopasdfghjklzxcvbnm.myclarevision.com^
@@ -107,10 +108,12 @@ Stand: 15.07.2026 06:16
 ||123down.org^
 ||123fr.info^
 ||123free.info^
+||123goproxy.com^
 ||123hideip.com^
 ||123inside.net^
 ||123jsq.top^
 ||123li.me^
+||123me.net^
 ||123music.app^
 ||123proxy.app^
 ||123proxy.biz^
@@ -260,6 +263,7 @@ Stand: 15.07.2026 06:16
 ||1clickvpn.help^
 ||1clickvpn.net^
 ||1d02o93u1092d0.weebly.com^
+||1dollarmeathod.zunbaoyule123.com^
 ||1ee.top^
 ||1ef5be51a2d8d5dfe81bc2d6b620e377fb73846c.com^
 ||1f47epzt.online^
@@ -395,6 +399,7 @@ Stand: 15.07.2026 06:16
 ||3kh0.org^
 ||3nkh5crxol.ch^
 ||3proxy.de^
+||3proxy.us^
 ||3qguvtvrpyzkatp2.online^
 ||3x.nz^
 ||4.baumgardner.us^
@@ -485,6 +490,7 @@ Stand: 15.07.2026 06:16
 ||55780358.xyz^
 ||55aktnolkvuoctxitm.online^
 ||55gms.com^
+||55gms.me^
 ||55gms.skysthelimit.dev^
 ||55gms.skysthelimit.dev.cdn.cloudflare.net^
 ||55gms.store.cdn.cloudflare.net^
@@ -975,6 +981,7 @@ Stand: 15.07.2026 06:16
 ||adg.rueiliu.space^
 ||adg.spacework.com.mx^
 ||adg.tshost.no^
+||adg.yybyy.wiki^
 ||adg5yvi.ngatngay.net^
 ||adgaurd.lingmont.net^
 ||adgd.fragmentance.ru^
@@ -1077,6 +1084,7 @@ Stand: 15.07.2026 06:16
 ||adguard.johnnypatras.org^
 ||adguard.k-likhachev.ru^
 ||adguard.kalyanmudumby.com^
+||adguard.kantinyoyok.xyz^
 ||adguard.kasbot.net^
 ||adguard.kiboko.it^
 ||adguard.kitakitsune.xyz^
@@ -1265,6 +1273,7 @@ Stand: 15.07.2026 06:16
 ||africadns1.liquidtelecom.net^
 ||africadns2.liquidtelecom.net^
 ||ag.apollohct.com^
+||ag.brianlee.fun^
 ||ag.coco-tama-hoiku.com^
 ||ag.felixf.eu^
 ||ag.ff0x.ca^
@@ -1516,6 +1525,7 @@ Stand: 15.07.2026 06:16
 ||annual2025.uk^
 ||ano404.top^
 ||anol.loan^
+||anomivpn.com^
 ||anonine.com^
 ||anonto.pw^
 ||anonvpn.io^
@@ -1592,7 +1602,6 @@ Stand: 15.07.2026 06:16
 ||apache-iv.com^
 ||apamerican.govt.hu^
 ||apexofficial.accesscam.org^
-||apfgexfusion.com^
 ||aphistorytutoring.bastaff.ru^
 ||aphistorytutoring.bisblick.org^
 ||aphistorytutoring.cencopro.cl^
@@ -1672,7 +1681,9 @@ Stand: 15.07.2026 06:16
 ||apworld.navigogroup.cl^
 ||aq.iaalai.cn^
 ||aqpov.xyz^
+||aqua.bastaff.ru^
 ||aqua.is.my.waifu.cz^
+||arab.is.goated.teamradicus.com^
 ||aracmtva.com^
 ||arapurayil.com^
 ||arashi.eu.org^
@@ -1850,6 +1861,7 @@ Stand: 15.07.2026 06:16
 ||awebproxy.com^
 ||awhoer.net^
 ||awp.gg.pololabrau.com.ar^
+||axaxa.fun^
 ||axiom.vcsa.graphicon.org^
 ||axiomhas.keybusinessconnection.com^
 ||axiomislife18.qualitynet.com.br^
@@ -1894,6 +1906,7 @@ Stand: 15.07.2026 06:16
 ||b78772063930e9c944132eff50bfa9cec07cf356.com^
 ||b9b7099bb27a6ea166072732a91324d6a836ec39.com^
 ||b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space^
+||baablu.tcloud.my^
 ||babelsnow.com^
 ||babiesyui.ignorelist.com^
 ||babybee.tcogpcal.org^
@@ -1906,6 +1919,7 @@ Stand: 15.07.2026 06:16
 ||baikalvpn.ru^
 ||bailey.today^
 ||bajie.la^
+||bajiess.com^
 ||baku.chickenkiller.com^
 ||ballbang.com^
 ||banana-vpn.com^
@@ -2440,6 +2454,7 @@ Stand: 15.07.2026 06:16
 ||blokada.org^
 ||blokuj.ujwie.co^
 ||blooket-2026-happynewyears.wechchile.cl^
+||blooket.broomleigh.org^
 ||bloquer.fr^
 ||blubby.3d-mart.ru^
 ||bluedns.xyz^
@@ -2617,6 +2632,7 @@ Stand: 15.07.2026 06:16
 ||browservpn.online^
 ||brsjk.cn^
 ||brsueykh.com^
+||brunycraft.xyz^
 ||brunycraft.xyz.cdn.cloudflare.net^
 ||brunysixl.work^
 ||brunysixl.work.cdn.cloudflare.net^
@@ -3134,6 +3150,7 @@ Stand: 15.07.2026 06:16
 ||clickr.my.to^
 ||clickwork7secure.com^
 ||client.registration.abrdns.com^
+||cliffbayschools.anjumanallana.in^
 ||cliffschools.org^
 ||clkcsxwl.cc^
 ||clmvip.com^
@@ -4397,6 +4414,7 @@ Stand: 15.07.2026 06:16
 ||dns.controld.com^
 ||dns.cooluc.com^
 ||dns.corefusion.xyz^
+||dns.criena.net^
 ||dns.cryptomize.com^
 ||dns.crystalyx.net^
 ||dns.csaonline.de^
@@ -8561,6 +8579,7 @@ Stand: 15.07.2026 06:16
 ||iopsfwjrklewrdf.xcvjklesdfewf.dingsheng-yule.com^
 ||iosap2-static.b-cdn.net^
 ||iosedge.com^
+||iosequence.online^
 ||iosjiasu.net^
 ||iosp33beec-20c12.kxcdn.com^
 ||iossync.com^
@@ -14019,7 +14038,6 @@ Stand: 15.07.2026 06:16
 ||testingtesting123.tms-chel.ru^
 ||testmode.lhost.dev^
 ||testpilot.firefox.com^
-||testplease.fin-tech.com^
 ||testred.xyz^
 ||tests.debate.homebrewology.org^
 ||tests.ela.btbtrading.it^

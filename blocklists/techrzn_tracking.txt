@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 17.07.2026 06:18
+Stand: 18.07.2026 06:06
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -14925,6 +14925,7 @@ Stand: 17.07.2026 06:18
 ||ads.nagawincapi.com^
 ||ads.partner.net.daraz.com^
 ||ads.tikpage.com^
+||ads.tvp.pl^
 ||ads.ulti300capi.com^
 ||ads.webrekom.xyz^
 ||ads.win555capi.com^
@@ -26456,6 +26457,7 @@ Stand: 17.07.2026 06:18
 ||c.stext.id^
 ||c.thredup.com^
 ||c.topya.com^
+||c.uniten.io^
 ||c.v2.ns.emailvision.net.daraz.com^
 ||c.vanityfair.com^
 ||c.vcty.co^
@@ -54700,6 +54702,7 @@ Stand: 17.07.2026 06:18
 ||lbudo.keptcollection.com^
 ||lbv5.mperf.com^
 ||lbvbv.withjean.com^
+||lc-event.pixiv.net^
 ||lc.caravanyou.com^
 ||lc.manhealthsolutions.com^
 ||lc.thebugblues.com^
@@ -88936,6 +88939,7 @@ Stand: 17.07.2026 06:18
 ||skilledview.com^
 ||skillfuldrop.com^
 ||skillfullyfrugal.com^
+||skillpuppy.com^
 ||skillsfuturesingapor.tt.omtrdc.net^
 ||skillshouse.actonservice.com^
 ||skin.gleamglows.com^
@@ -106429,6 +106433,7 @@ Stand: 17.07.2026 06:18
 ||swallow.pelias.io^
 ||swan.visualma.com^
 ||swankysquare.com^
+||swanwebcreations.com^
 ||swapan.tradecosmix.com^
 ||swasc.homedepot.ca^
 ||swasc.homedepot.com^
@@ -106534,6 +106539,7 @@ Stand: 17.07.2026 06:18
 ||swmhdata.stuttgarter-nachrichten.de^
 ||swmhdata.stuttgarter-zeitung.de^
 ||swmkru.zlutahala.cz^
+||swordblock.com^
 ||swordfish.elvietanny.com^
 ||swordfish.floofs.com^
 ||swordfish.holzschuhe.at^
@@ -108378,6 +108384,7 @@ Stand: 17.07.2026 06:18
 ||target.zinia.de^
 ||targetab.metrobyt-mobile.com^
 ||targetemsecure.blob.core.windows.net^
+||targetfax.com^
 ||targeting.focas.jp^
 ||targeting.voxus.tv^
 ||targeting.washpost.nile.works^
@@ -109257,6 +109264,7 @@ Stand: 17.07.2026 06:18
 ||thelibraryofcongress.tt.omtrdc.net^
 ||themangotea.com^
 ||theme.echovisuals.com^
+||themegoats.com^
 ||themepicker.com^
 ||themorningcallmediagroup.com^
 ||thenielsencompany.tt.omtrdc.net^
@@ -116412,6 +116420,8 @@ Stand: 17.07.2026 06:18
 ||verseballs.com^
 ||versuswall.com^
 ||vertexcs.actonservice.com^
+||verybark.com^
+||verybouncy.com^
 ||vestas.tt.omtrdc.net^
 ||vet.mexicoveterinario.com.mx^
 ||vetsource.actonservice.com^
@@ -116572,6 +116582,7 @@ Stand: 17.07.2026 06:18
 ||view.stylebob.com^
 ||view.trendwiseai.com^
 ||viewer.pandasuite.io^
+||viewresource.com^
 ||views.arabnews.com^
 ||views.asurascans.com^
 ||views.b1tv.ro^

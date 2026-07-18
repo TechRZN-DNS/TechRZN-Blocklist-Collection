@@ -1,5 +1,5 @@
 ### TechRZN - NATIVE_TRACKER ###
-Stand: 17.07.2026 06:18
+Stand: 18.07.2026 06:06
 
 ||0001-metrics1-data-hicloud-com.geac.dbankedge.cn^
 ||0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
@@ -261,6 +261,7 @@ Stand: 17.07.2026 06:18
 ||bsf.sc.heytapmobile.com^
 ||bsp-di-in.heytapmobile.com^
 ||ca-service.acr.roku.com^
+||ca.acr.roku.com^
 ||calculator-api-fr.allawnos.com^
 ||calculator-api-in.allawnos.com^
 ||calculator-api-sg.allawnos.com^

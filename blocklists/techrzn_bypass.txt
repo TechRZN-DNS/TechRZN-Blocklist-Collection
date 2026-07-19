@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 19.07.2026 06:31
+Stand: 19.07.2026 21:52
 
 ||0.6gpaactivities.pce-cihazlari.com.tr^
 ||0.6gpaactivities.pulsaudio.ro^
@@ -1569,6 +1569,8 @@ Stand: 19.07.2026 06:31
 ||anycast.uncensoreddns.dk^
 ||anyhow.bury.abrdns.com^
 ||anyip.io^
+||anyone.io^
+||anyone.tech^
 ||anything.dontbreakthiswildcard.doge.motorcycles^
 ||anything.dylix.org^
 ||anything.mathhomework.abrdns.com^
@@ -4421,6 +4423,7 @@ Stand: 19.07.2026 06:31
 ||dns.controld.com^
 ||dns.cooluc.com^
 ||dns.corefusion.xyz^
+||dns.criena.net^
 ||dns.cryptomize.com^
 ||dns.crystalyx.net^
 ||dns.csaonline.de^
@@ -14587,6 +14590,7 @@ Stand: 19.07.2026 06:31
 ||tzzudzb.cn^
 ||u-kuailian.com.cn^
 ||u-proxy.com^
+||u2dpn.network^
 ||u2dpn.xyz^
 ||u8sj3.com^
 ||uabqnyzc.com^

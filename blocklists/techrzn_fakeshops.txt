@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 19.07.2026 06:31
+Stand: 19.07.2026 21:52
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -1246,6 +1246,7 @@ Stand: 19.07.2026 06:31
 ||awishday.com^
 ||awo-baumarkt.de^
 ||ax-trading.com^
+||axaimarketfx.com^
 ||axatechviewou.com^
 ||axelarigatojapan.net^
 ||axelarigatooslo.com^
@@ -2351,6 +2352,7 @@ Stand: 19.07.2026 06:31
 ||brunoberg.com^
 ||brushshope.com^
 ||brutaka.com^
+||bryngrill.se^
 ||bryo-kaffee.de^
 ||brytesmile.de^
 ||bs-gmbh.de^
@@ -4756,7 +4758,6 @@ Stand: 19.07.2026 06:31
 ||eu-arcteryx.com^
 ||eu-first.com^
 ||eu-meds.net^
-||eu-meds.online^
 ||eu-pharmacy-online.com^
 ||eu-pillstore.com^
 ||eu-sezane.com^
@@ -11534,7 +11535,6 @@ Stand: 19.07.2026 06:31
 ||ohssl.org^
 ||oikmvbuy.shop^
 ||oil-direkt.de^
-||oil-profits.com^
 ||oilexa.de^
 ||oilparadies.de^
 ||oilprofit.io^
@@ -11794,6 +11794,7 @@ Stand: 19.07.2026 06:31
 ||ordergunmagazinesonline.com^
 ||ordernow24.de^
 ||orderquilt.com^
+||orderrxstore.com^
 ||ordersurfsite.com^
 ||orderumbrella.com^
 ||ordinarlim.com^
@@ -12000,6 +12001,7 @@ Stand: 19.07.2026 06:31
 ||paddlegrill.com^
 ||padsims.com^
 ||paffeholz.com^
+||paganidesignstore.com^
 ||pages.tempisite.com^
 ||painthotsale.com^
 ||paitarisbauunternehmen.de^
@@ -15691,7 +15693,6 @@ Stand: 19.07.2026 06:31
 ||top-business-deals.com^
 ||top-lecheng-online.com^
 ||top-neue-online-casinos.de^
-||top-pharmacy-24h.com^
 ||top-sports-experts.com^
 ||top-tiantianyingqiu-online.com^
 ||top-velos.com^
@@ -15953,6 +15954,7 @@ Stand: 19.07.2026 06:31
 ||trousersonsales.com^
 ||truckstopshop.de^
 ||true-drugstore.com^
+||true-ph.com^
 ||true-tab.com^
 ||true-weightlose.com^
 ||truefitposture.com^
@@ -16655,6 +16657,7 @@ Stand: 19.07.2026 06:31
 ||vivagopro.com^
 ||vivaharmoni.com^
 ||vivaia-schuhe.de^
+||vivaiacollection.com^
 ||vivaiaschuhe.at^
 ||vivaiaschuhe.com^
 ||vivaiaschuhe.de^

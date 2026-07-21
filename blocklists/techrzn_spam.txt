@@ -1,5 +1,5 @@
 ### TechRZN - SPAM ###
-Stand: 20.07.2026 06:48
+Stand: 21.07.2026 06:29
 
 ||0-2spk-us.basecamp.app^
 ||0-amfauth.firebaseapp.com^
@@ -17260,7 +17260,6 @@ Stand: 20.07.2026 06:48
 ||bauer-group-solutions.com^
 ||bauer-group.org^
 ||baufortschritt.jetzt^
-||bauhaus.info^
 ||baukasten.jetzt^
 ||baukultur.jetzt^
 ||baum.ro^

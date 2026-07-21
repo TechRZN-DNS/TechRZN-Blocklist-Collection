@@ -1,5 +1,5 @@
 ### TechRZN - NATIVE_TRACKER ###
-Stand: 20.07.2026 06:48
+Stand: 21.07.2026 06:29
 
 ||0001-metrics1-data-hicloud-com.geac.dbankedge.cn^
 ||0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
@@ -61,6 +61,7 @@ Stand: 20.07.2026 06:48
 ||ads-cf-us-east-1.delivery.roku.com^
 ||ads-cf-us-east-1.dev.delivery.roku.com^
 ||ads-cf-us-west-2.delivery.roku.com^
+||ads-dra.platform.hihonorcloud.com^
 ||ads-drcn.platform.hihonorcloud.com^
 ||ads-dre.platform.hihonorcloud.com^
 ||ads-drru.cloud.huawei.ru^

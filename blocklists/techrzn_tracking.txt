@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 20.07.2026 06:48
+Stand: 21.07.2026 06:29
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -22412,6 +22412,7 @@ Stand: 20.07.2026 06:48
 ||barcodespartnertomcat-partner-pay.net.daraz.com^
 ||barcodespartneruritycar40.net.daraz.com^
 ||barcodespartnervc-car10.net.daraz.com^
+||barcodetool.com^
 ||barcofw.net.daraz.com^
 ||barista-mhb-dhcp.net.daraz.com^
 ||barista-stock.net.daraz.com^
@@ -22800,6 +22801,7 @@ Stand: 20.07.2026 06:48
 ||beat.yourtv.jp^
 ||beatselectronicsllc.tt.omtrdc.net^
 ||beaumont.actonservice.com^
+||beautifulrope.com^
 ||beaver.bluebunnypaper.com^
 ||beaver.brush.ninja^
 ||beazer.staging.rail.net.daraz.com^
@@ -36358,7 +36360,6 @@ Stand: 20.07.2026 06:48
 ||dd.garena.com^
 ||dd.leboncoin.fr^
 ||dd.nytimes.com^
-||dd.qwant.com^
 ||dd.seloger-bureaux-commerces.com^
 ||dd.seloger.com^
 ||dd.selogerneuf.com^
@@ -116420,7 +116421,6 @@ Stand: 20.07.2026 06:48
 ||verseballs.com^
 ||versuswall.com^
 ||vertexcs.actonservice.com^
-||verybark.com^
 ||verybouncy.com^
 ||vestas.tt.omtrdc.net^
 ||vet.mexicoveterinario.com.mx^

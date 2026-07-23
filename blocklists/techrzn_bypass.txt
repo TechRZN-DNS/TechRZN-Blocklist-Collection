@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 22.07.2026 06:30
+Stand: 23.07.2026 06:31
 
 ||0.6gpaactivities.pce-cihazlari.com.tr^
 ||0.6gpaactivities.pulsaudio.ro^
@@ -4546,7 +4546,6 @@ Stand: 22.07.2026 06:30
 ||dns.controld.com^
 ||dns.cooluc.com^
 ||dns.corefusion.xyz^
-||dns.criena.net^
 ||dns.cryptomize.com^
 ||dns.crystalyx.net^
 ||dns.csaonline.de^
@@ -11529,6 +11528,7 @@ Stand: 22.07.2026 06:30
 ||oculta.me^
 ||odeum.zelator.cloud-ip.cc^
 ||ododep.ru^
+||odoh-target.alekberg.net^
 ||odpi3ekk.com^
 ||odvr.nic.cz^
 ||odyxighs.com^
@@ -12000,6 +12000,7 @@ Stand: 22.07.2026 06:30
 ||pinkproxy.xyz^
 ||pinweb.info^
 ||piplvpn.com^
+||piproxies.com^
 ||pips.kpsn.org^
 ||pipster.org^
 ||pipster.ru^
@@ -15989,6 +15990,7 @@ Stand: 22.07.2026 06:30
 ||vpnto.bhadrikais.my.id^
 ||vpntoggle.com^
 ||vpntraffic.com^
+||vpntrustway.online^
 ||vpntun.site^
 ||vpntunnel.com^
 ||vpntunnel.se^

@@ -1,5 +1,5 @@
 ### TechRZN - FAKE_SCIENCE ###
-Stand: 22.07.2026 06:30
+Stand: 23.07.2026 06:31
 
 ||1010press.com^
 ||1088.email^
@@ -952,7 +952,6 @@ Stand: 22.07.2026 06:30
 ||pspchv.com^
 ||psrcentre.org^
 ||pubicon.com^
-||publicationethics.org^
 ||publisher-europe.com^
 ||publisher.ijier.net^
 ||publishingpress.info^

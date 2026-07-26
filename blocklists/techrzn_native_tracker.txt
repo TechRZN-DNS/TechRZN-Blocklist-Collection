@@ -1,5 +1,5 @@
 ### TechRZN - NATIVE_TRACKER ###
-Stand: 25.07.2026 06:19
+Stand: 26.07.2026 06:38
 
 ||0001-metrics1-data-hicloud-com.geac.dbankedge.cn^
 ||0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
@@ -1077,6 +1077,7 @@ Stand: 25.07.2026 06:19
 ||rnd-cbgpas01.huawei.com^
 ||ro-up.vivoglobal.com^
 ||rockett.logs.roku.com^
+||roku.adsmeasurement.com^
 ||ru-commonitor-stsdk.vivoglobal.com^
 ||ru-comonrt-stsdk.vivoglobal.com^
 ||ru-comort-stsdk.vivoglobal.com^

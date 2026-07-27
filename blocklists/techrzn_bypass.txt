@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 27.07.2026 07:34
+Stand: 27.07.2026 22:17
 
 ||0.6gpaactivities.pce-cihazlari.com.tr^
 ||0.6gpaactivities.pulsaudio.ro^
@@ -4821,6 +4821,7 @@ Stand: 27.07.2026 07:34
 ||dns.controld.com^
 ||dns.cooluc.com^
 ||dns.corefusion.xyz^
+||dns.criena.net^
 ||dns.cryptomize.com^
 ||dns.crystalyx.net^
 ||dns.csaonline.de^
@@ -11842,6 +11843,7 @@ Stand: 27.07.2026 07:34
 ||odeum.zelator.cloud-ip.cc^
 ||ododep.ru^
 ||odoh-target-noads-se.alekberg.net^
+||odoh-target-se.alekberg.net^
 ||odoh-target.alekberg.net^
 ||odpi3ekk.com^
 ||odvr.nic.cz^

@@ -1,5 +1,5 @@
 ### TechRZN - SPAM ###
-Stand: 27.07.2026 07:34
+Stand: 27.07.2026 22:17
 
 ||0-2spk-us.basecamp.app^
 ||0-amfauth.firebaseapp.com^
@@ -76430,6 +76430,7 @@ Stand: 27.07.2026 07:34
 ||e-porno.pl^
 ||e-porno.pl.sportima.org^
 ||e-ranking.biz^
+||e-rezept-freising.ph^
 ||e-rezept.jetzt^
 ||e-rocommunity.com^
 ||e-scapegoat.net^
@@ -159813,6 +159814,7 @@ Stand: 27.07.2026 07:34
 ||www5.testosteron-rezeptfrei-bestellen.de^
 ||www6.alles-rezeptfrei.net^
 ||www6.rezeptfreiespotenzmittel.de^
+||www6.testosteron-rezeptfrei-bestellen.de^
 ||wwwaaaaaa.shop^
 ||wwwaaabbb.shop^
 ||wwwaaaccc.shop^

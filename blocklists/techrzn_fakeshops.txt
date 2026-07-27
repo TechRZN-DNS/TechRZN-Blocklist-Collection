@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 27.07.2026 07:34
+Stand: 27.07.2026 22:17
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -440,7 +440,6 @@ Stand: 27.07.2026 07:34
 ||alfonsoquintas.com^
 ||alfrescodurable.com^
 ||algexia.pro^
-||algo-robot.co^
 ||algopro.us^
 ||algorates.com^
 ||alheritiere-brennholz.com^
@@ -4262,6 +4261,7 @@ Stand: 27.07.2026 07:34
 ||dutztechh.shop^
 ||duzeces.com^
 ||dvdsblurays.com^
+||dvepare.com^
 ||dw-energieholz.de^
 ||dwellcollect.com^
 ||dwelldome.com^
@@ -5958,7 +5958,6 @@ Stand: 27.07.2026 07:34
 ||galeriemodehaus.com^
 ||galerieoswald.de^
 ||galeryfile.com^
-||galileofx.com^
 ||galleria-kaufhof.de^
 ||gallusgarten.com^
 ||gambystudios.com^
@@ -6181,7 +6180,6 @@ Stand: 27.07.2026 07:34
 ||gemstarz.company.site^
 ||generic4all-global.com^
 ||generic4allglobal.com^
-||genericdoctor.com^
 ||genericeupills.com^
 ||genericsbot.com^
 ||genericshop-247.eu^
@@ -6588,6 +6586,7 @@ Stand: 27.07.2026 07:34
 ||good-whiskey.com^
 ||goodbrushshop.com^
 ||goodensolarenergylimited.com^
+||goodersatzteileshop.com^
 ||goodguanvs.click^
 ||goodideatrade.com^
 ||goodiptvc.com^
@@ -9279,7 +9278,6 @@ Stand: 27.07.2026 07:34
 ||lbccnet.com^
 ||lbsbikes.com^
 ||lbslepe.de^
-||lbtinc.com^
 ||lbzdzx.com^
 ||lccontainersupply.com^
 ||lcfservice.com^
@@ -11793,7 +11791,6 @@ Stand: 27.07.2026 07:34
 ||ohssl.org^
 ||oikmvbuy.shop^
 ||oil-direkt.de^
-||oil-profits.com^
 ||oilexa.de^
 ||oilparadies.de^
 ||oilprofit.io^
@@ -12565,7 +12562,6 @@ Stand: 27.07.2026 07:34
 ||physicisti.com^
 ||pianidicotturascontato.com^
 ||pibok.de^
-||piccu.org^
 ||pickario.de^
 ||pickleballoffer.com^
 ||pickledfoodonline.com^
@@ -14682,7 +14678,6 @@ Stand: 27.07.2026 07:34
 ||sofotron.de^
 ||soft-handel.de^
 ||softdays-shop.de^
-||softelektro.com^
 ||softgarments.com^
 ||softgetpc.com^
 ||softritualsco.shop^
@@ -14832,7 +14827,6 @@ Stand: 27.07.2026 07:34
 ||souzaeoliveira.com.br^
 ||sovectoron-1-naatlasix-losolara.com^
 ||sovkonc.ept.se^
-||sowaswillichauch.de^
 ||soxfinancial.com^
 ||sozialversicherungsausweisportal.de^
 ||space-tennis.com^
@@ -17605,6 +17599,7 @@ Stand: 27.07.2026 07:34
 ||woodoclock.de^
 ||woofgear.de^
 ||wooflyx.com^
+||woofz.academy^
 ||woolyroots.com^
 ||wordmarkets.com^
 ||workerflix.com^

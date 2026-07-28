@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 27.07.2026 22:17
+Stand: 28.07.2026 06:28
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -416,6 +416,7 @@ Stand: 27.07.2026 22:17
 ||alairlenoir.com^
 ||albrechtmode.de^
 ||alderhofatelier.myshopify.com^
+||aldi-life.vip^
 ||aldobolsasmexico.com^
 ||aldofashion.com^
 ||aldonetherlands.com^
@@ -636,7 +637,6 @@ Stand: 27.07.2026 22:17
 ||ambestenkleider.com^
 ||ambia-beleuchtung.de^
 ||ambitbio.com^
-||amdestore.com^
 ||ameise.shop^
 ||amellys-damenboutique.de^
 ||amep-tech.de^
@@ -2207,8 +2207,13 @@ Stand: 27.07.2026 22:17
 ||bonvya.com^
 ||boohoo-shop.com^
 ||booking.com-id^
+||booking.security16.com^
 ||bookinginfo.at^
+||bookling.security16.com^
+||bookllng.security16.com^
 ||booklng.com-^
+||booklng.security16.com^
+||bookng.security16.com^
 ||bookrecommendations.org^
 ||bookspot.shop^
 ||bookssale.shop^
@@ -3498,7 +3503,6 @@ Stand: 27.07.2026 22:17
 ||daschachten.de^
 ||dasegelgeschaft.com^
 ||dasfurnilux.myshopify.com^
-||dash.fortissio-invest.com^
 ||dash.pocketuniverse.app^
 ||dashausimgarten.de^
 ||dashdeal.ch^
@@ -4083,6 +4087,7 @@ Stand: 27.07.2026 22:17
 ||domelus.de^
 ||dominguesequipamentos.com^
 ||domino-handel.de^
+||dompetaman.live^
 ||don-art.de^
 ||donalovehair.de^
 ||donate2camerafraud.com^
@@ -4154,6 +4159,7 @@ Stand: 27.07.2026 22:17
 ||dreamshome.co^
 ||dreamsleepz.de^
 ||dreamstee.com^
+||dreamstees.com^
 ||dreamwardrobe.online^
 ||dreamykissen.de^
 ||dreamyss.com^
@@ -4364,6 +4370,7 @@ Stand: 27.07.2026 22:17
 ||ebonylinebeauty.shop^
 ||ebooklyn.net^
 ||eburpat.com^
+||ebuy8.shop^
 ||ecco-management.com^
 ||eceq.org^
 ||echers.com^
@@ -4737,6 +4744,7 @@ Stand: 27.07.2026 22:17
 ||epic-dianjing-online.com^
 ||epicooler.checkoutera.com^
 ||epicoolerklima.shop^
+||epicplayloft.com^
 ||epoxyworkshop.de^
 ||epromarket.com^
 ||equi-shop.cz^
@@ -5739,6 +5747,7 @@ Stand: 27.07.2026 22:17
 ||freebitcoin.pages.dev^
 ||freedodo.xyz^
 ||freedom-5g.com^
+||freedom.invoiceid-bill.com^
 ||freedomhats.shop^
 ||freemanagement.de^
 ||freemobile24.de^
@@ -5877,6 +5886,7 @@ Stand: 27.07.2026 22:17
 ||fussheld.com^
 ||fusspflegegeseke.de^
 ||fustripother.com^
+||futhem.info^
 ||future-eco.com^
 ||future-promo.com^
 ||future-sales.com^
@@ -6624,6 +6634,7 @@ Stand: 27.07.2026 22:17
 ||gotrixa.de^
 ||gourmetecke.com^
 ||goussve.com.br^
+||gov.howgr.buzz^
 ||govern1.com^
 ||govmedcareers.com^
 ||gpautoshopimport.com^
@@ -8229,7 +8240,6 @@ Stand: 27.07.2026 22:17
 ||janusz-reichelt.de^
 ||japansmartmarketing.com^
 ||jardinovano.com^
-||jask.powerforxes.shop^
 ||jasper-lilac-van.glitch.me^
 ||jassieline.com^
 ||javanit.myshopify.com^
@@ -8490,7 +8500,6 @@ Stand: 27.07.2026 22:17
 ||kalkhofffahrrader.de^
 ||kaloszehunter.com^
 ||kaltesholz.de^
-||kalugastore.com^
 ||kama-kral.cz^
 ||kamagar-pro.online^
 ||kamagra-4you.cz^
@@ -9738,7 +9747,6 @@ Stand: 27.07.2026 22:17
 ||lovefransk.click^
 ||lovefreedom.net^
 ||loveideaet.click^
-||loveinbox.co.uk^
 ||loveisfreedomstore.com^
 ||loveknitzab.click^
 ||lovelierscent.com^
@@ -9806,6 +9814,7 @@ Stand: 27.07.2026 22:17
 ||luckyyise.com^
 ||lucya-ag.com^
 ||lucyloopshop.com^
+||lucysstyle.com^
 ||ludwigmaria.at^
 ||ludwigmode.de^
 ||luffglasses.com^
@@ -9912,7 +9921,6 @@ Stand: 27.07.2026 22:17
 ||m-b-grosshandel.de^
 ||m-sicherekauf.de^
 ||m-wanted.at^
-||m.coinexeu.vip^
 ||m.kaufjoy.de^
 ||m.lavonde.de^
 ||m.vbridal.com^
@@ -11200,12 +11208,14 @@ Stand: 27.07.2026 22:17
 ||navi21.com^
 ||navi21.ru^
 ||navi22.com^
+||navi22.ru^
 ||navi23.com^
 ||navi23.ru^
 ||navi24.com^
 ||navi24.ru^
 ||navi26.ru^
 ||navi27.ru^
+||navi28.ru^
 ||navi3.com^
 ||navi30.ru^
 ||navi33.com^
@@ -11220,6 +11230,7 @@ Stand: 27.07.2026 22:17
 ||navi56.com^
 ||navi59.ru^
 ||navi6.com^
+||navi65.com^
 ||navi66.ru^
 ||navi69.com^
 ||navi7.com^
@@ -11395,6 +11406,7 @@ Stand: 27.07.2026 22:17
 ||nexxco24.de^
 ||nflfanaticsstore.com^
 ||nger.de^
+||ngreditinaja.top^
 ||nguebelipharma.com^
 ||nhcol.com^
 ||nhltrikotde.com^
@@ -11436,6 +11448,7 @@ Stand: 27.07.2026 22:17
 ||ninoplay.de^
 ||nioekure.com^
 ||nip1.com^
+||nip15.com^
 ||nip17.com^
 ||nip2.com^
 ||nip24.com^
@@ -11443,6 +11456,7 @@ Stand: 27.07.2026 22:17
 ||nip28.com^
 ||nip29.com^
 ||nip3.com^
+||nip4.com^
 ||nip46.com^
 ||nip5.com^
 ||nip57.com^
@@ -13960,7 +13974,6 @@ Stand: 27.07.2026 22:17
 ||saycom.net^
 ||saynebeauty.com^
 ||saynthesis.com^
-||sbeat.info^
 ||sbikeparts.com^
 ||sbk-hoffmeyer.de^
 ||sbnaf.shop^
@@ -14110,6 +14123,7 @@ Stand: 27.07.2026 22:17
 ||seagulltrans.com^
 ||seak-store.de^
 ||sealedawaygaming.com^
+||seans24.com.pl^
 ||seasonsbeauty.de^
 ||seasonsofficial.com^
 ||sebagoantwerpen.com^
@@ -14124,6 +14138,7 @@ Stand: 27.07.2026 22:17
 ||secrettime.shop^
 ||secrity2redline.com^
 ||secure-canadian-pharmacy.net^
+||secure-freedom-mobile.com^
 ||secure-vr-online.de^
 ||secure.selure.de^
 ||secure.shopvio.co^
@@ -15088,6 +15103,7 @@ Stand: 27.07.2026 22:17
 ||stella-zurich.com^
 ||stellantis-workshop.com^
 ||stellapet.xyz^
+||stellara.de^
 ||stellennavigator.com^
 ||stelonira.com^
 ||stemecommunity.com^
@@ -16404,7 +16420,6 @@ Stand: 27.07.2026 22:17
 ||uabinvest.com^
 ||uaedisscount.com^
 ||uaeteampissei.team^
-||uange.shop^
 ||uastudioshop.com^
 ||ubadindies.top^
 ||ubereatse.com^
@@ -16511,6 +16526,7 @@ Stand: 27.07.2026 22:17
 ||unisonmen.de^
 ||uniswap.host^
 ||uniswap.ro^
+||uniswap2.space^
 ||uniswapagent.com^
 ||uniswapai.xyz^
 ||uniswapapp.xyz^

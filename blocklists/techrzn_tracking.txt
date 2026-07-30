@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 29.07.2026 06:32
+Stand: 30.07.2026 06:30
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -16162,6 +16162,7 @@ Stand: 29.07.2026 06:32
 ||airplanecoffee.com^
 ||ais.tt.omtrdc.net^
 ||aisgt.herbaloasis.com^
+||aisiteanalytics.com^
 ||aisvhv.fanaticwrestling.com^
 ||aitdi.serenityranchrecovery.com^
 ||aivali.openapp.link^
@@ -17674,6 +17675,7 @@ Stand: 29.07.2026 06:32
 ||analytics.sixtcarsales.de^
 ||analytics.sixtmiddleeast.com^
 ||analytics.skinit.com^
+||analytics.skroutz.gr^
 ||analytics.skyscanner.net^
 ||analytics.slashdotmedia.com^
 ||analytics.sleeknote.com^
@@ -17799,6 +17801,7 @@ Stand: 29.07.2026 06:32
 ||analytics.verizon.com^
 ||analytics.verizonwireless.com^
 ||analytics.veryfunnyads.net^
+||analytics.veygo.co^
 ||analytics.vgtimes.com^
 ||analytics.villagehouse.jp^
 ||analytics.vinevida.com^
@@ -27476,6 +27479,7 @@ Stand: 29.07.2026 06:32
 ||carp.spotonevent.no^
 ||carpets.mobilecarpetsandflooring.com^
 ||carphonewarehouselim.tt.omtrdc.net^
+||carpoolmatch.com^
 ||carpoolqueen.com^
 ||carreira.brunaeugenio.com.br^
 ||carreras.unisabana.edu.co^
@@ -29704,7 +29708,6 @@ Stand: 29.07.2026 06:32
 ||collect.youknowwhos.co.uk^
 ||collect2.allianz.ch^
 ||collectfront.nector.io^
-||collection.e-satisfaction.com^
 ||collection.mola.tv^
 ||collection.saga.co.uk^
 ||collections.equifax.com^
@@ -42105,6 +42108,7 @@ Stand: 29.07.2026 06:32
 ||fly.caljetelite.com^
 ||fly.ofernandoluz.com^
 ||fly.pid.edu.pl^
+||flyflightstar.com^
 ||flyingfish.whoisrepresented.org^
 ||flystranger.com^
 ||flznib.weblio.jp^
@@ -42198,6 +42202,7 @@ Stand: 29.07.2026 06:32
 ||foodsouvlakibar.openapp.link^
 ||foodstats.eurofins.de^
 ||foomjy.teacollection.com^
+||footballmedal.com^
 ||footlockeratmosjp.tt.omtrdc.net^
 ||footprint.frizznflame.com^
 ||forbes.realclearpolitics.com^
@@ -43751,6 +43756,7 @@ Stand: 29.07.2026 06:32
 ||globalinfoportal.com^
 ||globallearningsystems.actonservice.com^
 ||globalmed.actonservice.com^
+||globalorders.net^
 ||globalsolutions.risk.lexisnexis.com^
 ||globetelecom.tt.omtrdc.net^
 ||globo-ab.globo.com^
@@ -44506,6 +44512,7 @@ Stand: 29.07.2026 06:32
 ||goatcounter.gamecraft.it^
 ||goatcounter.irishbornchinese.com^
 ||goatcounter.repozitor.com^
+||goatcounter.ssp.sh^
 ||goatcounter.thedave.dev^
 ||goatcounter.thedave.me^
 ||goatcounter.thedave.photos^
@@ -44552,6 +44559,7 @@ Stand: 29.07.2026 06:32
 ||gonytours.tt.omtrdc.net^
 ||good.debbeq.com^
 ||good.iamandco.com^
+||goodfoodtours.com^
 ||goodlifefitnesscentr.tt.omtrdc.net^
 ||goods.preoponno.com^
 ||goodyear.tt.omtrdc.net^
@@ -71478,6 +71486,7 @@ Stand: 29.07.2026 06:32
 ||mlycqb.centrumkrzesel.pl^
 ||mm-api.agency^
 ||mm-sdk-analytics.api.cx.metamask.io^
+||mm-uxrv.com^
 ||mm.americandoorsupply.com^
 ||mm.bariaa.com^
 ||mm.melia.com^
@@ -72859,6 +72868,7 @@ Stand: 29.07.2026 06:32
 ||netspendcorp.tt.omtrdc.net^
 ||netstat.yunnan.cn^
 ||netsuite.tt.omtrdc.net^
+||netsurfconsult.com^
 ||nettokom-lp.information.nettokom.de^
 ||network-handle.com^
 ||network-ip.123pago-loginvc.doclogin.net.daraz.com^
@@ -73218,6 +73228,7 @@ Stand: 29.07.2026 06:32
 ||nlpd.technosurf.ch^
 ||nlpd.vaudvins.ch^
 ||nlpnh.superiorseating.com^
+||nltcs.idfnet.net^
 ||nltihf.fashiondays.ro^
 ||nltui.eflownutrition.com^
 ||nltzqx.autodoc.co.uk^
@@ -74428,6 +74439,7 @@ Stand: 29.07.2026 06:32
 ||officecloudimaginative.com^
 ||officedepot.tt.omtrdc.net^
 ||officeperceptioninstinct.com^
+||officestylist.com^
 ||officeworks.tt.omtrdc.net^
 ||offshoreassets.com^
 ||offshorecyclone.com^
@@ -76986,6 +76998,7 @@ Stand: 29.07.2026 06:32
 ||pixel.mtrcs.samba.tv^
 ||pixel.newscred.com^
 ||pixel.nine.com.au^
+||pixel.nudgify.com^
 ||pixel.patch.com^
 ||pixel.peaberryandleaf.co.uk^
 ||pixel.peek-cloppenburg.nl^
@@ -77429,6 +77442,7 @@ Stand: 29.07.2026 06:32
 ||po.ponant.com^
 ||pobawe.typology.com^
 ||pocketfaucet.com^
+||pocustrack.com^
 ||poczta-marketingpush.net.daraz.com^
 ||poczta.carte-gr.total.fr^
 ||poczta.happ.social^

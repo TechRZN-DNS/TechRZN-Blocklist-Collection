@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 30.07.2026 06:30
+Stand: 31.07.2026 06:45
 
 ||0.6gpaactivities.pce-cihazlari.com.tr^
 ||0.6gpaactivities.pulsaudio.ro^
@@ -3506,6 +3506,7 @@ Stand: 30.07.2026 06:30
 ||cloud.tezoi.com^
 ||cloud.xn--4gq62f52gdss.asia^
 ||cloud2.holzmannclouddns.de^
+||cloud25075.info^
 ||cloudbenders.fun^
 ||cloudbob.fr^
 ||cloudburstcdn.com^
@@ -3529,6 +3530,7 @@ Stand: 30.07.2026 06:30
 ||cloudssh.net^
 ||cloudssh.us^
 ||cloudtimecdn.com^
+||clouduhtpv.info^
 ||cloudvpn.ai^
 ||cloudvpn.pro^
 ||clovian.ru^
@@ -4809,7 +4811,6 @@ Stand: 30.07.2026 06:30
 ||dns.controld.com^
 ||dns.cooluc.com^
 ||dns.corefusion.xyz^
-||dns.criena.net^
 ||dns.cryptomize.com^
 ||dns.crystalyx.net^
 ||dns.csaonline.de^

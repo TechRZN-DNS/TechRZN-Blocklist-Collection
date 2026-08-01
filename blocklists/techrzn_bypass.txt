@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 31.07.2026 06:45
+Stand: 01.08.2026 06:30
 
 ||0.6gpaactivities.pce-cihazlari.com.tr^
 ||0.6gpaactivities.pulsaudio.ro^
@@ -2091,6 +2091,7 @@ Stand: 31.07.2026 06:45
 ||atelier.alica.idv.tw^
 ||atill.giize.com^
 ||atlantic.dyn1.de^
+||atlast9hdp.info^
 ||atlasvpn.com^
 ||atlasvpn.net^
 ||atmyhouse.bangerade.us^
@@ -4811,6 +4812,7 @@ Stand: 31.07.2026 06:45
 ||dns.controld.com^
 ||dns.cooluc.com^
 ||dns.corefusion.xyz^
+||dns.criena.net^
 ||dns.cryptomize.com^
 ||dns.crystalyx.net^
 ||dns.csaonline.de^
@@ -7216,7 +7218,9 @@ Stand: 31.07.2026 06:45
 ||flowvpn.com^
 ||flrnneprlkqiz.online^
 ||fluoutbreaks.screenclip.net^
+||flux3ni5o.info^
 ||fluxenta.click^
+||fluxmxd18.info^
 ||flxzeiow.com^
 ||flyall.me^
 ||flycatvipaff.cc^
@@ -9397,6 +9401,7 @@ Stand: 31.07.2026 06:45
 ||joinfufeitizi.com^
 ||joinguoneijichang.com^
 ||joinhaita.com^
+||joinmassive.com^
 ||joinyongjiumianfeijichang.com^
 ||joldoojv.com^
 ||jolmira.ru^
@@ -10862,6 +10867,7 @@ Stand: 31.07.2026 06:45
 ||mikumovieispeak.global.ssl.fastly.net^
 ||milanavpn.com^
 ||milanopuma.ir^
+||milo1fmyz.info^
 ||milou.cc^
 ||miltran.ru^
 ||mimetic.luminiferous.abrdns.com^
@@ -12190,6 +12196,7 @@ Stand: 31.07.2026 06:45
 ||pebdbvi58gbc.absq.ch^
 ||peekproxy.com^
 ||peekvpn.online^
+||peer2profit.com^
 ||peer2profit.in^
 ||peets.pro^
 ||peiqianjc.com^

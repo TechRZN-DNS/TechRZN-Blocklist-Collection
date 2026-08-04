@@ -1,5 +1,5 @@
 ### TechRZN - SPAM ###
-Stand: 03.08.2026 07:30
+Stand: 04.08.2026 06:29
 
 ||0-2spk-us.basecamp.app^
 ||0-amfauth.firebaseapp.com^
@@ -7354,6 +7354,7 @@ Stand: 03.08.2026 07:30
 ||admin.barmansbeerclub.co.uk^
 ||admin.blog.viagra-rezeptfrei.de^
 ||admin.cana.net.br^
+||admin.cannabis-rezeptfrei.de^
 ||admin.cannabisrezeptfrei.de^
 ||admin.click59-pro.com^
 ||admin.ctkyb.com^
@@ -130778,6 +130779,7 @@ Stand: 03.08.2026 07:30
 ||rezeptfreie-schlaftabletten.com^
 ||rezeptfreie-tabletten.nl^
 ||rezeptfreie-tabletten.nl.africa50.net^
+||rezeptfreiearznei.de^
 ||rezeptfreiearzneimittel.de^
 ||rezeptfreiebestellung.de^
 ||rezeptfreiemedikamente.ch^

@@ -1,5 +1,5 @@
 ### TechRZN - SPAM ###
-Stand: 04.08.2026 06:29
+Stand: 05.08.2026 06:29
 
 ||0-2spk-us.basecamp.app^
 ||0-amfauth.firebaseapp.com^
@@ -109763,7 +109763,6 @@ Stand: 04.08.2026 06:29
 ||mailgun.net^
 ||mailgw.medikamenterezeptfrei.biz^
 ||mailhost.medikamenterezeptfrei.biz^
-||mailin.fr^
 ||mailin.medikamenterezeptfrei.biz^
 ||mailing-api1.sms-timing.com^
 ||mailling.kitoslime.com^
@@ -159278,6 +159277,7 @@ Stand: 04.08.2026 06:29
 ||wildcard.rezeptfrei-bestellung.de^
 ||wildcard.rezeptfrei.ch^
 ||wildcard.rezeptfreiearznei.de^
+||wildcard.rezeptfreikaufen.de^
 ||wildcard.scabioralrezeptfrei.space^
 ||wildcard.viagra-rezeptfrei-kaufen.de^
 ||wildcrazylifeof7.com^

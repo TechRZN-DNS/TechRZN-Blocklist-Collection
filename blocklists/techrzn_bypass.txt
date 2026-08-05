@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 04.08.2026 06:29
+Stand: 05.08.2026 06:29
 
 ||0.6gpaactivities.pce-cihazlari.com.tr^
 ||0.6gpaactivities.pulsaudio.ro^
@@ -1658,7 +1658,6 @@ Stand: 04.08.2026 06:29
 ||ajh.college.cdn.cloudflare.net^
 ||ajh.eats-logi.lol^
 ||ajh.his.strangled.net^
-||ajh.quest^
 ||ajh.quest.cdn.cloudflare.net^
 ||ajh.wtf^
 ||ajhmath.org^
@@ -2026,7 +2025,6 @@ Stand: 04.08.2026 06:29
 ||art.lexvoip.com^
 ||art.sunilamaharjan.com.np^
 ||artclass.site^
-||artemis.bar^
 ||arthi.rajmohan.nowhearthis.co.uk^
 ||artiom.made.this.h0stname.net^
 ||artistic-education.eminescusm.ro^
@@ -2628,7 +2626,6 @@ Stand: 04.08.2026 06:29
 ||betherethe.sametimetomorrow.net^
 ||betternet-backend.herokuapp.com^
 ||betternet.co^
-||betterproxy.net^
 ||betterrh.lhost.dev^
 ||bettervpn.com^
 ||bettervpn.help^
@@ -2704,7 +2701,6 @@ Stand: 04.08.2026 06:29
 ||bizdomain.store^
 ||bjcgbc.cn^
 ||bjoqdfsa.com^
-||bjylfgrz.com^
 ||bkbvkizb.com^
 ||bkfpidjc.com^
 ||bkptusjl.cc^
@@ -3659,6 +3655,7 @@ Stand: 04.08.2026 06:29
 ||core.atom.sv-italia.it^
 ||core.goal.challengepursuit.com^
 ||core.mind.corega.ro^
+||core6g25r.info^
 ||corecloak.com^
 ||coreenglish.emili.com^
 ||corehaze.cfd^
@@ -7579,7 +7576,6 @@ Stand: 04.08.2026 06:29
 ||garlandisd.nseuropa.org^
 ||gas.education^
 ||gatcha.org^
-||gate.blackboxdynamics.io^
 ||gatern.info^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
@@ -16711,6 +16707,7 @@ Stand: 04.08.2026 06:29
 ||workdigi.com^
 ||workers.clean.abrdns.com^
 ||workhost.eu^
+||workinghard.me^
 ||workingvpn.com^
 ||workkidney.com^
 ||workproxy.net^
@@ -17387,6 +17384,7 @@ Stand: 04.08.2026 06:29
 ||zend2.com^
 ||zendproxy.com^
 ||zenfario.ru^
+||zenkk0cd.info^
 ||zenmate.com^
 ||zenmatevpn.help^
 ||zenovus.space^

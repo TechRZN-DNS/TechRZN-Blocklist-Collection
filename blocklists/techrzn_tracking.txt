@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 05.08.2026 06:29
+Stand: 06.08.2026 06:32
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -18829,6 +18829,7 @@ Stand: 05.08.2026 06:29
 ||analytics.mattresswarehouse.com^
 ||analytics.mawashico.com^
 ||analytics.maxroll.gg^
+||analytics.maxx53.com^
 ||analytics.mc500.info^
 ||analytics.mcw.nz^
 ||analytics.media-proweb.de^
@@ -58017,6 +58018,7 @@ Stand: 05.08.2026 06:29
 ||ektron.net.daraz.com^
 ||ekuhv.wearpepper.com^
 ||el.quizlet.com^
+||el.siglo.mx^
 ||ela-3-tnk.com^
 ||ela1.bankofscotland.co.uk^
 ||elade.mensuas.com^
@@ -60946,6 +60948,7 @@ Stand: 05.08.2026 06:29
 ||engagefront.meteomedia.com^
 ||engagefront.theweathernetwork.com^
 ||engagement-tracker.net.daraz.com^
+||engagement.coremedia.cloud^
 ||engagement.elsevierlimited.tt.omtrdc.net^
 ||engagement.feedly.com^
 ||engagemetrics.cisco.com^
@@ -63616,6 +63619,7 @@ Stand: 05.08.2026 06:29
 ||events.ispotaba.com^
 ||events.jacksonandsons.com^
 ||events.jotform.com^
+||events.julephosting.de^
 ||events.just-eat.ch^
 ||events.just-eat.co.uk^
 ||events.just-eat.dk^
@@ -64878,6 +64882,7 @@ Stand: 05.08.2026 06:29
 ||fangfeeling.com^
 ||fangshengdachuanqisfshenshebanben-sandbox-elb.tt.omtrdc.net^
 ||fanina-tools.tt.omtrdc.net^
+||fanless.net^
 ||fannie.herbalife.tt.omtrdc.net^
 ||fanniemae-emea.glbext.tt.omtrdc.net^
 ||fanout-on-write-cache-async.tt.omtrdc.net^
@@ -68260,7 +68265,6 @@ Stand: 05.08.2026 06:29
 ||fpt.inxinternational.com^
 ||fpt.justwood.dk^
 ||fpt.kitchn.dk^
-||fpt.microsoft.com^
 ||fpt.norton.com^
 ||fpt.simplychocolate.dk^
 ||fpt.simplychocolatecph.com^
@@ -84806,6 +84810,7 @@ Stand: 05.08.2026 06:29
 ||idscar31.net.daraz.com^
 ||idsfq.katespade.de^
 ||idsmarketingpush.net.daraz.com^
+||idsmodules.com^
 ||idsod.catholic.com^
 ||idsqb.evanalexandergrooming.com^
 ||idss.adepthvacrsolutions.com^
@@ -109940,6 +109945,7 @@ Stand: 05.08.2026 06:29
 ||metricas.wbeduca.com.br^
 ||metricas.zionerp.com.br^
 ||metriccontroller.partner.net.daraz.com^
+||metricfresh.com^
 ||metricrgsdocker.net.daraz.com^
 ||metrics-a.wbx2.com^
 ||metrics-api.librato.com^
@@ -118653,6 +118659,7 @@ Stand: 05.08.2026 06:29
 ||pa.lyonne.fr^
 ||pa.opqr.co^
 ||pa.parcasterix.fr^
+||pa.pinpoll.com^
 ||pa.qsr.tt.omtrdc.net^
 ||pa.serrechevalier-pass.com^
 ||pa.skipass-grand-massif.com^
@@ -120340,6 +120347,7 @@ Stand: 05.08.2026 06:29
 ||party.oewheelsllc.com^
 ||party.partyhalli.fi^
 ||party.petland.dk^
+||partycharge.com^
 ||partyparty.tt.omtrdc.net^
 ||parves.doctorshopbd.com^
 ||pasco.actonservice.com^
@@ -141667,6 +141675,7 @@ Stand: 05.08.2026 06:29
 ||snowflake.tt.omtrdc.net^
 ||snowman.odencat.com^
 ||snowmentor.com^
+||snowpeaksoftware.com^
 ||snowplowjs.darwin.cx^
 ||snprxx.wwfmarket.com^
 ||snptrk.com^
@@ -141815,6 +141824,7 @@ Stand: 05.08.2026 06:29
 ||solosduetstrios.com^
 ||solovis.actonservice.com^
 ||solstice.ibotta.com^
+||solsticeblack.com^
 ||solucionesreales.americanexpress.es^
 ||solution.agc-chemicals.com^
 ||solution.resonac.com^
@@ -142326,6 +142336,7 @@ Stand: 05.08.2026 06:29
 ||soneticscorp.actonservice.com^
 ||songs.newdelica.com^
 ||songsterritory.com^
+||sonicsessions.net^
 ||sonne.helgahilft.com^
 ||sono.filhosehabitos.com.br^
 ||sonoow.ecco-verde.pl^
@@ -156490,6 +156501,7 @@ Stand: 05.08.2026 06:29
 ||stats.exploratv.ca^
 ||stats.extendedstayamerica.com^
 ||stats.extendedstayhotels.com^
+||stats.externulls.com^
 ||stats.extramilefloorcare.com^
 ||stats.eyehelp.co^
 ||stats.fabiofranchino.com^
@@ -161006,7 +161018,6 @@ Stand: 05.08.2026 06:29
 ||target.zinia.de^
 ||targetab.metrobyt-mobile.com^
 ||targetemsecure.blob.core.windows.net^
-||targetfax.com^
 ||targeting.focas.jp^
 ||targeting.voxus.tv^
 ||targeting.washpost.nile.works^

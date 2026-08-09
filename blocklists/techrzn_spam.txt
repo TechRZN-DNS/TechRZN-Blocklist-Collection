@@ -1,5 +1,5 @@
 ### TechRZN - SPAM ###
-Stand: 08.08.2026 04:58
+Stand: 09.08.2026 05:06
 
 ||0-2spk-us.basecamp.app^
 ||0-amfauth.firebaseapp.com^
@@ -74204,6 +74204,7 @@ Stand: 08.08.2026 04:58
 ||dev.pornonions.com^
 ||dev.pornx.hu^
 ||dev.postcovidneuropsy.com^
+||dev.potenzmittel-rezeptfrei.site^
 ||dev.prachuapkhirirunbytipco.com^
 ||dev.proxy.tableauanalyticsextensions.com^
 ||dev.ptp.brown.edu^
@@ -115973,7 +115974,6 @@ Stand: 08.08.2026 04:58
 ||netchina.org^
 ||netcup-offer.eu^
 ||netcup.com^
-||netcup.de^
 ||netduokj.com^
 ||neteczane.com^
 ||netemps.com^
@@ -129199,7 +129199,6 @@ Stand: 08.08.2026 04:58
 ||ratds.net^
 ||rate-frenchtouch29-selfie.hyxzm.digital^
 ||rate-tequila31-selfie.ohecidingunfob.ru.com^
-||rate.netcup.de^
 ||ratemalls.com.blackstonelegalfellowship.com^
 ||ratenkredit.jetzt^
 ||ratesrot.com^

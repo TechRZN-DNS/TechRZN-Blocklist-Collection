@@ -1,5 +1,5 @@
 ### TechRZN - SPAM ###
-Stand: 11.08.2026 05:10
+Stand: 12.08.2026 05:38
 
 ||0-2spk-us.basecamp.app^
 ||0-amfauth.firebaseapp.com^
@@ -42174,6 +42174,7 @@ Stand: 11.08.2026 05:10
 ||chat.nocaptrade.xyz^
 ||chat.pattern-pstl1.site^
 ||chat.porno-chat.live^
+||chat.potenzmittel-rezeptfrei.site^
 ||chat.pro-activprofit.site^
 ||chat.profitactiv1.top^
 ||chat.programpro.site^
@@ -64826,6 +64827,7 @@ Stand: 11.08.2026 05:10
 ||cv870.aringames.com^
 ||cv8ymg.webwave.dev^
 ||cv94230.tmweb.ru^
+||cv94mmdonii2o643f980.potenzmittel-rezeptfrei.site^
 ||cv95968.tmweb.ru^
 ||cvaklhre34kj.shop^
 ||cvauguvlre.ctn.https.multi1.pr.v2.gclb.gtr.certsbridge.com^
@@ -100311,6 +100313,7 @@ Stand: 11.08.2026 05:10
 ||kamagaya-kirarihall.jp^
 ||kamagayashopping.com^
 ||kamagra-rezeptfrei.com^
+||kamagra-rezeptfrei.com.ph^
 ||kamagra-rezeptfrei.net^
 ||kamagra-rezeptfrei.org^
 ||kamagra-rezeptfrei.site^

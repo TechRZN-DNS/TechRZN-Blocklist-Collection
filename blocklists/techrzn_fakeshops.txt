@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 12.08.2026 05:38
+Stand: 13.08.2026 05:41
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -31,6 +31,8 @@ Stand: 12.08.2026 05:38
 ||airup-romania.com^
 ||airupsrbija.com^
 ||aizipai.cn^
+||akatee.com^
+||aldi-life.vip^
 ||alindflepkaty14.pages.dev^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||allcars.cn^
@@ -150,7 +152,6 @@ Stand: 12.08.2026 05:38
 ||cityofdream.co.uk^
 ||ckkebt.shop^
 ||cluckergifts.ecwid.com^
-||cma88.vip^
 ||cmoboy.com^
 ||cognatesyringe.com^
 ||coinaps.com^
@@ -161,7 +162,6 @@ Stand: 12.08.2026 05:38
 ||containably.com^
 ||coolest3d.com^
 ||coolestpod.com^
-||coolztz.com^
 ||copymyfx.com^
 ||corg.co^
 ||couponxoo.com^
@@ -330,7 +330,6 @@ Stand: 12.08.2026 05:38
 ||glitchy.go2cloud.org^
 ||gload.info^
 ||globalvisacorp.com^
-||glousism.co.in^
 ||goglle.com^
 ||goindiavisa.com^
 ||gossvibe.com^
@@ -461,6 +460,7 @@ Stand: 12.08.2026 05:38
 ||linkshe.com^
 ||linostee.com^
 ||lisabuddy.com^
+||lisianstore.com^
 ||litcomplex.com^
 ||look-like-star.myshopify.com^
 ||lozly.com^
@@ -629,6 +629,7 @@ Stand: 12.08.2026 05:38
 ||phgliders.com^
 ||philsshorthairorientalkittens.com^
 ||phirussacmush.net^
+||phototan-erneueren.com^
 ||pinjamanelit.top^
 ||pinjamanrupiah.xyz^
 ||pinjamteman.top^
@@ -664,6 +665,8 @@ Stand: 12.08.2026 05:38
 ||rjgriffith.com^
 ||robalmeister.workers.dev^
 ||robinmooreband.com^
+||robuxmenu.vip^
+||robuxreward.live^
 ||rockchief.com^
 ||rosateeshop.com^
 ||royaldecorhome.store^
@@ -771,7 +774,6 @@ Stand: 12.08.2026 05:38
 ||tartannewzealand.myshopify.com^
 ||tatatowers.com^
 ||tbao684tryo.com^
-||tdgrop168.vip^
 ||teezill.com^
 ||telegramweb.vercel.app^
 ||telemarktalk.com^
@@ -945,6 +947,7 @@ Stand: 12.08.2026 05:38
 ||zerorolex.com^
 ||zerowasteinitiative.com^
 ||zhongda.info^
+||zillify.cfd^
 ||zlibrary.to^
 ||zobaczfilm.com^
 ||zolrqw.palatlaldate.com^

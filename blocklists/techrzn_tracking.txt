@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 12.08.2026 05:38
+Stand: 13.08.2026 05:41
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -31066,6 +31066,7 @@ Stand: 12.08.2026 05:38
 ||catfish.pressure.cooking^
 ||catfish.sofatido.ch^
 ||catfood.mikipetstore.com^
+||catfront.dianping.com^
 ||cathayunitedbank.tt.omtrdc.net^
 ||catlanguage.net^
 ||catng.crateandbarrel.com^
@@ -41267,6 +41268,7 @@ Stand: 12.08.2026 05:38
 ||data.gxv.test.ajo.adobe.com^
 ||data.habert-sa.fr^
 ||data.haendlerbund.de^
+||data.hailuo.ai^
 ||data.hairovesca.com^
 ||data.halcyontimber.co.uk^
 ||data.happy-radio.ch^
@@ -83602,6 +83604,7 @@ Stand: 12.08.2026 05:38
 ||hello.trailblazers.com^
 ||hello.wellocution.com^
 ||hellogain.actonservice.com^
+||hellospur.com^
 ||hellounbox.com^
 ||help-00-bootstrap.net.daraz.com^
 ||help-berndpulchmedotcom-partner-pay.net.daraz.com^
@@ -84426,6 +84429,7 @@ Stand: 12.08.2026 05:38
 ||humanlineage.tt.omtrdc.net^
 ||humas-protokol.tt.omtrdc.net^
 ||humayun.meowmesh.com^
+||humbleroots.net^
 ||humdrumhobbies.com^
 ||humdrumtouch.com^
 ||humourspot.com^
@@ -89217,6 +89221,7 @@ Stand: 12.08.2026 05:38
 ||kariston.anunciojuridico.com.br^
 ||karlschumacher.actonservice.com^
 ||karo.karomallonline.com^
+||kartbarriersystem.com^
 ||kartik.devishetty.com^
 ||kartik.devishetty.net^
 ||kascb.jamsworld.com^
@@ -108672,6 +108677,7 @@ Stand: 12.08.2026 05:38
 ||maschine.bengs-modellbau.de^
 ||maserati.info^
 ||mass1soma.com^
+||masseurexpress.com^
 ||massivemark.com^
 ||massmutual.actonservice.com^
 ||master.cifraclub.com.br^
@@ -114768,6 +114774,7 @@ Stand: 12.08.2026 05:38
 ||neck6bake.com^
 ||necnam.hendi.pl^
 ||necsii.ivet.pl^
+||nectarbytes.com^
 ||ned.themarketingscience.com^
 ||nedasco.actonservice.com^
 ||neducationmanagementl.tt.omtrdc.net^
@@ -126264,6 +126271,8 @@ Stand: 12.08.2026 05:38
 ||rulrdow.solawave.co^
 ||rum-collector.leaderint.workers.dev^
 ||rum-ingress-coralogix.com^
+||rum-openway.guance.com^
+||rum.aliyuncs.com^
 ||rum.api.intuit.com^
 ||rum.azion.com^
 ||rum.azioncdn.net^
@@ -141787,6 +141796,7 @@ Stand: 12.08.2026 05:38
 ||softbankbtob.tt.omtrdc.net^
 ||softdrinks.euvou.events^
 ||softmart.actonservice.com^
+||softscales.com^
 ||softtrack08.com^
 ||software.hrblock.tt.omtrdc.net^
 ||softwareag.tt.omtrdc.net^
@@ -142631,6 +142641,7 @@ Stand: 12.08.2026 05:38
 ||sports-twtelecom.azure.net.daraz.com^
 ||sports.mboxedge37-02.tt.omtrdc.net^
 ||sports.rgsdocker.net.daraz.com^
+||sportsclubstat.com^
 ||sportsnearby.com^
 ||sportyforum.com^
 ||spotlersearchanalytics.com^
@@ -167336,6 +167347,7 @@ Stand: 12.08.2026 05:38
 ||tracking.candiceverbist.be^
 ||tracking.capitalbank.jo^
 ||tracking.capterra.com^
+||tracking.carbonatixaudio.com^
 ||tracking.care.essentiahealth.org^
 ||tracking.care.muschealth.org^
 ||tracking.care.salinasvalleyhealth.com^
@@ -169512,6 +169524,7 @@ Stand: 12.08.2026 05:38
 ||treat-sponsors-images.tt.omtrdc.net^
 ||treating-pain-sciatica.olgan2.tt.omtrdc.net^
 ||treatment.grammarly.com^
+||treatmentforgout.com^
 ||treatoceans.com^
 ||treats-api.consent1.tt.omtrdc.net^
 ||treats-guarantee.tt.omtrdc.net^
@@ -170530,6 +170543,7 @@ Stand: 12.08.2026 05:38
 ||trustid.actonservice.com^
 ||trustisimportant.fun^
 ||trustmarknational.tt.omtrdc.net^
+||trustmodule.com^
 ||trvi.vivavivafest.it^
 ||trvju.servicedogs.com^
 ||trvonu.k-manga.jp^

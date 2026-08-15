@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 14.08.2026 05:38
+Stand: 15.08.2026 04:32
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -430,6 +430,7 @@ Stand: 14.08.2026 05:38
 ||alfonsoquintas.com^
 ||alfrescodurable.com^
 ||algexia.pro^
+||algo-robot.co^
 ||algopro.us^
 ||algorates.com^
 ||alheritiere-brennholz.com^
@@ -1478,6 +1479,7 @@ Stand: 14.08.2026 05:38
 ||be-aetlcnshop.com^
 ||beaccustomed.com^
 ||beachitem.com^
+||beachwalkbali.com^
 ||beambead.com^
 ||beamdeals.de^
 ||beatricesavoy.de^
@@ -1958,7 +1960,6 @@ Stand: 14.08.2026 05:38
 ||bitcoin-everest-ai.fr^
 ||bitcoin-pharmacy.com^
 ||bitcoin-revolution.org^
-||bitcoin-up.io^
 ||bitcoin-xact.fr^
 ||bitcoinarchon.com^
 ||bitcoineer.ai^
@@ -3623,6 +3624,7 @@ Stand: 14.08.2026 05:38
 ||deinenergieplan.de^
 ||deinetierliebe.de^
 ||deinhandwerkershop.de^
+||deini.com^
 ||deinliebesmensch.de^
 ||deinlieblingstier.co^
 ||deinmodetrends.com^
@@ -4149,6 +4151,7 @@ Stand: 14.08.2026 05:38
 ||dutztechh.shop^
 ||duzeces.com^
 ||dvdsblurays.com^
+||dvepare.com^
 ||dw-energieholz.de^
 ||dwellcollect.com^
 ||dwelldome.com^
@@ -8270,7 +8273,6 @@ Stand: 14.08.2026 05:38
 ||kamagra.at^
 ||kamagra.guru^
 ||kamagra.hr^
-||kamagra.io^
 ||kamagra.net^
 ||kamagra.trade^
 ||kamagra1.cz^
@@ -9253,7 +9255,6 @@ Stand: 14.08.2026 05:38
 ||linaromney.za.com^
 ||linashop.de^
 ||linavellegoods.com^
-||lindagraham-mft.net^
 ||lindbauer.com^
 ||lindbergmode.de^
 ||linde-gmbh.com^
@@ -10520,7 +10521,6 @@ Stand: 14.08.2026 05:38
 ||monthlyi.com^
 ||montivo.de^
 ||montmode.de^
-||montrereplique.to^
 ||monvada.de^
 ||moodcheerful.com^
 ||moodlily.de^
@@ -11831,7 +11831,6 @@ Stand: 14.08.2026 05:38
 ||outletjoma.com^
 ||outletlivingstore.com^
 ||outletnewin.com^
-||outletpc.de^
 ||outletpickleball.com^
 ||outletrevel.com^
 ||outletsadv.com^
@@ -13440,6 +13439,7 @@ Stand: 14.08.2026 05:38
 ||salomondeutschlandsale.de^
 ||salomonosterreich.at^
 ||salomonoutletgermany.de^
+||salomonoutletireland.com^
 ||salomonoutletstoresusa.com^
 ||salomonportugal.com^
 ||salomons.co.at^
@@ -14365,7 +14365,6 @@ Stand: 14.08.2026 05:38
 ||souzaeoliveira.com.br^
 ||sovectoron-1-naatlasix-losolara.com^
 ||sovkonc.ept.se^
-||sowaswillichauch.de^
 ||soxfinancial.com^
 ||sozialversicherungsausweisportal.de^
 ||spacebuds.de^
@@ -14496,6 +14495,7 @@ Stand: 14.08.2026 05:38
 ||spotdiamonds.com^
 ||spotgee.com^
 ||spotiifyprimesnova.ct.ws^
+||spotsound.fr^
 ||spowo.at^
 ||sppulsar.shop^
 ||sprachgenie.at^
@@ -15787,6 +15787,7 @@ Stand: 14.08.2026 05:38
 ||true-ph.com^
 ||true-tab.com^
 ||true-weightlose.com^
+||truedrugz.com^
 ||truefitposture.com^
 ||trueglow.de^
 ||truenorthoptions.com^
@@ -15803,6 +15804,7 @@ Stand: 14.08.2026 05:38
 ||trupharmacbd.com^
 ||trust-immo.com^
 ||trusted-help.com^
+||trusted-online-generic.com^
 ||trustedallovertheworld.com^
 ||trustedconsumerreview.online^
 ||trustedmedstore24.com^

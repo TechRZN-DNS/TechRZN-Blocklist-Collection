@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 14.08.2026 05:38
+Stand: 15.08.2026 04:32
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -36652,7 +36652,6 @@ Stand: 14.08.2026 05:38
 ||curated.fieldtest.cc^
 ||curatedtea.com^
 ||curbminers.com^
-||curbneon.com^
 ||curcubeu.fixmania.ro^
 ||cure.curedpharmacy.com^
 ||cure.trueface.org^
@@ -86886,6 +86885,7 @@ Stand: 14.08.2026 05:38
 ||ingerlis.doudare.no^
 ||ingersollrand.tt.omtrdc.net^
 ||ingest.coincodex.com^
+||ingest.in.signoz.cloud^
 ||ingest.make.rvapps.io^
 ||ingest.make.rvohealth.com^
 ||ingest.metzler-electronics.com^
@@ -124035,6 +124035,7 @@ Stand: 14.08.2026 05:38
 ||quicklyedit.com^
 ||quickpcfixer.click^
 ||quicksandear.com^
+||quicktattoo.com^
 ||quicktrick.net^
 ||quidel.actonservice.com^
 ||quietknowledge.com^
@@ -171698,6 +171699,7 @@ Stand: 14.08.2026 05:38
 ||twisted-client-5.tt.omtrdc.net^
 ||twistedmidgets.promo.tt.omtrdc.net^
 ||twistloss.com^
+||twisty.net^
 ||twit1.dtc.tt.omtrdc.net^
 ||twitaapi.api.tt.omtrdc.net^
 ||twitch-devops-ns2.viviotech.net.daraz.com^
@@ -179188,6 +179190,7 @@ Stand: 14.08.2026 05:38
 ||ve.velocityclinical.com^
 ||ve3.gds.tt.omtrdc.net^
 ||vebed.tennibot.com^
+||vectorshirt.com^
 ||vedznh.cumhuriyet.com.tr^
 ||veecheesy.southlandorganics.com^
 ||veersantrealestate.dubaii.me^
@@ -180027,6 +180030,7 @@ Stand: 14.08.2026 05:38
 ||violet.united.tt.omtrdc.net^
 ||violet2.cmhprod3.k8s.tt.omtrdc.net^
 ||violeta-notification.tt-stage1.omtrdc.net^
+||violetdemise.com^
 ||vion.mboxedge32-alb.tt.omtrdc.net^
 ||viop.leavenworth.tt.omtrdc.net^
 ||vip-00d70000000motieas.net.daraz.com^
@@ -180940,6 +180944,7 @@ Stand: 14.08.2026 05:38
 ||volume.vytalise.co.uk^
 ||volume.vytalise.eu^
 ||volumeitunesprogram.tt-qe2.omtrdc.net^
+||volumesystem.com^
 ||volunteergateway-qat.its.tt.omtrdc.net^
 ||volunteering.net.daraz.com^
 ||volunteers-res.tt.omtrdc.net^
@@ -182050,6 +182055,7 @@ Stand: 14.08.2026 05:38
 ||waffle-devs.tt.omtrdc.net^
 ||waffle-stage.tt.omtrdc.net^
 ||waffle.testing.tt.omtrdc.net^
+||wafflemakers.net^
 ||wafflepremera.tt.omtrdc.net^
 ||waffles-k.tt.omtrdc.net^
 ||waffles.cohnacrylics.com^
@@ -184340,6 +184346,7 @@ Stand: 14.08.2026 05:38
 ||webpage.proximusnv.tt.omtrdc.net^
 ||webpage.pultegroup.tt.omtrdc.net^
 ||webpage.state.co.nz^
+||webpagekit.com^
 ||webpagetest.synopsysinc.tt.omtrdc.net^
 ||webpatnercgipp-ns2.twtelecom.net.daraz.com^
 ||webpayments-service.adminfo-vs.accountart-of-falco.tt-qe-ci1.omtrdc.net^
@@ -184838,6 +184845,7 @@ Stand: 14.08.2026 05:38
 ||westpublishingcorpor.tt.omtrdc.net^
 ||westservicesfindlaw.tt.omtrdc.net^
 ||westservicesinc.tt.omtrdc.net^
+||westsideglobe.com^
 ||weswzb.technisat.com^
 ||wev.greenrkitchen.site^
 ||wev.naturalmpure.site^

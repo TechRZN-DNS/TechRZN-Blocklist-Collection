@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 19.08.2026 04:38
+Stand: 20.08.2026 04:38
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -24960,6 +24960,7 @@ Stand: 19.08.2026 04:38
 ||ballymoregroup.actonservice.com^
 ||balneario.cursodetti.com.br^
 ||balneariopicarras.stage.wix.net.daraz.com^
+||balsamicpixels.com^
 ||baltics.promo.skf.com^
 ||bamarketin.net.daraz.com^
 ||bambee.actonservice.com^
@@ -25484,6 +25485,7 @@ Stand: 19.08.2026 04:38
 ||beatselectronicsllc.tt.omtrdc.net^
 ||beaumont.actonservice.com^
 ||beautifulrope.com^
+||beautylulu.com^
 ||beaver.bluebunnypaper.com^
 ||beaver.brush.ninja^
 ||beaver.livechatlabs.com^
@@ -27660,6 +27662,7 @@ Stand: 19.08.2026 04:38
 ||bigdata.clarin.com^
 ||bigfishapparel.com^
 ||biggerbling.com^
+||bighornbasin.net^
 ||bigleapforward.org^
 ||biglots.tt.omtrdc.net^
 ||bigpond.v3.ns.emailvision.net.daraz.com^
@@ -43584,6 +43587,7 @@ Stand: 19.08.2026 04:38
 ||cockpit-sirius.amtrakdigital.tt.omtrdc.net^
 ||cockpitdcbaima.carte-gr.total.fr^
 ||cockroach.head4work.com.au^
+||cocoacafes.com^
 ||cocobruno.net.daraz.com^
 ||cocohanastage-lagu123.net.daraz.com^
 ||cocohanastage-stagingpdfslink.net.daraz.com^
@@ -51250,6 +51254,7 @@ Stand: 19.08.2026 04:38
 ||damselfly.vegenook.com^
 ||dana8herb.com^
 ||danaher.tt.omtrdc.net^
+||dancingmarmot.com^
 ||dandr.alexandriauk.com^
 ||dandydune.com^
 ||dandyglow.com^
@@ -73263,6 +73268,7 @@ Stand: 19.08.2026 04:38
 ||earning.bamtech.tt.omtrdc.net^
 ||earopro-ss.checkoutera.com^
 ||earthlybuzz.com^
+||earthsauce.com^
 ||earthsbesthost.tt.omtrdc.net^
 ||earthups.com^
 ||earthworm.creatifmediagroup.com^
@@ -89421,6 +89427,7 @@ Stand: 19.08.2026 04:38
 ||fitbitincproduction.tt.omtrdc.net^
 ||fitcomtest.tt.omtrdc.net^
 ||fitconcert02.tt.omtrdc.net^
+||fitgreatest.com^
 ||fitibeats-ss.checkoutera.com^
 ||fitibeats-ss.offeroshop.com^
 ||fitnessmapper.com^
@@ -111198,6 +111205,7 @@ Stand: 19.08.2026 04:38
 ||healthy.partandparcel.com.au^
 ||healthy.spartanburgregional.com^
 ||healthycities.actonservice.com^
+||healthyclad.com^
 ||healthydirections.mmspdistribe.tt.omtrdc.net^
 ||healthydirections.tt.omtrdc.net^
 ||healthyme123.tt.omtrdc.net^
@@ -172815,7 +172823,6 @@ Stand: 19.08.2026 04:38
 ||quickkoala.io^
 ||quicklyedit.com^
 ||quickpcfixer.click^
-||quicktattoo.com^
 ||quicktrick.net^
 ||quidel.actonservice.com^
 ||quietknowledge.com^

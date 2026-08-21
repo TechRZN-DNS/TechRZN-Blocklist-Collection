@@ -1,5 +1,5 @@
 ### TechRZN - SPAM ###
-Stand: 20.08.2026 04:38
+Stand: 21.08.2026 04:39
 
 ||0-2spk-us.basecamp.app^
 ||0-amfauth.firebaseapp.com^
@@ -11193,6 +11193,7 @@ Stand: 20.08.2026 04:38
 ||api.adfs.scabioralrezeptfrei.space^
 ||api.agent.rezeptfrei-bestellung.de^
 ||api.antibiotikarezeptfrei.de^
+||api.apotheke-rezeptfrei.com^
 ||api.askdoctor.uz^
 ||api.auth.gg^
 ||api.auth.medikamenterezeptfrei.biz^

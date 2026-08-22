@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 21.08.2026 04:39
+Stand: 22.08.2026 04:34
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -14700,6 +14700,7 @@ Stand: 21.08.2026 04:39
 ||acishy.kang.fr^
 ||aciustage-staging-parmakla.net.daraz.com^
 ||aciysf.destockage-fitness.com^
+||acjs.aliyun.com^
 ||acjvo.zanskarhealth.in^
 ||ack8s-devuntingpartner.net.daraz.com^
 ||ackll.lungcancergroup.com^
@@ -16769,6 +16770,7 @@ Stand: 21.08.2026 04:39
 ||afdbwq.blivakker.no^
 ||afecvu.bulevip.com^
 ||afep.pivn.shop^
+||afeteforfood.com^
 ||afevxr.guydemarle.com^
 ||aff.astronbroker.com^
 ||aff.carefromtoday.com^
@@ -18867,6 +18869,7 @@ Stand: 21.08.2026 04:39
 ||analytics.marketmemoir.com^
 ||analytics.martinandosa.com^
 ||analytics.masat-alsaada.com^
+||analytics.maskyoo.net^
 ||analytics.massivwerthaus.at^
 ||analytics.matchbin.com^
 ||analytics.mathfel.de^
@@ -25019,6 +25022,7 @@ Stand: 21.08.2026 04:39
 ||bankwithunited.tt.omtrdc.net^
 ||banner.appsflyersdk.com^
 ||banner.patner.net.daraz.com^
+||bannerave.com^
 ||bannerloadbalancer.net.daraz.com^
 ||bannerssummer.net.daraz.com^
 ||banopz.superkancl.cz^
@@ -25469,6 +25473,7 @@ Stand: 21.08.2026 04:39
 ||beamanalytics.b-cdn.net^
 ||beamvolcano.com^
 ||beancontrol.com^
+||beandelight.com^
 ||beanstalkmarketing.actonservice.com^
 ||beanworks.actonservice.com^
 ||beapi-xspace.net.daraz.com^
@@ -30460,6 +30465,7 @@ Stand: 21.08.2026 04:39
 ||burningblood-ugportal.net.daraz.com^
 ||burningblood.stagingmr.net.daraz.com^
 ||burningbloodhb-dhcp.net.daraz.com^
+||burningclock.com^
 ||burnswhite.actonservice.com^
 ||burpee.thesculptsociety.com^
 ||bursamalaysia.tt.omtrdc.net^
@@ -35647,6 +35653,7 @@ Stand: 21.08.2026 04:39
 ||cardpay.tt.omtrdc.net^
 ||cardpaymentcontext17.tt.omtrdc.net^
 ||cardpaymenttransaction28.tt.omtrdc.net^
+||cardproducer.com^
 ||cardpw-scim.tt.omtrdc.net^
 ||cardr023.apiserver.net.daraz.com^
 ||cardroom-premium-premium.tt.omtrdc.net^
@@ -115217,6 +115224,7 @@ Stand: 21.08.2026 04:39
 ||hubble.tt.omtrdc.net^
 ||hubbledev.tt.omtrdc.net^
 ||hubbva.tt.omtrdc.net^
+||hubcapcafe.net^
 ||hubcastlocal.hla.tt.omtrdc.net^
 ||hubemi.tt.omtrdc.net^
 ||hubert.branch.rocks^
@@ -119827,6 +119835,7 @@ Stand: 21.08.2026 04:39
 ||ingest.make.rvapps.io^
 ||ingest.make.rvohealth.com^
 ||ingest.metzler-electronics.com^
+||ingest.promptwatch.com^
 ||ingesteer.services-prod.nsvcs.net^
 ||ingrammicro.tt.omtrdc.net^
 ||ingredients.firmenich.com^
@@ -131534,6 +131543,7 @@ Stand: 21.08.2026 04:39
 ||leaity.dlm1947.com^
 ||leak.welnes.online^
 ||leaplunchroom.com^
+||leapquick.com^
 ||learn.aiu.edu.au^
 ||learn.altsourcesoftware.com^
 ||learn.amllp.com^
@@ -146972,6 +146982,7 @@ Stand: 21.08.2026 04:39
 ||losslace.com^
 ||lostbalancer.net.daraz.com^
 ||lostmountainstudents.tt.omtrdc.net^
+||lostwaxlab.com^
 ||lot.tt.omtrdc.net^
 ||lote1otto.com^
 ||lotte.myomee.com^
@@ -161528,6 +161539,7 @@ Stand: 21.08.2026 04:39
 ||novarecoverycenter.actonservice.com^
 ||novartisconsumerheal.tt.omtrdc.net^
 ||novaseekers.com^
+||novazen.net^
 ||novedades.telecomfibercorp.com.ar^
 ||novi.webnovi.eu^
 ||novigrad.piko.hr^
@@ -164736,6 +164748,7 @@ Stand: 21.08.2026 04:39
 ||onlineile.berndpulchmedotcom.net.daraz.com^
 ||onlineis.actonservice.com^
 ||onlineisonlineo-onlineapwap-authentionlineation.net.daraz.com^
+||onlinemediahelper.com^
 ||onlinemeditationcenter.tt.omtrdc.net^
 ||onlinemetrix.liverpool.com.mx^
 ||onlinemovies.free.tt.omtrdc.net^
@@ -169236,6 +169249,7 @@ Stand: 21.08.2026 04:39
 ||photoshop2.tt.omtrdc.net^
 ||photoshpartner.net.daraz.com^
 ||photospace.tt.omtrdc.net^
+||photosubscribe.com^
 ||photozoom.tt.omtrdc.net^
 ||php-books.tt.omtrdc.net^
 ||php-tester-partner-assets.net.daraz.com^
@@ -170429,6 +170443,7 @@ Stand: 21.08.2026 04:39
 ||pointdigestion.com^
 ||pointlesspocket.com^
 ||pointlessprofit.com^
+||pointsshare.com^
 ||poirot.chase.com^
 ||poirot.custommade.com^
 ||poisedfuel.com^
@@ -173057,6 +173072,7 @@ Stand: 21.08.2026 04:39
 ||radar.luanapradoadvocacia.com.br^
 ||radar.marinhoadvmg.com.br^
 ||radar.rodrigopradomentor.com.br^
+||radar.wizzo.media^
 ||radco.tt.omtrdc.net^
 ||radexports.com^
 ||radi.l27.cz^
@@ -173131,7 +173147,6 @@ Stand: 21.08.2026 04:39
 ||rampjs-cdn.system1.com^
 ||ramteen.xyz.tt.omtrdc.net^
 ||rand.propspotter.com.au^
-||randisphotos.com^
 ||random.amuuzbouche.com^
 ||random.osorteiodosprimos.me^
 ||randstad.epoise.com^

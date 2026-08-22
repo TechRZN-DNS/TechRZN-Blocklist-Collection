@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 21.08.2026 04:39
+Stand: 22.08.2026 04:34
 
 ||000000555.xyz^
 ||0025974bf482fe84ac6a59293ae0bc0432a7b9fc.com^
@@ -2025,7 +2025,6 @@ Stand: 21.08.2026 04:39
 ||astroid-three.vercel.app^
 ||astroutercn.com^
 ||astrovpn.co^
-||at-wie-w-p-1.nashkan.net^
 ||at.pzhg.me^
 ||at5w361xq.online^
 ||atejiasu.com^
@@ -5610,7 +5609,6 @@ Stand: 21.08.2026 04:39
 ||doh.jeroenhd.nl^
 ||doh.kekew.info^
 ||doh.kekew.racing^
-||doh.kel.pe^
 ||doh.kidzonet.io^
 ||doh.killtw.im^
 ||doh.koduarve.ee^
@@ -7028,7 +7026,6 @@ Stand: 21.08.2026 04:39
 ||fproxy.net^
 ||fqmfwhpx.com^
 ||fqoqehwib.com^
-||fr-gra-w-p-1.nashkan.net^
 ||fr.dalockd.net^
 ||fr33ze.gleeze.com^
 ||fra-dns.bitdefender.net^
@@ -11936,7 +11933,6 @@ Stand: 21.08.2026 04:39
 ||prflux.xyz^
 ||prgoorzz.cc^
 ||primeproxy23.info^
-||princez.uk^
 ||printruns.us^
 ||printtools.us^
 ||prism.global.ssl.fastly.net^

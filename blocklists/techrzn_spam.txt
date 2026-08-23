@@ -1,5 +1,5 @@
 ### TechRZN - SPAM ###
-Stand: 22.08.2026 04:34
+Stand: 23.08.2026 04:38
 
 ||0-2spk-us.basecamp.app^
 ||0-amfauth.firebaseapp.com^
@@ -6787,6 +6787,7 @@ Stand: 22.08.2026 04:34
 ||accountants.lk^
 ||accountantsvoordenonprofit.nl^
 ||accountappleid.com^
+||accountcassette.com^
 ||accounting.448connect.com^
 ||accounting.godberd.com^
 ||accounting.quuai.com^
@@ -7896,6 +7897,7 @@ Stand: 22.08.2026 04:34
 ||aff.game.blog^
 ||affaires.cogeco.ca^
 ||affairlinois.com^
+||affecthurl.com^
 ||affectionate-mcclintock.199-223-114-249.plesk.page^
 ||affiliate.sexshop.cz^
 ||affiliateagencygroup.com^

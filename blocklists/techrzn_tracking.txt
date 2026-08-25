@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 24.08.2026 04:46
+Stand: 25.08.2026 04:40
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -18654,6 +18654,7 @@ Stand: 24.08.2026 04:46
 ||analytics.gerstacker-weinkellerei.de^
 ||analytics.gesslimited.com^
 ||analytics.gestore.com^
+||analytics.getlimy.ai^
 ||analytics.getshogun.com^
 ||analytics.getsnworks.com^
 ||analytics.gewaterheater.com^
@@ -19335,6 +19336,7 @@ Stand: 24.08.2026 04:46
 ||analytics.unilogcorp.com^
 ||analytics.unive.nl^
 ||analytics.unsw.edu.au^
+||analytics.upress.io^
 ||analytics.urbanapothecarylondon.com^
 ||analytics.usmoneyreserve.com^
 ||analytics.ust.com^
@@ -25245,6 +25247,7 @@ Stand: 24.08.2026 04:46
 ||bccard.tt.omtrdc.net^
 ||bccas.anniesattic.com^
 ||bcdllh.esprit.co.uk^
+||bcdn-16c9d93d.bankofscotland.co.uk^
 ||bcdwku.eg.ru^
 ||bcemgn.lectus24.pl^
 ||bcepta.thenormalbrand.com^
@@ -25484,6 +25487,7 @@ Stand: 24.08.2026 04:46
 ||bear.modulr.design^
 ||bears.daigostudio.com^
 ||beaserver-core.net.daraz.com^
+||beastbook.net^
 ||beastfreevn-staging.lagu123.net.daraz.com^
 ||beastfreevnr.net.daraz.com^
 ||beat.yourtv.jp^
@@ -49552,6 +49556,7 @@ Stand: 24.08.2026 04:46
 ||cubchannel.com^
 ||cube-78.com^
 ||cube.1800striper.com^
+||cubeface.com^
 ||cubeglobal.net^
 ||cubeobsession.net.daraz.com^
 ||cubepins.com^
@@ -50813,6 +50818,7 @@ Stand: 24.08.2026 04:46
 ||d1get58iwmjrxx.cloudfront.net^
 ||d1gp8joe0evc8s.cloudfront.net^
 ||d1hyarjnwqrenh.cloudfront.net^
+||d1jbmblqtpfad4.cloudfront.net^
 ||d1k8sb4xbepqao.cloudfront.net^
 ||d1l6p2sc9645hc.cloudfront.net^
 ||d1m6l9dfulcyw7.cloudfront.net^
@@ -57057,6 +57063,7 @@ Stand: 24.08.2026 04:46
 ||defeatedbadge.com^
 ||defensevest.com^
 ||defygravity.convio.com^
+||defyingbelief.com^
 ||degnsn.birebin.com^
 ||degree.insead.edu^
 ||degreechariot.com^
@@ -60750,6 +60757,7 @@ Stand: 24.08.2026 04:46
 ||digitaltv.tt.omtrdc.net^
 ||digitalworkplace.ricoh.fr^
 ||digithalo.com^
+||digitizedcopy.com^
 ||dignityhealth.hrm.healthgrades.com^
 ||dihiv.kloraneusa.com^
 ||dii.bankaust.com.au^
@@ -68260,6 +68268,7 @@ Stand: 24.08.2026 04:46
 ||dollarbank.fmservice.com^
 ||dollardelta.com^
 ||dollargeneral.tt.omtrdc.net^
+||dollarpuzzle.com^
 ||dollarthriftyautomot.tt.omtrdc.net^
 ||dollarthrill.com^
 ||dolmxo.workport.co.jp^
@@ -69977,6 +69986,7 @@ Stand: 24.08.2026 04:46
 ||drum-155-215-68-108.tt.omtrdc.net^
 ||drum-155-215-77-145.tt.omtrdc.net^
 ||drum-155-215-8-239.tt.omtrdc.net^
+||drumfills.com^
 ||drumil.fico.tt.omtrdc.net^
 ||drumil38kim.meraki-go.tt.omtrdc.net^
 ||drumil78kim.meraki-go.tt.omtrdc.net^
@@ -86675,6 +86685,7 @@ Stand: 24.08.2026 04:46
 ||fax.www.docs.net.daraz.com^
 ||fax1.efess2.tt.omtrdc.net^
 ||fax8000.tt.omtrdc.net^
+||faxcoupons.com^
 ||faxert-lib-oa-1.net.daraz.com^
 ||faxhama.tt.omtrdc.net^
 ||faxianstoryboard.tt.omtrdc.net^
@@ -102276,6 +102287,7 @@ Stand: 24.08.2026 04:46
 ||golem.met.vgwort.de^
 ||golfcartlaws.com^
 ||golfersrow.com^
+||golfinglounge.com^
 ||gollum.monotote.com^
 ||golp4elik.com^
 ||gomecom.tt.omtrdc.net^
@@ -215980,6 +215992,7 @@ Stand: 24.08.2026 04:46
 ||track.weltura.com^
 ||track.wentz.citizensbank.tt.omtrdc.net^
 ||track.weposters.com^
+||track.wesell.co.il^
 ||track.westminster.citizensbank.tt.omtrdc.net^
 ||track.westore24.com^
 ||track.whitecarwash.store^
@@ -221363,6 +221376,7 @@ Stand: 24.08.2026 04:46
 ||u299.libelle-lekker.be^
 ||u4.unit4.com^
 ||u46.pnc.com^
+||u47.pnc.com^
 ||u4e0.capgeminijpmc.tt.omtrdc.net^
 ||u5.crm.tt.omtrdc.net^
 ||u52005.tt.omtrdc.net^
@@ -230002,6 +230016,7 @@ Stand: 24.08.2026 04:46
 ||vogel.met.vgwort.de^
 ||voice.thewealthadvisor.com^
 ||voicepins.com^
+||voicewinds.com^
 ||voidgoo.com^
 ||voip-partner.net.daraz.com^
 ||voipcsprod-staff.net.daraz.com^

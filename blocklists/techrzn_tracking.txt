@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 26.08.2026 04:41
+Stand: 27.08.2026 15:02
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -23027,6 +23027,7 @@ Stand: 26.08.2026 04:41
 ||art.rollinart.at^
 ||art2wave.actonservice.com^
 ||art9-sjc12-dr01.net.daraz.com^
+||artbranch.net^
 ||artconcept.tt.omtrdc.net^
 ||artdisabledpartner.net.daraz.com^
 ||artemis-cdn.ocdn.eu^
@@ -24172,6 +24173,7 @@ Stand: 26.08.2026 04:41
 ||auto.boostpouchco.com^
 ||auto.ns.eidsvision.net.daraz.com^
 ||autoanything.tt.omtrdc.net^
+||autoappearancetraining.com^
 ||autobytel-02.tt.omtrdc.net^
 ||autocalisia-maruszak-2.tt.omtrdc.net^
 ||autoclubgroup.tt.omtrdc.net^
@@ -27352,6 +27354,7 @@ Stand: 26.08.2026 04:41
 ||beyond.bluewolf.com^
 ||beyondbread-stage-mhb-dhcp.net.daraz.com^
 ||beyondbread-staging-parmakla.net.daraz.com^
+||beyondgoodness.com^
 ||beyondluxury.actonservice.com^
 ||beyondmeasure.rigoltech.com^
 ||beyoutifullife.net.daraz.com^
@@ -28476,6 +28479,7 @@ Stand: 26.08.2026 04:41
 ||bluebiz.tt.omtrdc.net^
 ||bluebusiness.actonservice.com^
 ||bluecar-jan.tt.omtrdc.net^
+||bluecollarmuse.com^
 ||bluecore-email.branch.rocks^
 ||bluedata.actonservice.com^
 ||blueeyedblow.com^
@@ -102107,7 +102111,6 @@ Stand: 26.08.2026 04:41
 ||goddardusedautosales.ext.net.daraz.com^
 ||goddardusedautosalesesportesdasorte.net.daraz.com^
 ||goddardusedautosalessexxdesi.net.daraz.com^
-||goddesslamps.com^
 ||goddy-car.icmm.tt.omtrdc.net^
 ||goddy2.tt.omtrdc.net^
 ||goddy4.m.tt.omtrdc.net^
@@ -132211,6 +132214,7 @@ Stand: 26.08.2026 04:41
 ||life.reliefly.co^
 ||life.safetynest.com.au^
 ||life.trywellife.com^
+||lifecoverdirect.com^
 ||lifefitnesskz.tt.omtrdc.net^
 ||lifefrirnd-sattadon0001.net.daraz.com^
 ||lifegoesonme.tt.omtrdc.net^
@@ -152769,6 +152773,7 @@ Stand: 26.08.2026 04:41
 ||meadowlullaby.com^
 ||mean8sigh.com^
 ||meanwellaustralia.actonservice.com^
+||meas.join-stories.com^
 ||meas.plantizia.sk^
 ||measlymiddle.com^
 ||measure.adem.london^
@@ -153156,6 +153161,7 @@ Stand: 26.08.2026 04:41
 ||memorizeneck.com^
 ||mennoc.mezlan.com^
 ||mensch.ekd.de^
+||mentalreef.com^
 ||menteechain.com^
 ||mentor.adrianscalper.com^
 ||mentor.direitocomprado.com.br^
@@ -156868,6 +156874,7 @@ Stand: 26.08.2026 04:41
 ||missionsengineapplication-spring.net.daraz.com^
 ||missionswww.partner.net.daraz.com^
 ||misst.mibiota.de^
+||missvent.com^
 ||mistervillas.com^
 ||mistyhorizon.com^
 ||miszfe.glamira.es^
@@ -160680,6 +160687,7 @@ Stand: 26.08.2026 04:41
 ||newsale.bdpriyostore.com^
 ||newsbotnet.com^
 ||newscatalanaoccidente.com^
+||newscompiler.com^
 ||newserver.bangla99.com^
 ||newserver.bardapraia.com.pt^
 ||newserver.beyondgreenltd.com^
@@ -163086,6 +163094,7 @@ Stand: 26.08.2026 04:41
 ||num.irp.gg^
 ||numbers.coolconfetti.com^
 ||numbers.monthlyphotos.com^
+||numericblog.com^
 ||numerousnest.com^
 ||nums.upscale.app^
 ||nuquds.citizenwatch.com^
@@ -191760,6 +191769,7 @@ Stand: 26.08.2026 04:41
 ||src.apotheke365.de^
 ||src.ebay-us.com^
 ||src.freshmarketer.in^
+||src.fwusercontent.com^
 ||src.secmailtrackr.com^
 ||src.vector.com^
 ||src0.myvoffice.com^

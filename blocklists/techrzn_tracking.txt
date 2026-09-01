@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 31.08.2026 10:38
+Stand: 01.09.2026 09:15
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -18302,6 +18302,7 @@ Stand: 31.08.2026 10:38
 ||analytics.adobe.io^
 ||analytics.adobe.ly^
 ||analytics.adultswim.co.uk^
+||analytics.afirstsoft.cn^
 ||analytics.agenedia.com^
 ||analytics.agoda.com^
 ||analytics.agroadvance.com.br^
@@ -27101,6 +27102,7 @@ Stand: 31.08.2026 10:38
 ||bestbuy.actonservice.com^
 ||bestbuycanada.tt.omtrdc.net^
 ||bestclimbers.net^
+||bestcoffeemachine.net^
 ||bestdrive.tt.omtrdc.net^
 ||bestegg37-02.tt.omtrdc.net^
 ||bestill.help.no^
@@ -70072,6 +70074,7 @@ Stand: 31.08.2026 10:38
 ||drxeqq.wishhotels.com.br^
 ||dryad-gamma.tt-qe2.omtrdc.net^
 ||drydrum.com^
+||dryerwasher.com^
 ||drynites.capellauniversity.tt.omtrdc.net^
 ||drynites.gepowerandwater.tt.omtrdc.net^
 ||dryrun.mboxedge37-alb.tt.omtrdc.net^
@@ -88939,6 +88942,7 @@ Stand: 31.08.2026 10:38
 ||fileserver-bellsouth.administrator.net.daraz.com^
 ||fileserver-dssl.ns.emailvision.authenticate.net.daraz.com^
 ||fileserver-ns.emailvision.ebs.net.daraz.com^
+||fileshareengine.com^
 ||filesigned-car10.net.daraz.com^
 ||filesisablefiles.net.daraz.com^
 ||filesitch.com.tt.omtrdc.net^
@@ -89238,6 +89242,7 @@ Stand: 31.08.2026 10:38
 ||fire3.expresswaye1.tt.omtrdc.net^
 ||fire5.airtoolkit.tt.omtrdc.net^
 ||fire5.egms.tt.omtrdc.net^
+||fireanalytics.firestream.to^
 ||firebase.autodesk.tt.omtrdc.net^
 ||firebase3.sts.tt.omtrdc.net^
 ||firebaselogging-pa.googleapis.com^
@@ -124849,6 +124854,7 @@ Stand: 31.08.2026 10:38
 ||juris.pedroburak.com^
 ||just.playvici.com^
 ||justconfig.com^
+||justfordocs.com^
 ||justice.tt.omtrdc.net^
 ||justicejudo.com^
 ||justicensw.tt.omtrdc.net^
@@ -163547,6 +163553,7 @@ Stand: 31.08.2026 10:38
 ||obs.esnlocco.com^
 ||obs.greencolumnblog.com^
 ||obs.jollyoutdoorjogger.com^
+||obs.sd4823.spglobal.com^
 ||obs.system1onesource.com^
 ||obs.wyndhamhotelgroup.tt.omtrdc.net^
 ||obscenesidewalk.com^
@@ -168961,6 +168968,7 @@ Stand: 31.08.2026 10:38
 ||peritum.tt.omtrdc.net^
 ||perk0mean.com^
 ||perle.perledelumina.ro^
+||permagroove.com^
 ||permission.actonservice.com^
 ||permission.au.actonservice.com^
 ||permissioninteractiv.tt.omtrdc.net^
@@ -169736,6 +169744,7 @@ Stand: 31.08.2026 10:38
 ||pixel.thenexusgroups.org^
 ||pixel.tuko.co.ke^
 ||pixel.underzstore.com^
+||pixel.uppromote.com^
 ||pixel.veritone-ce.com^
 ||pixel.videohub.tv^
 ||pixel.visitiq.io^
@@ -170047,6 +170056,7 @@ Stand: 31.08.2026 10:38
 ||plantronics.tt.omtrdc.net^
 ||plantronics.tt.tt.omtrdc.net^
 ||plants.outsidein.com^
+||plantscafe.net^
 ||plantsupport.tt.omtrdc.net^
 ||plantxhsaaa04.administracion2.accountalpha-s3-chef-status-stagingdefaultproduction.tt-stage3.omtrdc.net^
 ||plartner.net.daraz.com^

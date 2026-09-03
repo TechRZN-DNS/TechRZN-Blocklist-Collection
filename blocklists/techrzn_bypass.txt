@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 02.09.2026 08:31
+Stand: 03.09.2026 08:39
 
 ||000000555.xyz^
 ||0025974bf482fe84ac6a59293ae0bc0432a7b9fc.com^
@@ -1529,7 +1529,6 @@ Stand: 02.09.2026 08:31
 ||ae1.indevs.in^
 ||aecd74796f0ff8d20255d3286ec5cd89bf989b12.com^
 ||aecoe.xyz^
-||affcdn.net^
 ||affiliatescn.net^
 ||affntowl.com^
 ||affsoft.cc^
@@ -1665,7 +1664,6 @@ Stand: 02.09.2026 08:31
 ||akylah.zapto.org^
 ||alarmstat.click^
 ||albertcoolters.server.warhawkenterprises.com^
-||alexahub.net^
 ||alfavpn.ru^
 ||alflebear.cn^
 ||alfsf4.xyz^
@@ -1739,7 +1737,6 @@ Stand: 02.09.2026 08:31
 ||amnezia.org^
 ||amnzstrg01.blob.core.windows.net^
 ||amongusinreallifesussus.netlify.app^
-||amopython.shop^
 ||amosstudios.com^
 ||amosvpn.com^
 ||amplify.info.north-kazakhstan.su.cdn.cloudflare.net^
@@ -6793,9 +6790,6 @@ Stand: 02.09.2026 08:31
 ||fern.mine.bz^
 ||fern.r4ash.work.gd^
 ||fern.ub.phuri.cc^
-||fern2.allisons.org^
-||fern3.allisons.org^
-||fern4.allisons.org^
 ||fernrecatquestionmark.shop^
 ||ferns.and.leaves.spacejamhd.com^
 ||ferny.pxi-fusion.com.cdn.cloudflare.net^
@@ -10097,7 +10091,6 @@ Stand: 02.09.2026 08:31
 ||mamas-garden-market.com^
 ||man.destroyerkisscover.com.br^
 ||man.info.north-kazakhstan.su.cdn.cloudflare.net^
-||management.alexpollard.net^
 ||manchaland.clubskunk.com^
 ||mandarin.chinapoem.org^
 ||mangojiasu.com^
@@ -11221,9 +11214,7 @@ Stand: 02.09.2026 08:31
 ||oculta.me^
 ||odeum.zelator.cloud-ip.cc^
 ||ododep.ru^
-||odoh-target-noads-se.alekberg.net^
 ||odoh-target-noads.alekberg.net^
-||odoh-target-se.alekberg.net^
 ||odoh-target.alekberg.net^
 ||odpi3ekk.com^
 ||odvr.nic.cz^
@@ -13228,7 +13219,6 @@ Stand: 02.09.2026 08:31
 ||shipboard.ir^
 ||shitblocker.com^
 ||shiva-app.io^
-||shoolikedimnatoqourus.aiq-test.ru^
 ||shop-books-school.vercel.app^
 ||shop.aeroantenna.com^
 ||shop.canalspa.cl^

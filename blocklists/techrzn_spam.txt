@@ -1,5 +1,5 @@
 ### TechRZN - SPAM ###
-Stand: 03.09.2026 08:39
+Stand: 04.09.2026 08:34
 
 ||0-2spk-us.basecamp.app^
 ||0-amfauth.firebaseapp.com^
@@ -119747,7 +119747,6 @@ Stand: 03.09.2026 08:39
 ||odneinfegf.ufn.gts.multisan.ap.ap.gtr-dev.certsbridge.com^
 ||odns.fr^
 ||odo-vida.com^
-||odoo.com^
 ||odoo.vilancia.fr^
 ||odorogi.com^
 ||odp47.syndeventsoul.com^

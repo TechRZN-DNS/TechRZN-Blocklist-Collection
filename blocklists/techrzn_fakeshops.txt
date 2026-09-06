@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 06.09.2026 08:26
+Stand: 06.09.2026 22:47
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -1225,6 +1225,7 @@ Stand: 06.09.2026 08:26
 ||awo-baumarkt.de^
 ||awsea.eu.cc^
 ||ax-trading.com^
+||axatechviewou.com^
 ||axel-maschine.de^
 ||axelarigatojapan.net^
 ||axelarigatooslo.com^
@@ -1970,7 +1971,6 @@ Stand: 06.09.2026 08:26
 ||bitcoin-everest-ai.fr^
 ||bitcoin-pharmacy.com^
 ||bitcoin-revolution.org^
-||bitcoin-up.io^
 ||bitcoin-xact.fr^
 ||bitcoinarchon.com^
 ||bitcoineer.ai^
@@ -2647,6 +2647,7 @@ Stand: 06.09.2026 08:26
 ||casualstreet.de^
 ||cat2fip.co^
 ||catalia.de^
+||catalunyafarm.com^
 ||catatic.de^
 ||cateringvogue.com^
 ||caterpillar-finland.com^
@@ -6263,7 +6264,6 @@ Stand: 06.09.2026 08:26
 ||glamouralchemy.com^
 ||glamourparadies.com^
 ||glamstadt.com^
-||glanzberg-mode.de^
 ||glanzlampen.com^
 ||glanzschuh.com^
 ||glanzwiese.com^
@@ -6298,12 +6298,10 @@ Stand: 06.09.2026 08:26
 ||globaltradeforex.com^
 ||globaltradeoption.online^
 ||globalvisacorp.com^
-||globeschuheberlin.de^
 ||globetrotteroutlet.de^
 ||globior.com^
 ||gloiber.com^
 ||gloneotech.de^
-||gloreve.com^
 ||glorioushopeministries.com^
 ||gloryfeel.shop^
 ||glossierbelgie.com^
@@ -6314,7 +6312,6 @@ Stand: 06.09.2026 08:26
 ||glovio.de^
 ||glow-garden.com^
 ||glow-garten.com^
-||glow-haven.de^
 ||glowblend.de^
 ||glowency.de^
 ||glowhaven.shop^
@@ -6336,10 +6333,7 @@ Stand: 06.09.2026 08:26
 ||glurvextopin-at.at^
 ||glurvextopin-gb.com^
 ||glurvextopin-official.com^
-||glurvextopin.at^
-||gluschwein.de^
 ||gmbh2go.de^
-||gmfcar-sol.com^
 ||gmmplatform.co^
 ||gmzglobal.net^
 ||gnope.com^
@@ -6356,7 +6350,6 @@ Stand: 06.09.2026 08:26
 ||goelitemarketing.com^
 ||goetzwache.de^
 ||goforbest.top^
-||gogetrxonline.com^
 ||gogistar.com^
 ||goglle.com^
 ||gogrocerymart.com^
@@ -6383,7 +6376,6 @@ Stand: 06.09.2026 08:26
 ||goldenbayboutiques.com^
 ||goldengoose-austria.myshoplaza.com^
 ||goldengoosesale.at^
-||goldengoosesale.de^
 ||goldenngoosee.com^
 ||goldenpandacasino-online.de^
 ||goldenpassmedia.com^
@@ -6515,7 +6507,6 @@ Stand: 06.09.2026 08:26
 ||greencrosspharmacy.online^
 ||greeneggstore.de^
 ||greenhousesshop.com^
-||greenmah.shop^
 ||greentec-handel.de^
 ||greenthin.net^
 ||greentrimmer.de^
@@ -6541,7 +6532,6 @@ Stand: 06.09.2026 08:26
 ||grillterrasse.com^
 ||grillwelten.com^
 ||grillwizz-grillreiniger.de^
-||grillzentrale.shop^
 ||grillzentrum.com^
 ||grillzubehoer-de.com^
 ||grimhat.com^
@@ -6571,7 +6561,6 @@ Stand: 06.09.2026 08:26
 ||grow-dutch.com^
 ||grow-investat.com^
 ||grow-your.capital^
-||growano.com^
 ||growingcat.com^
 ||growit-indoor.com^
 ||growminds.de^
@@ -6605,7 +6594,6 @@ Stand: 06.09.2026 08:26
 ||gsmverstarker.at^
 ||gsport.com^
 ||gstore.at^
-||gswoutfit.shop^
 ||gti-capital.com^
 ||gtimarkets.com^
 ||gtlinfrastructurelimited.com^
@@ -6630,7 +6618,6 @@ Stand: 06.09.2026 08:26
 ||gul-store.com^
 ||gummikoder.com^
 ||gundipellet.at^
-||gunstigeskaufhaus.com^
 ||gurdarao.com^
 ||gurstore.net^
 ||guru4invest.com^
@@ -6654,7 +6641,6 @@ Stand: 06.09.2026 08:26
 ||gutmann-strategies.at^
 ||gutmotorradteile.com^
 ||gutscheinglueck24.de^
-||gutumzug.at^
 ||gv-invest.com^
 ||gvbmfflnanzonline.info^
 ||gvflnanzonline.info^
@@ -6679,7 +6665,6 @@ Stand: 06.09.2026 08:26
 ||h25casinoonline.org^
 ||h4g3z1-fake.web.app^
 ||h5.ecoinf.vip^
-||haareparfum.com^
 ||haarpflegehaut.com^
 ||haarprofis.com^
 ||haas-partner.com^
@@ -6717,7 +6702,6 @@ Stand: 06.09.2026 08:26
 ||hallobeautykollektiv.de^
 ||hallobh.de^
 ||halloween-manufaktur.de^
-||halloween-maskenmanufaktur.de^
 ||halloweendekoration.com^
 ||halloweenmakeup-de.com^
 ||halloweenpetticoats.com^
@@ -6783,7 +6767,6 @@ Stand: 06.09.2026 08:26
 ||hans-fahrradhaus.de^
 ||hansacontainergmbh.de^
 ||hansatraileranhanger-de.com^
-||hanse-consol.de^
 ||hansen-mode.com^
 ||hansholzmotor.de^
 ||hansrasenmaher.com^
@@ -6818,10 +6801,8 @@ Stand: 06.09.2026 08:26
 ||harleydavidsons.at^
 ||harleysaleoutlets.com^
 ||harmoniouy.com^
-||harmony-ambiento.shop^
 ||harmonyalmbienteoutlet.shop^
 ||harpercollins.shop^
-||harperyoung.shop^
 ||hartholz-briketts.de^
 ||hartmann-frankfurt.com^
 ||hartmannmode.de^
@@ -6866,7 +6847,6 @@ Stand: 06.09.2026 08:26
 ||haushaltsheld.com^
 ||haushaltskoenig.de^
 ||haushaltsreich.de^
-||hausmez.de^
 ||hausmobel-de.com^
 ||hausofvedashop.com^
 ||hausonline24.com^
@@ -6880,7 +6860,6 @@ Stand: 06.09.2026 08:26
 ||haustierstolz.de^
 ||haustirwelten.de^
 ||hausture.com^
-||hausundgarten.haus^
 ||hausundwerkzeug.com^
 ||hausundwerkzeuge.store^
 ||hausversand.com^
@@ -6903,13 +6882,11 @@ Stand: 06.09.2026 08:26
 ||headlinesworldnews.com^
 ||headsets4business.co.uk^
 ||headsupbaby.com^
-||headtennistownde.com^
 ||healing-rock.de^
 ||healthcarebanker.com^
 ||healthful-online.com^
 ||healthful-pills.com^
 ||healthlifereport.com^
-||healthonlineshop24.com^
 ||healthpillsonline.com^
 ||healthroutine.com^
 ||healththrivewith.com^
@@ -6952,7 +6929,6 @@ Stand: 06.09.2026 08:26
 ||heimspeichern.com^
 ||heimvoll.de^
 ||heimwerkende.de^
-||heimwerkerpro.com^
 ||heimwerkzeugesde.com^
 ||heinen-klimahaus.myshopify.com^
 ||heisen-handel.de^
@@ -7011,7 +6987,6 @@ Stand: 06.09.2026 08:26
 ||heizoel-held.de^
 ||heizoel-kalkulator.de^
 ||heizoel-liefern.de^
-||heizoel-rabatt.de^
 ||heizoel-schnell-gmbh.de^
 ||heizoel-station.com^
 ||heizoel-tankstelle.de^
@@ -7068,12 +7043,10 @@ Stand: 06.09.2026 08:26
 ||heizungsolar.com^
 ||heizungstechnik-online.de^
 ||heizungstechworld.com^
-||heizungszubehoer.com^
 ||heizungundklimawelt.com^
 ||heizuri.de^
 ||heizwelt.com^
 ||heizwelt24.de^
-||heizwelt24.shop^
 ||heizx.de^
 ||heizzu.de^
 ||heldholz.com^
@@ -7112,7 +7085,6 @@ Stand: 06.09.2026 08:26
 ||help.claritycheck.com^
 ||helpalot.de^
 ||helperlo24.de^
-||helpfulmedicalstore.com^
 ||helpnanacenter.helpscoutdocs.com^
 ||helpsandalen.com^
 ||helvetia-glanz.com^
@@ -7128,7 +7100,6 @@ Stand: 06.09.2026 08:26
 ||heningclothing.com^
 ||hennkel.de^
 ||henslymo.com^
-||henylife.shop^
 ||heraldik-leitfaden.de^
 ||herbalpellets.com^
 ||herbalresearch.shop^
@@ -7140,7 +7111,6 @@ Stand: 06.09.2026 08:26
 ||heritagerailbikes.com^
 ||herlange.com^
 ||herlingerieshop.com^
-||hermesfod.shop^
 ||hermhoffer.de^
 ||hernoclothing.com^
 ||heroherbals.com^
@@ -7192,7 +7162,6 @@ Stand: 06.09.2026 08:26
 ||hig-finance.com^
 ||high-quality-model.com^
 ||highbroker.com^
-||highbtcstock.com^
 ||highjel.com^
 ||highluxury.sk^
 ||hijabsalmapop.shop^
@@ -7201,7 +7170,6 @@ Stand: 06.09.2026 08:26
 ||hilde-taschen.de^
 ||hildebrandt-bekleidung.de^
 ||hildebrandtfashion.de^
-||hildegunter.com^
 ||hilfeexpress.com^
 ||hilfenervenschmerzen.com^
 ||hilfewise.com^
@@ -7238,16 +7206,13 @@ Stand: 06.09.2026 08:26
 ||hjfh.shop^
 ||hjullagerdrivaxlar.com^
 ||hjz-handel.de^
-||hkm-sport.shop^
 ||hkp-biofuels.com^
 ||hks-versand.de^
 ||hlelu.com^
 ||hlene.com^
-||hlf-gestion-or.com^
 ||hlpflavouring.com^
 ||hlprtmu.run^
 ||hlsprt.shop^
-||hmbgroup.at^
 ||hmnengel.com^
 ||hoabinhvn.com^
 ||hoangduypharma.com^
@@ -7312,7 +7277,6 @@ Stand: 06.09.2026 08:26
 ||holzbrenn.de^
 ||holzbriketts-kaufen.com^
 ||holzbriketts-profi.de^
-||holzcuten.de^
 ||holzd24.com^
 ||holzerneblocke.com^
 ||holzfursfeuer.de^
@@ -7333,7 +7297,6 @@ Stand: 06.09.2026 08:26
 ||holznotenpulte.de^
 ||holzpelletshop.com^
 ||holzqualitat.de^
-||holzstreif.de^
 ||holzti.com^
 ||holzundkunststueble.de^
 ||holzundwerkzeug-bestequalitat.de^
@@ -7380,7 +7343,6 @@ Stand: 06.09.2026 08:26
 ||homeofvintage.co^
 ||homeplaceshop.com^
 ||homersport.de^
-||homerungrocers.com^
 ||homestorex.com^
 ||homesupplybest.com^
 ||homesupplymarket.com^
@@ -7485,7 +7447,6 @@ Stand: 06.09.2026 08:26
 ||hub.bradyboutiquehub.com^
 ||hubbodenpoolservice.de^
 ||hubcitysale.com^
-||huber-wien.com^
 ||huberd.com^
 ||hubers-salzburg.at^
 ||hubertkotschnig.at^
@@ -7526,18 +7487,15 @@ Stand: 06.09.2026 08:26
 ||hundtrockenfutter.com^
 ||hunter-osterreich.at^
 ||hunterbootscanada.com^
-||hunterbootsdublin.com^
 ||hunterbootsjapan.com^
 ||hunterbootsnz.com^
 ||hunterfinland.com^
 ||huntergermany.de^
-||huntergumbootsaustralia.com^
 ||huntergummistiefel.de^
 ||huntergummistiefeloutlet.de^
 ||huntergummistiefeloutlets.de^
 ||huntergummistiefelsoutlet.de^
 ||hunteronlineshop.at^
-||hunterregenlaarzen.com^
 ||huntersstiefel.at^
 ||hunterstiefel.at^
 ||huntersverige-se.com^
@@ -7564,7 +7522,6 @@ Stand: 06.09.2026 08:26
 ||hyndtren25.pages.dev^
 ||hype-hoodies.com^
 ||hypedrip.top^
-||hypelaced.co^
 ||hyper-pools.com^
 ||hyperstech.com^
 ||hyperx-pool.com^
@@ -7596,7 +7553,6 @@ Stand: 06.09.2026 08:26
 ||icego.org^
 ||icelandclothing.myshopify.com^
 ||icelandhorse-shop.de^
-||ichferkens.de^
 ||ichkaufegrundstuecke.de^
 ||icmswisscs.com^
 ||icmtrading.com^
@@ -7625,7 +7581,6 @@ Stand: 06.09.2026 08:26
 ||idsaled.de^
 ||ie-audit.com^
 ||ielaf.shop^
-||iemakluck.com^
 ||ifanze.net^
 ||igamingoffers.com^
 ||igelwelt.com^
@@ -7668,7 +7623,6 @@ Stand: 06.09.2026 08:26
 ||ilumina.center^
 ||imagemotorcycles.co.nz^
 ||imaginte.com^
-||imalent.net^
 ||imcbroker.com^
 ||imeafinanz.de^
 ||imens-meds.net^
@@ -7686,7 +7640,6 @@ Stand: 06.09.2026 08:26
 ||immediate-coraldex.com^
 ||immediate-dash.de^
 ||immediate-direct.com^
-||immediate-edge2.com^
 ||immediate-flik.com^
 ||immediate-growth.com^
 ||immediate-momentum.com^
@@ -9415,6 +9368,7 @@ Stand: 06.09.2026 08:26
 ||lizabete.com^
 ||ljekarna-osijek.com^
 ||ljekarnacroatia.com^
+||ljekarnahrvatska.com^
 ||lkw-mieten-wien.at^
 ||lkw-reifenpanne.com^
 ||ll-sheins.com^
@@ -9888,7 +9842,6 @@ Stand: 06.09.2026 08:26
 ||market.cedarbourne.com^
 ||market.darrowmere.com^
 ||market.glenleigha.com^
-||market.halewick.com^
 ||market.livaxxen.org^
 ||market24prime.shop^
 ||market2trade.com^
@@ -11270,6 +11223,7 @@ Stand: 06.09.2026 08:26
 ||nixse.com^
 ||nizle.shop^
 ||njordoutdoors.com^
+||nkbiobxn.shop^
 ||nkd-store.com^
 ||nl-fashion.de^
 ||nlmedsusa.com^

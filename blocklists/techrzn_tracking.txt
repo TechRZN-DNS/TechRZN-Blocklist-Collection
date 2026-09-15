@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 14.09.2026 09:40
+Stand: 15.09.2026 09:16
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -18393,6 +18393,7 @@ Stand: 14.09.2026 09:40
 ||analytics.bestreviews.com^
 ||analytics.betterplaces.nl^
 ||analytics.bgr.com^
+||analytics.bhaskarsaikia.in^
 ||analytics.biezen.nl^
 ||analytics.bigfishgames.com^
 ||analytics.biscottigentilini.it^
@@ -28480,10 +28481,12 @@ Stand: 14.09.2026 09:40
 ||blueapi2bapi.tt.omtrdc.net^
 ||blueapron.net.daraz.com^
 ||blueart.tt.omtrdc.net^
+||bluebellbooks.com^
 ||blueberry2.accountacceptatie-db2-corp.tt-stage3.omtrdc.net^
 ||blueberrypie.tt.omtrdc.net^
 ||bluebikes.hsbcglobalcmb.tt.omtrdc.net^
 ||bluebikes.wintrustfinancialcor.tt.omtrdc.net^
+||bluebirdteam.com^
 ||bluebiz.tt.omtrdc.net^
 ||bluebusiness.actonservice.com^
 ||bluecar-jan.tt.omtrdc.net^
@@ -29677,6 +29680,7 @@ Stand: 14.09.2026 09:40
 ||broadinstitute.actonservice.com^
 ||broadjumpllc.actonservice.com^
 ||broadstreet.ai^
+||broflask.com^
 ||brokered.actonservice.com^
 ||bronxvanilla.openapp.link^
 ||bronze.bygg.com.br^
@@ -31440,6 +31444,7 @@ Stand: 14.09.2026 09:40
 ||cactiidm.net.daraz.com^
 ||cactipartner.net.daraz.com^
 ||cactiw.partner-paygh.net.daraz.com^
+||cactus.jd.com^
 ||cactus.joybuy.com^
 ||caddonr31.v2.net.daraz.com^
 ||cadence.tt.omtrdc.net^
@@ -48549,6 +48554,7 @@ Stand: 14.09.2026 09:40
 ||cryptography-pki-form-standard.tt.omtrdc.net^
 ||cryptonow.algomoneo.com^
 ||crystalboulevard.com^
+||crystaldewfarm.com^
 ||crzohw.intersport.gr^
 ||cs-machinecar40tils-rtr.edge.net.daraz.com^
 ||cs-monitoringils-rtr.apache.net.daraz.com^
@@ -57005,6 +57011,7 @@ Stand: 14.09.2026 09:40
 ||deceuninck.tt.omtrdc.net^
 ||decidedrum.com^
 ||deciem.mboxedge37-alb.tt.omtrdc.net^
+||decimalnet.com^
 ||decisco.lib-oa-2.net.daraz.com^
 ||decisionhut.com^
 ||decisivebase.com^
@@ -84241,6 +84248,7 @@ Stand: 14.09.2026 09:40
 ||events.pickrr.com^
 ||events.plumbv.com^
 ||events.plus.yandex.net^
+||events.plutus.ninja^
 ||events.pop3r-oa-1.net.daraz.com^
 ||events.practo.com^
 ||events.prd.api.max.com^
@@ -111910,6 +111918,7 @@ Stand: 14.09.2026 09:40
 ||hermes.docsnewnautilus12345proxy3.net.daraz.com^
 ||hermes.get.net.daraz.com^
 ||hermes.hjortens2.tt.omtrdc.net^
+||hermes.jd.com^
 ||hermes.kochil2.citizensbank.tt.omtrdc.net^
 ||hermes.mboxedge36-02.tt.omtrdc.net^
 ||hermes.signed.r-oa-2.net.daraz.com^
@@ -119895,6 +119904,7 @@ Stand: 14.09.2026 09:40
 ||inlks.topliftpros.com^
 ||inlyta.tt.omtrdc.net^
 ||inmmyp.lenspecsmu.ru^
+||inmobicdn.net^
 ||inmtuj.jobs.ie^
 ||inmueblesdmetric-partner.net.daraz.com^
 ||inmuzp.popsockets.com^
@@ -146580,6 +146590,7 @@ Stand: 14.09.2026 09:40
 ||log-cdn-origin-aws.tt.omtrdc.net^
 ||log-core.tt.omtrdc.net^
 ||log-gateway.zoom.us^
+||log-h5.imdada.cn^
 ||log-ingestion.tt-qe2.omtrdc.net^
 ||log-k8s.partner.net.daraz.com^
 ||log-lb.skyperfectv.co.jp^
@@ -153219,6 +153230,7 @@ Stand: 14.09.2026 09:40
 ||merchantsupport.net.daraz.com^
 ||merchantwlan-switch.partner.nautilus.net.daraz.com^
 ||mercolaconsultingser.mmspdistribe.tt.omtrdc.net^
+||mercury.jd.com^
 ||mercuryace.com^
 ||mercuryhealthcare.actonservice.com^
 ||mercuryinsurance.mmspdistribe.tt.omtrdc.net^
@@ -157179,6 +157191,7 @@ Stand: 14.09.2026 09:40
 ||mljsn.bakedbymelissa.com^
 ||mlkblr.la-becanerie.com^
 ||mlkklg.suncamp.de^
+||mllog.jd.com^
 ||mlmswk.janpara.co.jp^
 ||mln.gulvxtra.no^
 ||mlnw.oorlogsmuseum.nl^
@@ -208320,6 +208333,7 @@ Stand: 14.09.2026 09:40
 ||sync.playhood.nl^
 ||sync.rambler.ru^
 ||sync.shinobi.jp^
+||synccache.com^
 ||syncingbridge.com^
 ||syndesmos.bambelo.com^
 ||syndicate-365-perception.com^
@@ -215413,6 +215427,7 @@ Stand: 14.09.2026 09:40
 ||track.duelbits.com^
 ||track.dunedinincomegrowth.co.uk^
 ||track.dunstan.media^
+||track.dws.com^
 ||track.dws.de^
 ||track.e-family.ro^
 ||track.eadv.it^
@@ -224284,6 +224299,7 @@ Stand: 14.09.2026 09:40
 ||uralskiystager.net.daraz.com^
 ||uranium.support.tt.omtrdc.net^
 ||uranus.firstdatacorporation.tt.omtrdc.net^
+||uranus.jd.com^
 ||uranus.tt.omtrdc.net^
 ||urate-staging.cyberark.tt.omtrdc.net^
 ||urbanadmin.net.daraz.com^
@@ -234753,6 +234769,7 @@ Stand: 14.09.2026 09:40
 ||wl-analytics.tsp.li^
 ||wl-pixel.index.digital^
 ||wl.bl.frequentvalues.com.au^
+||wl.jd.com^
 ||wl.writeless.ai^
 ||wlan-switch.partner.nautilus.net.daraz.com^
 ||wlan.partner-bamboo.net.daraz.com^

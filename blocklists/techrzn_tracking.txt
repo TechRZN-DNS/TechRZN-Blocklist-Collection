@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 16.09.2026 09:09
+Stand: 17.09.2026 09:17
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -25104,6 +25104,7 @@ Stand: 16.09.2026 09:09
 ||barracudaloudfront-barracuda.ns.emailvision.net.daraz.com^
 ||barracudanetworks.tt.omtrdc.net^
 ||barrelcider.com^
+||bartcons.com^
 ||bartdta.jameslane.com.au^
 ||bartdta.sleepinggiant.com.au^
 ||baruk.tt.omtrdc.net^
@@ -69636,6 +69637,7 @@ Stand: 16.09.2026 09:09
 ||drga.dubairealestate.net^
 ||drheragheranddropobjects.net.daraz.com^
 ||drhsder4m.marinapinhasdermatologia.com.br^
+||driedwheat.com^
 ||driftingchef.com^
 ||driftpizza.com^
 ||drive.carpoollogistics.com^
@@ -86171,6 +86173,7 @@ Stand: 16.09.2026 09:09
 ||fabiopatner.net.daraz.com^
 ||fabiorgsdocker.net.daraz.com^
 ||fabiozzpa3e62zt91c04r.administrator.net.daraz.com^
+||fabledglory.com^
 ||fabledsoul.com^
 ||fabryczna.viessmann.pl^
 ||fabulash.nu.net.daraz.com^
@@ -86709,6 +86712,7 @@ Stand: 16.09.2026 09:09
 ||fax.www.docs.net.daraz.com^
 ||fax1.efess2.tt.omtrdc.net^
 ||fax8000.tt.omtrdc.net^
+||faxardent.net^
 ||faxcoupons.com^
 ||faxert-lib-oa-1.net.daraz.com^
 ||faxhama.tt.omtrdc.net^
@@ -89326,6 +89330,7 @@ Stand: 16.09.2026 09:09
 ||firewallenticate.net.daraz.com^
 ||fireworkcamp.com^
 ||firing.hearthfireclay.org^
+||firmasset.com^
 ||first.aguiarinjurylawyers.com^
 ||first.aquatime.ro^
 ||first.aurivita.co^
@@ -89399,6 +89404,7 @@ Stand: 16.09.2026 09:09
 ||firstgb.simplysensitivitychecks.com^
 ||firstgiving-iad.sites.tt.omtrdc.net^
 ||firstgiving-techsky.sites.tt.omtrdc.net^
+||firsthoughtstudios.com^
 ||firstibstaging-sso.net.daraz.com^
 ||firstju2.29.app.tt.omtrdc.net^
 ||firstnationalbankofo.tt.omtrdc.net^
@@ -119898,6 +119904,7 @@ Stand: 16.09.2026 09:09
 ||init.izoa.fr^
 ||inixwg.vibrate.co.kr^
 ||injinji.tt.omtrdc.net^
+||inkcarts.net^
 ||inkcoupon.com^
 ||inkritpedia.tt.omtrdc.net^
 ||inkubate.actonservice.com^
@@ -124645,6 +124652,7 @@ Stand: 16.09.2026 09:09
 ||jqezp.aroma360.nl^
 ||jqflf.homefurnitureandpatio.com^
 ||jqguzn.pnxdesign.co.kr^
+||jqioregvpxgte.website^
 ||jqjvj.makewellness.com^
 ||jqlzwb.bauhaus.fi^
 ||jqmft.pyramidcollection.com^
@@ -131318,6 +131326,7 @@ Stand: 16.09.2026 09:09
 ||launchdarkly.brooksbrothers.tt.omtrdc.net^
 ||launcher-gamedev.tt-qe2.omtrdc.net^
 ||launchjack.com^
+||launchkite.com^
 ||launchpad-52-4.tt.omtrdc.net^
 ||launchpad-91-3.tt.omtrdc.net^
 ||laura.elements-lighting.fr^
@@ -131540,6 +131549,7 @@ Stand: 16.09.2026 09:09
 ||ldpsww.autocreditexpress.com^
 ||ldqbuy.sport-express.ru^
 ||ldqtdd.peing.net^
+||ldrws.com^
 ||ldschurch.tt.omtrdc.net^
 ||ldsptuen.smiletrainafrica.org^
 ||ldugvf.bolf.hu^
@@ -133362,6 +133372,7 @@ Stand: 16.09.2026 09:09
 ||lite.lchfarkivet.se^
 ||literally-analytics.appspot.com^
 ||litos.moventashop.com^
+||littlegeese.com^
 ||littlesun.net^
 ||littlewing-stage-legacy.net.daraz.com^
 ||littlewing-staginggrabhack.net.daraz.com^
@@ -147057,6 +147068,7 @@ Stand: 16.09.2026 09:09
 ||loveeveryday.brighterkind.com^
 ||lovelace.hrm.healthgrades.com^
 ||lovelydrum.com^
+||lovesbooks.com^
 ||loveseashore.com^
 ||loveyourself.tt.omtrdc.net^
 ||loweblogdbwebloglweblogncer.net.daraz.com^
@@ -170315,6 +170327,7 @@ Stand: 16.09.2026 09:09
 ||pluto2-k8s-prd.n-switch.net.daraz.com^
 ||pluto2-spring.net.daraz.com^
 ||pluto2.viviotech.net.daraz.com^
+||pluxpdzouwubj.space^
 ||plv.geocomply.com^
 ||plwfwc.teknozone.it^
 ||plwnxe.pascalcoste-shopping.com^
@@ -172905,6 +172918,7 @@ Stand: 16.09.2026 09:09
 ||quickkoala.io^
 ||quicklyedit.com^
 ||quickpcfixer.click^
+||quicktattoo.com^
 ||quicktrick.net^
 ||quidel.actonservice.com^
 ||quietknowledge.com^
@@ -211231,6 +211245,7 @@ Stand: 16.09.2026 09:09
 ||thecapitalburger.mboxedge37-02.tt.omtrdc.net^
 ||thecea.actonservice.com^
 ||thechannelcompany-mboxedge37-02.tt.omtrdc.net^
+||thecodingpad.com^
 ||thecontainerstore.tt.omtrdc.net^
 ||thecounter.net^
 ||thecrazychili.com^
@@ -229293,6 +229308,7 @@ Stand: 16.09.2026 09:09
 ||violetdemise.com^
 ||vion.mboxedge32-alb.tt.omtrdc.net^
 ||viop.leavenworth.tt.omtrdc.net^
+||viowrel.com^
 ||vip-00d70000000motieas.net.daraz.com^
 ||vip-2comsivaslups.net.daraz.com^
 ||vip-48.net.daraz.com^

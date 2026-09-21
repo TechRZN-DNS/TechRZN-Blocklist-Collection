@@ -1,5 +1,5 @@
 ### TechRZN - SPAM ###
-Stand: 20.09.2026 09:08
+Stand: 21.09.2026 09:44
 
 ||0-2spk-us.basecamp.app^
 ||0-amfauth.firebaseapp.com^
@@ -70206,7 +70206,6 @@ Stand: 20.09.2026 09:08
 ||dd1c68858375c6bda82c617e8c0ed03a.aols.pl^
 ||dd2-975804813452.southamerica-east1.run.app^
 ||dd3-975804813452.southamerica-east1.run.app^
-||dd35028.kasserver.com^
 ||dd365b.net^
 ||dd365c.com^
 ||dd365f.cc^
@@ -101579,7 +101578,6 @@ Stand: 20.09.2026 09:08
 ||kass02.firebaseapp.com^
 ||kassandrameetif.ru.com^
 ||kasse-gewinnburg.com^
-||kasserver.com^
 ||kasta-crossfit.fr^
 ||kasugai.keytrouble69.net^
 ||kasukabe.keytrouble69.net^

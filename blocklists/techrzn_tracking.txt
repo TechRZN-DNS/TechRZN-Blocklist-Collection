@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 21.09.2026 09:44
+Stand: 22.09.2026 09:08
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -18996,6 +18996,7 @@ Stand: 21.09.2026 09:44
 ||analytics.onlyonlinemarketing.com^
 ||analytics.optilead.co.uk^
 ||analytics.orenshmu.com^
+||analytics.org.coveo.com^
 ||analytics.ostr.io^
 ||analytics.oumahorse.com^
 ||analytics.ovative.com^
@@ -21450,6 +21451,7 @@ Stand: 21.09.2026 09:44
 ||apllogistics.actonservice.com^
 ||aplobv.xexymix.com^
 ||aplus.alibaba.com^
+||apm-rum.inf.miui.com^
 ||apm.qwant.com^
 ||apm.tnet.nl^
 ||apmgmtication-spring.net.daraz.com^
@@ -22857,6 +22859,7 @@ Stand: 21.09.2026 09:44
 ||appschk.scotiabank.com^
 ||appscore.credilike.me^
 ||appsd7appsappsapps0motieas.net.daraz.com^
+||appsecstudio.com^
 ||appsecurezomation.carte-gr.total.fr^
 ||appspartner-bamboo.net.daraz.com^
 ||apptest.gotvive.com^
@@ -29024,6 +29027,7 @@ Stand: 21.09.2026 09:44
 ||boutique.ricoh.fr^
 ||bovid.neural.love^
 ||bowl.actonservice.com^
+||bowlershut.com^
 ||box-csr41.application.net.daraz.com^
 ||box.bossdata.be^
 ||box.kryptotrejder.sk^
@@ -41040,6 +41044,7 @@ Stand: 21.09.2026 09:44
 ||click.kataweb.it^
 ||click.kaufland.tt.omtrdc.net^
 ||click.kz.ehealthinsurance.tt.omtrdc.net^
+||click.lenovo.com^
 ||click.lmbcustomersupport.com^
 ||click.mail.carousell.com^
 ||click.mail.thecarousell.com^
@@ -49643,6 +49648,7 @@ Stand: 21.09.2026 09:44
 ||cufroa.aboutyou.be^
 ||cuftub.myspirit.com.br^
 ||cuino.boironusa.com^
+||cuisinevoyager.com^
 ||culliganwaterco.actonservice.com^
 ||culture.intermedes.com^
 ||culture.pandasuite.io^
@@ -61961,6 +61967,7 @@ Stand: 21.09.2026 09:44
 ||dmp.citynews.ovh^
 ||dmpcdn.el-mundo.net^
 ||dmpgltdemeapartnersa.tt.omtrdc.net^
+||dmplog.qq.com^
 ||dmpmetrics.rcsmetrics.it^
 ||dmpxs.com^
 ||dmqykw.thirtymall.com^
@@ -131942,6 +131949,8 @@ Stand: 21.09.2026 09:44
 ||legalmatterrequest.adminhosting.accountart-of-falco.tt-qe-ci1.omtrdc.net^
 ||legalzoom.tt.omtrdc.net^
 ||leghe.tappycard.com^
+||lego-tech.zhuanzhuan.com^
+||lego.zhuanzhuan.com^
 ||legolas.monotote.com^
 ||legoo.simonpearce.com^
 ||leina.erleina-store.com^
@@ -146861,6 +146870,7 @@ Stand: 21.09.2026 09:44
 ||logs.betterstack.com^
 ||logs.chatboost-cv.algoage.co.jp^
 ||logs.dynamicauth.com^
+||logs.game.qq.com^
 ||logs.hotstar.com^
 ||logs.kaya.delfi.ee^
 ||logs.mezmo.com^
@@ -149618,6 +149628,7 @@ Stand: 21.09.2026 09:44
 ||manamoment.com^
 ||manatee.biodom.bio^
 ||manatee.wemaketechsimple.com^
+||manateemotors.com^
 ||manaus.ondec.com.br^
 ||manaus2026.ondec.com.br^
 ||manauslidera2026.ondec.com.br^
@@ -160325,6 +160336,7 @@ Stand: 21.09.2026 09:44
 ||nepls.pmdbeauty.com^
 ||nepveu.outstore.com.br^
 ||neratrack-ss.shopperoc.com^
+||nerdworldcon.com^
 ||neriuminternational.tt.omtrdc.net^
 ||nerkj.mrantenna.com.au^
 ||nerldv.ullapopken.pl^
@@ -164324,6 +164336,9 @@ Stand: 21.09.2026 09:44
 ||omftdc.morijuku.com^
 ||omgcreative.actonservice.com^
 ||omgthink.com^
+||omgup.didiglobal.com^
+||omgup.xiaojukeji.com^
+||omgup1.xiaojukeji.com^
 ||omieuz.razer.ru^
 ||omjtca.emlakjet.com^
 ||omn.americanexpress.com^
@@ -169798,6 +169813,7 @@ Stand: 21.09.2026 09:44
 ||pixeledhub.com^
 ||pixelgtm.daianemachado.com^
 ||pixelgun3dhack.tt.omtrdc.net^
+||pixelmoonstudio.com^
 ||pixels.afcdn.com^
 ||pixels.boxberry.ru^
 ||pixels.zalify.com^
@@ -191574,6 +191590,7 @@ Stand: 21.09.2026 09:44
 ||spec-sensors.actonservice.com^
 ||special.kvetinyexpres.cz^
 ||specialevent.informaengage.com^
+||specialreview.net^
 ||specialscissors.com^
 ||specialtypin.com^
 ||specialtyretailers.tt.omtrdc.net^
@@ -201258,6 +201275,7 @@ Stand: 21.09.2026 09:44
 ||st-azkaban.saikoo.ai^
 ||st-nlyss.plala.or.jp^
 ||st-nlyss1.plala.or.jp^
+||st-sentinel.vivo.com.cn^
 ||st.7figureofferformula.com^
 ||st.aformuladaloja.com.br^
 ||st.agendacheia.online^
@@ -207140,6 +207158,7 @@ Stand: 21.09.2026 09:44
 ||stpanalyzis.fernandonunes.co^
 ||stpbraurora.unycosmos.com^
 ||stpbt.softminkyblankets.com^
+||stpc.vivo.com.cn^
 ||stpcadoro.unycosmos.com^
 ||stpcbiblia.cacoelhopersonalizados.com.br^
 ||stpcld.academiadeautomacoes.com.br^
@@ -207691,6 +207710,7 @@ Stand: 21.09.2026 09:44
 ||superficialsquare.com^
 ||superiorgroup.actonservice.com^
 ||superpointlesshamsters.com^
+||superstarorganizer.com^
 ||superstats.observepoint.com^
 ||supiz.dosaze.com^
 ||suplementos.strongest.com.br^
@@ -211781,6 +211801,7 @@ Stand: 21.09.2026 09:44
 ||tk.cadeaux.com^
 ||tk.conforama.fr^
 ||tk.criandosemcrise.com.br^
+||tk.d.mi.com^
 ||tk.dietbon.fr^
 ||tk.domitys.fr^
 ||tk.dossier.co^
@@ -215694,6 +215715,7 @@ Stand: 21.09.2026 09:44
 ||track.leafz.life^
 ||track.learningwiththedetailist.com^
 ||track.lendcapital.com.br^
+||track.lenovo.com.cn^
 ||track.leregoledelmanzo.com^
 ||track.lesmills.com^
 ||track.leticiazarowny.com.br^
@@ -216236,6 +216258,7 @@ Stand: 21.09.2026 09:44
 ||tracker.fabricamillacomerciors.com.br^
 ||tracker.fadtreinamento.com.br^
 ||tracker.fellowdigitals.com^
+||tracker.fengkongcloud.com^
 ||tracker.financialcontent.com^
 ||tracker.gamedock.io^
 ||tracker.gamemonkey.org^
@@ -238395,6 +238418,7 @@ Stand: 21.09.2026 09:44
 ||xp-mc-taxes-engine.accountausflphdisp01-vip.tt-qe2.omtrdc.net^
 ||xp-phx2.127.0.0.1babycenter.tt.omtrdc.net^
 ||xp.allianz.de^
+||xp.atlassian.com^
 ||xp.idmapper.tt.omtrdc.net^
 ||xp2023-pix.s3.amazonaws.com^
 ||xp3tplo4c4ynzzrt.emailvision.authenticate.net.daraz.com^

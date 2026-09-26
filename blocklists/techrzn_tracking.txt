@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 25.09.2026 09:27
+Stand: 26.09.2026 09:13
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -49289,7 +49289,6 @@ Stand: 25.09.2026 09:27
 ||cstagesco-capwap-controller.net.daraz.com^
 ||cstaging-stagingparmakla.net.daraz.com^
 ||cstartient.r-ht-1.net.daraz.com^
-||cstaticdun.126.net^
 ||cstats.sankakucomplex.com^
 ||cstatslib-ht-1r13.bucket.net.daraz.com^
 ||cstm.baidu.com^
@@ -89464,7 +89463,6 @@ Stand: 25.09.2026 09:27
 ||fishing.bucketbro.com.au^
 ||fishing.daigostudio.com^
 ||fishingrodsgalore.com^
-||fishingtoolsbox.com^
 ||fishspies.com^
 ||fissler.tt.omtrdc.net^
 ||fit.bedrijfsfitnessnederland.nl^
@@ -146875,6 +146873,7 @@ Stand: 25.09.2026 09:27
 ||logs-engine.a.ns.emailvision.net.daraz.com^
 ||logs-enms.tt.omtrdc.net^
 ||logs-esdev-sandbox.tt.omtrdc.net^
+||logs-ingester.prod.zuddl.com^
 ||logs-partners.coupang.com^
 ||logs.51cto.com^
 ||logs.adplay.ru^
@@ -147627,6 +147626,7 @@ Stand: 25.09.2026 09:27
 ||lumbu.naturallife.com^
 ||lumen.nanoni.pl^
 ||lumenera.actonservice.com^
+||lumengaming.com^
 ||lumhdco.mykitsch.com^
 ||luminati.io^
 ||luminousboulevard.com^
@@ -174208,6 +174208,7 @@ Stand: 25.09.2026 09:27
 ||revolt.ppcenergy.ro^
 ||revuyt.misako.com^
 ||rewaphysio.net.daraz.com^
+||rewardangels.com^
 ||rewards-my.greateasternlife.com^
 ||rewards-sg.greateasternlife.com^
 ||rewards.parago.com^
@@ -190917,6 +190918,7 @@ Stand: 25.09.2026 09:27
 ||solarcar.tt.omtrdc.net^
 ||solarislabyrinth.com^
 ||solarrecharge.net^
+||soldoutstubs.com^
 ||sole.bkosmetik.com^
 ||sole.pretto.fr^
 ||sole.riverwalkdental.com.au^
@@ -207712,6 +207714,7 @@ Stand: 25.09.2026 09:27
 ||sundanceholdingsllc.tt.omtrdc.net^
 ||sunflaggroup.com^
 ||sunlightmetrics.b-cdn.net^
+||sunlong.net^
 ||sunnylettings.com^
 ||sunpharma.tt.omtrdc.net^
 ||sunpowercorporation.tt.omtrdc.net^
@@ -213173,6 +213176,7 @@ Stand: 25.09.2026 09:27
 ||topicalcartel.com^
 ||topicjungle.com^
 ||topictravel.htz.tt.omtrdc.net^
+||toplaunch.net^
 ||topofthehill.brynje.no^
 ||toppocztapoczta.net.daraz.com^
 ||topsecretapp.net^
@@ -218319,6 +218323,7 @@ Stand: 25.09.2026 09:27
 ||trainingfbr41.net.daraz.com^
 ||trainingjav.net.daraz.com^
 ||trainingpplictrainingtionsnginx.net.daraz.com^
+||trainingreality.com^
 ||trainingtestersr41.net.daraz.com^
 ||trainingtoolbar-nsr41.net.daraz.com^
 ||trainingtrackerr41.net.daraz.com^
@@ -228562,6 +228567,7 @@ Stand: 25.09.2026 09:27
 ||ventotrans.tt.omtrdc.net^
 ||venture-365-inspired.com^
 ||venture-enterprising.com^
+||venturemen.com^
 ||venturi.danaher.tt.omtrdc.net^
 ||ventus-sales.accountalpha-s3-chef-status-stagingdefaultproduction.tt-stage3.omtrdc.net^
 ||venue-service-web-int.accountalpha-s3-chef-status-stagingdefaultproduction.tt-stage3.omtrdc.net^
@@ -231504,6 +231510,7 @@ Stand: 25.09.2026 09:27
 ||walkersoft.tt-stage-ci1.omtrdc.net^
 ||walkingstick.tt.omtrdc.net^
 ||walkingwithus.tt.omtrdc.net^
+||walkourworld.com^
 ||walkure.tt.omtrdc.net^
 ||walkure42.tt.omtrdc.net^
 ||wall-labels-api.net.daraz.com^
@@ -233235,6 +233242,7 @@ Stand: 25.09.2026 09:27
 ||webbyword.net^
 ||webcasts.de.ni.com^
 ||webcasts.partnermcafee.com^
+||webclarion.com^
 ||webcon.se-legal.de^
 ||webcont.zorge.com^
 ||webcontr-erbe.mein-erbe-tut-gutes.de^
@@ -233807,6 +233815,7 @@ Stand: 25.09.2026 09:27
 ||websms.tt.omtrdc.net^
 ||websmsppr-osms-2.net.daraz.com^
 ||websockets.net.daraz.com^
+||webspa.net^
 ||webspam.tt-stage-ci1.omtrdc.net^
 ||websphere.mmspdistribe.tt.omtrdc.net^
 ||webspires.net^
@@ -233953,6 +233962,7 @@ Stand: 25.09.2026 09:27
 ||weeb.weebystitches.com^
 ||weeberry.tt.omtrdc.net^
 ||weed6tape.com^
+||weeklycurrents.com^
 ||weem.weemco.com^
 ||weemail.net.daraz.com^
 ||weg.weegallery.com^

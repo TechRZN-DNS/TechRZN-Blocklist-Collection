@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 27.09.2026 09:52
+Stand: 28.09.2026 10:40
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -8,6 +8,7 @@ Stand: 27.09.2026 09:52
 ||0dgwn.bemobtrcks.com^
 ||0el-preiswert-kaufen.de^
 ||0hyzxx-rc.myshopify.com^
+||1-rx-shop.com^
 ||101apotheek.com^
 ||101vectorcenter.sbs^
 ||10xdealership.com^
@@ -417,6 +418,7 @@ Stand: 27.09.2026 09:52
 ||albacontainersgmbh.de^
 ||albrechtmode.de^
 ||alderhofatelier.myshopify.com^
+||aldi-life.vip^
 ||aldobolsasmexico.com^
 ||aldofashion.com^
 ||aldorabatt.de^
@@ -991,6 +993,7 @@ Stand: 27.09.2026 09:52
 ||asbeconcerned.com^
 ||ascelteria.com^
 ||aschenbecher-deutschland.de^
+||ascherslebener-holzhandel.de^
 ||asci-ipy.de^
 ||ascreationdecor.com^
 ||asd-rechtsanwaelte.de^
@@ -2002,7 +2005,6 @@ Stand: 27.09.2026 09:52
 ||binomo.com^
 ||binomo.in^
 ||binomo.info^
-||binomo.vip^
 ||binomo1.com^
 ||binomo2.zendesk.com^
 ||binomoidr.com^
@@ -2254,6 +2256,7 @@ Stand: 27.09.2026 09:52
 ||bootsde.com^
 ||bootsoutlet.shop^
 ||bootsprofi.com^
+||borde-brennholzpaulusgmbh.com^
 ||boridashop.de^
 ||borneprodukter.com^
 ||boroconcept.com^
@@ -2368,6 +2371,7 @@ Stand: 27.09.2026 09:52
 ||brennholz-widmanngmbh.com^
 ||brennholz-world.at^
 ||brennholz-ws.de^
+||brennholzangebot.com^
 ||brennholzanhanger.de^
 ||brennholzauswahl.de^
 ||brennholzboersch.com^
@@ -2376,6 +2380,7 @@ Stand: 27.09.2026 09:52
 ||brennholzdirekt.com^
 ||brennholzgarten.de^
 ||brennholzhaus.de^
+||brennholzhochwald-de.com^
 ||brennholzkamin.de^
 ||brennholzkaufen.shop^
 ||brennholzmarkt.com^
@@ -2809,6 +2814,7 @@ Stand: 27.09.2026 09:52
 ||celeste-botanicals.com^
 ||celinemichaud.com^
 ||celio.com.de^
+||cellpeptides.com^
 ||cellphonelocation.net^
 ||celmak.de^
 ||celorin.com^
@@ -3072,6 +3078,7 @@ Stand: 27.09.2026 09:52
 ||clpmobelrabatt.com^
 ||clubeboss.de^
 ||cluckergifts.ecwid.com^
+||cma88.vip^
 ||cmchbhopal.com^
 ||cmctradingeu.com^
 ||cmdt-sales.com^
@@ -3234,6 +3241,7 @@ Stand: 27.09.2026 09:52
 ||cooltv.shop^
 ||cooludi.com^
 ||cooperatem.com^
+||cooperation-odoo.com^
 ||cooponline.de^
 ||coordinatedy.com^
 ||copaibacare.com^
@@ -5051,7 +5059,6 @@ Stand: 27.09.2026 09:52
 ||evisaindia.com^
 ||evisaindia.org^
 ||evisaindiaonline.org^
-||evisas.travel^
 ||evitrol.com^
 ||evo-pharmacy.com^
 ||evolgrafix.de^
@@ -5341,6 +5348,7 @@ Stand: 27.09.2026 09:52
 ||faze10.com^
 ||faze2.com^
 ||faze3.com^
+||faze39.com^
 ||faze4.com^
 ||faze47.com^
 ||faze5.com^
@@ -5589,7 +5597,6 @@ Stand: 27.09.2026 09:52
 ||fitbands.de^
 ||fitflopromania.com^
 ||fitgirl-repacks-site.org^
-||fitgirl-repacks.vip^
 ||fitiwelt.com^
 ||fitliebe.de^
 ||fitness-walk.com^
@@ -7585,6 +7592,7 @@ Stand: 27.09.2026 09:52
 ||hollister.com.de^
 ||hollylollies.com^
 ||holsteinerblumenservice.de^
+||holz-abl-zentrale.de^
 ||holz-brennholzhandel.de^
 ||holz-deal24.de^
 ||holz-discounter.com^
@@ -7605,6 +7613,7 @@ Stand: 27.09.2026 09:52
 ||holzerneblocke.com^
 ||holzfursfeuer.de^
 ||holzgartenprofi.de^
+||holzgluck.de^
 ||holzhack-schnitzel.de^
 ||holzhambach.com^
 ||holzhandelhensel.com^
@@ -7618,6 +7627,7 @@ Stand: 27.09.2026 09:52
 ||holzlangbau.de^
 ||holzleitnergmbh.de^
 ||holzliefer.com^
+||holzliefernexpress.de^
 ||holzmarkte.de^
 ||holzmoebelkaufen.de^
 ||holznotenpulte.de^
@@ -8374,6 +8384,7 @@ Stand: 27.09.2026 09:52
 ||jeffora.de^
 ||jeffspoolservice.com^
 ||jehmrxht.shop^
+||jeinn.com^
 ||jellycats.de^
 ||jellylight.at^
 ||jellystores.com^
@@ -8391,7 +8402,6 @@ Stand: 27.09.2026 09:52
 ||jeulia.de^
 ||jewellery-palace.com^
 ||jewelleryina.com^
-||jewellvanmarter.za.com^
 ||jewelryclaire.com^
 ||jewelrymejuri.com^
 ||jewelrynovainc.com^
@@ -9044,6 +9054,7 @@ Stand: 27.09.2026 09:52
 ||kmspi.co^
 ||kmspico-official.org^
 ||kmspico.io^
+||kmspico.ws^
 ||kmspicoofficial.com^
 ||knackhi.com^
 ||knackly.de^
@@ -9964,6 +9975,7 @@ Stand: 27.09.2026 09:52
 ||lushdream.de^
 ||lusto.de^
 ||lutona.de^
+||lutus-containers-gmbh.de^
 ||luuckylinen.com^
 ||luvelle.de^
 ||luvemo.de^
@@ -10392,6 +10404,7 @@ Stand: 27.09.2026 09:52
 ||medsaurora.com^
 ||medshopcpl.com^
 ||medsinfoshop.com^
+||medunakpelletsgmbh.de^
 ||medzrezeptfrei.com^
 ||meertickets.de^
 ||meetfigure.com^
@@ -11760,6 +11773,7 @@ Stand: 27.09.2026 09:52
 ||novores.de^
 ||nowadayse.com^
 ||nowefilmyonline.pl^
+||nowfahrrad.de^
 ||nowgreenhealthes.com^
 ||nowistherevolution.com^
 ||nowoption.com^
@@ -11946,10 +11960,10 @@ Stand: 27.09.2026 09:52
 ||oils-natural.eu^
 ||oiltrex.de^
 ||oins.shop^
-||ojlkimed.vip^
 ||okatode.com^
 ||okbon.de^
 ||okdebrid.com^
+||oko-spechtbrennholzgmbh.de^
 ||okohausplus.com^
 ||okun.shop^
 ||okuracookware.ch^
@@ -12848,6 +12862,7 @@ Stand: 27.09.2026 09:52
 ||pmtinnova.com^
 ||pn-parfum.com^
 ||pn99.cc^
+||pncontainerlogistik-gmbh.de^
 ||png-group.net^
 ||pnl-holding.com^
 ||pnladvanced.com^
@@ -13776,7 +13791,6 @@ Stand: 27.09.2026 09:52
 ||robotxmarkt.de^
 ||robozen-fx.com^
 ||robustwerkzeug.com^
-||robuxmenu.vip^
 ||rochobbies.com^
 ||rockchief.com^
 ||rocketplayonlinecasino.net^
@@ -13872,6 +13886,7 @@ Stand: 27.09.2026 09:52
 ||rotweinbar.com^
 ||rotyka.com^
 ||roulettegem.com^
+||roussebois.com^
 ||routehygge.co^
 ||routermeister24.myshopify.com^
 ||routinefashiones.com^
@@ -14744,7 +14759,6 @@ Stand: 27.09.2026 09:52
 ||skinsociety.shop^
 ||skinszone.net^
 ||skinwell.store^
-||skipped.vip^
 ||skiracedepartment.com^
 ||skirt-discount-store.shop^
 ||skisurfskate.com^
@@ -15752,6 +15766,7 @@ Stand: 27.09.2026 09:52
 ||taurachbahn.at^
 ||tavaresautopecas.com^
 ||tavoloni.myshopify.com^
+||tavorello.net^
 ||tax.crypto.com^
 ||taxoflex.de^
 ||tbao684tryo.com^
@@ -15763,7 +15778,6 @@ Stand: 27.09.2026 09:52
 ||td-treuhand.de^
 ||tddexpresslogistics.com^
 ||tdglobalcompany.io^
-||tdgrop168.vip^
 ||tdxsz.com^
 ||te.de^
 ||teachbrigh.com^
@@ -17211,7 +17225,6 @@ Stand: 27.09.2026 09:52
 ||vivagopro.com^
 ||vivaharmoni.com^
 ||vivaia-schuhe.de^
-||vivaiacollection.com^
 ||vivaiaschuhe.at^
 ||vivaiaschuhe.com^
 ||vivaiaschuhe.de^
@@ -17433,6 +17446,7 @@ Stand: 27.09.2026 09:52
 ||warevo.de^
 ||waris-solar.de^
 ||warme-quelle.com^
+||warmeholze.de^
 ||warmeholzhaus.com^
 ||warmeluxe.com^
 ||warmethuis.com^
@@ -17735,6 +17749,7 @@ Stand: 27.09.2026 09:52
 ||wimmer-boutique.at^
 ||win2daycasino.at^
 ||winandwine.com^
+||wind88.shop^
 ||windelwissendepop.shop^
 ||windride.de^
 ||windyys.com^

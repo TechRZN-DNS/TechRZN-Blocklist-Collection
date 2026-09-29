@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 28.09.2026 10:40
+Stand: 29.09.2026 10:28
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -15223,6 +15223,7 @@ Stand: 28.09.2026 10:40
 ||addiction-addvbux.net.daraz.com^
 ||addiction-dirkh-stagingstaging-cointoon.net.daraz.com^
 ||addictioninternational.actonservice.com^
+||addmoves.com^
 ||addon-bellsouth.administrator.net.daraz.com^
 ||addon-ns.apivision.net.daraz.com^
 ||addon-ns1.twtelecom.net.daraz.com^
@@ -18039,6 +18040,7 @@ Stand: 28.09.2026 10:40
 ||amaxinsurance.tt.omtrdc.net^
 ||amazing.tagpeak.com^
 ||amazingentri.stape.dev^
+||amazinglea.com^
 ||amazon-email.branch.rocks^
 ||amazoncustomerservice.d2.sc.tt.omtrdc.net^
 ||amazonfreight.tt.omtrdc.net^
@@ -23038,9 +23040,11 @@ Stand: 28.09.2026 10:40
 ||art2wave.actonservice.com^
 ||art9-sjc12-dr01.net.daraz.com^
 ||artbranch.net^
+||artcat.net^
 ||artconcept.tt.omtrdc.net^
 ||artdisabledpartner.net.daraz.com^
 ||artemis-cdn.ocdn.eu^
+||artfulsavage.com^
 ||artho.arthobd.com^
 ||arthurbrent.aquadrip.se^
 ||arthurbrent.bevo.com^
@@ -28628,6 +28632,7 @@ Stand: 28.09.2026 10:40
 ||bmst.pw^
 ||bmstwtelecom.azure.net.daraz.com^
 ||bmtke.bemobilephysio.com.au^
+||bmtrcs.com^
 ||bmtzm.ds18.com^
 ||bmuyov.bobbibrown.co.kr^
 ||bmuzn.aviatorusa.com^
@@ -49897,6 +49902,7 @@ Stand: 28.09.2026 10:40
 ||cutie.kidsmagictree.com^
 ||cutld.kahootsfeedandpet.com^
 ||cuts-ns2.emailvision.net.daraz.com^
+||cutsmarter.net^
 ||cutvideo-stageconbert2mp3.net.daraz.com^
 ||cutzl.authorsuccess.com^
 ||cuwtqn.doseofcolors.com^
@@ -80007,6 +80013,7 @@ Stand: 28.09.2026 10:40
 ||endeavorbusinessmedia.actonservice.com^
 ||endesa.tt.omtrdc.net^
 ||endgl.cgenetool.com^
+||endhairfall.com^
 ||endirect-b.ns.emailvision.net.daraz.com^
 ||endisabledpartnerinewinter.net.daraz.com^
 ||endjb.trendozashop.com^
@@ -161403,6 +161410,7 @@ Stand: 28.09.2026 10:40
 ||nocvob.yellohvillage.fr^
 ||nod.caracda.de^
 ||nod1.lirema.se^
+||nodals.io^
 ||node-kubemarketing.net.daraz.com^
 ||node-partner.net.daraz.com^
 ||node-r-dw-1.net.daraz.com^

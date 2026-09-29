@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 28.09.2026 10:40
+Stand: 29.09.2026 10:28
 
 ||000000555.xyz^
 ||0025974bf482fe84ac6a59293ae0bc0432a7b9fc.com^
@@ -30,7 +30,6 @@ Stand: 28.09.2026 10:40
 ||1.dns.noridev.moe^
 ||1.hide.newflamingodomain.co.uk^
 ||1.hotelne.com^
-||1.masi.ir.he6fhd.ru^
 ||1.rock-review.ru^
 ||1.thetravelingtourguide.com^
 ||10.ln7371.top^
@@ -631,7 +630,6 @@ Stand: 28.09.2026 10:40
 ||3dns.eu^
 ||3dphototwitch.com^
 ||3e3c.org^
-||3etare.co.uk^
 ||3fan4.net^
 ||3fancloud.net^
 ||3fsurmp9.com^
@@ -697,7 +695,6 @@ Stand: 28.09.2026 10:40
 ||502cloud.top^
 ||502jsq.cc^
 ||502jsq.com^
-||505-808-404-202.ir^
 ||51-222-141-2.backname.io^
 ||51-222-141-2.nip.io^
 ||51-222-141-2.plesk.page^
@@ -901,7 +898,6 @@ Stand: 28.09.2026 10:40
 ||8tiodxhk8a.execute-api.us-east-1.amazonaws.com^
 ||8urqn7kg.com^
 ||8v9m.com^
-||91.234.147.11.aprawood.ir^
 ||91.234.147.13.aprawood.ir^
 ||91.234.147.13.server-space52.info^
 ||91.234.147.15.aprawood.ir^
@@ -1202,7 +1198,6 @@ Stand: 28.09.2026 10:40
 ||ad.tzockt.beer^
 ||ad.viet.date^
 ||ad.visbran.fr^
-||ad1.arixo.shop^
 ||adam.loves.gandhi.spacejamhd.com^
 ||adam.poolaki.co.uk^
 ||adamkazwire.global.ssl.fastly.net^
@@ -1881,6 +1876,7 @@ Stand: 28.09.2026 10:40
 ||api.du-just-link.com^
 ||api.fatibara.com^
 ||api.get-just-api.com^
+||api.mangoseason5.co.uk^
 ||api.miningbest.com^
 ||api.npvu.me^
 ||api.quetios.com^
@@ -2152,6 +2148,7 @@ Stand: 28.09.2026 10:40
 ||baablu.tcloud.my^
 ||babelsnow.com^
 ||babybee.tcogpcal.org^
+||bache.poolaki.co.uk^
 ||back-in-mah-day-we-didnt-have-shadow-proxxy.easterndns.com^
 ||backend.development.sanluix.org^
 ||bad-heart-622.conwordable.com^
@@ -2706,6 +2703,7 @@ Stand: 28.09.2026 10:40
 ||bmqan2static.b-cdn.net^
 ||bn0dghrx.com^
 ||bnj0d3r2.com^
+||bo.cryptocurency.wiki^
 ||bo0ji.co.uk^
 ||bobr.netphoenix.ru^
 ||bobra.bid^
@@ -3071,6 +3069,7 @@ Stand: 28.09.2026 10:40
 ||cdiiceyn.com^
 ||cdn-7xf.pages.dev^
 ||cdn-earnapp.b-cdn.net^
+||cdn.mangoseason4.co.uk^
 ||cdn.refined.pro^
 ||cdn.streamr.com^
 ||cdn01-1euddpds-cjl.top^
@@ -4122,7 +4121,6 @@ Stand: 28.09.2026 10:40
 ||daxiongvpn.com^
 ||daxiro.ru^
 ||day.dresus.org^
-||day.vtoroe-dyhanie.space^
 ||daydayvpn.com^
 ||daydreaming.env.pm^
 ||daydreaming.is-a.software^
@@ -5526,6 +5524,7 @@ Stand: 28.09.2026 10:40
 ||doh.buzz^
 ||doh.captnemo.in^
 ||doh.ccb-net.it^
+||doh.contentkeeper.net^
 ||doh.controld.com^
 ||doh.cornes.me^
 ||doh.corpa.me^
@@ -6366,7 +6365,6 @@ Stand: 28.09.2026 10:40
 ||excvvbinnvx.easterndns.com^
 ||exemptpaint.space^
 ||exg7xhdl.com^
-||exiscos.co.uk^
 ||exns1.exalto.nu^
 ||exnxoswc.cc^
 ||expatshield.com^
@@ -8477,6 +8475,7 @@ Stand: 28.09.2026 10:40
 ||imbavpn.mom^
 ||imbored.kinemasot.cl^
 ||imfroggingit.soloo.win^
+||img.mangoseason6.co.uk^
 ||imgcache.b-cdn.net^
 ||imgg.work^
 ||imhewcwd.com^
@@ -9022,7 +9021,6 @@ Stand: 28.09.2026 10:40
 ||k6-letsvpn.net^
 ||ka4tmb.duckdns.org^
 ||kaandikec.com^
-||kabab.mikhay.co.uk^
 ||kahoot.mom^
 ||kahoot.mom.cdn.cloudflare.net^
 ||kaidenhelpzu.info.north-kazakhstan.su.cdn.cloudflare.net^
@@ -9588,6 +9586,7 @@ Stand: 28.09.2026 10:40
 ||latiaocloud.net^
 ||latswdyx3.com^
 ||launchjoint.com^
+||lavashak.mikhay.co.uk^
 ||lavishlylearning.com^
 ||lavortai.online^
 ||lavortai.shop^
@@ -9750,6 +9749,8 @@ Stand: 28.09.2026 10:40
 ||lightspeed.qr-code.co.za^
 ||lightspeedisass.shop^
 ||lightspeedisgay.cfd^
+||lightspeedsystems.app^
+||lightspeedsystems.com^
 ||likeproxy.com^
 ||liktronapp.com^
 ||lilibox.freeboxos.fr^
@@ -9898,8 +9899,10 @@ Stand: 28.09.2026 10:40
 ||lqz30c6o.com^
 ||lr834jgr.com^
 ||lrga.space^
+||lsfilter.com^
 ||lslnyjq.uk^
 ||lsmdm.cf^
+||lsmdm.com^
 ||lsmdm.gq^
 ||lsmdm.tk^
 ||lstydcrm.com^
@@ -9935,7 +9938,6 @@ Stand: 28.09.2026 10:40
 ||lurk.info^
 ||luxembourg.privacy-dns.pw^
 ||luxerno.xyz^
-||luxuryman.sbs^
 ||luzubu.com^
 ||lvchavpn.click^
 ||ly-1.net^
@@ -9963,7 +9965,6 @@ Stand: 28.09.2026 10:40
 ||madeinchina1987.zapto.org^
 ||magiccloak.net^
 ||maherhost.uk^
-||mahi.poolaki.co.uk^
 ||mahnor.com^
 ||maichongvpn.com^
 ||maifot.com^
@@ -9995,6 +9996,8 @@ Stand: 28.09.2026 10:40
 ||manchaland.clubskunk.com^
 ||mandarin.chinapoem.org^
 ||mangojiasu.com^
+||mangoseason1.co.uk^
+||mangoseason8.co.uk^
 ||mangshe.org^
 ||maning.pro^
 ||manually-relaxed-alien.global.ssl.fastly.net^
@@ -10075,7 +10078,6 @@ Stand: 28.09.2026 10:40
 ||mathwonders.xyz^
 ||matorian.pro^
 ||matrixvpn.net^
-||matrixxx.top^
 ||mavalleenumerique.hopto.org^
 ||mavotek.xyz^
 ||mavrex.ru^
@@ -10113,6 +10115,7 @@ Stand: 28.09.2026 10:40
 ||mechanikdns.kozow.com^
 ||media.benzcls.co.uk^
 ||media.logic.postie.org^
+||media.mangoseason2.co.uk^
 ||media.music.orienta.com.br^
 ||media.network^
 ||mediahint.com^
@@ -10209,6 +10212,7 @@ Stand: 28.09.2026 10:40
 ||minoritymath.buzz.cdn.cloudflare.net^
 ||minutefishy.theworkpc.com^
 ||mio.foltmeingop.co.uk^
+||mio.mozitop.co.uk^
 ||mipelinusa.ddns.net^
 ||mipelinusa.duckdns.org^
 ||miphgtct.ipv64.net^
@@ -10401,7 +10405,6 @@ Stand: 28.09.2026 10:40
 ||motivationaisle.org^
 ||moto.adg.siudzinski.net^
 ||motor-cycle-part.org^
-||mottasel.goooalir.co.uk^
 ||mouse.pics^
 ||moutx2.co^
 ||movieproxy.com^
@@ -10703,6 +10706,7 @@ Stand: 28.09.2026 10:40
 ||new-nah.warning.cx^
 ||new-water-132.conwordable.com^
 ||new.lambforkebeb.co.uk^
+||new.nchnch.co.uk^
 ||new2.lambforkebeb.co.uk^
 ||newcovumc.org^
 ||newd.rezyro.com^
@@ -10759,6 +10763,7 @@ Stand: 28.09.2026 10:40
 ||nicolasog12.github.io^
 ||nicsezcheckfbi.gov^
 ||nigan.goooalir.co.uk^
+||night.vtoroe-dyhanie.space^
 ||nikonikoproxy.casacam.net^
 ||nikonikoproxy.giize.com^
 ||nilfheim.asguardian.de^
@@ -10788,6 +10793,7 @@ Stand: 28.09.2026 10:40
 ||nl-ams-w-p-1.nashkan.net^
 ||nl-dro-w-f-1.nashkan.net^
 ||nl-dro-w-p-1.nashkan.net^
+||nl.cryptocurency.wiki^
 ||nl.dns.privex.io^
 ||nl.dns.shx.su^
 ||nl.rslvr.eu^
@@ -11151,7 +11157,6 @@ Stand: 28.09.2026 10:40
 ||onion.ws^
 ||online.zotio.ru^
 ||onlineanonymizer.com^
-||onlineforless.co.uk^
 ||onlineipchanger.com^
 ||onlineproxy.co^
 ||onlineproxy.co.uk^
@@ -11378,6 +11383,7 @@ Stand: 28.09.2026 10:40
 ||parvino.ru^
 ||pasdfn.com^
 ||pashagame456.com^
+||pashmak.mikhay.co.uk^
 ||paskam.xyz^
 ||passageplace.com^
 ||passiveapp.com^
@@ -11526,6 +11532,7 @@ Stand: 28.09.2026 10:40
 ||pingmybee.net^
 ||pinguproxy.com^
 ||pingvpn.com^
+||pintrest-cool.browncolor.info^
 ||pinweb.info^
 ||piplvpn.com^
 ||piproxies.com^
@@ -12124,6 +12131,7 @@ Stand: 28.09.2026 10:40
 ||pwragupc.cc^
 ||pwriuja.potmix.cc^
 ||pwwtpiby.com^
+||px.cryptocurency.wiki^
 ||pxcim.xyz^
 ||pxgbpowx.com^
 ||pxi-fusion.com^
@@ -12328,6 +12336,7 @@ Stand: 28.09.2026 10:40
 ||rammersharkie.freeddns.org^
 ||ramy.run.place^
 ||randomdomain.shop^
+||range-sal.browncolor.info^
 ||rankedmc.win^
 ||rannma-saikou.easterndns.com^
 ||rannmaa.easterndns.com^
@@ -12413,6 +12422,7 @@ Stand: 28.09.2026 10:40
 ||register.zedzander.com^
 ||relatenose.com^
 ||relay.lsaccess.cf^
+||relay.school^
 ||relay.surfvpn.app^
 ||relayon.org^
 ||relokant.net^
@@ -12652,6 +12662,8 @@ Stand: 28.09.2026 10:40
 ||s.idsam.com^
 ||s.info.north-kazakhstan.su.cdn.cloudflare.net^
 ||s01.neo-trading.org^
+||s02.neo-trading.org^
+||s03.neo-trading.org^
 ||s0r4nd0m.com^
 ||s1.s2.shahramv1.site^
 ||s1.srch.top^
@@ -12989,6 +13001,7 @@ Stand: 28.09.2026 10:40
 ||shalenkov.cc^
 ||shalenkov.dev^
 ||shameless-plug-for.geometry-games.online^
+||shampoo.mikhay.co.uk^
 ||shandian.asia^
 ||shandian.autos^
 ||shandian.cn.com^
@@ -13370,6 +13383,7 @@ Stand: 28.09.2026 10:40
 ||statemindpath.com^
 ||statetestingstudies.com^
 ||static-is-still-alive.camdvr.org^
+||static.mangoseason3.co.uk^
 ||staticin.pages.dev^
 ||staticnetcontent.com^
 ||staticrush.com^
@@ -13941,7 +13955,6 @@ Stand: 28.09.2026 10:40
 ||topman8848.com^
 ||toppal.tech^
 ||toppeopleverse.top^
-||topproxt.asia^
 ||topsecure.info^
 ||topspeedvpn.homes^
 ||topstudio.one^
@@ -14728,6 +14741,7 @@ Stand: 28.09.2026 10:40
 ||villalazza.stream^
 ||villi.shurakenas.ru^
 ||vilor.site^
+||ving.mozitop.co.uk^
 ||vinny-stinks-like-dudu.com^
 ||vipanol.app^
 ||vipdownloadmena.xyz^
@@ -15271,7 +15285,6 @@ Stand: 28.09.2026 10:40
 ||vyprvpn.com^
 ||vzrsy.com^
 ||w--e.giize.com^
-||w-w-w-w.ir^
 ||w2fe9j5f.com^
 ||w6wgmwa4bd.execute-api.us-east-1.amazonaws.com^
 ||wabs8nuc.com^
@@ -15338,6 +15351,7 @@ Stand: 28.09.2026 10:40
 ||web-proxy.org^
 ||web-proxy.site^
 ||web.artweb.website.cdn.cloudflare.net^
+||web.mangoseason7.co.uk^
 ||web.unstop.cloudns.ch^
 ||web3jsq.com^
 ||web3jsq.pro^

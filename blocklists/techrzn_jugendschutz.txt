@@ -1,5 +1,5 @@
 ### TechRZN - JUGENDSCHUTZ ###
-Stand: 28.09.2026 10:40
+Stand: 29.09.2026 10:28
 
 ||0-07.ru^
 ||0-24bpautomentes.hu^
@@ -150609,7 +150609,6 @@ Stand: 28.09.2026 10:40
 ||live.investtoimpressclub.com^
 ||live.jjlovedrr.com^
 ||live.ksapisrv.com^
-||live.logaholic.com^
 ||live.lonelywifehookup.com^
 ||live.love.easyflirt.com^
 ||live.meetme.com^
@@ -150624,8 +150623,6 @@ Stand: 28.09.2026 10:40
 ||live.theleague.com^
 ||live.wematcher.com^
 ||live.wordpress.thevoiceofonett.org^
-||live1.logaholic.com^
-||live2.logaholic.com^
 ||livea.ru^
 ||liveaboardtheconception.com^
 ||liveadexchanger.com^

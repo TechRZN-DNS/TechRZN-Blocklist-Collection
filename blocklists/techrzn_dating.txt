@@ -1,5 +1,5 @@
 ### TechRZN - DATING ###
-Stand: 29.09.2026 10:28
+Stand: 30.09.2026 10:20
 
 ||0-candidates.t-access.com^
 ||0-datingaction.cn^
@@ -267859,7 +267859,6 @@ Stand: 29.09.2026 10:28
 ||v-dating-claw.pages.dev^
 ||v-dating.com^
 ||v-intimidating.tommytwt.he.him.com^
-||v.singles^
 ||v2-adapter-singlesoftware.plugnplay.host^
 ||v2datesandrates.packingcopilot.com^
 ||v2vdating.com^

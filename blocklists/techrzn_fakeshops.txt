@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 30.09.2026 10:20
+Stand: 01.10.2026 10:47
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -22,6 +22,7 @@ Stand: 30.09.2026 10:20
 ||18023.ebizv4l.ebusiness-challenge.at^
 ||1875-financeinvest.com^
 ||1agamingchairs.com^
+||1bmo-reactivemyaccount0.com^
 ||1euro.at^
 ||1eurotip.com^
 ||1f6seh-tk.myshopify.com^
@@ -55,7 +56,6 @@ Stand: 30.09.2026 10:20
 ||24med.net^
 ||24slots-online.de^
 ||24trading.co^
-||269-versand-kleinanzeigen.de^
 ||270278609-2020004278-462904544-440202503325--570202500372x-usps.com^
 ||2bgreen.at^
 ||2f-kanzlei.com^
@@ -130,9 +130,11 @@ Stand: 30.09.2026 10:20
 ||a1-anlagen.com^
 ||a1businessnet.live^
 ||a64ad4-3.myshopify.com^
+||a6u.uk^
 ||aaaclothing.ru^
 ||aachentag.com^
 ||aacreek-ranch.de^
+||aadirone.cc^
 ||aakip.com^
 ||abbandemo.com^
 ||abbigliamentoscarpe.com^
@@ -182,6 +184,7 @@ Stand: 30.09.2026 10:20
 ||accessories-world.club^
 ||accessorieschildren.com^
 ||accessoriessnow.com^
+||accfiverif.com^
 ||accomplishk.com^
 ||account.gruppesoumerax.com^
 ||accsmarket.net^
@@ -335,6 +338,7 @@ Stand: 30.09.2026 10:20
 ||agricolaindustrial.com^
 ||agriculturi.com^
 ||agriservice640.com^
+||agritechcenter.de^
 ||agroelementgmbh.de^
 ||aguasco.com^
 ||ahbishop.com^
@@ -401,7 +405,6 @@ Stand: 30.09.2026 10:20
 ||akku-laden.at^
 ||akku-staubsauger.eu^
 ||akkuschrauber-heinrich.com^
-||akkusmir.de^
 ||akkusnotebook.at^
 ||aksportsup.com^
 ||aktiennetwork.co.uk^
@@ -580,6 +583,7 @@ Stand: 30.09.2026 10:20
 ||alphamed-medical.com^
 ||alphamuscle.is^
 ||alphaskin.de^
+||alphatowercompany.in^
 ||alphatransportlogistik.com^
 ||alpinamalende.com^
 ||alpiner-stil.com^
@@ -1554,7 +1558,6 @@ Stand: 30.09.2026 10:20
 ||beaccustomed.com^
 ||beachitem.com^
 ||beachsissi.com^
-||beachwalkbali.com^
 ||beambead.com^
 ||beatricesavoy.de^
 ||beatusbikes.com^
@@ -1682,6 +1685,7 @@ Stand: 30.09.2026 10:20
 ||bergfreunde-outlet.shop^
 ||berggrat.com^
 ||berghotel-marlstein.de^
+||berghuetten-traum.de^
 ||bergkaminholz.at^
 ||berglust.shop^
 ||bergmann-dusseldorf.de^
@@ -1824,6 +1828,8 @@ Stand: 30.09.2026 10:20
 ||bestpagjkl.com^
 ||bestpharm-eu.com^
 ||bestpillpharmacy.com^
+||bestpillsnetwork.com^
+||bestpriceonline.store^
 ||bestpricetreatments.com^
 ||bestproductsonlinestore.com^
 ||bestprogift.com^
@@ -2017,6 +2023,7 @@ Stand: 30.09.2026 10:20
 ||binomo.com^
 ||binomo.in^
 ||binomo.info^
+||binomo.vip^
 ||binomo1.com^
 ||binomo2.zendesk.com^
 ||binomoidr.com^
@@ -2380,6 +2387,7 @@ Stand: 30.09.2026 10:20
 ||brennholz-pellets.com^
 ||brennholz-quelle.de^
 ||brennholz-widmanngmbh.com^
+||brennholz-wieslohn.de^
 ||brennholz-world.at^
 ||brennholz-ws.de^
 ||brennholzangebot.com^
@@ -2395,6 +2403,7 @@ Stand: 30.09.2026 10:20
 ||brennholzhochwald-de.com^
 ||brennholzkamin.de^
 ||brennholzkaufen.shop^
+||brennholzkraft.com^
 ||brennholzmarkt.com^
 ||brennholzmichalhoff.com^
 ||brennholzmoorausmoor-de.com^
@@ -2861,6 +2870,7 @@ Stand: 30.09.2026 10:20
 ||cfxmarkets.com^
 ||cfxshop.com^
 ||cgctv.com^
+||cgptsystem.com^
 ||ch.gluconv.com^
 ||chacos.at^
 ||chacosdeutschland.de^
@@ -3463,6 +3473,7 @@ Stand: 30.09.2026 10:20
 ||cvneed.com^
 ||cwl-experts.org^
 ||cx.gamehander.com^
+||cxwauxbw.shop^
 ||cxzy.de^
 ||cyber-haus.de^
 ||cyberearth.org^
@@ -3547,6 +3558,7 @@ Stand: 30.09.2026 10:20
 ||dampfshishahub.com^
 ||dampfzentrale.com^
 ||damsonmadder.co.at^
+||danainstan.xyz^
 ||dancardi.de^
 ||dando.xyz^
 ||dangelapanelli.com^
@@ -3602,6 +3614,7 @@ Stand: 30.09.2026 10:20
 ||dateideen.at^
 ||datempire.com^
 ||datendetektive-online.de^
+||datenfin.de^
 ||daunstore.com^
 ||dautee.com^
 ||davanu.com^
@@ -3625,7 +3638,6 @@ Stand: 30.09.2026 10:20
 ||dbestbrands.com^
 ||dbflink.com^
 ||dbh-shopping.de^
-||dbhmnp.shop^
 ||dbi-edv-handel.de^
 ||dbinvestition.com^
 ||dbooking.de^
@@ -3744,6 +3756,7 @@ Stand: 30.09.2026 10:20
 ||decosplaycartpop.shop^
 ||decotik.de^
 ||decovividly.com^
+||deebikespares.com^
 ||deergift.com^
 ||deeynee.com^
 ||defahrrad.com^
@@ -5376,6 +5389,7 @@ Stand: 30.09.2026 10:20
 ||faze77.com^
 ||faze8.com^
 ||faze9.com^
+||faze91.com^
 ||fazpowerdenet.tumblr.com^
 ||fb-one.com^
 ||fbsmen.com^
@@ -5575,6 +5589,7 @@ Stand: 30.09.2026 10:20
 ||finrocketpro.com^
 ||fintechnews.live^
 ||fintessxpert.com^
+||fintresor.online^
 ||fintrexia.org^
 ||finvestai.org^
 ||finvoire.com^
@@ -6034,6 +6049,7 @@ Stand: 30.09.2026 10:20
 ||fxr-ai.com^
 ||fxrikg.shop^
 ||fxsazczb.shop^
+||fxyoexem.shop^
 ||fyebuy.com^
 ||fynixia.com^
 ||fyregaming.com^
@@ -8430,6 +8446,7 @@ Stand: 30.09.2026 10:20
 ||jerseyteamss.com^
 ||jerusalem-project.org^
 ||jerusalemcharity.com^
+||jet2trips.com^
 ||jetprofund.net^
 ||jette-handel.de^
 ||jetterix.com^
@@ -9105,6 +9122,7 @@ Stand: 30.09.2026 10:20
 ||knivescondor.com^
 ||knoopfashion.com^
 ||knusperwelt.com^
+||koalaknirpse.de^
 ||kobaltoutlet.com^
 ||kobanga.de^
 ||kobe-voitore.com^
@@ -9491,6 +9509,7 @@ Stand: 30.09.2026 10:20
 ||ledger.live-transactions-check.com^
 ||ledgerlive.claims^
 ||ledgerliveapps.web.app^
+||ledgerslive.org^
 ||ledleuchtende.com^
 ||ledleuchtenshop.com^
 ||ledrohren.com^
@@ -9737,6 +9756,7 @@ Stand: 30.09.2026 10:20
 ||lioralife.com^
 ||lippenrot.com^
 ||lipsfick.com^
+||lipvogue.com^
 ||liqourdeals.online^
 ||liquidationstockz.com^
 ||liquidpoolservice.com^
@@ -10078,7 +10098,6 @@ Stand: 30.09.2026 10:20
 ||m-b-grosshandel.de^
 ||m-sicherekauf.de^
 ||m-wanted.at^
-||m.coinexeu.vip^
 ||m.kaufjoy.de^
 ||m.vbridal.com^
 ||m.xtop.cc^
@@ -11059,6 +11078,7 @@ Stand: 30.09.2026 10:20
 ||moontod.com^
 ||moonx.io^
 ||mooredvazwe.myshopify.com^
+||mooris.de^
 ||moosufergarten.de^
 ||mooxishop.de^
 ||more2water.onshopbase.com^
@@ -11417,6 +11437,7 @@ Stand: 30.09.2026 10:20
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
+||navi74.ru^
 ||navi77.com^
 ||navi78.ru^
 ||navi8.com^
@@ -11453,7 +11474,6 @@ Stand: 30.09.2026 10:20
 ||neded.de^
 ||needsary.com^
 ||needtohike.com^
-||nefrevbz.shop^
 ||nejlepsi-lekarna.to^
 ||nejlevnejsigenerika.co^
 ||nejlevnejsigenerika.to^
@@ -11699,6 +11719,7 @@ Stand: 30.09.2026 10:20
 ||noral.xyz^
 ||norarienshoppe.com^
 ||norazurich.com^
+||nord-hand.com^
 ||nordbag-hamburg.de^
 ||nordbeinordost.de^
 ||nordevantis.de^
@@ -11883,6 +11904,7 @@ Stand: 30.09.2026 10:20
 ||objektiverklick.de^
 ||obmarkets.com^
 ||obmxaofp.shop^
+||obolapvw.shop^
 ||obozboots.com^
 ||obozdeutschland.com^
 ||obroker.com^
@@ -12009,7 +12031,6 @@ Stand: 30.09.2026 10:20
 ||oils-natural.eu^
 ||oiltrex.de^
 ||oins.shop^
-||ojlkimed.vip^
 ||okatode.com^
 ||okbon.de^
 ||okdebrid.com^
@@ -13628,6 +13649,7 @@ Stand: 30.09.2026 10:20
 ||remainderk.com^
 ||remediesonlinestore.com^
 ||remedyinternationalshop.com^
+||rememberdeshop.com^
 ||remington.com.de^
 ||remingtons.co.at^
 ||reminora.com^
@@ -14519,7 +14541,6 @@ Stand: 30.09.2026 10:20
 ||shellandsproutshop.com^
 ||shelterene.com^
 ||sheremart.com^
-||sherum.com^
 ||shevode.com^
 ||shewaves.com^
 ||shezone257.com^
@@ -15493,13 +15514,13 @@ Stand: 30.09.2026 10:20
 ||strawberrymilkshop.com^
 ||strawgoal.com^
 ||streakk.io^
-||streamabie.com^
 ||streamboo.com^
 ||streamloot.co^
 ||streamvod.pl^
 ||streetartmoebel.de^
 ||streetforlife.com^
 ||streetsynergies.com^
+||streetwearmode.shop^
 ||strefa-filmu.pl^
 ||streibl-garten24.de^
 ||streichduft.de^
@@ -17288,6 +17309,7 @@ Stand: 30.09.2026 10:20
 ||vivagopro.com^
 ||vivaharmoni.com^
 ||vivaia-schuhe.de^
+||vivaiacollection.com^
 ||vivaiaschuhe.at^
 ||vivaiaschuhe.com^
 ||vivaiaschuhe.de^
@@ -17520,6 +17542,7 @@ Stand: 30.09.2026 10:20
 ||warmthsta.com^
 ||warmthvo.com^
 ||wascheparfume.de^
+||waschmaschinen-spezialist.de^
 ||waschzone.com^
 ||washingtonposttoday.com^
 ||washingtontimesnewstoday.com^
@@ -18012,6 +18035,7 @@ Stand: 30.09.2026 10:20
 ||xinghly.com^
 ||xinyuekj.com^
 ||xiruilai.com^
+||xjyehli.shop^
 ||xkolzxhs.shop^
 ||xlorventa.shop^
 ||xlumina.at^

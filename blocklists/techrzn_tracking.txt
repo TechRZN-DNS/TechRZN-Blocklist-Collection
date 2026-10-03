@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 02.10.2026 10:21
+Stand: 03.10.2026 09:43
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -18356,6 +18356,7 @@ Stand: 02.10.2026 10:21
 ||analytics.aorgn.com^
 ||analytics.api.justeattakeaway.com^
 ||analytics.apnewsregistry.com^
+||analytics.app.funnelish.com^
 ||analytics.applycreatures.com^
 ||analytics.aqua-wise.com^
 ||analytics.arabacademie.com^
@@ -29713,6 +29714,7 @@ Stand: 02.10.2026 10:21
 ||browser.covatic.io^
 ||browser.pipe.aria.microsoft.com^
 ||browserguides.net^
+||browsertdidticket.m.qq.com^
 ||browsing.doamore.com^
 ||brp.tt.omtrdc.net^
 ||brpayless.eccocar.com^
@@ -48542,6 +48544,7 @@ Stand: 02.10.2026 10:21
 ||crssr21.firewrssll.net.daraz.com^
 ||crta.and.co.uk^
 ||crta.dailymail.co.uk^
+||crta.dailymail.com^
 ||crta.metro.co.uk^
 ||cru.tt.omtrdc.net^
 ||cruiok.cavage.com.br^
@@ -76132,6 +76135,7 @@ Stand: 02.10.2026 10:21
 ||eds-kmdc-tw9674.wireless.tt.omtrdc.net^
 ||eds-sfdc-p1w6.tt-stage-ci1.omtrdc.net^
 ||edsawa.simplynursery.com^
+||edshowpigs.com^
 ||edsolutions-aus.tt.omtrdc.net^
 ||edsolutions-us.tt.omtrdc.net^
 ||edson.tt.omtrdc.net^
@@ -84359,6 +84363,7 @@ Stand: 02.10.2026 10:21
 ||events.route66swindon.co.uk^
 ||events.s4long.com^
 ||events.santander.co.uk^
+||events.searchtap.net^
 ||events.sevenfiguresecrets.com^
 ||events.shareably.net^
 ||events.shirrts.com^
@@ -95775,6 +95780,7 @@ Stand: 02.10.2026 10:21
 ||gatewaystage.wix.net.daraz.com^
 ||gatewaystaging-parmakla.net.daraz.com^
 ||gatewayw2china.citizensbank.tt.omtrdc.net^
+||gatherer.m.qq.com^
 ||gathering7itch.tt.omtrdc.net^
 ||gatherings-stagingfgathering.adserver.tt.omtrdc.net^
 ||gatherings2.tt.omtrdc.net^
@@ -100270,6 +100276,7 @@ Stand: 02.10.2026 10:21
 ||gkva.tt.omtrdc.net^
 ||gkvbdqehxv9zqxbf.net.daraz.com^
 ||gkwon.tt-stage-ci1.omtrdc.net^
+||gkx.gokwik.co^
 ||gkx.zh-cn.net.daraz.com^
 ||gkxaay.tontarellishop.com^
 ||gkxeea.ssamitbeauty.com^
@@ -146698,6 +146705,7 @@ Stand: 02.10.2026 10:21
 ||log.mofa.go.kr^
 ||log.mx71.citizensbank.tt.omtrdc.net^
 ||log.net.daraz.com^
+||log.news.baidu.com^
 ||log.nordot.jp^
 ||log.nwmlonps.tt.omtrdc.net^
 ||log.olark.com^
@@ -149723,6 +149731,7 @@ Stand: 02.10.2026 10:21
 ||marauthenticate-emailvisionetinglications.net.daraz.com^
 ||marauthorization-car21etinglications.net.daraz.com^
 ||marblediscussion.com^
+||marbleseeds.com^
 ||marcel-hasquin.net.daraz.com^
 ||marceline.wantsext.me^
 ||march.application.net.daraz.com^
@@ -166117,6 +166126,7 @@ Stand: 02.10.2026 10:21
 ||p.pulse.toyota.com^
 ||p.redipiufitness.it^
 ||p.ryanhalliday.com^
+||p.sa7eer.com^
 ||p.sadoc.com.br^
 ||p.skimresources.com^
 ||p.spotidownloader.com^
@@ -172203,6 +172213,7 @@ Stand: 02.10.2026 10:21
 ||pulse.wyndhamhotels.com^
 ||pulse.xlr8mentorship.com^
 ||pulse.zenderz.nl^
+||pulsepoint.ideal.house^
 ||pultegroup.tt.omtrdc.net^
 ||puluk.drinkmagicdose.com^
 ||puma.islingtonmecc.org.uk^
@@ -173505,6 +173516,7 @@ Stand: 02.10.2026 10:21
 ||realsolutions.americanexpress.se^
 ||realtime-profiling.datarize.ai^
 ||realtime.bbcl.cl^
+||realtimeanalytics.yext.com^
 ||realtimely.io^
 ||realtors.eq.delwebb.com^
 ||reaonq.xn--hdks770u8f0a8dvzft.net^
@@ -210870,6 +210882,7 @@ Stand: 02.10.2026 10:21
 ||tecoheat-ss.wellheater.com^
 ||tecsst.fascedacapitano.it^
 ||teczbq.amicashop.com^
+||ted.dailymail.co.uk^
 ||tediousbear.com^
 ||tedioustooth.com^
 ||teefiksummin.visma.fi^
@@ -215456,6 +215469,7 @@ Stand: 02.10.2026 10:21
 ||track.conesulacademy.com^
 ||track.connectwise.com^
 ||track.contently.com^
+||track.convertfox.com^
 ||track.cordial.io^
 ||track.cornerstonebuildingbrands.com^
 ||track.cosplayware.com^
@@ -217968,6 +217982,7 @@ Stand: 02.10.2026 10:21
 ||trafficid.brandwell.ai^
 ||trafficpplictraffictionsdocker.net.daraz.com^
 ||trafficserver.tt.omtrdc.net^
+||trafik.koopit.ist^
 ||trail-001.schleich-s.com^
 ||trail-route.com^
 ||trail-viewer.com^
@@ -233844,6 +233859,7 @@ Stand: 02.10.2026 10:21
 ||webstat.garanti.com.tr^
 ||webstat.qiumibao.com^
 ||webstat.vodafone.com^
+||webstat.ws.126.net^
 ||webstats-devops.print-mo.net.daraz.com^
 ||webstats-getter.winter.net.daraz.com^
 ||webstats-test.tt-qe5.omtrdc.net^

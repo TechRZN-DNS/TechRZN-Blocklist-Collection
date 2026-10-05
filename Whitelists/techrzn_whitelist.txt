@@ -875,3 +875,11 @@ samsungcloudsolution.com
 samsungqbe.com
 samsungotn.net
 samsungrm.net
+telekom.de
+speedport.ip
+fritz.com
+fritz.box
+cloudflare.com
+docker.com
+github.com
+microsoft.com

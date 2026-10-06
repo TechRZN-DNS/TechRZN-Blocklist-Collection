@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 05.10.2026 11:14
+Stand: 06.10.2026 11:04
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -18141,6 +18141,7 @@ Stand: 05.10.2026 11:14
 ||ams.lelong.com.my^
 ||ams.oraclecloud.com^
 ||ams.push.tt.omtrdc.net^
+||amspbs.com^
 ||amsunsolar.actonservice.com^
 ||amt.audio-mobil.com^
 ||amtmf.alphforge.com^
@@ -18241,6 +18242,7 @@ Stand: 05.10.2026 11:14
 ||analytic.haramain.shop^
 ||analytic.hawaii.aaa.com^
 ||analytic.hotelclub.com^
+||analytic.is^
 ||analytic.kim-tetzlaff.dk^
 ||analytic.newmexico.aaa.com^
 ||analytic.northernnewengland.aaa.com^
@@ -30751,6 +30753,7 @@ Stand: 05.10.2026 11:14
 ||bwpartners-partner.ikafi-partner.tt.omtrdc.net^
 ||bwpi.net.daraz.com^
 ||bwpzmo.kipling.com.co^
+||bws.airwallex.com^
 ||bws.schoonenberg.nl^
 ||bws1.tt.omtrdc.net^
 ||bws2app.tt.tt.omtrdc.net^
@@ -37053,6 +37056,7 @@ Stand: 05.10.2026 11:14
 ||cdn-uploadspeedtest-prod.tt.omtrdc.net^
 ||cdn-usc.office.tt.omtrdc.net^
 ||cdn-v1.tt.omtrdc.net^
+||cdn-vitals.com^
 ||cdn-w.tt.omtrdc.net^
 ||cdn-wacbt.tt.omtrdc.net^
 ||cdn-web2.tt.omtrdc.net^
@@ -69131,6 +69135,7 @@ Stand: 05.10.2026 11:14
 ||dpovcw.the-body-shop.co.jp^
 ||dpower.tt.omtrdc.net^
 ||dpp.apg.tt.omtrdc.net^
+||dppesulohfqre.cloudfront.net^
 ||dpplus14.tt.omtrdc.net^
 ||dpps0203082002-matka.net.daraz.com^
 ||dppublishinginc.actonservice.com^
@@ -89898,6 +89903,7 @@ Stand: 05.10.2026 11:14
 ||floodedpixel.com^
 ||floodprincipal.com^
 ||floorforce.actonservice.com^
+||floors.dev^
 ||florens.nutriest.eu^
 ||floridapowerandlight.tt.omtrdc.net^
 ||floripa.cursodetti.com.br^
@@ -92545,6 +92551,7 @@ Stand: 05.10.2026 11:14
 ||fsqwdj.live-tennis.eu^
 ||fsresidential.actonservice.com^
 ||fsrre.nextiva.com^
+||fsrv.io^
 ||fsrvgb-02.tt.omtrdc.net^
 ||fss.glbank.com^
 ||fss.tt.omtrdc.net^
@@ -177204,6 +177211,7 @@ Stand: 05.10.2026 11:14
 ||schlesingerassociates.actonservice.com^
 ||schnee.skiamade.com^
 ||scholarloop.com^
+||scholarsark.com^
 ||scholasticinc.tt.omtrdc.net^
 ||schoolmaster6gameofporn.net.daraz.com^
 ||schoolpaws.com^
@@ -201461,6 +201469,7 @@ Stand: 05.10.2026 11:14
 ||st.primopiano.com^
 ||st.prindo.at^
 ||st.prindo.de^
+||st.putler.com^
 ||st.q-alshefa.com^
 ||st.rahm.de^
 ||st.rapidium.com.br^
@@ -210051,6 +210060,7 @@ Stand: 05.10.2026 11:14
 ||tapi.livitum.com^
 ||tapi.playactivate.co.uk^
 ||tapir.albertaguardtraining.ca^
+||tapoutmusic.com^
 ||taqrr.fromourplace.co.uk^
 ||tarantula.searchbox.tech^
 ||tarantula.tuxedo.media^
@@ -213205,6 +213215,7 @@ Stand: 05.10.2026 11:14
 ||toplaunch.net^
 ||topofthehill.brynje.no^
 ||toppocztapoczta.net.daraz.com^
+||topratedwaterfilter.com^
 ||topsecretapp.net^
 ||topshows.theotherpalace.co.uk^
 ||topspin.npo.nl^

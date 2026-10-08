@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 07.10.2026 10:54
+Stand: 08.10.2026 11:11
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -28164,6 +28164,7 @@ Stand: 07.10.2026 10:54
 ||blackjack.abzorbagames.com^
 ||blackjack.net.anwalt.de^
 ||blackmesh.actonservice.com^
+||blackrednecks.com^
 ||blackrock.tt.omtrdc.net^
 ||blackstudiesstage.stage-addvbux.net.daraz.com^
 ||blacktri-a.akamaihd.net^
@@ -35916,6 +35917,7 @@ Stand: 07.10.2026 10:54
 ||carteiro.altashabilidadesesuperdotacao.com^
 ||carteiro.institutomapeando.com.br^
 ||cartelsalsa.com^
+||cartersci.com^
 ||cartjoint.com^
 ||cartlax.csr41.net.daraz.com^
 ||cartlug.com^
@@ -158943,6 +158945,7 @@ Stand: 07.10.2026 10:54
 ||music.ovpn.ehealthinsurance.tt.omtrdc.net^
 ||music.partner.net.daraz.com^
 ||music01-caauthenticate21-10-authenticate-oa-1.net.daraz.com^
+||musicenforcer.com^
 ||musicflashcard.com^
 ||musjidnoor.tt.omtrdc.net^
 ||muteknife.com^
@@ -205860,6 +205863,7 @@ Stand: 07.10.2026 10:54
 ||stats.fishersci.it^
 ||stats.flightformation.com^
 ||stats.flightsphere.com^
+||stats.flixcloud.cc^
 ||stats.flixhq.live^
 ||stats.florianfritz.net^
 ||stats.flowphantom.com^
@@ -229747,6 +229751,7 @@ Stand: 07.10.2026 10:54
 ||vismaturva.visma.fi^
 ||visnu-pau.tt.omtrdc.net^
 ||visor.sberbank.ru^
+||visualcommservices.com^
 ||visualdx2gg.tt.omtrdc.net^
 ||visualizer-02.tt.omtrdc.net^
 ||visualizer.chrobinson.tt.omtrdc.net^

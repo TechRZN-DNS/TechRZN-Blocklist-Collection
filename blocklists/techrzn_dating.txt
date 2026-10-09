@@ -1,5 +1,5 @@
 ### TechRZN - DATING ###
-Stand: 08.10.2026 11:11
+Stand: 09.10.2026 11:10
 
 ||0-candidates.t-access.com^
 ||0-datingaction.cn^
@@ -647,6 +647,7 @@ Stand: 08.10.2026 11:11
 ||1372datingna01.lszxczb.com^
 ||1372datingna02.lszxczb.com^
 ||1372datingna03.lszxczb.com^
+||1374-anon-dating.dev.indidino.com^
 ||138.singles^
 ||13855singleleafct.com^
 ||138dates.com^
@@ -656,7 +657,11 @@ Stand: 08.10.2026 11:11
 ||13ingosingle.workers.dev^
 ||13th-annual-singlefi.currenschwartz.com^
 ||13thgatespeeddating.com^
+||1407-anon-dating.dev.indidino.com^
 ||140n.singles^
+||1419-gay-dating.dev.indidino.com^
+||1420-anon-dating.dev.indidino.com^
+||1420-gay-dating.dev.indidino.com^
 ||143-dating.online^
 ||14320-adjust-begin-and-end-dates.mapool.info^
 ||14320-adjust-begin-and-end-dates.mapool.jowo.de^
@@ -1622,6 +1627,7 @@ Stand: 08.10.2026 11:11
 ||2hot2besingle.co.za^
 ||2kanter-speeddating.at^
 ||2kdating.fr^
+||2kmdating.com^
 ||2kpoolremoval-single.blitztesting.com^
 ||2longyanqipailedatingxiazai.langhamessex.org.uk^
 ||2matchdating.co.uk^
@@ -7474,6 +7480,11 @@ Stand: 08.10.2026 11:11
 ||affluentdates.com^
 ||affluentdating.blog^
 ||affluentdating.com^
+||affluentdating100.net^
+||affluentdating365.com^
+||affluentdating888.com^
+||affluentdating8figure.com^
+||affluentdatingwiki.org^
 ||affluenthiltonheadsingles.com^
 ||affluentsingle.com^
 ||affluentsingles.com^
@@ -8319,6 +8330,7 @@ Stand: 08.10.2026 11:11
 ||aiagent.singles^
 ||aiagentdates.com^
 ||aiagents-prod-flirtmuse.x.dglab.dev^
+||aiagents.dating^
 ||aiagents.singles^
 ||aialigneddates.com^
 ||aialkosodateshien.com^
@@ -11730,6 +11742,7 @@ Stand: 08.10.2026 11:11
 ||angdatingdaan.tv^
 ||angdatingdoon.shop^
 ||angdatinglamig.ph^
+||angedatingapplication.lol^
 ||angedzjunrsflirtkwo.fis.thf.globaltest.prod.sadbirds.aws.a2z.eu^
 ||angel-flirt.sexchatgirlslives.com^
 ||angel.dating^
@@ -13556,7 +13569,12 @@ Stand: 08.10.2026 11:11
 ||arrangementdateservices.com^
 ||arrangementdating.com^
 ||arrangementdating.org^
+||arrangementdating101.org^
+||arrangementdating411.com^
+||arrangementdating777.com^
 ||arrangementdatingchampions.com^
+||arrangementdatingfans.net^
+||arrangementdatingwiki.com^
 ||arrangements.dating^
 ||arrangementsugardating.com^
 ||arransinglemalt.com^
@@ -21548,6 +21566,7 @@ Stand: 08.10.2026 11:11
 ||belnewsupdatingnow.com^
 ||belocal-flirting.com^
 ||belohorizontedating.expatica.com^
+||belong.dating^
 ||belongdating.com^
 ||belongsingles.org^
 ||belovae.dating^
@@ -21593,6 +21612,10 @@ Stand: 08.10.2026 11:11
 ||benedating.ph^
 ||benedictsingleton.com^
 ||beneficialdating.com^
+||beneficialdatingpact.com^
+||beneficialdatingroom.org^
+||beneficialdatingrules.com^
+||beneficialdatingwiki.com^
 ||benefitdates-editor.workers.dev^
 ||benefitdates.ca^
 ||benefitdates.com^
@@ -23565,6 +23588,7 @@ Stand: 08.10.2026 11:11
 ||bestedatingwebsite.nl^
 ||bestedatingwebsites.nl^
 ||bestediskretedatingseiten.de^
+||besteedating.com^
 ||besteflirtapp.com^
 ||besteflirtapp.de^
 ||besteflirtapp.info^
@@ -27500,6 +27524,7 @@ Stand: 08.10.2026 11:11
 ||bosentansinglesharedsystemrems.com^
 ||bosentansinglesharedsystemrems.net^
 ||bosentansinglesharedsystemrems.org^
+||bosingles.top^
 ||boskieflirty.co.pl^
 ||boskieflirty.pl^
 ||boskodating.com^
@@ -31453,6 +31478,7 @@ Stand: 08.10.2026 11:11
 ||candidates.edgefocuspartners.com^
 ||candidates.edutalent.io^
 ||candidates.ehgp.uk^
+||candidates.eicb.co.bw^
 ||candidates.ekkohifi.com^
 ||candidates.eks-staging.resume-library.com^
 ||candidates.eks.resume-library.com^
@@ -32141,6 +32167,7 @@ Stand: 08.10.2026 11:11
 ||candidates.trustverifiedmw.com^
 ||candidates.tsrgroup.co.uk^
 ||candidates.tundar.ai^
+||candidates.uawpower.org^
 ||candidates.uk^
 ||candidates.uneq.de^
 ||candidates.up-dev.com^
@@ -35120,6 +35147,7 @@ Stand: 08.10.2026 11:11
 ||certifieddatingexpert.com^
 ||certifieddatingsites.com^
 ||certifiedfordating.com^
+||certifiedqualitysingles.com^
 ||certifiedsinglefamilyinvestmentspecialist.com^
 ||certifiedsingleorigin.com^
 ||certifiedsingles.com^
@@ -39563,6 +39591,7 @@ Stand: 08.10.2026 11:11
 ||cocktaildatingapp.com^
 ||cocktails.dating^
 ||cocoabeachsingles.com^
+||cocoadates.cfd^
 ||cocoadates.com^
 ||cocoadates.cyou^
 ||cocoadating.com^
@@ -43646,6 +43675,7 @@ Stand: 08.10.2026 11:11
 ||cwbpaymentdates.ca^
 ||cwin.singles^
 ||cwjdatest.levauban-cherbourg.fr^
+||cwn-singles-com.sitessmith.com^
 ||cwn-singles.com^
 ||cwtiasingle.xyz^
 ||cxcdlsinglesma.cisco.com^
@@ -43988,6 +44018,7 @@ Stand: 08.10.2026 11:11
 ||dadating.top^
 ||dadating.website^
 ||dadating45.shop^
+||dadating861.cc^
 ||dadating881.cc^
 ||dadatingclub.com^
 ||dadaydating.xyz^
@@ -46780,6 +46811,7 @@ Stand: 08.10.2026 11:11
 ||datesalmadina.com^
 ||datesalmamlaka.com^
 ||datesalon.com^
+||datesalon.xyz^
 ||datesaloon.com^
 ||datesalpha.xyz^
 ||datesalrusin.com^
@@ -47365,6 +47397,7 @@ Stand: 08.10.2026 11:11
 ||datescosmetics.com^
 ||datescott.com^
 ||datescottsdale.com^
+||datescountdown.com^
 ||datescounty.in^
 ||datescout.app^
 ||datescout.co.uk^
@@ -47490,6 +47523,7 @@ Stand: 08.10.2026 11:11
 ||datesdownunder.com^
 ||datesdreamy.com^
 ||datesdried.com^
+||datesdrop.xyz^
 ||datesdsedfd.smartcenka.pl^
 ||datesdubai.com^
 ||datesdue.com^
@@ -48400,6 +48434,7 @@ Stand: 08.10.2026 11:11
 ||datesgram.com^
 ||datesgram.network^
 ||datesgram.ph^
+||datesgrid.xyz^
 ||datesgril.biz.id^
 ||datesgril.my.id^
 ||datesgrimace.com^
@@ -48524,6 +48559,7 @@ Stand: 08.10.2026 11:11
 ||dateshia-gierse.winby.live^
 ||dateshia-sagle.bluecrystal.eu.com^
 ||dateshiba.top^
+||dateshiba.xyz^
 ||dateshidze-gio.workers.dev^
 ||dateshidze.com^
 ||dateshidze.online^
@@ -49426,6 +49462,7 @@ Stand: 08.10.2026 11:11
 ||datesmildenglish.surf^
 ||datesmile.com^
 ||datesmiles.biz.id^
+||datesmind.xyz^
 ||datesminglehub.com^
 ||datesmint.xyz^
 ||datesmitdeutschenfrauen24.de^
@@ -49622,6 +49659,7 @@ Stand: 08.10.2026 11:11
 ||datesociety.net^
 ||datesociety.nl^
 ||datesociety.xyz^
+||datesodds.xyz^
 ||datesof.com^
 ||datesof.net^
 ||datesof.org^
@@ -50203,6 +50241,7 @@ Stand: 08.10.2026 11:11
 ||datespots.city^
 ||datespots.co^
 ||datespots.co.uk^
+||datespots.com^
 ||datespots.de^
 ||datespots.fyi^
 ||datespots.live^
@@ -50440,6 +50479,7 @@ Stand: 08.10.2026 11:11
 ||datesspaces.com^
 ||datesspark.com^
 ||datesspeed.com^
+||datesspin.xyz^
 ||datesspinner.com^
 ||datesspot.com^
 ||datesspread.com^
@@ -50616,6 +50656,7 @@ Stand: 08.10.2026 11:11
 ||datestacks.cn^
 ||datestacoda.it^
 ||datestad.nl^
+||datestaff.xyz^
 ||datestaffordshiresingles.co.uk^
 ||datestage.com^
 ||datestageapp.com^
@@ -50955,6 +50996,7 @@ Stand: 08.10.2026 11:11
 ||datestub.com^
 ||datestube.com^
 ||datestube.de^
+||datestube.xyz^
 ||datestud.com^
 ||datestudentes.nl^
 ||datestudents.com^
@@ -50967,6 +51009,7 @@ Stand: 08.10.2026 11:11
 ||datestudio.xyz^
 ||datestudios.com^
 ||datestudy.com^
+||datestudy.xyz^
 ||datestuff.com^
 ||datestumbler.xyz^
 ||datestunner.com^
@@ -53957,6 +54000,7 @@ Stand: 08.10.2026 11:11
 ||dating-conversation.com^
 ||dating-cookie.com^
 ||dating-copilot.com^
+||dating-copilot.pages.dev^
 ||dating-corinthians.templehillresort.com^
 ||dating-cougar.com^
 ||dating-cougarstaging.fornex.usde.org^
@@ -54011,6 +54055,7 @@ Stand: 08.10.2026 11:11
 ||dating-cupid.com.ph^
 ||dating-cupid.net^
 ||dating-cupidond.online^
+||dating-curator-appium.workers.dev^
 ||dating-curiosite.upskirtssexvoyeur.com^
 ||dating-cutiepie.life^
 ||dating-cuxhaven.baeckerp.de^
@@ -60787,6 +60832,7 @@ Stand: 08.10.2026 11:11
 ||dating.arabiccanada.com^
 ||dating.arabmales.tv^
 ||dating.arabmistress.com^
+||dating.aralune.ca^
 ||dating.arapongas.com^
 ||dating.araxitis.com^
 ||dating.archietech.app^
@@ -61887,6 +61933,7 @@ Stand: 08.10.2026 11:11
 ||dating.chickenkiller.com^
 ||dating.childhe.com^
 ||dating.chiltalk.com^
+||dating.chimitdorzhi.space^
 ||dating.chimitdorzhi.tech^
 ||dating.china-thai-iserlohn.de^
 ||dating.chinabistroindio.com^
@@ -62745,6 +62792,7 @@ Stand: 08.10.2026 11:11
 ||dating.dollyhubs.com^
 ||dating.dolphintalemovie.com^
 ||dating.domainoutlook.com^
+||dating.domains.cn^
 ||dating.domains.kred^
 ||dating.domainsdata.org^
 ||dating.domgrom.com^
@@ -64642,6 +64690,7 @@ Stand: 08.10.2026 11:11
 ||dating.jan.ng^
 ||dating.janeano.com^
 ||dating.janeco.com^
+||dating.jannatinfotech.co.in^
 ||dating.jantik.com^
 ||dating.japonyakore.com^
 ||dating.jarangopi.com^
@@ -65498,6 +65547,7 @@ Stand: 08.10.2026 11:11
 ||dating.massaave.com^
 ||dating.massageretreat.com^
 ||dating.masscoindustries.com^
+||dating.mastawekia.net^
 ||dating.masterwebslk.com^
 ||dating.match.sh^
 ||dating.matchacks.com^
@@ -65862,6 +65912,7 @@ Stand: 08.10.2026 11:11
 ||dating.mrpeepers.net^
 ||dating.mrsebastianhall.com^
 ||dating.mrseille.fr^
+||dating.mrtbkk.site^
 ||dating.ms5.in^
 ||dating.mschip.site^
 ||dating.mschip.site.stage.cabinet.infrapu.sh^
@@ -68751,6 +68802,7 @@ Stand: 08.10.2026 11:11
 ||dating.unmoment.ru^
 ||dating.unms.xyz^
 ||dating.unnatkisan.in^
+||dating.unorthodoxops.online^
 ||dating.unoslapis.ch^
 ||dating.unrulinessdiscriminate.site^
 ||dating.unsaturatedcoadjutor.site^
@@ -73815,6 +73867,7 @@ Stand: 08.10.2026 11:11
 ||datingappnearyou.site^
 ||datingappnews.com^
 ||datingappnorge.com^
+||datingappnotes.com^
 ||datingappnow.com^
 ||datingappnumber1.workers.dev^
 ||datingappnz.sitenamen.nl^
@@ -75769,6 +75822,8 @@ Stand: 08.10.2026 11:11
 ||datingcentr.top^
 ||datingcentra.top^
 ||datingcentral.co.uk^
+||datingcentral.net^
+||datingcentral.net.globalexpo.com^
 ||datingcentral.online^
 ||datingcentral.top^
 ||datingcentrale.nl^
@@ -77691,6 +77746,7 @@ Stand: 08.10.2026 11:11
 ||datingdinner.com^
 ||datingdinner.de^
 ||datingdinneranddisasters.com^
+||datingdinners.com^
 ||datingdino.com^
 ||datingdinos.com^
 ||datingdior.com^
@@ -78218,6 +78274,7 @@ Stand: 08.10.2026 11:11
 ||datingeffectivenesstraining.com^
 ||datingeffectivenesstraining.mobi^
 ||datingegg.com^
+||datingegg.xyz^
 ||datingegiovani.bitdroplet.com^
 ||datingeh.com^
 ||datingeighteen.pages.dev^
@@ -80461,6 +80518,7 @@ Stand: 08.10.2026 11:11
 ||datinggem.site^
 ||datinggems.com^
 ||datinggen.com^
+||datinggen.xyz^
 ||datinggence.com^
 ||datinggeneral.com^
 ||datinggeneration.com^
@@ -87055,6 +87113,7 @@ Stand: 08.10.2026 11:11
 ||datingpets.com^
 ||datingpets.xyz^
 ||datingpevorarlberg.atstbank.65iod1db7v.shotblastingcleanings.com^
+||datingpfp.xyz^
 ||datingph.com^
 ||datingph.eu.cc^
 ||datingph.info^
@@ -94864,6 +94923,7 @@ Stand: 08.10.2026 11:11
 ||datingwissen.de^
 ||datingwit.com^
 ||datingwit.top^
+||datingwit.xyz^
 ||datingwite.top^
 ||datingwith.blog^
 ||datingwith.com^
@@ -102367,6 +102427,7 @@ Stand: 08.10.2026 11:11
 ||dual-job-dating-backend.msd-moss-prod.fh-joanneum.at^
 ||dual-job-dating.msd-moss-prod.fh-joanneum.at^
 ||dualdates.com^
+||dualdates.xyz^
 ||dualdating.com^
 ||dualdating.it-prestige.ch^
 ||duales-speeddating-bayern.de^
@@ -106061,6 +106122,7 @@ Stand: 08.10.2026 11:11
 ||eng-en-flirt4free.com^
 ||eng-flirt4free.com^
 ||eng-us-flirt4free-com-u355.bom1.mystaging.site^
+||eng-us-flirt4free.com^
 ||engagecandidates.com^
 ||engageconnectwise.singles^
 ||engagedating.amazinghealthproduct.co^
@@ -107959,6 +108021,7 @@ Stand: 08.10.2026 11:11
 ||evolveperfectdating.com^
 ||evolvesociadating.com^
 ||evolvesocialdating.com^
+||evolvesocialdating.info^
 ||evolvesocialdating.net^
 ||evolveyourdating.csmtpseguro.m3dia.ie^
 ||evolvingdating.com^
@@ -109248,6 +109311,7 @@ Stand: 08.10.2026 11:11
 ||fakedating.com^
 ||fakedating.harperreidbooks.com^
 ||fakedating.nl^
+||fakedatingclub.com^
 ||fakedatingmyrichnemesis.com^
 ||fakedatingmyrichnemesis.net^
 ||fakedatingmyrichnemesis.org^
@@ -109874,6 +109938,7 @@ Stand: 08.10.2026 11:11
 ||fastflirt.site^
 ||fastflirt.store^
 ||fastflirt.top^
+||fastflirt.uk^
 ||fastflirt.xyz^
 ||fastflirtchat.wantwonderfultime.club^
 ||fastflirtclub.com^
@@ -109890,6 +109955,7 @@ Stand: 08.10.2026 11:11
 ||fastflirting.com.au^
 ||fastflirting.com.ph^
 ||fastflirting.de^
+||fastflirting.live^
 ||fastflirting.org^
 ||fastflirting.uk^
 ||fastflirting.us^
@@ -110317,6 +110383,7 @@ Stand: 08.10.2026 11:11
 ||feat-aff-71759-mql-dates-meristem.woodscamp.io^
 ||feat-calendar-holiday-dates.booking-flow.devk8s.keyto.dev^
 ||feat-connections-dates.preview.gifthack.com^
+||feat-context-absolute-dates-7c623dde3cd7.preview.quadeai.com^
 ||feat-cp-recon-add-dates.admin.zonos.com^
 ||feat-design-system-singles-093163.preview.hub.dezaak.nl^
 ||feat-detail-breadcrumbs-dates.rentaventa.herrada.me^
@@ -111915,6 +111982,7 @@ Stand: 08.10.2026 11:11
 ||findatings.com^
 ||findavailabledatesonlineserv1.info^
 ||findawesomedates.com^
+||findbeneficialdating.net^
 ||findbest.dating^
 ||findbest.singles^
 ||findbestcandidates.com^
@@ -118897,6 +118965,7 @@ Stand: 08.10.2026 11:11
 ||flirtchat4u.com^
 ||flirtchat4u.ph^
 ||flirtchat69.com^
+||flirtchatai.com^
 ||flirtchatai.xyz^
 ||flirtchatapp.doodlekit.com^
 ||flirtchatbabe.fyi^
@@ -119233,6 +119302,7 @@ Stand: 08.10.2026 11:11
 ||flirtconnect.world^
 ||flirtconnect.xyz^
 ||flirtconnected.com^
+||flirtconnecthub.com^
 ||flirtconnecticut.com^
 ||flirtconnectie.nl^
 ||flirtconnectie.pm^
@@ -120435,6 +120505,7 @@ Stand: 08.10.2026 11:11
 ||flirtenglish.com^
 ||flirtengratis.de^
 ||flirtenhalberstadt.ph^
+||flirtenharz.de^
 ||flirtenhier.at^
 ||flirtenhier.com^
 ||flirtenhier.de^
@@ -122048,6 +122119,7 @@ Stand: 08.10.2026 11:11
 ||flirtgreetings.com^
 ||flirtgrid.info^
 ||flirtgrid.monster^
+||flirtgrid.xyz^
 ||flirtgrind.xyz^
 ||flirtgroove.com^
 ||flirtgroove.xyz^
@@ -122298,6 +122370,7 @@ Stand: 08.10.2026 11:11
 ||flirthodl.xyz^
 ||flirthoek.nl^
 ||flirthoekie.co.za^
+||flirthold.xyz^
 ||flirtholdings.com.ph^
 ||flirtholics-apk.world^
 ||flirtholland.nl^
@@ -124870,6 +124943,7 @@ Stand: 08.10.2026 11:11
 ||flirtln.com^
 ||flirtlngvision.tv^
 ||flirtload.com^
+||flirtloan.xyz^
 ||flirtlobby.com^
 ||flirtlobt.shop^
 ||flirtlocal.cams.com^
@@ -126966,6 +127040,7 @@ Stand: 08.10.2026 11:11
 ||flirtpert.com^
 ||flirtpet.xyz^
 ||flirtpetal.com^
+||flirtpets.xyz^
 ||flirtpexo.com^
 ||flirtpfad.de^
 ||flirtpfair.de^
@@ -128092,6 +128167,7 @@ Stand: 08.10.2026 11:11
 ||flirtsender.com^
 ||flirtsendmessages.com^
 ||flirtsendsendmail.com^
+||flirtsendung.de^
 ||flirtsenior.com^
 ||flirtsenioren.org.ph^
 ||flirtsensation.com^
@@ -129244,7 +129320,9 @@ Stand: 08.10.2026 11:11
 ||flirttime.net^
 ||flirttime.org^
 ||flirttime.ru^
+||flirttime.xyz^
 ||flirttime41.ru^
+||flirttimeapi.walit.in^
 ||flirttimeapp.com^
 ||flirttimer.com^
 ||flirttimer.combook.hometowncpas.com^
@@ -136454,6 +136532,7 @@ Stand: 08.10.2026 11:11
 ||freedating.nl^
 ||freedating.now^
 ||freedating.nz^
+||freedating.observer^
 ||freedating.offerlo.com^
 ||freedating.one^
 ||freedating.onl^
@@ -141470,6 +141549,7 @@ Stand: 08.10.2026 11:11
 ||gemdates.com^
 ||gemdating.com^
 ||geme-sex-mat-dating.psdtohtmlhint.com^
+||gemedatesfaye19.workers.dev^
 ||gemeindeflirt.de^
 ||gemeldating.com^
 ||gemflirt.com^
@@ -148671,6 +148751,7 @@ Stand: 08.10.2026 11:11
 ||hermaphroditesingles.com^
 ||hermatch.dating^
 ||hermesagendatest.mtdbarcelona.com^
+||hermissinglesson.com^
 ||hermoafrodyta-xxx-suhagrat-dating.psdtohtmlhint.com^
 ||hernyekdates.com^
 ||herodating.club^
@@ -156191,6 +156272,7 @@ Stand: 08.10.2026 11:11
 ||intern001-dating-app-server.limgrow.com^
 ||internal-blackoutdates.dev.7doorswebdesign.com^
 ||internal-dating-api.info^
+||internald245dprivatedatesdlckingff207011-azg64edhaxbhxwe.pages.dev^
 ||internalflirts.store^
 ||internasjonaldating.com^
 ||international-candidates.com^
@@ -157805,6 +157887,7 @@ Stand: 08.10.2026 11:11
 ||isingles.it^
 ||isingles.net^
 ||isingles.org^
+||isingles.uk^
 ||isingles.us^
 ||isinglesclub.com^
 ||isinglesign.com^
@@ -162339,6 +162422,7 @@ Stand: 08.10.2026 11:11
 ||katesingleton.com.au^
 ||katesingleton.com.au.plannersnorth.com.au^
 ||kath-dating.com^
+||katharinaroos-dating.com^
 ||katholiekdating.nl^
 ||kathrynsingleton.com^
 ||katiedatingconcierge.com^
@@ -162479,8 +162563,10 @@ Stand: 08.10.2026 11:11
 ||keepingdates.com^
 ||keepingsanewhiledating.com^
 ||keepit100dating.com^
+||keepitreal.dating^
 ||keepitrealdating.co.uk^
 ||keepitrealdating.com^
+||keepitreel.dating^
 ||keepitreeldating.com^
 ||keepitsimpledating.com^
 ||keepitsimplesingle.com^
@@ -164203,6 +164289,7 @@ Stand: 08.10.2026 11:11
 ||kraftsinglessuckass.com^
 ||kraftsinglessweepstakes.aquila.it^
 ||kragkaiclassingle.gq^
+||kraidatest-qcint.quintessence.de^
 ||krammedating.dk^
 ||krasdating.be^
 ||krasdating.nl^
@@ -165157,6 +165244,7 @@ Stand: 08.10.2026 11:11
 ||lancore.dating^
 ||lancsdating.app^
 ||lancuadatinglis.tk^
+||land-flirt-friday-v1-dev.letdate.dev^
 ||land-flirt.de^
 ||land-flirt.unclaimed-asset.com^
 ||land-flirtgirl1.com^
@@ -167058,6 +167146,7 @@ Stand: 08.10.2026 11:11
 ||lesbiandating.uk.com^
 ||lesbiandating.us^
 ||lesbiandating.workers.dev^
+||lesbiandating.xyz^
 ||lesbiandating101.com^
 ||lesbiandating411.info^
 ||lesbiandating4u.com^
@@ -173570,6 +173659,8 @@ Stand: 08.10.2026 11:11
 ||luxurydatingapp.com^
 ||luxurydatingapp.org^
 ||luxurydatingapps.com^
+||luxurydatingarch.org^
+||luxurydatingaudit.com^
 ||luxurydatingblogs.cyou^
 ||luxurydatingcanada.com^
 ||luxurydatingclub.com^
@@ -173577,14 +173668,17 @@ Stand: 08.10.2026 11:11
 ||luxurydatingglobal.com^
 ||luxurydatinghub.com^
 ||luxurydatingprotection.elibapmassage.com^
+||luxurydatingquota.com^
 ||luxurydatings.com^
 ||luxurydatings.org^
 ||luxurydatingservice.com^
 ||luxurydatingservices.com^
 ||luxurydatingsite.net^
 ||luxurydatingsites.com^
+||luxurydatingtier.com^
 ||luxurydatingusa.com^
 ||luxurydatingwebsite.com^
+||luxurydatingwiki.net^
 ||luxuryescortdates.online^
 ||luxuryflirt.com^
 ||luxuryfordating.com^
@@ -179993,6 +180087,7 @@ Stand: 08.10.2026 11:11
 ||mensingles.de^
 ||mensinternationaldating.ph^
 ||mensinternetdating.com^
+||mensjournal-dating-au.com^
 ||mensjournal-dating-ca.com^
 ||mensjournal-dating-matchmaking.com^
 ||mensjournal-dating-online-dating.com^
@@ -182639,6 +182734,7 @@ Stand: 08.10.2026 11:11
 ||moderndatingai.com^
 ||moderndatingandmiracles.com^
 ||moderndatingandrelationship.com^
+||moderndatingattraction.dailyconnectionhub.space^
 ||moderndatingbetter.com^
 ||moderndatingblueprint.com^
 ||moderndatingbyeddie.com^
@@ -189021,6 +189117,7 @@ Stand: 08.10.2026 11:11
 ||mysingleroom.com^
 ||mysingles-club.com^
 ||mysingles.app^
+||mysingles.biz^
 ||mysingles.capsetup.online^
 ||mysingles.ch^
 ||mysingles.club^
@@ -192317,6 +192414,7 @@ Stand: 08.10.2026 11:11
 ||nhacaiuytin.singles^
 ||nhat.dating^
 ||nhat.singles^
+||nhatrocdatest.daniel.io.vn^
 ||nhatt3-vng-dating-app-tfjinp-0c6bab-103-245-249-96.sslip.io^
 ||nhatvip.dating^
 ||nhatvip.singles^
@@ -194406,6 +194504,7 @@ Stand: 08.10.2026 11:11
 ||nourthemuslimmatchmaker.dating^
 ||nourthemuslimmatchmaker.singles^
 ||nous2.dating^
+||nousdating.online^
 ||nousflirtons.com^
 ||nova-dating.com^
 ||nova-dating.de^
@@ -228993,6 +229092,7 @@ Stand: 08.10.2026 11:11
 ||pentecostaldatingwww.download.maaau.ru^
 ||pentecostalonlinedating.com^
 ||pentecostalsingles.com^
+||pentecostalspeedating.com^
 ||pentest-singlesite.acc.belastingdienst.nl^
 ||pentictonsingles.ca^
 ||pentictonsingles.com^
@@ -233542,6 +233642,7 @@ Stand: 08.10.2026 11:11
 ||prism-dating-admin.pages.dev^
 ||prism-dating-landing.pages.dev^
 ||prisma-client-singleton.app.undrst.com^
+||prismdating.app^
 ||prismdating.co.uk^
 ||prismdating.com^
 ||prisme-uqdatesvre.com^
@@ -234728,6 +234829,7 @@ Stand: 08.10.2026 11:11
 ||psqlserver-single-yenda24.postgres.database.azure.com^
 ||psqlsingleser.postgres.database.azure.com^
 ||psqlsingleservertest02.postgres.database.azure.com^
+||psqltnsdeleteme2509datesdev.postgres.database.azure.com^
 ||psreleasedates.com^
 ||pssingles.co^
 ||psusingles.com^
@@ -235751,6 +235853,7 @@ Stand: 08.10.2026 11:11
 ||qipaiyouxidatinga.com.cn^
 ||qipaiyouxidatinga.net.cn^
 ||qipaiyouxidatinga7.com.cn^
+||qipaiyouxidatinga8.com.cn^
 ||qipaiyouxidatinga9.com.cn^
 ||qipaiyouxidatingbaohuang-s3.blocwatch.com^
 ||qipaiyouxidatingbaohuang.aflt.com^
@@ -235890,6 +235993,7 @@ Stand: 08.10.2026 11:11
 ||qipaizaixianyouxidating8w.net.cn^
 ||qipaizaixianyouxidatinga.com.cn^
 ||qipaizaixianyouxidatinga7.com.cn^
+||qipaizaixianyouxidatinga8.com.cn^
 ||qipaizaixianyouxidatinga9.com.cn^
 ||qipaizaixianyouxidatingc.com.cn^
 ||qipaizaixianyouxidatingguanwang.com.cn^
@@ -240834,6 +240938,7 @@ Stand: 08.10.2026 11:11
 ||room4datinglive.pages.dev^
 ||room5datinglive.pages.dev^
 ||room69datinglive.pages.dev^
+||roomcollectiondating.pages.dev^
 ||roomdate.dating^
 ||roomdates-8da.pages.dev^
 ||roomdates.app^
@@ -240953,6 +241058,7 @@ Stand: 08.10.2026 11:11
 ||rotarysingleiron.com^
 ||rotarysingles.com^
 ||rotarysingles.org^
+||rotation-dating.workers.dev^
 ||rotationaldating.com^
 ||rotdates.top^
 ||rotdating.top^
@@ -246118,6 +246224,7 @@ Stand: 08.10.2026 11:11
 ||saturdaysingles.org^
 ||saturdaysinglesbowls.club^
 ||saturdaysingleslawnbowls.com^
+||saturndating.com^
 ||satvicdating.com^
 ||satvikdating.com^
 ||satya.dating^
@@ -247641,6 +247748,7 @@ Stand: 08.10.2026 11:11
 ||seendating.co^
 ||seendatinggym.com^
 ||seeonepercentdating.com^
+||seeroomdating.pages.dev^
 ||seesingles.app^
 ||seethecandidates.com^
 ||seevenncandidates.com^
@@ -247880,6 +247988,7 @@ Stand: 08.10.2026 11:11
 ||senior-dating.homes^
 ||senior-dating.info^
 ||senior-dating.kinky-ads.com^
+||senior-dating.no^
 ||senior-dating.org.uk^
 ||senior-dating.topconsumerreviews.com^
 ||senior-dating1.xyz^
@@ -247986,6 +248095,7 @@ Stand: 08.10.2026 11:11
 ||seniordating.international^
 ||seniordating.it^
 ||seniordating.lol^
+||seniordating.no^
 ||seniordating.ph^
 ||seniordating.store^
 ||seniordating.uk^
@@ -248061,6 +248171,7 @@ Stand: 08.10.2026 11:11
 ||seniordatinggroup.co.uk^
 ||seniordatinggroup.com^
 ||seniordatinggroup.org^
+||seniordatingguide.com^
 ||seniordatinghub.ai.elderlyaffection.com^
 ||seniordatinghub.com^
 ||seniordatingin.com^
@@ -250539,6 +250650,7 @@ Stand: 08.10.2026 11:11
 ||simpledates.co^
 ||simpledates.me^
 ||simpledatespot.com^
+||simpledating.app^
 ||simpledating.com^
 ||simpledating.info^
 ||simpledating.net^
@@ -250595,6 +250707,7 @@ Stand: 08.10.2026 11:11
 ||simplydatingnow.com^
 ||simplydatingtips.com^
 ||simplyflirt.de^
+||simplygreatdating.co.uk^
 ||simplyseniorsingles.com^
 ||simplysinglesdating.ph^
 ||simplysingleshop.de^
@@ -252235,6 +252348,7 @@ Stand: 08.10.2026 11:11
 ||singlescasualdate.com.conthachcaocap.com^
 ||singlescasualdating.com^
 ||singlescatch.xyz^
+||singlescatholicsmag.com^
 ||singlescauldron.com^
 ||singlescbadrilling.pages.dev^
 ||singlescena.pl^
@@ -252652,6 +252766,7 @@ Stand: 08.10.2026 11:11
 ||singlesdaychina.com^
 ||singlesdaycounter.dk^
 ||singlesdaycounterdk.kinsta.cloud^
+||singlesdaycoupon.com^
 ||singlesdaycoupons.com^
 ||singlesdaydanmark.dk^
 ||singlesdaydanmarkdk.kinsta.cloud^
@@ -252702,6 +252817,7 @@ Stand: 08.10.2026 11:11
 ||singlesdelvalles.es^
 ||singlesdemalaga.es^
 ||singlesdepartment.com^
+||singlesdesi.com^
 ||singlesdesign.com^
 ||singlesdesire.com^
 ||singlesdesirehub.xyz^
@@ -252939,6 +253055,7 @@ Stand: 08.10.2026 11:11
 ||singleserve.shop^
 ||singleserve.store^
 ||singleservebrewer.com^
+||singleservecoffee.club^
 ||singleservecoffeebag.com^
 ||singleservecoffeebags.com^
 ||singleservecoffeeforums.com^
@@ -253528,6 +253645,7 @@ Stand: 08.10.2026 11:11
 ||singleshot.online^
 ||singleshot.pl^
 ||singleshot.shop^
+||singleshot.si^
 ||singleshot.xyz^
 ||singleshotadventures.com^
 ||singleshotadventures.pages.dev^
@@ -253577,6 +253695,7 @@ Stand: 08.10.2026 11:11
 ||singleshotstudio.com^
 ||singleshotstudios.com^
 ||singleshotstudios.net^
+||singleshotted.si^
 ||singleshottrust.com^
 ||singleshour.com^
 ||singleshouse.com^
@@ -254606,6 +254725,7 @@ Stand: 08.10.2026 11:11
 ||singlesonlyclub.com^
 ||singlesonlyform.digitaltribe.com.ng^
 ||singlesonlyhub.com^
+||singlesonlymusic.com^
 ||singlesonlynetwork.com^
 ||singlesonlyparty.com^
 ||singlesonlyrecords.club^
@@ -254919,6 +255039,7 @@ Stand: 08.10.2026 11:11
 ||singlesourceservices.com^
 ||singlesourcesignage.com^
 ||singlesourcesip.com^
+||singlesourcesmokable.com^
 ||singlesourcesolution.com^
 ||singlesourcesolution.eu^
 ||singlesourcesolution.org^
@@ -256900,6 +257021,7 @@ Stand: 08.10.2026 11:11
 ||sitesdating.co.uk^
 ||sitesdating.com^
 ||sitesdating.net^
+||sitesmith-cwn-singles-com.pages.dev^
 ||sitesondating.com^
 ||siteupdating.co.uk^
 ||siteupdating.net^
@@ -256919,6 +257041,7 @@ Stand: 08.10.2026 11:11
 ||sixdatesaday.com^
 ||sixdating.com^
 ||sixdegreesofdating.com^
+||sixdigitsingles.com^
 ||sixfiguredating.com^
 ||sixfiguresingles.com^
 ||sixfirstdates.com^
@@ -258201,6 +258324,7 @@ Stand: 08.10.2026 11:11
 ||soulsinglesatsea.com^
 ||soulsinglesatsea.soulatsea.com^
 ||soulspark-voor-singles.com^
+||soulspark.dating^
 ||soulstardating.com^
 ||soulsync.dating^
 ||soulsync.singles^
@@ -259795,6 +259919,7 @@ Stand: 08.10.2026 11:11
 ||standards.dating^
 ||standupdating.com^
 ||stanforddating.com^
+||stanfordsingles.com^
 ||stanfordsingles.org^
 ||stanfordsingles.peterwanger.com^
 ||stanfordsingles.ph^
@@ -260361,6 +260486,8 @@ Stand: 08.10.2026 11:11
 ||ststspeeddating.com^
 ||stuartflsingles.com.ph^
 ||stuckondating.com^
+||studates.com^
+||studates.net^
 ||studates.uk^
 ||studating.dk^
 ||studating.ru^
@@ -260716,6 +260843,7 @@ Stand: 08.10.2026 11:11
 ||sugardating.mx^
 ||sugardating.net^
 ||sugardating.nl^
+||sugardating.no^
 ||sugardating.nu^
 ||sugardating.ph^
 ||sugardating.pl^
@@ -260727,6 +260855,7 @@ Stand: 08.10.2026 11:11
 ||sugardating.us^
 ||sugardating.work^
 ||sugardating101.com^
+||sugardating139.net^
 ||sugardating18.dk^
 ||sugardating4u.com^
 ||sugardating69.com^
@@ -260746,7 +260875,10 @@ Stand: 08.10.2026 11:11
 ||sugardatingcanada.com^
 ||sugardatingconsult.com^
 ||sugardatingdanmark.com^
+||sugardatingdeutschland.de^
 ||sugardatingdk.com^
+||sugardatingedit.com^
+||sugardatingera.com^
 ||sugardatingeurope.com^
 ||sugardatingfree.com^
 ||sugardatingglobal.com^
@@ -260763,6 +260895,7 @@ Stand: 08.10.2026 11:11
 ||sugardatingmalaysia.com^
 ||sugardatingmap.com^
 ||sugardatingmatch.com^
+||sugardatingmatrix.com^
 ||sugardatingmeet.com^
 ||sugardatingnearme.com^
 ||sugardatingnederland.nl^
@@ -260789,11 +260922,17 @@ Stand: 08.10.2026 11:11
 ||sugardatingsupport.com^
 ||sugardatingsverige.com^
 ||sugardatingswitzerland.ch^
+||sugardatingtheory.org^
+||sugardatingtips.com^
 ||sugardatinguk.co.uk^
 ||sugardatinguk.com^
 ||sugardatingus.com^
+||sugardatingvault.com^
+||sugardatingvibe.com^
+||sugardatingwealth.com^
 ||sugardatingwebsite.com^
 ||sugardatingwebsites.com.au^
+||sugardatingwiki.com^
 ||sugardatingworld.com^
 ||sugarflirt.com^
 ||sugarfree-dating.com^
@@ -261425,6 +261564,7 @@ Stand: 08.10.2026 11:11
 ||swfldating.com^
 ||swfloridadating.com^
 ||swflsinglesminglepickleball.com^
+||swifeydating.com^
 ||swift-dates.com^
 ||swift-dating.site^
 ||swiftbluedating.top^
@@ -262815,6 +262955,7 @@ Stand: 08.10.2026 11:11
 ||tenrdatingexperience.com^
 ||tensingles.com^
 ||tentaciondating.com^
+||tentickdating.co.uk^
 ||tentickdating.com^
 ||tentopdatingsites.com^
 ||tentpublicationdatestatusreference14.ph^
@@ -262949,6 +263090,7 @@ Stand: 08.10.2026 11:11
 ||texassinglesconference.com^
 ||texassinglesconference.org^
 ||texassingleshot.com^
+||texassugardating.com^
 ||texdates.com^
 ||texmodatessuti.vanityweb.it^
 ||text.dating^
@@ -263480,6 +263622,7 @@ Stand: 08.10.2026 11:11
 ||theclubhousedatingformula.com^
 ||thecodedating.com^
 ||thecodedatingapp.com^
+||thecommunity.dating^
 ||theconfidentdatingblueprint.com^
 ||theconnectionmap.dating^
 ||theconsciousdatingacademy.com^
@@ -264173,6 +264316,7 @@ Stand: 08.10.2026 11:11
 ||theflirtagency.venleyppe.com^
 ||theflirtations.com^
 ||theflirtations.net^
+||theflirtations.uk^
 ||theflirtationstation.com^
 ||theflirtbeautybar.co^
 ||theflirtbeautybar.com^
@@ -266117,11 +266261,13 @@ Stand: 08.10.2026 11:11
 ||top7dating.com^
 ||top7datingsider.dk^
 ||top7datingsites.com^
+||top88.singles^
 ||top8datingsites.com^
 ||top9datingsites.com^
 ||top9datingwebsites.com^
 ||topaberdeendatingsites.co.uk^
 ||topadultdating.com^
+||topaidatest-qcint.quintessence.de^
 ||topaidating.com^
 ||topappsdating.com^
 ||topasiandating.com^
@@ -266155,6 +266301,7 @@ Stand: 08.10.2026 11:11
 ||topcandidatesg.co^
 ||topcandidatesg.com^
 ||topcandidatesg.info^
+||topcandidatesg.org^
 ||topcandidatesourcing.com^
 ||topcandidatessg.us^
 ||topcardiffdatingsites.co.uk^
@@ -267000,6 +267147,7 @@ Stand: 08.10.2026 11:11
 ||transpacificdating.com^
 ||transpacificdating.net^
 ||transpacificdatingclub.com^
+||transpacificdatingclub.net^
 ||transparencydating.app^
 ||transparencydatingapp.com^
 ||transparentdating.com^
@@ -267194,6 +267342,7 @@ Stand: 08.10.2026 11:11
 ||trieddating.com^
 ||triffbayrischesingles.com^
 ||triflirt.com^
+||triflirt.pl^
 ||triggerflirtzz.com^
 ||trigliseridatinggi.net.ph^
 ||trigu-dating.com^
@@ -267491,6 +267640,7 @@ Stand: 08.10.2026 11:11
 ||trusteddatingservices.ca^
 ||trusteddatingsites.co.uk^
 ||trusteddatingsites.space^
+||trusteddatingspot.com^
 ||trustedheart.dating^
 ||trustedonlinedatingmatch72.cyou^
 ||trustedsingles.com^
@@ -268497,6 +268647,7 @@ Stand: 08.10.2026 11:11
 ||unbegrenzteflirts.de^
 ||unbegrenzteflirts.top^
 ||unblurdating.com^
+||unbothereddating.com^
 ||unbotheredsingles.com^
 ||unbound-dating.com^
 ||unbound-dating.net^
@@ -268932,6 +269083,7 @@ Stand: 08.10.2026 11:11
 ||updating-api-e2e-adsd.admiralty.co.uk^
 ||updating-api-pre-adsd.admiralty.co.uk^
 ||updating-api-qa-adsd.admiralty.co.uk^
+||updating-api-trn-adsd.admiralty.co.uk^
 ||updating-arrays.pages.dev^
 ||updating-base-icon.dev.blockdaemon-wallet.com^
 ||updating-boionlineserivces.org.ph^
@@ -268964,6 +269116,7 @@ Stand: 08.10.2026 11:11
 ||updating-services.ph^
 ||updating-subscription.com^
 ||updating-test.jasminbrwnie.com^
+||updating-trn-adsd.admiralty.co.uk^
 ||updating-user-nelfix-id912.com^
 ||updating-website.pages.dev^
 ||updating-your-accnt-ppl-informations.inurl.tk.rigofotografia.com.br^
@@ -270002,6 +270155,7 @@ Stand: 08.10.2026 11:11
 ||validatesanaddedtonewcertificateafterrenewalsitecertnewdomain.1791411952233.incaptest.co^
 ||validatesanaddedtonewcertificateafterrenewalsitecertnewdomain.1791415181275.incaptest.co^
 ||validatesanaddedtonewcertificateafterrenewalsitecertnewdomain.1791416538526.incaptest.co^
+||validatesanaddedtonewcertificateafterrenewalsitecertnewdomain.1791418041634.incaptest.co^
 ||validatesanaddedtonewcertificateafterrenewalsitecertsite.1773963593354.incaptest.co^
 ||validatesanaddedtonewcertificateafterrenewalsitecertsite.1774046570345.incaptest.co^
 ||validatesanaddedtonewcertificateafterrenewalsitecertsite.1774220391093.incaptest.co^
@@ -270330,6 +270484,7 @@ Stand: 08.10.2026 11:11
 ||validatesanaddedtonewcertificateafterrenewalsitecertsite.1791411983853.incaptest.co^
 ||validatesanaddedtonewcertificateafterrenewalsitecertsite.1791415187807.incaptest.co^
 ||validatesanaddedtonewcertificateafterrenewalsitecertsite.1791416545004.incaptest.co^
+||validatesanaddedtonewcertificateafterrenewalsitecertsite.1791418074152.incaptest.co^
 ||validatesattributes.ph^
 ||validatescan.xyz^
 ||validateschema.dev^
@@ -271946,6 +272101,7 @@ Stand: 08.10.2026 11:11
 ||voksen.dating^
 ||voksendating.com^
 ||voksendating.net^
+||voksendating.no^
 ||voksendating.online^
 ||voksendatingdanmark.com^
 ||voksendatingdanmark.dk^
@@ -272026,6 +272182,7 @@ Stand: 08.10.2026 11:11
 ||vpdates-coinbase.com^
 ||vplusbbwdating.com^
 ||vpn.singles^
+||vpndates.xyz^
 ||vpsdatest3.mijnhost-testdomein.nl^
 ||vpsdatest4.mijnhost-testdomein.nl^
 ||vpsingles.com^
@@ -272515,6 +272672,7 @@ Stand: 08.10.2026 11:11
 ||webcamdatingonline.com^
 ||webcamdatingonline.com.helenagraphics.com^
 ||webcamdatings.com^
+||webcamdatingsite.co.uk^
 ||webcamflirt.nl^
 ||webcamflirts.de^
 ||webcamflirts.nl^
@@ -272527,6 +272685,7 @@ Stand: 08.10.2026 11:11
 ||webdates.co.uk^
 ||webdates.com^
 ||webdates.org^
+||webdates.xyz^
 ||webdating.cam^
 ||webdating.in.net^
 ||webdating.io^
@@ -279256,6 +279415,7 @@ Stand: 08.10.2026 11:11
 ||zamuslimdating1.today^
 ||zamuslimdating3.today^
 ||zamzamdates.com^
+||zamzamdates.in^
 ||zamzamdates.store^
 ||zamzamdates.store.devsolworld.com^
 ||zamzamdatesco.com^

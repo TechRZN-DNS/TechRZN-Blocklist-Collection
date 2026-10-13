@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 12.10.2026 11:43
+Stand: 13.10.2026 11:30
 
 ||000000555.xyz^
 ||0025974bf482fe84ac6a59293ae0bc0432a7b9fc.com^
@@ -22,7 +22,9 @@ Stand: 12.10.2026 11:43
 ||0l682vm5.com^
 ||0ms.dev^
 ||0n0fzcp.online^
+||0u0006.ir.ir.ir.meli-n12.info^
 ||0x3d.lu^
+||0y0006.ir.ir.ir.meli-n12.info^
 ||1.0rz.space^
 ||1.11i.eu^
 ||1.dns.noridev.moe^
@@ -1852,6 +1854,7 @@ Stand: 12.10.2026 11:43
 ||apps.truckbel.com^
 ||appsdl.org^
 ||appshost.us^
+||appstoff.info^
 ||apptopay.xyz^
 ||appxiazai9.com^
 ||aptutorfinder.com^
@@ -1876,6 +1879,7 @@ Stand: 12.10.2026 11:43
 ||archvpn.help^
 ||arctic.internetspeedtest.world^
 ||arcticstorm.ru^
+||ardebill.miandoabs.info^
 ||area.level.southtrestle.com^
 ||area51.mywire.org^
 ||areas.fun^
@@ -1912,6 +1916,7 @@ Stand: 12.10.2026 11:43
 ||asdfghjkl.sailforeducation.org^
 ||asdsajs120sm.online^
 ||asdsasd.vercel.app^
+||aseman.lunavane.co.uk^
 ||aseproxy.aselock.dns-dynamic.net^
 ||asfhfkqn.com^
 ||ash.do^
@@ -1946,6 +1951,7 @@ Stand: 12.10.2026 11:43
 ||astroid-three.vercel.app^
 ||astroutercn.com^
 ||astrovpn.co^
+||at.foltmeingop.co.uk^
 ||at.pzhg.me^
 ||at5w361xq.online^
 ||atejiasu.com^
@@ -2078,6 +2084,7 @@ Stand: 12.10.2026 11:43
 ||baiyueguangjc.com^
 ||bajie.la^
 ||bajiess.com^
+||bale.foltmeingop.co.uk^
 ||ballbang.com^
 ||banana-vpn.com^
 ||banana.global.ssl.fastly.net^
@@ -2104,6 +2111,7 @@ Stand: 12.10.2026 11:43
 ||base99.com^
 ||bashful-stretch.surge.sh^
 ||basildo.beer^
+||bastani.mikhay.co.uk^
 ||bastlipv.com^
 ||bathshop.ir^
 ||bating.karrozzin.cloud-ip.cc^
@@ -2197,6 +2205,7 @@ Stand: 12.10.2026 11:43
 ||bebro.live^
 ||bebro.loan^
 ||bebrochka.loan^
+||becarefull.bypased.info^
 ||beecomf.xyz^
 ||beenvpn.help^
 ||beepassvpn.com^
@@ -2210,6 +2219,7 @@ Stand: 12.10.2026 11:43
 ||begzar.space^
 ||begzar.xyz^
 ||beherb.xyz^
+||behtarin.goooalir.co.uk^
 ||beibei.cloud^
 ||beibeicloud.shop^
 ||beibeilink.top^
@@ -2656,6 +2666,8 @@ Stand: 12.10.2026 11:43
 ||boredomss.a.ssl.fastly.net^
 ||boredonasndkf.global.ssl.fastly.net^
 ||borisov.page^
+||boro.poolaki.co.uk^
+||borujerd-tehran-esfahan.miandoabs.info^
 ||botany.classes.spacejamhd.com^
 ||botclassic.com^
 ||botvpn.help^
@@ -2936,6 +2948,7 @@ Stand: 12.10.2026 11:43
 ||ccave.com^
 ||ccavea.com^
 ||ccc.horizon555.co.uk^
+||ccc7h6.ir.meli-n13.info^
 ||ccyykk.top^
 ||cdiiceyn.com^
 ||cdn-7xf.pages.dev^
@@ -3265,6 +3278,7 @@ Stand: 12.10.2026 11:43
 ||coloredwool.us^
 ||com.info.north-kazakhstan.su.cdn.cloudflare.net^
 ||com.you-seen.fr^
+||comback-all.hosiyaman.info^
 ||combawake.com^
 ||comcatches.live^
 ||commons.host^
@@ -3921,6 +3935,7 @@ Stand: 12.10.2026 11:43
 ||darkweb.cyou^
 ||dart.kpsn.org^
 ||darya.persiannit.net^
+||darya.saheledarya.co.uk^
 ||dasfca.com^
 ||dasfh.route64.de^
 ||dash.learnenglishinmerton.org^
@@ -4916,6 +4931,7 @@ Stand: 12.10.2026 11:43
 ||dns.snaketech.com.br^
 ||dns.sneakypanda.org^
 ||dns.soldier.terumi.club^
+||dns.speed-benz.co.uk^
 ||dns.spil.co.id^
 ||dns.spirio.fr^
 ||dns.srinivasrao.co.in^
@@ -5455,6 +5471,7 @@ Stand: 12.10.2026 11:43
 ||dojianguo.com^
 ||dojifeng.com^
 ||dojikuai.com^
+||dokhtar.nanaz.co.uk^
 ||dokoala.net^
 ||dokuaigou.com^
 ||dokuailian.com^
@@ -6131,6 +6148,7 @@ Stand: 12.10.2026 11:43
 ||excitement.registration.abrdns.com^
 ||excvvbinnvx.easterndns.com^
 ||exg7xhdl.com^
+||exiscos.co.uk^
 ||exns1.exalto.nu^
 ||expatshield.com^
 ||expectmark.com^
@@ -6164,6 +6182,10 @@ Stand: 12.10.2026 11:43
 ||extrememath.info^
 ||extrememath.net^
 ||extremevpn.com^
+||eyiran.suser.ir^
+||eyiran1.suser.ir^
+||eyiran33.suser.ir^
+||eyiran35.suser.ir^
 ||eymg5h77lfs6zhwzmv47gkh0a4r1f1ydfprzxidk.ir^
 ||eyujichang.com^
 ||ezgg.lol^
@@ -6845,6 +6867,7 @@ Stand: 12.10.2026 11:43
 ||fukuda.ccnt.fr^
 ||fulcrumtheatreinc.com^
 ||fullaccesstointernet.jp.eu.org^
+||fulll.ir.meli-n13.info^
 ||fumarkel.com^
 ||funknetwork.com^
 ||funmathgames.ddnsfree.com^
@@ -7041,6 +7064,7 @@ Stand: 12.10.2026 11:43
 ||ggyamrcb.com^
 ||ghadrboland.ir^
 ||ghaodevq.com^
+||ghasam-be-shab.hosiyaman.info^
 ||ghdysd.xyz^
 ||ghost-town.partedu.club.cdn.cloudflare.net^
 ||ghostbrowser.com^
@@ -7114,7 +7138,6 @@ Stand: 12.10.2026 11:43
 ||gofastdirect.top^
 ||gofastvpn.com^
 ||goflyvpn.com^
-||gog.xena.wtf^
 ||goga7777777.bissnes.org^
 ||gogardiansucks.myclarevision.com^
 ||gogocloud.cyou^
@@ -7289,7 +7312,6 @@ Stand: 12.10.2026 11:43
 ||guard.pp.ua^
 ||guard.telesterion.de^
 ||guard.thefather.cloud^
-||guard.yps.tw^
 ||guardian-vpn.com^
 ||guardianvpn.net^
 ||guardster.com^
@@ -7341,6 +7363,7 @@ Stand: 12.10.2026 11:43
 ||h4i4fl66.com^
 ||ha.o51r15.com^
 ||habd.me^
+||habib-lisanser.browncolor.info^
 ||hack-in-sms.renaceracs.xyz^
 ||hacker-from-sms.renaceracs.xyz^
 ||hackkcah.com^
@@ -7476,6 +7499,7 @@ Stand: 12.10.2026 11:43
 ||hetecn.com^
 ||hexmoria.ru^
 ||hexxitcompany.com^
+||hey.foltmeingop.co.uk^
 ||heysocks.com^
 ||heysocks.life^
 ||heysocks.net^
@@ -7976,7 +8000,6 @@ Stand: 12.10.2026 11:43
 ||https-cdn-ddns.itdeveloper.info^
 ||httpsdns.baidu.com^
 ||httpsingsnode.timegear.site^
-||httptunnell.ge^
 ||htyrqg.com^
 ||huarenjsq.top^
 ||huawaakiskokoa.duckdns.org^
@@ -8068,6 +8091,7 @@ Stand: 12.10.2026 11:43
 ||idealvpn.com^
 ||ideas.theory.parikshit.com.np^
 ||idenitrust.com^
+||idiot.foltmeingop.co.uk^
 ||iditinahuipidorasidagga.net^
 ||idkkilo.accesscam.org^
 ||idleforest.com^
@@ -8276,7 +8300,11 @@ Stand: 12.10.2026 11:43
 ||iq4nrowd.online^
 ||iqbbhmzh.com^
 ||iqia.org^
+||ir-ir.ataman.info^
+||ir-ir.engematica.info^
+||ir-ir.flipme.info^
 ||ir-ir.gnutella2.info^
+||ir-ir.grumpyoldmen.info^
 ||ir-ir.rebol.info^
 ||ir.ariely.info^
 ||ir.ataman.info^
@@ -8294,6 +8322,7 @@ Stand: 12.10.2026 11:43
 ||ir.rebol.info^
 ||ir.xeonxu.info^
 ||ir.xn--ds-bja.info^
+||iran.bingi.co.uk^
 ||irckyb7t9a.com^
 ||ire.danielfreyr.com^
 ||irgrdns.nullapp.xyz^
@@ -8671,6 +8700,7 @@ Stand: 12.10.2026 11:43
 ||karaseee.f5.si^
 ||karnuvia.ru^
 ||karo-vpn.xyz^
+||kasco.alhosein.co.uk^
 ||katakanachart.com^
 ||katonetwork.com^
 ||kavkaz.monster^
@@ -8723,6 +8753,8 @@ Stand: 12.10.2026 11:43
 ||kgkt5w6.com^
 ||khajujawegifwqaiugwa.tcp64.de^
 ||khanacademy.mom.cdn.cloudflare.net^
+||khanda-makoni.lolauth.info^
+||khande-bar-lab-mizanam.lolauth.info^
 ||khome.site^
 ||khpkadmig.click^
 ||kickassproxy.com^
@@ -9160,6 +9192,7 @@ Stand: 12.10.2026 11:43
 ||larva.app^
 ||las-vegas.privacy-dns.pw^
 ||lasbg4.xyz^
+||lashboy.muzanesghy.co.uk^
 ||lastentarvike.fi^
 ||lastvpn.help^
 ||later.monkxy.org^
@@ -9423,6 +9456,7 @@ Stand: 12.10.2026 11:43
 ||lomoff.spb.ru^
 ||longss.xyz^
 ||lonmq6.xyz^
+||look.foltmeingop.co.uk^
 ||look.xshentx.org^
 ||looquae8.xyz^
 ||looseforbid.com^
@@ -9453,7 +9487,6 @@ Stand: 12.10.2026 11:43
 ||ls.app^
 ||lslnyjq.uk^
 ||lstydcrm.com^
-||lte.mishutkin.click^
 ||ltlxvxjjmvhn.me^
 ||ltvpn.org^
 ||ltyrqg.com^
@@ -9560,6 +9593,8 @@ Stand: 12.10.2026 11:43
 ||marslink.vip^
 ||marsproxies.com^
 ||masgl.store^
+||mashti-khan.ebimarh.info^
+||mashti.just-money.co.uk^
 ||mask-api.fe.apple-dns.net^
 ||mask-canary.icloud.com^
 ||mask-h2.icloud.com^
@@ -9575,6 +9610,7 @@ Stand: 12.10.2026 11:43
 ||masterspn.com^
 ||masterssh.com^
 ||masthisis.ir^
+||math-test.bypased.info^
 ||math.allorica.xyz^
 ||math.area.myjamesonline.net^
 ||math.davidandasabi.org^
@@ -9649,6 +9685,7 @@ Stand: 12.10.2026 11:43
 ||mdss02-m5yj3rrr.top^
 ||mduyd.cn^
 ||me-when-i-lie.eaglercraft.cc^
+||me.foltmeingop.co.uk^
 ||mechanikdns.kozow.com^
 ||media.logic.postie.org^
 ||media.music.orienta.com.br^
@@ -9740,6 +9777,7 @@ Stand: 12.10.2026 11:43
 ||minoritymath.buzz^
 ||minoritymath.buzz.cdn.cloudflare.net^
 ||minutefishy.theworkpc.com^
+||mio.foltmeingop.co.uk^
 ||mio.mozitop.co.uk^
 ||mipelinusa.ddns.net^
 ||mipelinusa.duckdns.org^
@@ -9774,7 +9812,6 @@ Stand: 12.10.2026 11:43
 ||moamao.shop^
 ||mobile-socket.culturegps.com^
 ||mobile.development.sanluix.org^
-||mobile.mishutkin.click^
 ||mobilejump.mobi^
 ||mobilevpn.net^
 ||mochiser1.com^
@@ -9884,7 +9921,6 @@ Stand: 12.10.2026 11:43
 ||mofang85.com^
 ||mofang94.com^
 ||mofangvpn.com^
-||mofid.saheledarya.co.uk^
 ||mogotech.net^
 ||mogujiasu.net^
 ||moguvpn.net^
@@ -9954,6 +9990,7 @@ Stand: 12.10.2026 11:43
 ||mtdhbqbf.com^
 ||mtkidjkn.com^
 ||mtpro.xyz^
+||mtproxy.mom^
 ||mtproxygram.lol^
 ||mtviewbaptist.org^
 ||mtyrqg.com^
@@ -10112,6 +10149,7 @@ Stand: 12.10.2026 11:43
 ||naiyun.info^
 ||naiyunjc.com^
 ||najiakeji.top^
+||nakoshimon-jomong.lolauth.info^
 ||name-meaning.us^
 ||name.golgoli2.co.uk^
 ||nano-proxy.github.io^
@@ -10140,6 +10178,7 @@ Stand: 12.10.2026 11:43
 ||nas1403.duckdns.org^
 ||nasavpn.top^
 ||nash-vps.com^
+||nasho.poolaki.co.uk^
 ||nashvpc.com^
 ||nashvpn.app^
 ||nashvpn.biz^
@@ -10215,6 +10254,7 @@ Stand: 12.10.2026 11:43
 ||neuroquantum.me^
 ||new-hawk-387.conwordable.com^
 ||new-water-132.conwordable.com^
+||new.nchnch.co.uk^
 ||new7.mizanmizanesgh.co.uk^
 ||newcovumc.org^
 ||newd.rezyro.com^
@@ -10344,8 +10384,10 @@ Stand: 12.10.2026 11:43
 ||nooken-vpn.europe-west1.firebasedatabase.app^
 ||nooken.app^
 ||nookenvpn.help^
+||noon.begir.co.uk^
 ||noonv2-c55a5-default-rtdb.firebaseio.com^
 ||noonvpn.net^
+||nooshabe.mikhay.co.uk^
 ||nop.mobi^
 ||noproblem.eu.org^
 ||noprox.com^
@@ -10817,6 +10859,7 @@ Stand: 12.10.2026 11:43
 ||pango-cloud.com^
 ||pango-paas.co^
 ||pangolinvpn.com^
+||panir.begir.co.uk^
 ||pankvyh.xyz^
 ||panmill.xyz^
 ||panser.web.id^
@@ -10858,6 +10901,7 @@ Stand: 12.10.2026 11:43
 ||partyvpn.com^
 ||pasdfn.com^
 ||pashagame456.com^
+||pashmak.mikhay.co.uk^
 ||paskam.xyz^
 ||passageplace.com^
 ||passiveapp.com^
@@ -10995,6 +11039,7 @@ Stand: 12.10.2026 11:43
 ||pingmybee.net^
 ||pinguproxy.com^
 ||pingvpn.com^
+||pintrest-cool.browncolor.info^
 ||pinweb.info^
 ||piplvpn.com^
 ||piproxies.com^
@@ -11117,6 +11162,7 @@ Stand: 12.10.2026 11:43
 ||poatvpn.com^
 ||pocketnerve.com^
 ||poczta.sailforeducation.org^
+||pofak.mikhay.co.uk^
 ||poft.top^
 ||point.scheduleholiday.christmas^
 ||pointed.cc^
@@ -11144,6 +11190,7 @@ Stand: 12.10.2026 11:43
 ||porsorate.co.uk^
 ||portal.app.dontdrinkthekoolaid.duckdns.org^
 ||portal.dont-let-securly-block-this.duckdns.org^
+||portal.flashspder.info^
 ||portbj.xyz^
 ||portbuddy.dev^
 ||portionsigh.com^
@@ -11167,6 +11214,7 @@ Stand: 12.10.2026 11:43
 ||powervpn.github.io^
 ||powervpnfree.com^
 ||powq0.xyz^
+||powvpn.com^
 ||pp.hamburger.ip-ddns.com^
 ||ppdns.cn^
 ||ppeptv.xyz^
@@ -11196,6 +11244,7 @@ Stand: 12.10.2026 11:43
 ||premium-vpn.app^
 ||premium-vpn.store^
 ||premium-web.info^
+||premium.speed-benz.co.uk^
 ||premiumproxy.net^
 ||premsocks.com^
 ||premzon.com^
@@ -11580,6 +11629,7 @@ Stand: 12.10.2026 11:43
 ||q1w2e3r4.xyz^
 ||q6b2logs.com^
 ||qa-brwsc.org^
+||qadim.zhigool.co.uk^
 ||qandoria.ru^
 ||qarlovim.hair^
 ||qasfmp.com^
@@ -11596,6 +11646,7 @@ Stand: 12.10.2026 11:43
 ||qepcbrp.cn^
 ||qerimova.ru^
 ||qertcij.cn^
+||qeshm.island.ir.igakwvwa.info^
 ||qevon.xyz^
 ||qewcok.com^
 ||qfhoeyvp.com^
@@ -11798,6 +11849,7 @@ Stand: 12.10.2026 11:43
 ||realvpn.io^
 ||realvpn.space^
 ||reaplay.ddns.net^
+||reborn.rebirthconnect.com^
 ||recap.arts.sumyk.com.br^
 ||recap.grade.kredytlinia.pl^
 ||recharger.link^
@@ -11896,6 +11948,7 @@ Stand: 12.10.2026 11:43
 ||revko.info^
 ||rewardpumpkin.com^
 ||rexdns.duckdns.org^
+||reyhoon.shambelile.co.uk^
 ||rezerofanbase.com^
 ||rf4.forestberrypi.com^
 ||rf425d-8080.csb.app^
@@ -12012,6 +12065,7 @@ Stand: 12.10.2026 11:43
 ||ru-vpnly.net^
 ||rubyarcade.pages.dev^
 ||rubyfish.cn^
+||rudmoain.co.uk^
 ||rudolphdesigns.com^
 ||rufvyhjidk6.easterndns.com^
 ||rules.school.nadig.li^
@@ -12125,6 +12179,7 @@ Stand: 12.10.2026 11:43
 ||sapphire.complex.abrdns.com^
 ||sarakou.easterndns.com^
 ||sarawut.ddns.net^
+||sarzamin.mosbatbashim.info^
 ||sascha-rabold.de^
 ||sat.api.ksfto.dpdns.org^
 ||sat.ksf.qzz.io^
@@ -12279,9 +12334,11 @@ Stand: 12.10.2026 11:43
 ||servefaststatic.work^
 ||server-list.synclusiveinno.com^
 ||server-list1.synclusiveinno.com^
+||server.syscloudio.co.uk^
 ||server01.karl.one^
 ||server01.vboekel.nl^
 ||server2386.com^
+||server3.server-space52.info^
 ||server3233.com^
 ||servergo.pw^
 ||serverhoya.com^
@@ -12598,6 +12655,7 @@ Stand: 12.10.2026 11:43
 ||sparkproxy.io^
 ||spbyjzu.cn^
 ||spearhead.bury.abrdns.com^
+||speed.runserver.co.uk^
 ||speedcat.info^
 ||speedcatjc.com^
 ||speedcn.in^
@@ -12839,6 +12897,7 @@ Stand: 12.10.2026 11:43
 ||sunsett.cc.cdn.cloudflare.net^
 ||sunsett.icu.cdn.cloudflare.net^
 ||sunvpn.net^
+||suodbo.co.uk^
 ||super-vpn.info^
 ||super123.org^
 ||superapi.cz^
@@ -13261,7 +13320,6 @@ Stand: 12.10.2026 11:43
 ||tools.development.sanluix.org^
 ||tools.math.com.de^
 ||top-medical-schools.org^
-||top.mishutkin.click^
 ||top10vpn.com^
 ||top10vpnapp.com^
 ||topcenter.one^
@@ -13476,6 +13534,7 @@ Stand: 12.10.2026 11:43
 ||u2dpn.network^
 ||u2dpn.xyz^
 ||u4uds317.com^
+||u8886h6.masi.ir.he6fhd.ru^
 ||u8sj3.com^
 ||uabqnyzc.com^
 ||uaconnecter.click^
@@ -13533,7 +13592,7 @@ Stand: 12.10.2026 11:43
 ||ultimatearca.de^
 ||ultimatepro.us^
 ||ultra.bostoncareercounselor.com^
-||ultra.mishutkin.click^
+||ultra.proxynet.tech^
 ||ultrabestproxy.com^
 ||ultrafastproxy.com^
 ||ultrafastvpn.net^
@@ -14019,6 +14078,7 @@ Stand: 12.10.2026 11:43
 ||viuapi.com^
 ||vivaspeer.org^
 ||vivid-bison.com^
+||vizhzhzhzhzh.bypased.info^
 ||vkrysk.space^
 ||vladpro.ru^
 ||vles.space^
@@ -14739,7 +14799,6 @@ Stand: 12.10.2026 11:43
 ||wirevpn.cc^
 ||wirlocof.com^
 ||wiseghostapp.com^
-||withdrawfrog.space^
 ||withoutdns.com^
 ||withstory.net^
 ||witopia.com^
@@ -14750,11 +14809,9 @@ Stand: 12.10.2026 11:43
 ||wj-letsvpn.com^
 ||wjjrzwkd.com^
 ||wjpiwixm.com^
-||wkd4zoi1.online^
 ||wkor3yiac4.com^
 ||wlvpn.com^
 ||wmentukv.com^
-||wmgbrhwo.cc^
 ||wmhctvlu.sailforeducation.org^
 ||wmqbjq.cn^
 ||wnuxuhdj.com^
@@ -14894,12 +14951,8 @@ Stand: 12.10.2026 11:43
 ||x861g.duckdns.org^
 ||x9fnzrtl4x8pynsf.com^
 ||xalnora.ru^
-||xaltrio.ru^
-||xalvino.ru^
 ||xanderlikedihhh.hotelconsuladoinn.com^
 ||xandoriya.ru^
-||xantiro.ru^
-||xanvero.ru^
 ||xarra.ru^
 ||xaws40.cn^
 ||xaykmfn.cn^
@@ -14916,13 +14969,8 @@ Stand: 12.10.2026 11:43
 ||xcvjkslkcjfsdfesfd.xcvjhsdkdfs.nshosting.xyz^
 ||xcvpn.me^
 ||xcvscvgfdcdfg.rdfgcvbfcbv.bonded-game.com^
-||xendria.ru^
-||xendro.ru^
 ||xenergy.cc^
 ||xenodiagnosis.karrozzin.cloud-ip.cc^
-||xenorit.xyz^
-||xenpiro.ru^
-||xentiro.ru^
 ||xeovo.com^
 ||xerbit.xyz^
 ||xerivon.xyz^
@@ -14936,7 +14984,6 @@ Stand: 12.10.2026 11:43
 ||xfxssr.me^
 ||xfxvpn.life^
 ||xg8tw7gfox.site^
-||xgmilhfr.cc^
 ||xgndgeyn.com^
 ||xhj123.xyz^
 ||xhj1314.com^
@@ -15024,7 +15071,6 @@ Stand: 12.10.2026 11:43
 ||xn--emovpn-u40k507h.com^
 ||xn--fetx50be7pf6w.com^
 ||xn--fhq389femyc1d.com^
-||xn--fiq626gzzgkv2a.com^
 ||xn--fiqs8s9rjgsr.com^
 ||xn--fiqy4bl9l81zp7skjc1xd.com^
 ||xn--h5q13wxxnwubd52b.org^
@@ -15094,12 +15140,9 @@ Stand: 12.10.2026 11:43
 ||xn--z4vu10a.com^
 ||xn--zuup71g88ae4i.com^
 ||xn--zwwa296b.com^
-||xolvento.ru^
 ||xomverta.ru^
 ||xonlrnrujxbx.com^
-||xorniva.ru^
 ||xortbv.cc^
-||xorvila.ru^
 ||xozoquat.com^
 ||xpen.ns01.info^
 ||xperienc.com^
@@ -15154,9 +15197,6 @@ Stand: 12.10.2026 11:43
 ||yahagi.vip^
 ||yahoo-search-s.easterndns.com^
 ||yakutvpn.site^
-||yalmoro.ru^
-||yaltro.ru^
-||yamekol.my^
 ||yandexapi.online^
 ||yandhi.herokuapp.com^
 ||yangfan73.net^
@@ -15174,7 +15214,6 @@ Stand: 12.10.2026 11:43
 ||yapend.com^
 ||yapwxciu.com^
 ||yarak.luminiferous.abrdns.com^
-||yarvio.ru^
 ||yarypple.co.uk^
 ||yavdvcrs.com^
 ||yawdg.net^
@@ -15199,10 +15238,8 @@ Stand: 12.10.2026 11:43
 ||yepfast.cc^
 ||yeqavten.com^
 ||yeralin.net^
-||yes-taro.ru^
 ||yescool.upcg.xyz^
 ||yessir.happyforever.com^
-||yestaro.ru^
 ||yex.karrozzin.cloud-ip.cc^
 ||yexmorio.ru^
 ||yfn42.net^
@@ -15241,8 +15278,7 @@ Stand: 12.10.2026 11:43
 ||yogavpn.com^
 ||yogawiki.in^
 ||yolearn.org^
-||yomira.ru^
-||yornivo.ru^
+||you.foltmeingop.co.uk^
 ||youboost.app^
 ||youboost.click^
 ||youboost.info^
@@ -15290,7 +15326,6 @@ Stand: 12.10.2026 11:43
 ||ysbdgef.com^
 ||ysnclks.com^
 ||yswlvip.com^
-||ytbymaza.cc^
 ||ytcroxyproxy.com^
 ||ytmusicub.bonded-game.com^
 ||ytoogw.com^
@@ -15307,7 +15342,6 @@ Stand: 12.10.2026 11:43
 ||yummy.bury.abrdns.com^
 ||yundun.icu^
 ||yunfanjiasu.com^
-||yunitex.xyz^
 ||yuno.truckbel.com^
 ||yuntu.network^
 ||yuntu.pro^
@@ -15374,13 +15408,6 @@ Stand: 12.10.2026 11:43
 ||zavento.xyz^
 ||zaziss.com^
 ||zbpxxoy.com^
-||zburger.top^
-||zc084.xyz^
-||zc085.xyz^
-||zc086.xyz^
-||zc090.xyz^
-||zc091.xyz^
-||zc092.xyz^
 ||zc093.xyz^
 ||zc094.xyz^
 ||zc095.xyz^
@@ -15427,21 +15454,16 @@ Stand: 12.10.2026 11:43
 ||zenmate.com^
 ||zenmatevpn.help^
 ||zenovus.space^
-||zenparo.ru^
-||zenpravo.ru^
 ||zenrows.com^
 ||zentuvia.ru^
 ||zenvorixa.xyz^
 ||zenvpn.net^
 ||zenxnet.com^
-||zerava.ru^
 ||zerivox.xyz^
 ||zerlix.xyz^
-||zernavo.ru^
 ||zerotier.com^
 ||zerotunnel.com^
 ||zerovpn-app.com^
-||zestivo.ru^
 ||zetland.rm-ni.uk^
 ||zeusvps.cloudns.nz^
 ||zexrctvjykiuln.evils.in^
@@ -15451,8 +15473,6 @@ Stand: 12.10.2026 11:43
 ||zgcvpn.com^
 ||zgendpnts.s3.amazonaws.com^
 ||zgfree.info^
-||zgggvpn.site^
-||zggvpn.site^
 ||zgproxy.com^
 ||zgproxy.org^
 ||zgvnp.site^
@@ -15461,7 +15481,6 @@ Stand: 12.10.2026 11:43
 ||zgvpn.org^
 ||zgvvpn.site^
 ||zh-index-kuailian.com.cn^
-||zh-kuailian.cn^
 ||zh-pc-kuailian.com.cn^
 ||zhang.wenru.xyz^
 ||zhangdong25.cn^
@@ -15500,9 +15519,7 @@ Stand: 12.10.2026 11:43
 ||znselxsz.com^
 ||zo0g.site^
 ||zoihvj9m.com^
-||zolneva.baby^
 ||zonevpn.com^
-||zontero.ru^
 ||zoog-china-vpn.com^
 ||zoog.info^
 ||zoog.pro^
@@ -15527,7 +15544,6 @@ Stand: 12.10.2026 11:43
 ||zoogy.site^
 ||zoogzone.site^
 ||zooog.info^
-||zopiret.my^
 ||zorlunet.ru^
 ||zorrovpn.io^
 ||zorvian.com^
@@ -15548,7 +15564,6 @@ Stand: 12.10.2026 11:43
 ||zuhause.webteufel.net^
 ||zuk.freemyip.com^
 ||zulkas.top^
-||zultrix.ru^
 ||zumuzoig.cc^
 ||zuyg.site^
 ||zva-186.global.ssl.fastly.net^
@@ -15562,6 +15577,5 @@ Stand: 12.10.2026 11:43
 ||zymorae.ru^
 ||zymverto.ru^
 ||zynqorelia.xyz^
-||zyvola.ru^
 ||zzextyow.com^
 ||zzzzz.click^

@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 13.10.2026 11:30
+Stand: 14.10.2026 09:21
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -19885,6 +19885,7 @@ Stand: 13.10.2026 11:30
 ||ad-ebis.toysub.jp^
 ||ad-kraft.aloe-tallow.com^
 ||ad-log.dable.io^
+||ad-manager.matsukiyococokara-online.com^
 ||ad-platform.jmty.jp^
 ||ad-tracker-api.luizalabs.com^
 ||ad-v2-interaction.net.daraz.com^
@@ -42574,6 +42575,7 @@ Stand: 13.10.2026 11:30
 ||catschickens.com^
 ||catseven.tt.omtrdc.net^
 ||catshark.paullacey.digital^
+||catsthumb.com^
 ||cattell.loanzify.app^
 ||cattle.apisyouwonthate.com^
 ||cattle.driftbot.io^
@@ -46068,6 +46070,7 @@ Stand: 13.10.2026 11:30
 ||chohag.tt.omtrdc.net^
 ||choice-sql.news.tt.omtrdc.net^
 ||choice1.my.tt.omtrdc.net^
+||choicebump.com^
 ||choicehotels.tt.omtrdc.net^
 ||choicequity-certtp.tt.omtrdc.net^
 ||choix-des-couverts.tt-stage3.omtrdc.net^
@@ -50231,6 +50234,7 @@ Stand: 13.10.2026 11:30
 ||cocjl.statefortyeight.com^
 ||cock.tt.omtrdc.net^
 ||cockatiel77.tt.omtrdc.net^
+||cockatielcafe.com^
 ||cockatrice13.tt.omtrdc.net^
 ||cockneyize.net.daraz.com^
 ||cockoshigaya.tt.omtrdc.net^
@@ -50852,6 +50856,7 @@ Stand: 13.10.2026 11:30
 ||collinsex1.net.daraz.com^
 ||colony.net.daraz.com^
 ||coloradoserves.com^
+||colorandnoise.com^
 ||colorfulneon.com^
 ||colorfulpet.com^
 ||colorimetriaobong.net.daraz.com^
@@ -53793,6 +53798,8 @@ Stand: 13.10.2026 11:30
 ||contentneworks.nebraska.gov^
 ||contents.healthfirst.org^
 ||contents.pwc.com^
+||contents1.00110.citi.com^
+||contents2.00110.citi.com^
 ||contentservices.ascendloans.com^
 ||contentservices.breezeloans.com^
 ||contentservices.brightlending.com^
@@ -54213,6 +54220,7 @@ Stand: 13.10.2026 11:30
 ||coralreverie.com^
 ||coralt1lib-ht-1.net.daraz.com^
 ||coralvistaroatan.tt.omtrdc.net^
+||coralwatches.com^
 ||coram.net.daraz.com^
 ||coran-francais.tt.omtrdc.net^
 ||corancy.tt.omtrdc.net^
@@ -55431,6 +55439,7 @@ Stand: 13.10.2026 11:30
 ||crossculturalsolutions.actonservice.com^
 ||crossees.com^
 ||crossengage.io^
+||crossseasent.com^
 ||crow.centresustains.com^
 ||crow.claudiakeil.de^
 ||crow.gim.technology^
@@ -58462,6 +58471,7 @@ Stand: 13.10.2026 11:30
 ||dailyadvent.loandepot.tt.omtrdc.net^
 ||dailycandyllc.tt.omtrdc.net^
 ||dailydata.dxctechnology.tt.omtrdc.net^
+||dailydesigned.com^
 ||dailydivision.com^
 ||dailydo.tt.omtrdc.net^
 ||dailydomino.com^
@@ -58585,6 +58595,7 @@ Stand: 13.10.2026 11:30
 ||darmasiswa.stage.joatoon.net.daraz.com^
 ||darmasiswaoviesda.net.daraz.com^
 ||darmasiswastage-teva.net.daraz.com^
+||darngavel.com^
 ||dart.onjoyri.de^
 ||dartech.tt.omtrdc.net^
 ||daruj-kri2.tt.omtrdc.net^
@@ -64032,6 +64043,7 @@ Stand: 13.10.2026 11:30
 ||dbj.quebecregion.com^
 ||dbjnzp.estellabartlett.com^
 ||dbl.cadriamarketing.com^
+||dblarson.com^
 ||dblmj.shopavara.com^
 ||dbmbfe.pegipegi.com^
 ||dbmgc.marleylilly.com^
@@ -196802,6 +196814,7 @@ Stand: 13.10.2026 11:30
 ||sesit.tt.omtrdc.net^
 ||sesktomr.furniturebox.co.uk^
 ||sess.vippreferred.com^
+||session.bugsnag.kindle.amazon.dev^
 ||session.fhlb.com^
 ||session.mediacharge.com^
 ||session.timecommerce.net^
@@ -247998,6 +248011,7 @@ Stand: 13.10.2026 11:30
 ||we-are-one-composites-doitruy.net.daraz.com^
 ||we-cnn.tt.omtrdc.net^
 ||we-love-privacy.humane.club^
+||we-stats.com.cdn.cloudflare.net^
 ||we.care.oswegohealth.org^
 ||we.espndotcom.tt.omtrdc.net^
 ||we.kurly.com^

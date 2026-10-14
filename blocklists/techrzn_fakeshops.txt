@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 13.10.2026 11:30
+Stand: 14.10.2026 09:21
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -91,7 +91,6 @@ Stand: 13.10.2026 11:30
 ||52magicdownloads.com^
 ||555sq.com.cn^
 ||5fdb2331d9d15.site123.me^
-||5g-update.com^
 ||5wzgtq8dpk.com^
 ||602a84.myshopify.com^
 ||638f474304a2b.site123.me^
@@ -412,6 +411,7 @@ Stand: 13.10.2026 11:30
 ||albacontainersgmbh.de^
 ||albrechtmode.de^
 ||alderhofatelier.myshopify.com^
+||aldi-life.vip^
 ||aldobolsasmexico.com^
 ||aldofashion.com^
 ||aldorabatt.de^
@@ -1434,6 +1434,7 @@ Stand: 13.10.2026 11:30
 ||barzubehoerhaus.com^
 ||basas-online.de^
 ||base-eu.com^
+||base-vod.pl^
 ||baseballcapshop.de^
 ||baseballoutlet.pl^
 ||baseballretail.com^
@@ -1972,7 +1973,6 @@ Stand: 13.10.2026 11:30
 ||binomo.com^
 ||binomo.in^
 ||binomo.info^
-||binomo.vip^
 ||binomo1.com^
 ||binomo2.zendesk.com^
 ||binomoidr.com^
@@ -1998,7 +1998,6 @@ Stand: 13.10.2026 11:30
 ||biolacqenergies.site^
 ||biologischeshop.com^
 ||biologischestation.de^
-||bioty.info^
 ||biovorratshop.com^
 ||bioxtrim.com^
 ||biranco.com^
@@ -3024,6 +3023,7 @@ Stand: 13.10.2026 11:30
 ||cloudy-with-containers.ch^
 ||clubeboss.de^
 ||cluckergifts.ecwid.com^
+||cma88.vip^
 ||cmchbhopal.com^
 ||cmctradingeu.com^
 ||cmdt-sales.com^
@@ -5005,6 +5005,7 @@ Stand: 13.10.2026 11:30
 ||express-inv.com^
 ||express47.com^
 ||expressbrennholz.de^
+||expresscourier.delivery^
 ||expressholz.com^
 ||expressmovers.com^
 ||expresspaw.eu^
@@ -6436,13 +6437,11 @@ Stand: 13.10.2026 11:30
 ||gldclothing.com^
 ||gleane.de^
 ||gleisslutz-deutschland.de^
-||glendaz.com^
 ||glenfordcap.com^
 ||gletta.com^
 ||glindo.de^
 ||glitchy.go2cloud.org^
 ||glitzermoment.com^
-||gload.info^
 ||global-energies-services.com^
 ||global-kaufhaus.com^
 ||globaldispatch.info^
@@ -6557,6 +6556,7 @@ Stand: 13.10.2026 11:30
 ||goldshopsejahtera.com^
 ||goldstollen.de^
 ||goldstoneindica.shop^
+||goldtimeinvest.com^
 ||golfapparelsale.com^
 ||golfschule-maxlrain.de^
 ||golfstravismathew.com^
@@ -10942,7 +10942,6 @@ Stand: 13.10.2026 11:30
 ||musikstrings.com^
 ||musikwelt-lindner.de^
 ||musiqueonline.com^
-||musk-event.pro^
 ||muskai.net^
 ||muskangaming.com^
 ||muskanonline.com^
@@ -14428,7 +14427,6 @@ Stand: 13.10.2026 11:30
 ||skinsociety.shop^
 ||skinszone.net^
 ||skinwell.store^
-||skipped.vip^
 ||skiracedepartment.com^
 ||skirt-discount-store.shop^
 ||skisurfskate.com^
@@ -14881,7 +14879,7 @@ Stand: 13.10.2026 11:30
 ||stadlwerk.de^
 ||stadsug.com^
 ||stadtplan-local.com^
-||stage3-last.info^
+||stage3-last.pro^
 ||staging.zendrop.com^
 ||stahlmotorrad.com^
 ||stahlwandpoolde.com^
@@ -14941,7 +14939,6 @@ Stand: 13.10.2026 11:30
 ||staud.co.at^
 ||stclik.com^
 ||steadyhandtooling.com^
-||stealthhorizonshipping.com^
 ||steamgateways.com^
 ||steampowered.cn.com^
 ||steampunk-xix.de^
@@ -15521,6 +15518,7 @@ Stand: 13.10.2026 11:30
 ||terverystaio.info^
 ||teslacoin.io^
 ||teslacoininc.org^
+||teslaeasy.io^
 ||teslarea.com^
 ||teslatime.net^
 ||teslaxtrading.com^
@@ -16074,7 +16072,6 @@ Stand: 13.10.2026 11:30
 ||trendboutiquekoln.de^
 ||trendgardinen.de^
 ||trendigetasche.com^
-||trendingtee.org^
 ||trendsdelight.com^
 ||trendsharks.com^
 ||trendvik.com^
@@ -16704,6 +16701,7 @@ Stand: 13.10.2026 11:30
 ||videforex.com^
 ||video-markt.com^
 ||videospiel-markt.de^
+||vider-pl.pl^
 ||vider.cc^
 ||vider.com.pl^
 ||vider.fun^
@@ -16848,6 +16846,7 @@ Stand: 13.10.2026 11:30
 ||vivsix.com^
 ||vivvamixstore.com^
 ||vizjer-pl.pl^
+||vizjer.com.pl^
 ||vizjer.eu^
 ||vlastnilekarna.com^
 ||vldep.lat^
@@ -16861,6 +16860,7 @@ Stand: 13.10.2026 11:30
 ||vobishop.de^
 ||vod-tv.pl^
 ||vod.film^
+||vodfix.pl^
 ||vodkaleti-formations-online-portal.com^
 ||voeller-it.solutions^
 ||vogany.com^

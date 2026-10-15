@@ -1,5 +1,5 @@
 ### TechRZN - SPAM ###
-Stand: 14.10.2026 09:21
+Stand: 15.10.2026 08:57
 
 ||0-2spk-us.basecamp.app^
 ||0-amfauth.firebaseapp.com^
@@ -158162,7 +158162,6 @@ Stand: 14.10.2026 09:21
 ||valuepengui.com^
 ||valuesmanagers.bond^
 ||valuesvoterguide.net.ifbiden.com^
-||valvesoftware.com^
 ||vam-york.fun^
 ||vamosgay.com^
 ||vamperina.yxzglysputm.digital^

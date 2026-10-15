@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 14.10.2026 09:21
+Stand: 15.10.2026 08:57
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -23972,6 +23972,7 @@ Stand: 14.10.2026 09:21
 ||analytics.fdtraders.net^
 ||analytics.ferguson.com^
 ||analytics.ferrero.com^
+||analytics.fibwatch.com^
 ||analytics.fieldbee.com^
 ||analytics.fiquipedia.es^
 ||analytics.firespring.com^
@@ -50871,6 +50872,7 @@ Stand: 14.10.2026 09:21
 ||columbustech.tcsg.edu^
 ||colvillecapital.actonservice.com^
 ||colvk.viki.io^
+||colwinners.com^
 ||com.00d1n0000017glquam.net.daraz.com^
 ||com.api-static-stage.net.daraz.com^
 ||com.carte-gr.total.fr^
@@ -50950,6 +50952,7 @@ Stand: 14.10.2026 09:21
 ||commercial.inform.equifax.com^
 ||commercialbanking.net.daraz.com^
 ||commet.intker.com^
+||commitlogs.com^
 ||commodore.tt.omtrdc.net^
 ||common-test-for-uncommon-tests.tt.omtrdc.net^
 ||common.1win.com^
@@ -64044,6 +64047,7 @@ Stand: 14.10.2026 09:21
 ||dbjnzp.estellabartlett.com^
 ||dbl.cadriamarketing.com^
 ||dblarson.com^
+||dblendcoatings.com^
 ||dblmj.shopavara.com^
 ||dbmbfe.pegipegi.com^
 ||dbmgc.marleylilly.com^
@@ -68177,6 +68181,7 @@ Stand: 14.10.2026 09:21
 ||dhar.patner.net.daraz.com^
 ||dharengineapplication-spring.net.daraz.com^
 ||dharkube-partner.net.daraz.com^
+||dharmabrats.com^
 ||dharmarketingpush.net.daraz.com^
 ||dharwww-authpartner.net.daraz.com^
 ||dharwww.n-switch.net.daraz.com^
@@ -76751,6 +76756,7 @@ Stand: 14.10.2026 09:21
 ||dornsifecms.vercomicporno.net.daraz.com^
 ||dorokhovo.tt.omtrdc.net^
 ||dorothyperkins.fr.d1.sc.tt.omtrdc.net^
+||dorsalapp.com^
 ||dort-5-1.jamf.tt.omtrdc.net^
 ||dort-n56.jamf.tt.omtrdc.net^
 ||dory.tt.omtrdc.net^
@@ -80329,6 +80335,7 @@ Stand: 14.10.2026 09:21
 ||duet-gdyniagdynia.tt.omtrdc.net^
 ||duet.shell.tt.omtrdc.net^
 ||duet6-mercedes.tt.omtrdc.net^
+||duetcode.com^
 ||duett.tt.omtrdc.net^
 ||dufbut.wtennis.com.br^
 ||duffadar.tt-qe-ci1.omtrdc.net^

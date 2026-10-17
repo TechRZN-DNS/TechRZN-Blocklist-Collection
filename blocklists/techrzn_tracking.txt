@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 16.10.2026 08:49
+Stand: 17.10.2026 08:19
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -77794,6 +77794,7 @@ Stand: 16.10.2026 08:49
 ||drive.seagate.com^
 ||drive.waitrapp.com^
 ||driven.actonservice.com^
+||drivenmove.com^
 ||driver.dctaxi.com^
 ||driver.jugnoo.in^
 ||drivetrain.gearrista.dk^
@@ -82025,6 +82026,7 @@ Stand: 16.10.2026 08:49
 ||eastpak-dnp.na.tt.omtrdc.net^
 ||eastpak-dnp.tt.omtrdc.net^
 ||eastpak1.wip.tt.omtrdc.net^
+||eastpalms.com^
 ||eastpdatar-es-1int-mo.net.daraz.com^
 ||eastpelasticns1int-mo.net.daraz.com^
 ||eastpennfoot-staging.rail.net.daraz.com^
@@ -94563,8 +94565,10 @@ Stand: 16.10.2026 08:49
 ||extra-pl.extra-be.forum.tt.omtrdc.net^
 ||extra.ptzinsurance.tt.omtrdc.net^
 ||extra.wijck.com^
+||extracover.net^
 ||extractobservation.com^
 ||extrakit.tt.omtrdc.net^
+||extraliner.com^
 ||extralocker.com^
 ||extramilefloorcare.ericksonbuilt.com^
 ||extramonies.com^
@@ -95297,6 +95301,7 @@ Stand: 16.10.2026 08:49
 ||fannie.herbalife.tt.omtrdc.net^
 ||fanniemae-emea.glbext.tt.omtrdc.net^
 ||fanout-on-write-cache-async.tt.omtrdc.net^
+||fanpapers.com^
 ||fanrong.net.daraz.com^
 ||fans-test.tommybahamagroupinc.tt.omtrdc.net^
 ||fans.optimum.tt.omtrdc.net^
@@ -98982,6 +98987,7 @@ Stand: 16.10.2026 08:49
 ||flowersonthebay.com^
 ||flowersornament.com^
 ||flowerstreatment.com^
+||flowerybunch.com^
 ||flowerycreature.com^
 ||floweryfact.com^
 ||floweryflavor.com^
@@ -228478,6 +228484,7 @@ Stand: 16.10.2026 08:49
 ||tommybahamagroupinc.tt.omtrdc.net^
 ||tommys.openapp.link^
 ||ton.vendafacilton.com.br^
+||tonanalytics.mugiwarattagentai.agency^
 ||tonciunrws9l7a6v.net.daraz.com^
 ||tong2tong.stageidm.net.daraz.com^
 ||tongji-res.meizu.com^
@@ -229146,6 +229153,7 @@ Stand: 16.10.2026 08:49
 ||tp.mirapodo.de^
 ||tp.molex.tt.omtrdc.net^
 ||tp.myhermes.de^
+||tp.myikas.com^
 ||tp.mytoys.de^
 ||tp.otto.de^
 ||tp.ottoversand.at^

@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 18.10.2026 08:39
+Stand: 18.10.2026 22:57
 
 ||000000555.xyz^
 ||0025974bf482fe84ac6a59293ae0bc0432a7b9fc.com^
@@ -612,7 +612,6 @@ Stand: 18.10.2026 08:39
 ||3dns.eu^
 ||3dphototwitch.com^
 ||3e3c.org^
-||3etare.co.uk^
 ||3fan4.net^
 ||3fancloud.net^
 ||3fsurmp9.com^
@@ -1878,6 +1877,7 @@ Stand: 18.10.2026 08:39
 ||apps.truckbel.com^
 ||appsdl.org^
 ||appshost.us^
+||appstoff.info^
 ||apptopay.xyz^
 ||appxiazai9.com^
 ||aptutorfinder.com^
@@ -2670,7 +2670,6 @@ Stand: 18.10.2026 08:39
 ||bmqan2static.b-cdn.net^
 ||bn0dghrx.com^
 ||bnj0d3r2.com^
-||bo0ji.co.uk^
 ||bobr.netphoenix.ru^
 ||bobra.bid^
 ||bobstrecansky.com^
@@ -4098,11 +4097,6 @@ Stand: 18.10.2026 08:39
 ||dansereau.xyz^
 ||daowli5ih5tw2.cloudfront.net^
 ||dark-proxy.ru^
-||dark1.globalmymusic.co.uk^
-||dark2.globalmymusic.co.uk^
-||dark3.globalmymusic.co.uk^
-||dark4.globalmymusic.co.uk^
-||dark5.globalmymusic.co.uk^
 ||darkfat.com^
 ||darkness.is.my.waifu.cz^
 ||darknet.to^
@@ -8459,7 +8453,6 @@ Stand: 18.10.2026 08:39
 ||iloveto.talk4fun.net^
 ||ilpphgf.ipv64.net^
 ||ilumu.com^
-||im.dumaniltd.co.uk^
 ||imageflow.club^
 ||imagetrove.org^
 ||imaginelearningmath.com^
@@ -8627,7 +8620,6 @@ Stand: 18.10.2026 08:39
 ||ir.panhandleflyers.info^
 ||ir.xeonxu.info^
 ||ir.xn--ds-bja.info^
-||iran.bingi.co.uk^
 ||irckyb7t9a.com^
 ||ire.danielfreyr.com^
 ||irgrdns.nullapp.xyz^
@@ -9809,6 +9801,7 @@ Stand: 18.10.2026 08:39
 ||lomoff.spb.ru^
 ||longss.xyz^
 ||lonmq6.xyz^
+||lonymi12.mosswren.vip^
 ||look.xshentx.org^
 ||loomjolt.com^
 ||looquae8.xyz^
@@ -9907,6 +9900,7 @@ Stand: 18.10.2026 08:39
 ||magiccloak.net^
 ||magnetsnag.com^
 ||maherhost.uk^
+||mahi.poolaki.co.uk^
 ||mahnor.com^
 ||maichongvpn.com^
 ||maifot.com^
@@ -10124,6 +10118,7 @@ Stand: 18.10.2026 08:39
 ||mickedi.isgood.host^
 ||micro.alloxr.info^
 ||microvpn.com^
+||mide77.mosswren.vip^
 ||midgard.asguardian.de^
 ||midns.clicinternet.com^
 ||mifengjsd.com^
@@ -10146,7 +10141,6 @@ Stand: 18.10.2026 08:39
 ||milo1fmyz.info^
 ||milou.cc^
 ||mimetic.luminiferous.abrdns.com^
-||mimizo19.tidelark.cc^
 ||mind.essay.archtech.gr^
 ||minds.plant.theseks.net^
 ||minecraft.info.north-kazakhstan.su.cdn.cloudflare.net^
@@ -10173,7 +10167,6 @@ Stand: 18.10.2026 08:39
 ||misttungsten.com^
 ||mistvulture.com^
 ||misty-pine-inn.com^
-||mito38.mosswren.vip^
 ||mixing.run^
 ||mixturestab.com^
 ||mizban-r.site^
@@ -10762,7 +10755,6 @@ Stand: 18.10.2026 08:39
 ||noblocc.com^
 ||noblocc.uk^
 ||nocensor.work^
-||nocloudnew.co.uk^
 ||node.network^
 ||node9.servernode.store^
 ||nodecat.app^
@@ -11390,7 +11382,6 @@ Stand: 18.10.2026 08:39
 ||perlproxy.com^
 ||peroxide.bury.abrdns.com^
 ||perpetuation.flight.abrdns.com^
-||persia.bingi.co.uk^
 ||persianreserve.ir^
 ||personal-config.ru^
 ||personal-proj-by-me.eu^
@@ -11688,6 +11679,7 @@ Stand: 18.10.2026 08:39
 ||prep.skills.stabbed.me^
 ||prettycoolmath.com^
 ||prflux.xyz^
+||price.syscloudio.co.uk^
 ||primeproxy23.info^
 ||printruns.us^
 ||printtools.us^
@@ -11833,7 +11825,6 @@ Stand: 18.10.2026 08:39
 ||proxy.rocks^
 ||proxy.schel.li^
 ||proxy.searchfiles.de^
-||proxy.sosavpn.ru^
 ||proxy.startpage.com^
 ||proxy.sx^
 ||proxy.vin^
@@ -12209,7 +12200,6 @@ Stand: 18.10.2026 08:39
 ||raabta.xyz^
 ||rabbitdns.org^
 ||racevpn.com^
-||rade94.tidelark.cc^
 ||radianttundra.com^
 ||radicalub.pages.dev^
 ||radio.ajh.boats.cdn.cloudflare.net^
@@ -12315,6 +12305,7 @@ Stand: 18.10.2026 08:39
 ||red-vpn.mom^
 ||red.global.ssl.fastly.net^
 ||redfinger.com^
+||redflag.yazaebalsyadelatproxy.vip^
 ||redhoodie.site^
 ||redproxy.pw^
 ||redschool.info^
@@ -13262,6 +13253,7 @@ Stand: 18.10.2026 08:39
 ||ssgreen.org^
 ||ssh-free.com^
 ||ssh-storage.ru^
+||ssh.meow0.co.uk^
 ||sshagan.net^
 ||sshd.me^
 ||sshdropbear.net^
@@ -13470,7 +13462,6 @@ Stand: 18.10.2026 08:39
 ||supervpn.lat^
 ||supervpn.net^
 ||supervpn.pro^
-||support.infinityhalo.co.uk^
 ||supported.testing4fun.xyz^
 ||supremebarbershopclarendon.net^
 ||sure.registration.abrdns.com^
@@ -13881,7 +13872,7 @@ Stand: 18.10.2026 08:39
 ||togppqls.com^
 ||toikemikaramu.easterndns.com^
 ||tois.tech^
-||toka21.mosswren.vip^
+||tokane46.tidelark.cc^
 ||tokap.s3-ap-southeast-1.amazonaws.com^
 ||tokeu.s3.eu-central-1.amazonaws.com^
 ||tokna.s3-us-west-1.amazonaws.com^
@@ -14497,7 +14488,6 @@ Stand: 18.10.2026 08:39
 ||v971850.macloud.host^
 ||vacation.briaquaticcabinets.com^
 ||vadim.online^
-||vahshianeh.ghodratitarin.info^
 ||vaipn.app^
 ||vaipnvpn1-metadata-rtdb.firebaseio.com^
 ||valarre.com^
@@ -14672,6 +14662,7 @@ Stand: 18.10.2026 08:39
 ||vikingvpn.com^
 ||villalazza.stream^
 ||villi.shurakenas.ru^
+||vilomi57.tidelark.cc^
 ||vilor.site^
 ||ving.mozitop.co.uk^
 ||vinny-stinks-like-dudu.com^

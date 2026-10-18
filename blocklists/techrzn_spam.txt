@@ -1,5 +1,5 @@
 ### TechRZN - SPAM ###
-Stand: 17.10.2026 08:19
+Stand: 18.10.2026 08:39
 
 ||0-2spk-us.basecamp.app^
 ||0-amfauth.firebaseapp.com^
@@ -72098,7 +72098,6 @@ Stand: 17.10.2026 08:19
 ||dedvexbilling.com^
 ||dedyamazon.top^
 ||dedykowac-wygrana.eu^
-||dedyn.io^
 ||dedyyywell-co.azurewebsites.net^
 ||dee2ceb809a6807b1bedc3662a68d554.rezolvs.pl^
 ||deebaank-home.online^

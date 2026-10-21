@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 20.10.2026 22:17
+Stand: 21.10.2026 09:11
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -14388,7 +14388,6 @@ Stand: 20.10.2026 22:17
 ||a.tunley-environmental.com^
 ||a.twofaceaesthetics.com^
 ||a.uwhealth.org^
-||a.vital-health-path.com^
 ||a.vogtgmbh.com^
 ||a.vturb.net^
 ||a.wb.ru^
@@ -35877,7 +35876,6 @@ Stand: 20.10.2026 22:17
 ||boss-pdc-stage.stage.tt.omtrdc.net^
 ||boss-qa-int.tt.omtrdc.net^
 ||boss-sg.np.np.bags.tt.omtrdc.net^
-||boss-www.com^
 ||boss.openapp.link^
 ||boss.pultegroup.tt.omtrdc.net^
 ||boss040.tt.omtrdc.net^
@@ -48378,7 +48376,6 @@ Stand: 20.10.2026 22:17
 ||click.jm.net.daraz.com^
 ||click.kataweb.it^
 ||click.kaufland.tt.omtrdc.net^
-||click.ketoplan24.com^
 ||click.kz.ehealthinsurance.tt.omtrdc.net^
 ||click.lenovo.com^
 ||click.lmbcustomersupport.com^
@@ -48412,7 +48409,6 @@ Stand: 20.10.2026 22:17
 ||click.techtree.jp^
 ||click.totallymoney.com^
 ||click.track.clickarc.com^
-||click.track.thefinancialvisionary.com^
 ||click.transactional.carousell.com^
 ||click.trycaviar.com^
 ||click.trycobble.com^
@@ -48420,7 +48416,6 @@ Stand: 20.10.2026 22:17
 ||click.tumtomom.com^
 ||click.tv.repubblica.it^
 ||click.uol.com.br^
-||click.vedicorgins.com^
 ||click.vocus.com^
 ||click.www.partner-assets.net.daraz.com^
 ||click.zoominfo-notifications.com^
@@ -48804,17 +48799,13 @@ Stand: 20.10.2026 22:17
 ||cljvi.beautyfixmedspa.com^
 ||clk-m.joybuy.com^
 ||clk.adctrck.com^
-||clk.confidentialhealthinsider.com^
 ||clk.entry.surala.jp^
 ||clk.gbabytrack.com^
-||clk.getmycashcard.com^
 ||clk.glam-print.com^
-||clk.healthyspineinstitute.org^
 ||clk.ingage.jp^
 ||clk.insuranceforcars.org^
 ||clk.liberty-e.com^
 ||clk.mindfulsuite.com^
-||clk.myamericancare.com^
 ||clk.rratrack.com^
 ||clk.ubi.com^
 ||clk.wagon-hire.com^
@@ -64719,7 +64710,6 @@ Stand: 20.10.2026 22:17
 ||data.trx.costco.com^
 ||data.tryavia.com^
 ||data.trycornbread.com^
-||data.trydentite.com^
 ||data.tsbuat.test.ajo.adobe.com^
 ||data.tuinvanemile.be^
 ||data.tunaizakat.my^
@@ -100674,7 +100664,6 @@ Stand: 20.10.2026 22:17
 ||follow.51tripsbrand.com^
 ||follow.bycellmind.com^
 ||follow.ciciunderwear.com^
-||follow.koandigital.com^
 ||follow.tt-stage3.omtrdc.net^
 ||follow3.corp.tt.omtrdc.net^
 ||followborder.com^
@@ -111180,7 +111169,6 @@ Stand: 20.10.2026 22:17
 ||glcsc06.tt.omtrdc.net^
 ||glcsc06a01.tt.omtrdc.net^
 ||glctgdmz.net.daraz.com^
-||glcyaewq.chinabusinessimmersion.com.br^
 ||gldkj.bysamiiryan.com^
 ||gldocumentsnsbalcs-utils-rtr.net.daraz.com^
 ||gldocumentsrbal-ns2.vividocumentsrtech.net.daraz.com^
@@ -112215,7 +112203,6 @@ Stand: 20.10.2026 22:17
 ||go.bandits.com^
 ||go.bayshoresystems.com^
 ||go.bciburke.com^
-||go.benefitassistancenetwork.com^
 ||go.betql.co^
 ||go.beyondwithjohn.com^
 ||go.bigo.tv^
@@ -112357,8 +112344,6 @@ Stand: 20.10.2026 22:17
 ||go.fabplaygrounds.com^
 ||go.fairviewmicrowave.com^
 ||go.faithfollow.com^
-||go.fallenyetnotforgotten.com^
-||go.faltenreduzieren.com^
 ||go.fem.mingle.com^
 ||go.fhlbny.com^
 ||go.fiestabites.com^
@@ -112532,7 +112517,6 @@ Stand: 20.10.2026 22:17
 ||go.mapstr.com^
 ||go.marfeel.com^
 ||go.marketing.nationalnail.com^
-||go.marveltest.com^
 ||go.mashable.com^
 ||go.mashery.com^
 ||go.masteryxz.com^
@@ -112695,7 +112679,6 @@ Stand: 20.10.2026 22:17
 ||go.sitelock.com^
 ||go.skillboardusa.com^
 ||go.skippy.ai^
-||go.slotscalendar.ro^
 ||go.smartjobr.com^
 ||go.snackhawaii.com^
 ||go.snipsnap.it^
@@ -112750,9 +112733,7 @@ Stand: 20.10.2026 22:17
 ||go.thai.innovatedating.com^
 ||go.thegrocer.co.uk^
 ||go.themadhatterco.net^
-||go.theonlyradar.com^
 ||go.thepoplight.com^
-||go.thinkdog.it^
 ||go.ticketbiz.se^
 ||go.tigertool.com^
 ||go.tinder.com^
@@ -112762,11 +112743,8 @@ Stand: 20.10.2026 22:17
 ||go.topicit.net^
 ||go.topvintage.nl^
 ||go.totalreliefprogram.com^
-||go.track.chefalina.com^
 ||go.trackmyclick.de^
-||go.tracktrex.com^
 ||go.tradiu.com^
-||go.transfergang.com^
 ||go.transtector.com^
 ||go.transversal.com^
 ||go.trc.rewardhub.me^
@@ -112774,12 +112752,9 @@ Stand: 20.10.2026 22:17
 ||go.trckingad.com^
 ||go.trevo.my^
 ||go.triumphlearning.com^
-||go.trk.thebestgear.net^
 ||go.trkscaling.com^
 ||go.truenutrition.com^
-||go.trustfactory.de^
 ||go.trycurekey.com^
-||go.trymorosoft.com^
 ||go.tuev.cn^
 ||go.turkey.innovatedating.com^
 ||go.tuv.com^
@@ -114967,7 +114942,6 @@ Stand: 20.10.2026 22:17
 ||gtm.aceleracaodelivery.com.br^
 ||gtm.aceleradorcomercial.com^
 ||gtm.aceleraia.ia.br^
-||gtm.acelereevoe.com^
 ||gtm.aceletapetszeus.com^
 ||gtm.acesaarquitetas.com.br^
 ||gtm.acomig.com.br^
@@ -131408,7 +131382,6 @@ Stand: 20.10.2026 22:17
 ||insight.bolsnik.com^
 ||insight.boomer.com^
 ||insight.business.hsbc.com^
-||insight.calicali.art^
 ||insight.carla-jewelry.com^
 ||insight.casasgael.com.br^
 ||insight.coratoglasses.com.br^
@@ -131451,7 +131424,6 @@ Stand: 20.10.2026 22:17
 ||insight.velocify.com^
 ||insight.veloura.center^
 ||insight.vinnea.no^
-||insight.vinnea.se^
 ||insight.wittkieffer.com^
 ||insight.zwolftermann.com^
 ||insight0602.tt.omtrdc.net^
@@ -136054,7 +136026,6 @@ Stand: 20.10.2026 22:17
 ||join.myfashionevents.com^
 ||join.newtrina.com^
 ||join.opencare.com^
-||join.ornament.app^
 ||join.our-story.co^
 ||join.parentlove.me^
 ||join.pharmapackeurope.com^
@@ -145032,7 +145003,6 @@ Stand: 20.10.2026 22:17
 ||link.bellu.gg^
 ||link.bemachine.app^
 ||link.bestest.io^
-||link.bestwinners.xyz^
 ||link.bhvr.com^
 ||link.bigroom.tv^
 ||link.bloetz.net^
@@ -146350,7 +146320,6 @@ Stand: 20.10.2026 22:17
 ||lnk.mostdays.com^
 ||lnk.raceful.ly^
 ||lnk.rush.gold^
-||lnk.trckn.dailytradingdigest.com^
 ||lnk.welthee.com^
 ||lnk2.patpat.com^
 ||lnkd.tt.omtrdc.net^
@@ -147019,7 +146988,6 @@ Stand: 20.10.2026 22:17
 ||load.api.misticosdooriente.com^
 ||load.api.mixvariado.com^
 ||load.api.momijewel.com^
-||load.api.monkmachine.digital^
 ||load.api.moodlr.cc^
 ||load.api.mulhersoberana.org^
 ||load.api.mybloome.com^
@@ -159930,7 +159898,6 @@ Stand: 20.10.2026 22:17
 ||load.stape.lp.agentesdesonhos.com.br^
 ||load.stape.lp.guiainglesabordo.com^
 ||load.stape.lulofouet.com^
-||load.stape.lumartinsterapias.com.br^
 ||load.stape.luvelozzo.com^
 ||load.stape.lyonsvipexecutivo.com.br^
 ||load.stape.lysbrolysningen-lejeboliger.dk^
@@ -164689,7 +164656,6 @@ Stand: 20.10.2026 22:17
 ||main.gw-applications.net.daraz.com^
 ||main.hairfree.lt^
 ||main.monisethnicwear.com^
-||main.mysteelvibe.online^
 ||main.net.daraz.com^
 ||main.tt.omtrdc.net^
 ||main.zahabperfumes.com^
@@ -164722,7 +164688,6 @@ Stand: 20.10.2026 22:17
 ||malayalamanorama.tt.omtrdc.net^
 ||malaysiaairlines.tt.omtrdc.net^
 ||malaysiatractors.tt.omtrdc.net^
-||maldini.trk.agency^
 ||maldives.pristine.mv^
 ||malfurion.tt.omtrdc.net^
 ||mali4blat.com^
@@ -168539,7 +168504,6 @@ Stand: 20.10.2026 22:17
 ||mdt.daniburle.com^
 ||mdt.dayonestore.com.br^
 ||mdt.dc2miami.com^
-||mdt.dicasobretudo.com^
 ||mdt.dipollini.com.br^
 ||mdt.easysalon.com.br^
 ||mdt.elevelife.com.br^
@@ -168556,7 +168520,6 @@ Stand: 20.10.2026 22:17
 ||mdt.nestibrasil.com.br^
 ||mdt.netvistos.com.br^
 ||mdt.newsgazetadopovo.com^
-||mdt.noticias-nobrasil.com^
 ||mdt.odesignerartesao.com.br^
 ||mdt.paraisodasbombas.com.br^
 ||mdt.portinfo.com.br^
@@ -169096,7 +169059,6 @@ Stand: 20.10.2026 22:17
 ||meerdata.simplyused.com^
 ||meerkat.bigcrazylife.com^
 ||meerkat.inprivy.io^
-||meet.freunden.org^
 ||meet.intercall.com^
 ||meet.rottne.com^
 ||meet.shapetape.de^
@@ -170169,7 +170131,6 @@ Stand: 20.10.2026 22:17
 ||metrics.carters.com^
 ||metrics.cartersoshkosh.ca^
 ||metrics.cartoonnetwork.com.ar^
-||metrics.cartoonnetworkla.com^
 ||metrics.carzone.ie^
 ||metrics.caser.es^
 ||metrics.cashnetusa.com^
@@ -171441,7 +171402,6 @@ Stand: 20.10.2026 22:17
 ||metrics.mypartnersincare.com^
 ||metrics.myprime.com^
 ||metrics.myride.com^
-||metrics.mysanantonio.com^
 ||metrics.myspringfield.com^
 ||metrics.mysteratv.com^
 ||metrics.mysynchrony.com^
@@ -175777,7 +175737,6 @@ Stand: 20.10.2026 22:17
 ||my.chainupsolutions.com^
 ||my.dakotalithium.com^
 ||my.dayanywilliams.com^
-||my.debtalliance.org^
 ||my.drsleeep.ae^
 ||my.dustro.co.uk^
 ||my.exotravel.com^
@@ -176154,10 +176113,8 @@ Stand: 20.10.2026 22:17
 ||mysunwest.fmservice.com^
 ||mytennislessons.actonservice.com^
 ||mythings.actonservice.com^
-||mytracking.blurryvisionbreakthrough.com^
 ||mytracking.sanaor.com^
 ||mytracking.tgstrack.com^
-||mytracking.visionhealthsecret.com^
 ||mytraining.stage.eup.net.daraz.com^
 ||mytransplantlife.unileverlatam.tt.omtrdc.net^
 ||mytravelmap.tt.omtrdc.net^
@@ -180957,7 +180914,6 @@ Stand: 20.10.2026 22:17
 ||oazzl.powderhound.london^
 ||ob-exch.openbible.tt.omtrdc.net^
 ||ob-sftp-verif.tt-qe2.omtrdc.net^
-||ob.tracking.capitalistriseup.com^
 ||ob0.peekundcloppenburg.tt.omtrdc.net^
 ||ob4e52.accountalpha-s3-chef-status-stagingdefaultproduction.tt-stage3.omtrdc.net^
 ||ob8zynewx8sbyws2.10-marketing.net.daraz.com^
@@ -186085,8 +186041,6 @@ Stand: 20.10.2026 22:17
 ||path-follower.com^
 ||path-trail.com^
 ||path.americansavinghacks.com^
-||path.autoinsurancesavings2024.com^
-||path.autosavingsusa.com^
 ||path.financesaverstoday.com^
 ||path.get-paid-today.com^
 ||path.lifesavingsinfo.com^
@@ -186094,7 +186048,6 @@ Stand: 20.10.2026 22:17
 ||path.repareo.de^
 ||path.sidingsavingsguide.com^
 ||path.smartamericantips.com^
-||path.vitaltipsnow.com^
 ||path5wall.com^
 ||patientpay.actonservice.com^
 ||patnecontrolp.net.daraz.com^
@@ -191527,8 +191480,6 @@ Stand: 20.10.2026 22:17
 ||rdpbellsouth.northamerica.net.daraz.com^
 ||rdrrn.drinkwell.ca^
 ||rdsgb.petplate.com^
-||rdtk.practs.de^
-||rdtk.scalemyclinic.com.au^
 ||rdtk.troma-now.com^
 ||rdtrack.csd.shop^
 ||rdvxxx.crushj.com^
@@ -191665,7 +191616,6 @@ Stand: 20.10.2026 22:17
 ||red.betplay.io^
 ||red.bettorian.com^
 ||red.clinicalskillsinstitute.com^
-||red.epicmedia.shop^
 ||red.runkelis.com^
 ||red.swissfx.net^
 ||red.track.storebkc.com^
@@ -191725,7 +191675,6 @@ Stand: 20.10.2026 22:17
 ||redtag.tt.omtrdc.net^
 ||redthreadmarketing.actonservice.com^
 ||redtk.fitbyyou.com^
-||redtr.aronia-charlottenburg.ro^
 ||redtrack.antihost.com^
 ||redtrack.beautyandglamour.org^
 ||redtrack.belaro.ro^
@@ -191735,16 +191684,12 @@ Stand: 20.10.2026 22:17
 ||redtrack.distacart.com^
 ||redtrack.ecodrive.in.ua^
 ||redtrack.flexpresets.com^
-||redtrack.foyforyou.com^
-||redtrack.gaminggiveaways.co.uk^
 ||redtrack.godlike.host^
-||redtrack.healingseries.com^
 ||redtrack.jonathanmontoyalive.com^
 ||redtrack.leszartsdemarie.com^
 ||redtrack.lumenvira.com^
 ||redtrack.manset.com.ua^
 ||redtrack.mommastery.com^
-||redtrack.nakedandthriving.com^
 ||redtrack.sniperautotrader.com^
 ||redtrack.thebraintumourcharity.org^
 ||redtrack.thecapsula.ru^
@@ -193051,7 +192996,6 @@ Stand: 20.10.2026 22:17
 ||rqt-cl-cdna.ecommerce.cofidis.it^
 ||rqtgk.breathedivinity.com^
 ||rqvsws.carreblanc.com^
-||rqxrt.rqxsystem.com.br^
 ||rqyxdk.myanimelist.net^
 ||rqz4.supdigital.fr^
 ||rqzpv.designstuff.com.au^
@@ -193174,14 +193118,12 @@ Stand: 20.10.2026 22:17
 ||rt.cdnmedia.tv^
 ||rt.connectprosnow.com^
 ||rt.dailycarepro.com^
-||rt.dispo-seo.com^
 ||rt.everloaf.com^
 ||rt.f2f.com^
 ||rt.fastinsuranceservices.net^
 ||rt.flix360.com^
 ||rt.gethydrojet.com^
 ||rt.greenwwvideo.site^
-||rt.handwrytten.com^
 ||rt.healthchoices4seniors.com^
 ||rt.healthliffe.com^
 ||rt.healthttpure.online^
@@ -193247,14 +193189,11 @@ Stand: 20.10.2026 22:17
 ||rtk.trk.benefitsadvisorsline.com^
 ||rtk.trk.benefitsassistanceusa.com^
 ||rtk.trk.benefitsenrollmentline.com^
-||rtk.trk.benefitsmentorusa.com^
 ||rtk.trk.benefitswellnessguide.com^
 ||rtk.trk.bonusbenefitstoday.com^
-||rtk.trk.brgbbe.com^
 ||rtk.trk.carebenefitpath.com^
 ||rtk.trk.carewellnavigator.com^
 ||rtk.trk.choicehealthnow.com^
-||rtk.trk.dailybenefitscenter.com^
 ||rtk.trk.dailywellbeingcenter.com^
 ||rtk.trk.discoveringhealthdaily.com^
 ||rtk.trk.essentialhabitsusa.com^
@@ -193269,7 +193208,6 @@ Stand: 20.10.2026 22:17
 ||rtk.trk.healthcarebenefitscenter.com^
 ||rtk.trk.healthcompassamerica.com^
 ||rtk.trk.healthinsightusa.com^
-||rtk.trk.healthpathamerica.com^
 ||rtk.trk.healthyreachcenter.com^
 ||rtk.trk.healthywellbeingpath.com^
 ||rtk.trk.instantcoverageusa.com^
@@ -193280,34 +193218,28 @@ Stand: 20.10.2026 22:17
 ||rtk.trk.mindfulwellbeingcenter.com^
 ||rtk.trk.mybenefitsblog.com^
 ||rtk.trk.naturalwellnessvision.com^
-||rtk.trk.onlinebenefitgroups.com^
 ||rtk.trk.peaceofmindresource.com^
 ||rtk.trk.planaheadsupport.com^
 ||rtk.trk.primecareconnections.com^
 ||rtk.trk.primesolutionsreviews.com^
 ||rtk.trk.purewellbeingbalance.com^
-||rtk.trk.savingscenterusa.com^
 ||rtk.trk.savingstipsdaily.com^
 ||rtk.trk.securecoverageoptions.com^
 ||rtk.trk.securefuturehealth.com^
 ||rtk.trk.secureyourbenefitsnow.com^
 ||rtk.trk.seniorbenefitschoice.com^
 ||rtk.trk.seniorcashcoverage.com^
-||rtk.trk.seniorpeaceofmind.com^
 ||rtk.trk.seniorprotectcenter.com^
 ||rtk.trk.seniorsbenefitsplanning.com^
 ||rtk.trk.simplecoveragetoday.com^
 ||rtk.trk.simplewellbeinghub.com^
 ||rtk.trk.swychava.com^
-||rtk.trk.topten.care^
 ||rtk.trk.totalcoverageplans.com^
 ||rtk.trk.trustedbenefitstoday.com^
 ||rtk.trk.trustedhealthportal.com^
 ||rtk.trk.universalbenefitsline.com^
 ||rtk.trk.usahealthsense.com^
-||rtk.trk.vitalitypathusa.com^
 ||rtk.trk.vitalpulsetoday.com^
-||rtk.trk.wellbeingadvicerise.com^
 ||rtk.trk.wellbeingadvisorzone.com^
 ||rtk.trk.wellbeingcenterpoint.com^
 ||rtk.trk.wellbeingflowcenter.com^
@@ -193318,18 +193250,15 @@ Stand: 20.10.2026 22:17
 ||rtk.trk.wellnessbenefitscenter.com^
 ||rtk.trk.wellnessbenefitsguide.com^
 ||rtk.trk.wellnessclarityguide.com^
-||rtk.trk.wellnessdirectioncenter.com^
 ||rtk.trk.wellnessessentialscenter.com^
 ||rtk.trk.wellnessfocuscenter.com^
 ||rtk.trk.wellnessgrowthcenter.com^
 ||rtk.trk.wellnessgrowthliving.com^
 ||rtk.trk.wellnessgrowthpathway.com^
 ||rtk.trk.wellnessguidancecenter.com^
-||rtk.trk.wellnesspathliving.com^
 ||rtk.trk.wellnessplansdirect.com^
 ||rtk.trk.wellnessvisioncenter.com^
 ||rtk.trk.wiseseniorplans.com^
-||rtk.trk.wisespendusa.com^
 ||rtk.trk.yourtrustedbenefits.com^
 ||rtl.met.vgwort.de^
 ||rtldisneyfernsehengm.tt.omtrdc.net^
@@ -193359,19 +193288,16 @@ Stand: 20.10.2026 22:17
 ||rtrk.faktenlink.com^
 ||rtrk.faktenzeitung.com^
 ||rtrk.feitenkrant.com^
-||rtrk.gardenhomie.com^
 ||rtrk.gartenpfad.com^
 ||rtrk.gartenstadl.de^
 ||rtrk.heimatweg.com^
 ||rtrk.jacksclub.io^
-||rtrk.klivento.pl^
 ||rtrk.linkpfad.com^
 ||rtrk.mirificascience.com^
 ||rtrk.newsdigestuk.co.uk^
 ||rtrk.swipey.ai^
 ||rtrk.swipey.club^
 ||rtrk.swipeyai.com^
-||rtrk.uniteddigest.com^
 ||rtrnm.trendozashop.com^
 ||rtrns.fodeez.com^
 ||rtrsda.intermodann.ru^
@@ -196061,7 +195987,6 @@ Stand: 20.10.2026 22:17
 ||secure.cavy9soho.com^
 ||secure.check.beautyestetique24.com^
 ||secure.check.fitstore365.com^
-||secure.checkout.essentialsnutra.com^
 ||secure.ches5sort.com^
 ||secure.chic9usia.com^
 ||secure.chip2gift.com^
@@ -196154,7 +196079,6 @@ Stand: 20.10.2026 22:17
 ||secure.idbank.it^
 ||secure.imaginative-24.com^
 ||secure.imaginative-trade7.com^
-||secure.imaginativeacute52.com^
 ||secure.imaginativeenterprising-intelligent.com^
 ||secure.immixgroup.com^
 ||secure.indrisa.com^
@@ -196219,7 +196143,6 @@ Stand: 20.10.2026 22:17
 ||secure.keet1liod.com^
 ||secure.kick1pore.com^
 ||secure.kilo6alga.com^
-||secure.klosguitars.com^
 ||secure.kota3chat.com^
 ||secure.kpr2exp21.com^
 ||secure.lack4skip.com^
@@ -196592,7 +196515,6 @@ Stand: 20.10.2026 22:17
 ||securetags.igeo.com.bo^
 ||securetags.img.com.br^
 ||securetags.maps.com^
-||securetags.openware.com.kw^
 ||securetags.sigsa.info^
 ||securetarget.nedbank.co.za^
 ||securetenilstats.turner.com^
@@ -197157,7 +197079,6 @@ Stand: 20.10.2026 22:17
 ||server.aquaspiritisup.com^
 ||server.aquinolopes.com.br^
 ||server.ar-hard.com.ar^
-||server.aramghor.com^
 ||server.arbabeautycare.com^
 ||server.arcohof.com^
 ||server.ardreamltd.com^
@@ -209411,7 +209332,6 @@ Stand: 20.10.2026 22:17
 ||smetrics.wyndhampartyweekends.com^
 ||smetrics.wyndhamrewards.com^
 ||smetrics.wyndhamvacationresorts.com^
-||smetrics.xavier.edu^
 ||smetrics.xe.com^
 ||smetrics.xeljanz.com^
 ||smetrics.xeljanzhcp.com^
@@ -214350,7 +214270,6 @@ Stand: 20.10.2026 22:17
 ||ss.wydawnictwootwarte.pl^
 ||ss.wyld.health^
 ||ss.xl-balloner.dk^
-||ss.xn--frskringsklok-dfb1y.se^
 ||ss.xogangbrazil.com^
 ||ss.xoryn.com.bd^
 ||ss.yardenrasa.com^
@@ -218148,7 +218067,6 @@ Stand: 20.10.2026 22:17
 ||sst.mailbon.com^
 ||sst.mainstreetmotors.org^
 ||sst.maiscorreios.com.br^
-||sst.maison-stickers-muraux.com^
 ||sst.maisondebouchard.com^
 ||sst.maisonducaviar.paris^
 ||sst.maisonft.com^
@@ -226189,7 +226107,6 @@ Stand: 20.10.2026 22:17
 ||stats.phili.pe^
 ||stats.philjava.com^
 ||stats.phoenix-widget.com^
-||stats.phonex.de^
 ||stats.photographer.com.au^
 ||stats.pi4li.net^
 ||stats.pilz.com^
@@ -229290,7 +229207,6 @@ Stand: 20.10.2026 22:17
 ||t.wayfair.co.uk^
 ||t.wayfair.com^
 ||t.wayfair.de^
-||t.wealthwisealliance.com^
 ||t.wearegracie.com.au^
 ||t.webwachstum.ch^
 ||t.werkenindepeel.nl^
@@ -229702,7 +229618,6 @@ Stand: 20.10.2026 22:17
 ||tags.booker.com^
 ||tags.bunte.de^
 ||tags.bupa.co.nz^
-||tags.caixabank.com^
 ||tags.caixabank.es^
 ||tags.caixabankamlux.com^
 ||tags.caixabanklab-campus.com^
@@ -235507,7 +235422,6 @@ Stand: 20.10.2026 22:17
 ||track.agentisplumbing.com^
 ||track.aimroas.com^
 ||track.aisoloops.com^
-||track.alderabiolabs.com^
 ||track.almacasa.ro^
 ||track.amaranne.com^
 ||track.americahomesaver.com^
@@ -235538,7 +235452,6 @@ Stand: 20.10.2026 22:17
 ||track.auckland.ac.nz^
 ||track.authenticate.net.daraz.com^
 ||track.automatedcashsites.com^
-||track.automatikblog.com^
 ||track.autopartsco.com.au^
 ||track.avatarhype.ai^
 ||track.avidlabs.ca^
@@ -235568,7 +235481,6 @@ Stand: 20.10.2026 22:17
 ||track.bingoaovivo.net^
 ||track.bio-strath.com^
 ||track.biobonebrazil.com.br^
-||track.biooptimum.com^
 ||track.bismillahbazar.com^
 ||track.bitcasino.io^
 ||track.biz.lguplus.com^
@@ -235597,7 +235509,6 @@ Stand: 20.10.2026 22:17
 ||track.capacitaestetica.com.br^
 ||track.casetology.com^
 ||track.catspros.com^
-||track.cbdmuay.com^
 ||track.cebclicktrack.com^
 ||track.cecobuildings.com^
 ||track.cedsdigital.it^
@@ -235661,7 +235572,6 @@ Stand: 20.10.2026 22:17
 ||track.cordial.io^
 ||track.cornerstonebuildingbrands.com^
 ||track.cosplayware.com^
-||track.coupongini.com^
 ||track.coytracking.com^
 ||track.craudia.com^
 ||track.creativio.io^
@@ -235846,7 +235756,6 @@ Stand: 20.10.2026 22:17
 ||track.growspaceguides.com^
 ||track.grupopegasus.com.br^
 ||track.gtox.com.br^
-||track.guateexpressgt.com^
 ||track.gudang-variasi.site^
 ||track.guiacriancaquealerta.com^
 ||track.guilhermebarsi.com.br^
@@ -235894,7 +235803,6 @@ Stand: 20.10.2026 22:17
 ||track.in.tt.omtrdc.net^
 ||track.indepenjend.com^
 ||track.inews.co.uk^
-||track.infinitylabpeptides.com^
 ||track.info.cancertherapyadvisor.com^
 ||track.info.clinicaladvisor.com^
 ||track.info.clinicalpainadvisor.com^
@@ -235960,7 +235868,6 @@ Stand: 20.10.2026 22:17
 ||track.kitchengpt.io^
 ||track.kivovpn.com^
 ||track.klaay.com^
-||track.klosterformel.com^
 ||track.kodland.org^
 ||track.krfof.com^
 ||track.krystalriget.dk^
@@ -236058,11 +235965,8 @@ Stand: 20.10.2026 22:17
 ||track.mtraq134bh.com^
 ||track.mtraq135si.com^
 ||track.mtraqq128kz.com^
-||track.muaystore.at^
 ||track.muaystore.cz^
-||track.muaystore.de^
 ||track.muaystore.es^
-||track.muaystore.fr^
 ||track.muaystore.hr^
 ||track.muaystore.hu^
 ||track.muaystore.it^
@@ -236110,12 +236014,10 @@ Stand: 20.10.2026 22:17
 ||track.noorzaah.com^
 ||track.nopaperforms.com^
 ||track.northamericanincome.co.uk^
-||track.novasaudebrasil.com.br^
 ||track.noz.de^
 ||track.nutrafitsuplementos.com.br^
 ||track.nutrishotai.com^
 ||track.nzz.tt.omtrdc.net^
-||track.oakiron.tech^
 ||track.offroadglobal.com^
 ||track.ogrogotioman.com^
 ||track.oleificiovieste.com^
@@ -236127,7 +236029,6 @@ Stand: 20.10.2026 22:17
 ||track.orisee.ro^
 ||track.ostad.app^
 ||track.outlettrends.com^
-||track.ownviral.com^
 ||track.ozguvenakademi.com^
 ||track.pairietales.com^
 ||track.paradigmtrack.com^
@@ -236141,7 +236042,6 @@ Stand: 20.10.2026 22:17
 ||track.performancegolf.com^
 ||track.pestzerobd.com^
 ||track.petefry.net^
-||track.petsummits.com^
 ||track.pexi.nl^
 ||track.phorest.com^
 ||track.physiohealth-line.de^
@@ -236196,7 +236096,6 @@ Stand: 20.10.2026 22:17
 ||track.roof661.com^
 ||track.roofersite.com^
 ||track.roomster.com^
-||track.rootedvitalsmd.com^
 ||track.rotadoenem.com.br^
 ||track.rottne.com^
 ||track.royal-01.com^
@@ -236312,7 +236211,6 @@ Stand: 20.10.2026 22:17
 ||track.tom.com^
 ||track.tomwx.net^
 ||track.top8.in^
-||track.toxicasino.info^
 ||track.tracerurlvis.com^
 ||track.trackdeshi.com^
 ||track.trackleads.com.au^
@@ -236360,7 +236258,6 @@ Stand: 20.10.2026 22:17
 ||track.vbet.ua^
 ||track.vbet10.com^
 ||track.vbetftn.com^
-||track.vbetua.com^
 ||track.vectismedia-buyers.com^
 ||track.veedio.it^
 ||track.velatura.shop^
@@ -236377,7 +236274,6 @@ Stand: 20.10.2026 22:17
 ||track.viva.co.il^
 ||track.voip.nl^
 ||track.vortono.com^
-||track.voveron.com^
 ||track.vscash.com^
 ||track.waadskin.com^
 ||track.wahre-verbindung.com^
@@ -236393,7 +236289,6 @@ Stand: 20.10.2026 22:17
 ||track.wesell.co.il^
 ||track.westminster.citizensbank.tt.omtrdc.net^
 ||track.whitecarwash.store^
-||track.winedoor.com^
 ||track.winxbd.shop^
 ||track.workframe.com^
 ||track.workfusion.com^
@@ -236799,7 +236694,6 @@ Stand: 20.10.2026 22:17
 ||tracking.axio.marketing^
 ||tracking.axis-kobetsu.jp^
 ||tracking.axis.onl^
-||tracking.axonpeptidelabs.com^
 ||tracking.azimutyachts.com^
 ||tracking.b-cdn.net^
 ||tracking.b2x.bet.br^
@@ -237627,7 +237521,6 @@ Stand: 20.10.2026 22:17
 ||tracking.solartrade-us.baywa-re.com^
 ||tracking.solinea.pl^
 ||tracking.solutions.parker.com^
-||tracking.somarela.com^
 ||tracking.somibd.com^
 ||tracking.sonnasita.at^
 ||tracking.sorellesupplements.com^
@@ -239558,7 +239451,6 @@ Stand: 20.10.2026 22:17
 ||trk.619brickell.com^
 ||trk.8limbsflow.com^
 ||trk.a-dsp.com^
-||trk.acacarefoundation.org^
 ||trk.acceptancecarloans.com^
 ||trk.adbutter.net^
 ||trk.admmontreal.com^
@@ -239803,7 +239695,6 @@ Stand: 20.10.2026 22:17
 ||trk.konner-sohnen.pl^
 ||trk.konner-sohnen.ro^
 ||trk.konner-sohnen.uk^
-||trk.konner-sohnen.us^
 ||trk.krebsversicherung.de^
 ||trk.kronoshub.com.br^
 ||trk.kuechenupgrade.de^
@@ -239854,8 +239745,6 @@ Stand: 20.10.2026 22:17
 ||trk.mycare.maimo.org^
 ||trk.myinbounds.com^
 ||trk.myoro.co^
-||trk.myreliefaid.org^
-||trk.myvitalenergy.com^
 ||trk.nashpumps.com^
 ||trk.nationalhogfarmer.com^
 ||trk.ndtco.com^
@@ -239918,7 +239807,6 @@ Stand: 20.10.2026 22:17
 ||trk.realclearsavings.com^
 ||trk.reavell.com^
 ||trk.recetasprimavera.com^
-||trk.reliefcenteraid.org^
 ||trk.restaurant-hospitality.com^
 ||trk.riverview.org^
 ||trk.robuschi.com^
@@ -239940,7 +239828,6 @@ Stand: 20.10.2026 22:17
 ||trk.serandis.de^
 ||trk.share.healthc2u.com^
 ||trk.shoppremiumoutlets.com^
-||trk.shopzenvylite.com^
 ||trk.sidepot.us^
 ||trk.smartusahub.com^
 ||trk.software-dealz.de^
@@ -239957,7 +239844,6 @@ Stand: 20.10.2026 22:17
 ||trk.spsglobal.com^
 ||trk.squeezemassage.com^
 ||trk.storyly.io^
-||trk.streek.ca^
 ||trk.supermarketnews.com^
 ||trk.tbivision.com^
 ||trk.techtarget.com^
@@ -239980,8 +239866,6 @@ Stand: 20.10.2026 22:17
 ||trk.trashcontainers.com^
 ||trk.treetopproducts.com^
 ||trk.tricontinent.com^
-||trk.truehealthytoday.com^
-||trk.trxops.com^
 ||trk.tryhalogrow.com^
 ||trk.tryshameless.com^
 ||trk.tu-auto.com^
@@ -240010,7 +239894,6 @@ Stand: 20.10.2026 22:17
 ||trk.wardsauto.com^
 ||trk.wealthmanagement.com^
 ||trk.welchvacuum.com^
-||trk.wellnessbridges.org^
 ||trk.wellsfargocenterphilly.com^
 ||trk.weshape.com^
 ||trk.williamspumps.com^
@@ -240170,7 +240053,6 @@ Stand: 20.10.2026 22:17
 ||try.natren.com^
 ||try.popchart.family^
 ||try.postmuseapp.com^
-||try.pure-liv.com^
 ||try.tableau.com^
 ||try.tableausoftware.com^
 ||try.thelentilhub.com^
@@ -255286,7 +255168,6 @@ Stand: 20.10.2026 22:17
 ||winemoretime.tt-stage3.omtrdc.net^
 ||winestore.net.daraz.com^
 ||wingstowheels.com^
-||winnersmindset.org^
 ||winnipeg.streetside.ca^
 ||winrarstageconbert2mp3.net.daraz.com^
 ||winstonsalembusinesssettlement.e.epiqnotification.com^

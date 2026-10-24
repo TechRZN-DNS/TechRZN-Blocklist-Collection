@@ -48,7 +48,7 @@ jobs:
         run: python scripts/build.py
 
       - name: 💾 Änderungen speichern (Commit & Push)
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v6
         with:
           branch: main
           commit_message: "build: Filter-Listen v1.2.0 aktualisiert [bot]"

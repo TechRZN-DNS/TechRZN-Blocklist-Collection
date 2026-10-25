@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 24.10.2026 08:43
+Stand: 25.10.2026 09:00
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -31819,6 +31819,7 @@ Stand: 24.10.2026 08:43
 ||beacon.sina.com.cn^
 ||beacon.skillable.com^
 ||beacon.sojern.com^
+||beacon.viafoura.io^
 ||beacon.walmart.com^
 ||beacon.watch.impress.co.jp^
 ||beacon.webpresence.work^
@@ -45007,6 +45008,7 @@ Stand: 24.10.2026 08:43
 ||cecilia0418stage.stage-toonjoa.net.daraz.com^
 ||cecilia0418stagestaging-javhihi.net.daraz.com^
 ||cecmsvisionn-print-mo.net.daraz.com^
+||cedarkits.com^
 ||cedarssinai.ssl.sc.tt.omtrdc.net^
 ||cedarssinaihealthsys.tt.omtrdc.net^
 ||cedarwings.tt.omtrdc.net^
@@ -48116,6 +48118,7 @@ Stand: 24.10.2026 08:43
 ||clchdappr-ht-2.net.daraz.com^
 ||clcisco-capwap-controllerudappr-ht-2.net.daraz.com^
 ||clck.dzen.ru^
+||clcksrv.com^
 ||clcktrax.com^
 ||clclcl.profilespartner-pay.net.daraz.com^
 ||clcloudapprdappr-ht-2.net.daraz.com^
@@ -95049,6 +95052,7 @@ Stand: 24.10.2026 08:43
 ||execution-ci360.rai.it^
 ||exektw.fittijelo.com^
 ||exercises.doitbest.tt.omtrdc.net^
+||exfdg.com^
 ||exgrub.orthoticshop.com^
 ||exhibit.coteriefashionevents.com^
 ||exhibit.firex.co.uk^
@@ -96835,6 +96839,7 @@ Stand: 24.10.2026 08:43
 ||fashion.kpnbv.tt.omtrdc.net^
 ||fashion.tradeshow.globalsources.com^
 ||fashion.tt.omtrdc.net^
+||fashionposter.com^
 ||fast.adsemijoias.com.br^
 ||fast.americajoias.com.br^
 ||fast.amypets.com.br^
@@ -97387,6 +97392,7 @@ Stand: 24.10.2026 08:43
 ||fdel38-1.net.daraz.com^
 ||fdevvisionontpage.devvision-oa-1.net.daraz.com^
 ||fdftq.funpass.com^
+||fdgcore.com^
 ||fdgfrr.mothercare.com.kw^
 ||fdhqzb.longkionemedics.com^
 ||fdiinc.actonservice.com^
@@ -100392,6 +100398,7 @@ Stand: 24.10.2026 08:43
 ||flyte.abcam.tt.omtrdc.net^
 ||flyte.duluthtrading.tt.omtrdc.net^
 ||flyte.illuminainc.tt.omtrdc.net^
+||flyyoung.net^
 ||flyziken-barangerd.tt.omtrdc.net^
 ||flznib.weblio.jp^
 ||fm-ags2.fm.tt.omtrdc.net^
@@ -101373,6 +101380,7 @@ Stand: 24.10.2026 08:43
 ||fp.thejuicelearning.com^
 ||fp.uat.tt.omtrdc.net^
 ||fp.ubagroup.com^
+||fp.uncensored.com^
 ||fp.ups.com^
 ||fpa-api.adweek.com^
 ||fpa-api.arstechnica.com^
@@ -103012,6 +103020,7 @@ Stand: 24.10.2026 08:43
 ||fsegfy.lepoint.fr^
 ||fserver.a1solarstore.com^
 ||fserver.tt.omtrdc.net^
+||fservr.com^
 ||fsg-dc-email.fsg.tt.omtrdc.net^
 ||fsggey.concierge.diet^
 ||fsgqf.apsecosmetics.com.br^
@@ -104893,6 +104902,7 @@ Stand: 24.10.2026 08:43
 ||gahhfg.bobo.com.br^
 ||gahkj.zomasleep.com^
 ||gahlr.readyrocker.com^
+||gaij.app^
 ||gains.kitandkaboodal.com^
 ||gainx.diffbeautyksa.com^
 ||gak.webtoons.com^
@@ -106997,6 +107007,7 @@ Stand: 24.10.2026 08:43
 ||genesishealth.hrm.healthgrades.com^
 ||genesisrecycling.actonservice.com^
 ||genialloyd.mmspdistribe.tt.omtrdc.net^
+||genomicswire.com^
 ||genova.gas-up.it^
 ||genre.tt.omtrdc.net^
 ||gentelco.tt.omtrdc.net^
@@ -121700,6 +121711,7 @@ Stand: 24.10.2026 08:43
 ||harborcontrol.com^
 ||harborcub.com^
 ||hardinet.actonservice.com^
+||hardsixhockey.net^
 ||hare.felix-schmid.de^
 ||hare.startupbootcamp.com.au^
 ||hargreaveslansdownpl.tt.omtrdc.net^
@@ -124206,6 +124218,7 @@ Stand: 24.10.2026 08:43
 ||honey.shadfood.bd^
 ||honeybulb.com^
 ||honeybutterbliss.com^
+||honeyscene.com^
 ||honeywarm-ss.checkoutera.com^
 ||honeywellchina.tt.omtrdc.net^
 ||honeywellintaeros.tt.omtrdc.net^
@@ -124728,6 +124741,7 @@ Stand: 24.10.2026 08:43
 ||host7007.net.daraz.com^
 ||host82ss.net.mydays.de^
 ||host83-185.tt.omtrdc.net^
+||hostchutney.com^
 ||hostf113.tt.omtrdc.net^
 ||hostf167.tt.omtrdc.net^
 ||hosthn.tt.omtrdc.net^
@@ -141554,6 +141568,7 @@ Stand: 24.10.2026 08:43
 ||knhccb.revivalanimal.com^
 ||knifetreasury.com^
 ||knight.therapidmind.com^
+||knightface.com^
 ||knitstamp.com^
 ||knjybs.luminis-films.com^
 ||knlqeu.jewlr.com^
@@ -143189,6 +143204,7 @@ Stand: 24.10.2026 08:43
 ||l.boo-log.com^
 ||l.brightside.com^
 ||l.bspace.io^
+||l.ca.ovhcloud.com^
 ||l.chesuto.jp^
 ||l.citylife-new.com^
 ||l.civic.com^
@@ -143638,6 +143654,7 @@ Stand: 24.10.2026 08:43
 ||laramaciel.com.br^
 ||larcru.herno.com^
 ||largebrass.com^
+||largetony.com^
 ||laris.tt.omtrdc.net^
 ||larondadelvigilantenhentai.net.daraz.com^
 ||larosadereus.com.tt.omtrdc.net^
@@ -172972,6 +172989,7 @@ Stand: 24.10.2026 08:43
 ||mgpnz.shopakira.com^
 ||mgptul.finson.com^
 ||mgr.biltmorehotel.com^
+||mgrace.net^
 ||mgrhcu937sr6pfbm.net.daraz.com^
 ||mgrhe.myvolleybox.com^
 ||mgs.flpoc.tt.omtrdc.net^
@@ -175679,6 +175697,7 @@ Stand: 24.10.2026 08:43
 ||mx2.rottne.com^
 ||mx7.hayaisushi.com.br^
 ||mx79.net.daraz.com^
+||mxanalytics.youruncensoredai.workers.dev^
 ||mxbtgc.brightage.jp^
 ||mxconnectedtwtelecom.azure.net.daraz.com^
 ||mxcpj.marathonwatch.com^
@@ -177564,6 +177583,7 @@ Stand: 24.10.2026 08:43
 ||nextjscms-sgtm.1800gotjunk.com^
 ||nextrent1.tt.omtrdc.net^
 ||nextshop.nextshopbd.online^
+||nextsmarty.com^
 ||nexttopchef.com^
 ||nexus-svc.sc.com^
 ||nexus-track-ppr.dev.se.com^
@@ -180675,6 +180695,7 @@ Stand: 24.10.2026 08:43
 ||nzzvvf.goldengoose.com^
 ||o-12.pwt.tt.omtrdc.net^
 ||o-adobe-priv.tt.omtrdc.net^
+||o-api.hotukdeals.com^
 ||o-be.dc.tt.omtrdc.net^
 ||o-devfreya.net.daraz.com^
 ||o-faun.citizensbank.tt.omtrdc.net^
@@ -181205,8 +181226,14 @@ Stand: 24.10.2026 08:43
 ||octopus.katrinebrandborg.dk^
 ||octopus2.puregoldprotein.com^
 ||octus.tt.omtrdc.net^
+||ocular.chollometro.com^
 ||ocular.dealabs.com^
 ||ocular.hotukdeals.com^
+||ocular.mydealz.de^
+||ocular.pepper.pl^
+||ocular.pepperdeals.com^
+||ocular.pepperdeals.se^
+||ocular.preisjaeger.at^
 ||ocular.promodescuentos.com^
 ||ocwlhv.ecid.com.br^
 ||oda.markitondemand.com^
@@ -184202,6 +184229,7 @@ Stand: 24.10.2026 08:43
 ||paircdner-alpha.net.daraz.com^
 ||pairin.actonservice.com^
 ||pajabbertnejabber.net.daraz.com^
+||pajamabrand.com^
 ||pajenkinstesttnejenkinstest-legacy.net.daraz.com^
 ||pajfpadj.kuorsis.fi^
 ||pajsb.coopsleepgoods.com^
@@ -187391,6 +187419,7 @@ Stand: 24.10.2026 08:43
 ||pixel.propublica.org^
 ||pixel.pub.lilyai.net^
 ||pixel.pulsebrand.io^
+||pixel.quantserve.com^
 ||pixel.quoinrock.co.za^
 ||pixel.redgifs.com^
 ||pixel.renanpivetta.com.br^
@@ -191584,6 +191613,7 @@ Stand: 24.10.2026 08:43
 ||rechenschieber.transfermarkt.us^
 ||rechenschieber.transfermarkt.world^
 ||recid.aquatalia.com^
+||recipearena.com^
 ||recipepile.net^
 ||recipepin.com^
 ||recml.simplynootropics.com^
@@ -191993,6 +192023,7 @@ Stand: 24.10.2026 08:43
 ||report.meituan.com^
 ||report.mitsubishicars.com^
 ||report.oewa.at^
+||report.senzia.cc^
 ||reportic.app^
 ||reporting-api.gannettinnovation.com^
 ||reporting.autographapp.me^
@@ -204497,6 +204528,7 @@ Stand: 24.10.2026 08:43
 ||skincheckwa-app.hotdoc.com.au^
 ||skink.asorman.io^
 ||skink.magnastar.net^
+||skinnytea.net^
 ||skins-static-stage.net.daraz.com^
 ||skins.00-bootstrap.net.daraz.com^
 ||skins.10-marketing.net.daraz.com^
@@ -210783,6 +210815,7 @@ Stand: 24.10.2026 08:43
 ||spyfocusshop-ss.checkoutera.com^
 ||spyfocusshop-ss.offeroshop.com^
 ||spyfocusshop-ss.shopboosta.com^
+||spyrep.com^
 ||spysubstance.com^
 ||spytsg.horti.jp^
 ||spyzw.sexyhair.com^
@@ -229188,6 +229221,7 @@ Stand: 24.10.2026 08:43
 ||t.valcyte.com^
 ||t.valleiautogroep.nl^
 ||t.valuegolf.com^
+||t.venice.ai^
 ||t.veranco.be^
 ||t.veranda-veranco.com^
 ||t.veranstaltungsticket-bahn.de^
@@ -238058,6 +238092,7 @@ Stand: 24.10.2026 08:43
 ||trade.jr.tt.omtrdc.net^
 ||trade.na.ecs.tt.omtrdc.net^
 ||trade1.ws.tt.omtrdc.net^
+||tradedeli.com^
 ||tradefestival.actonservice.com^
 ||tradein-apac-stg.tt.omtrdc.net^
 ||tradein-apps-apac-stg.tt.omtrdc.net^
@@ -243401,6 +243436,7 @@ Stand: 24.10.2026 08:43
 ||unclelustskinsgay.tt.omtrdc.net^
 ||uncmbg.timberland.de^
 ||uncommon-pangolin.tt.omtrdc.net^
+||uncommonalias.com^
 ||uncommongoods-mobile.tt.omtrdc.net^
 ||uncommongoods.secure.tt.omtrdc.net^
 ||uncommongoodsdev.tt.omtrdc.net^
@@ -254444,6 +254480,7 @@ Stand: 24.10.2026 08:43
 ||wellaskin-sst.checkoutera.com^
 ||wellawhite-ss.checkoutera.com^
 ||wellawoman-ss.olladeals.com^
+||wellbeingforce.com^
 ||wellbyfinancial.fmservice.com^
 ||wellfi.drinksprinkle.com^
 ||wellfi.enjoysprinkle.com^
@@ -255222,6 +255259,7 @@ Stand: 24.10.2026 08:43
 ||wits.stevemyers4.tt.omtrdc.net^
 ||wittchen133.strefamarek.tt.omtrdc.net^
 ||wittweidentest2.tt.omtrdc.net^
+||wittyfamous.com^
 ||wittyones.tt.omtrdc.net^
 ||wittypopcorn.com^
 ||wittyshack.com^
@@ -261146,6 +261184,7 @@ Stand: 24.10.2026 08:43
 ||yrrudp.inven.co.kr^
 ||yrsst.yogaapp.com^
 ||yrsst.yogarenewteachertraining.com^
+||yrtace.com^
 ||yrvbgr.eduwill.net^
 ||yrvccaliwpcoxjzyhf.partner.net.daraz.com^
 ||yrvcuiwpcoxjzyhf.partner.net.daraz.com^

@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 25.10.2026 09:00
+Stand: 26.10.2026 09:51
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -485,6 +485,7 @@ Stand: 25.10.2026 09:00
 ||allerhand-md.de^
 ||allerleitrendshop.de^
 ||alles-anhanger.com^
+||alles-origami.store^
 ||allesescooter.de^
 ||allesfuerdengarten.com^
 ||allesfurzuhause.de^
@@ -510,6 +511,7 @@ Stand: 25.10.2026 09:00
 ||allinstockgmbh.company.site^
 ||allkitchen.shop^
 ||allmindday.com^
+||allnewsready.com^
 ||allnove.com^
 ||allodo.de^
 ||allovernightshipus2us.com^
@@ -1677,6 +1679,7 @@ Stand: 25.10.2026 09:00
 ||berg-mode.de^
 ||bergandlind.com^
 ||bergcycle.com^
+||berger-brennstoffe.com^
 ||berger-seidle-shop.de^
 ||bergermode.com^
 ||bergersearch.at^
@@ -2031,6 +2034,7 @@ Stand: 25.10.2026 09:00
 ||binomo.com^
 ||binomo.in^
 ||binomo.info^
+||binomo.vip^
 ||binomo1.com^
 ||binomo2.zendesk.com^
 ||binomoidr.com^
@@ -2129,7 +2133,6 @@ Stand: 25.10.2026 09:00
 ||black-shepp-gastroservice.com^
 ||blackabdo.company.site^
 ||blackcatstore.de^
-||blackfridaymegastore.com^
 ||blackgurlzsmagickloset.com^
 ||blackoutarchertender.com^
 ||blacktridentpop.shop^
@@ -2387,6 +2390,7 @@ Stand: 25.10.2026 09:00
 ||bremsen-onshop.com^
 ||bremsenonshop.com^
 ||bremsenverkauf.com^
+||brenholz-karl.de^
 ||brenn-holzinger.at^
 ||brenner-berlin.com^
 ||brennholz-anhaenger.de^
@@ -2521,6 +2525,7 @@ Stand: 25.10.2026 09:00
 ||bst-werkzeuge.de^
 ||btcminer.website^
 ||btcswing.com^
+||btrgservices.com^
 ||bubaloo.de^
 ||bubblepupp.com^
 ||bubenlatschen.com^
@@ -3204,6 +3209,7 @@ Stand: 25.10.2026 09:00
 ||columbi.de^
 ||columbias.com.de^
 ||columbiasale.de^
+||com-id16313.info^
 ||combojoy.com^
 ||comdaliy.de^
 ||come-on-baby.de^
@@ -3441,6 +3447,7 @@ Stand: 25.10.2026 09:00
 ||cryptobullbear.com^
 ||cryptocase.online^
 ||cryptocash24.com^
+||cryptoeasily.com^
 ||cryptofast.net^
 ||cryptofundfx.com^
 ||cryptomoney888.com^
@@ -3467,7 +3474,6 @@ Stand: 25.10.2026 09:00
 ||cschwindt24.de^
 ||csschwindt.de^
 ||csunbox.com^
-||ctbike.pl^
 ||cthesky.com^
 ||ctoption.com^
 ||ctxholdings.com^
@@ -4200,7 +4206,6 @@ Stand: 25.10.2026 09:00
 ||dmlhrhnv.shop^
 ||dmrbremsbelag.com^
 ||dmsmax.com^
-||doaapodewils.buzz^
 ||doallerer.com^
 ||docgbeauty.de^
 ||docjohnson-schritte.com^
@@ -4223,6 +4228,7 @@ Stand: 25.10.2026 09:00
 ||dogzy.de^
 ||doh-gov.ph^
 ||dohahotel24.com^
+||doint.info^
 ||doinvitletter.de^
 ||dokumentenkaufen.eu^
 ||dolaxe.com^
@@ -4236,6 +4242,7 @@ Stand: 25.10.2026 09:00
 ||domainene.com^
 ||domatin.com^
 ||domelus.de^
+||domfa-bois.com^
 ||dominguesequipamentos.com^
 ||domino-handel.de^
 ||don-art.de^
@@ -4475,6 +4482,7 @@ Stand: 25.10.2026 09:00
 ||e-bikerabatt.com^
 ||e-bikermarkt.de^
 ||e-bikesmkgmbh-de.com^
+||e-bikesmkgmbh.com^
 ||e-bikesparepartsde.com^
 ||e-fahrrader.de^
 ||e-fahrrader.store^
@@ -4760,6 +4768,7 @@ Stand: 25.10.2026 09:00
 ||elementaryfinancial.com^
 ||elementaryt.com^
 ||elencoco.com^
+||eletro-remedios.com^
 ||eletrospark.de^
 ||eletrostartestufas.com^
 ||elevateclimbing.com^
@@ -5150,7 +5159,6 @@ Stand: 25.10.2026 09:00
 ||evosgaming-15l.site^
 ||evutal.com^
 ||ewige-seide.de^
-||ewigerbund.org^
 ||ewuyvw.shop^
 ||ewzmvasz.shop^
 ||ex-torrenty.org^
@@ -5691,7 +5699,6 @@ Stand: 25.10.2026 09:00
 ||fitbands.de^
 ||fitflopromania.com^
 ||fitgirl-repacks-site.org^
-||fitgirl-repacks.vip^
 ||fitiwelt.com^
 ||fitliebe.de^
 ||fitneed.top^
@@ -6672,7 +6679,6 @@ Stand: 25.10.2026 09:00
 ||glindo.de^
 ||glitchy.go2cloud.org^
 ||glitzermoment.com^
-||gload.info^
 ||global-energies-services.com^
 ||global-kaufhaus.com^
 ||globaldispatch.info^
@@ -7721,6 +7727,7 @@ Stand: 25.10.2026 09:00
 ||holzfurzuhause.de^
 ||holzgartenprofi.de^
 ||holzgluck.de^
+||holzglut24.de^
 ||holzgutexpress.de^
 ||holzhack-schnitzel.de^
 ||holzhambach.com^
@@ -9456,7 +9463,6 @@ Stand: 25.10.2026 09:00
 ||lamena.de^
 ||lamiva.de^
 ||lamodeshop.com^
-||lamotee.com^
 ||lamp-laboratory.com^
 ||lampenbillig.com^
 ||lampendream.com^
@@ -9693,7 +9699,6 @@ Stand: 25.10.2026 09:00
 ||lenoxsale.com^
 ||leobabyjordanbjj.com^
 ||leonboutique.com^
-||leonoremanry.sa.com^
 ||leopold-mode.com^
 ||leoswc.com^
 ||leqaa-store.com^
@@ -9709,7 +9714,6 @@ Stand: 25.10.2026 09:00
 ||lesburst.shop^
 ||lescocosecolos.com^
 ||lesculturelles.com^
-||lesliespracklen.sa.com^
 ||lesphacocheres.com^
 ||lesrouleaux.com^
 ||lessismoro.shop^
@@ -10203,6 +10207,7 @@ Stand: 25.10.2026 09:00
 ||m-b-grosshandel.de^
 ||m-sicherekauf.de^
 ||m-wanted.at^
+||m.coinexeu.vip^
 ||m.kaufjoy.de^
 ||m.vbridal.com^
 ||m.xtop.cc^
@@ -11140,6 +11145,7 @@ Stand: 25.10.2026 09:00
 ||monexis.co^
 ||monicasneaker.cc^
 ||monido.de^
+||monika-mueller-brennholzhandel.de^
 ||monika-taschen.com^
 ||monirahouse.com^
 ||monkstars.com^
@@ -11191,7 +11197,6 @@ Stand: 25.10.2026 09:00
 ||moonbootukstore.com^
 ||moonetrix.com^
 ||moongadgets.com^
-||moongor.com^
 ||moonkie.de^
 ||moonpod.de^
 ||moontod.com^
@@ -11358,7 +11363,6 @@ Stand: 25.10.2026 09:00
 ||musikwelt-lindner.de^
 ||musiqueonline.com^
 ||muskai.net^
-||muskangaming.com^
 ||muskanonline.com^
 ||muskusa.com^
 ||mustang-parts-shop.de^
@@ -11559,7 +11563,6 @@ Stand: 25.10.2026 09:00
 ||navi56.com^
 ||navi59.ru^
 ||navi6.com^
-||navi63.ru^
 ||navi65.com^
 ||navi66.ru^
 ||navi69.com^
@@ -11861,7 +11864,6 @@ Stand: 25.10.2026 09:00
 ||nordvian.com^
 ||norenze.com^
 ||norevialife.com^
-||norfolkhotels24.com^
 ||norfotball.com^
 ||norge-apt.com^
 ||norge-ed.com^
@@ -12774,6 +12776,7 @@ Stand: 25.10.2026 09:00
 ||pepperstone.vip^
 ||pepstore.org^
 ||peptide-kaufen.com^
+||peptidekonings.com^
 ||peptidy.org^
 ||peptipenonline.com^
 ||perfect-booty.de^
@@ -14136,6 +14139,7 @@ Stand: 25.10.2026 09:00
 ||rundumstrikot.de^
 ||runrigstack.click^
 ||runtrainpro.com^
+||rupills.com^
 ||rusin-anwaelte.de^
 ||rusin-recht.de^
 ||russellandbromley.de^
@@ -14153,6 +14157,7 @@ Stand: 25.10.2026 09:00
 ||rx-pharma.net^
 ||rx-pharmacies.com^
 ||rx-qualityshop.com^
+||rx-true.com^
 ||rx247rx.com^
 ||rxapothekefursie.com^
 ||rxappfree.com^
@@ -14346,6 +14351,7 @@ Stand: 25.10.2026 09:00
 ||sbk-hoffmeyer.de^
 ||sbnaf.shop^
 ||sboxcontainers.com^
+||scanoe.info^
 ||scarpa-de.myshopify.com^
 ||scarpaosterreich.at^
 ||scentuelle.de^
@@ -14488,6 +14494,7 @@ Stand: 25.10.2026 09:00
 ||scidetrezenvy.com^
 ||sciencefactoryshop.de^
 ||scieriesaugues.de^
+||sciponoe.com^
 ||sciscirc.com^
 ||scontainer-logististikgmbh.de^
 ||scooter-chip.de^
@@ -14946,6 +14953,7 @@ Stand: 25.10.2026 09:00
 ||skinsociety.shop^
 ||skinszone.net^
 ||skinwell.store^
+||skipped.vip^
 ||skiracedepartment.com^
 ||skirt-discount-store.shop^
 ||skispeichern.com^
@@ -15396,7 +15404,6 @@ Stand: 25.10.2026 09:00
 ||spyxe.com^
 ||squarexchange.com^
 ||squeezetoys.de^
-||squest.info^
 ||squidcow.com^
 ||srmsaleskpi.com^
 ||srprisk.com^
@@ -15476,7 +15483,6 @@ Stand: 25.10.2026 09:00
 ||stclik.com^
 ||steadyhandtooling.com^
 ||steamgateways.com^
-||steampowered.cn.com^
 ||steampunk-xix.de^
 ||steamunlock.com^
 ||steeg-handel.de^
@@ -15974,6 +15980,7 @@ Stand: 25.10.2026 09:00
 ||td-treuhand.de^
 ||tddexpresslogistics.com^
 ||tdglobalcompany.io^
+||tdgrop168.vip^
 ||tdxsz.com^
 ||te.de^
 ||teachbrigh.com^
@@ -16198,7 +16205,6 @@ Stand: 25.10.2026 09:00
 ||theonepercentcommunity.com^
 ||theordinarys.at^
 ||theordinarys.de^
-||theoutdoorsgear.com^
 ||thepacksale.com^
 ||thepanther.io^
 ||thepeppymay.com^
@@ -16914,12 +16920,13 @@ Stand: 25.10.2026 09:00
 ||unisonmen.de^
 ||uniswap.host^
 ||uniswap.ro^
-||uniswap2.buzz^
+||uniswap5.work^
 ||uniswapagent.com^
 ||uniswapai.xyz^
 ||uniswapapp.xyz^
 ||uniswapbot.xyz^
 ||uniswapcapital.xyz^
+||uniswapcriterion.org^
 ||uniswapdao.xyz^
 ||uniswapdefi.xyz^
 ||uniswapetf.xyz^

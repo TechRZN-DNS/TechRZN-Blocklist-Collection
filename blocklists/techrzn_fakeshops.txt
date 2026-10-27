@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 26.10.2026 09:51
+Stand: 27.10.2026 09:40
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -5097,7 +5097,6 @@ Stand: 26.10.2026 09:51
 ||europaischeapotheke.com^
 ||europalettenmoebel.de^
 ||europe-pack.eu^
-||europe-pharm.com^
 ||europe-pimco.com^
 ||european-pharmacy.online^
 ||europeangeneric.com^
@@ -5159,6 +5158,7 @@ Stand: 26.10.2026 09:51
 ||evosgaming-15l.site^
 ||evutal.com^
 ||ewige-seide.de^
+||ewigerbund.org^
 ||ewuyvw.shop^
 ||ewzmvasz.shop^
 ||ex-torrenty.org^
@@ -5389,7 +5389,6 @@ Stand: 26.10.2026 09:51
 ||farmacija-hrvatska.com^
 ||farmacijahr.com^
 ||farmacijahrvatska24.com^
-||farmaed.com^
 ||farmakeioellada.com^
 ||farmakeioellada24.com^
 ||farmakeioellinika.com^
@@ -7869,7 +7868,6 @@ Stand: 26.10.2026 09:51
 ||hotelladen.com^
 ||hotels-colombo.com^
 ||hotelsinperm.ru^
-||hotelsinvienna.org^
 ||hotelsofmenorca.com^
 ||hotelwareus.com^
 ||hotelwhales.com^
@@ -11197,6 +11195,7 @@ Stand: 26.10.2026 09:51
 ||moonbootukstore.com^
 ||moonetrix.com^
 ||moongadgets.com^
+||moongor.com^
 ||moonkie.de^
 ||moonpod.de^
 ||moontod.com^
@@ -13010,7 +13009,6 @@ Stand: 26.10.2026 09:51
 ||platform.ap-capital-lim.com^
 ||platform.invesco-trading.com^
 ||platform.softwarecrownex.com^
-||platincoin.com^
 ||platinwerk.de^
 ||platten24.com^
 ||platzimgarten.com^
@@ -15399,7 +15397,6 @@ Stand: 26.10.2026 09:51
 ||spuelerparts.com^
 ||spybulbcamera.de^
 ||spydersale.de^
-||spydiscount24.com^
 ||spyshop.at^
 ||spyxe.com^
 ||squarexchange.com^

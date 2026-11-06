@@ -1,5 +1,5 @@
 ### TechRZN - SPAM ###
-Stand: 05.11.2026 11:57
+Stand: 06.11.2026 11:54
 
 ||0-2spk-us.basecamp.app^
 ||0-amfauth.firebaseapp.com^
@@ -83110,7 +83110,6 @@ Stand: 05.11.2026 11:57
 ||fernmist.com^
 ||fernmuse.com^
 ||fernquirk.com^
-||fernsehserien.de^
 ||fernsway.com^
 ||fernwartung.jetzt^
 ||fernweh.uk^
@@ -84636,8 +84635,6 @@ Stand: 05.11.2026 11:57
 ||flex486.xyz^
 ||flexascend.com^
 ||flexcasino.info^
-||flexispot.co.uk^
-||flexispot.de^
 ||flexotone.com^
 ||flexov1.as.tamu.edu^
 ||flexpowereurope.com^

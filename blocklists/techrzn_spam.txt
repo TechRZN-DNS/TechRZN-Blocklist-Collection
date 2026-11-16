@@ -1,5 +1,5 @@
 ### TechRZN - SPAM ###
-Stand: 15.11.2026 11:48
+Stand: 16.11.2026 12:30
 
 ||0-2spk-us.basecamp.app^
 ||0-amfauth.firebaseapp.com^
@@ -14883,6 +14883,7 @@ Stand: 15.11.2026 11:48
 ||auth.hrfox.net^
 ||auth.maarsac.com.au^
 ||auth.medikamenterezeptfrei.biz^
+||auth.pharma-rezeptfrei.com^
 ||auth.pollamundial.org^
 ||auth.quizflight.com^
 ||auth.rezeptfreie-potenzmittel.info^

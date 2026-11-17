@@ -1,5 +1,5 @@
 ### TechRZN - SPAM ###
-Stand: 16.11.2026 12:30
+Stand: 17.11.2026 12:51
 
 ||0-2spk-us.basecamp.app^
 ||0-amfauth.firebaseapp.com^
@@ -12357,6 +12357,7 @@ Stand: 16.11.2026 12:30
 ||app16.edge-sc.net^
 ||app1btconnect0office.weebly.com^
 ||app1inch.xyz^
+||app2.pharma-rezeptfrei.com^
 ||app35337.fullstackrollen.com^
 ||app365-go.coastalwinter.com^
 ||app4432.munland.com^
@@ -12548,7 +12549,6 @@ Stand: 16.11.2026 12:30
 ||application.deduicedesigns.com^
 ||application.sport.blog^
 ||applications-aramco.com^
-||applications-media.feverup.com^
 ||applications.quickadminpanel.shop^
 ||applicationsemploystastu.weebly.com^
 ||applink.rakuten-card.co.jp^
@@ -47596,7 +47596,6 @@ Stand: 16.11.2026 12:30
 ||click.e.ea.com^
 ||click.email-biolifeplasma.com^
 ||click.email.anesthesiapartners.com^
-||click.email.feverup.com^
 ||click.email.getresq.com^
 ||click.email.microsoftemail.com^
 ||click.email.sfaf.org^
@@ -60225,6 +60224,7 @@ Stand: 16.11.2026 12:30
 ||cpcalendars.anagayol.com^
 ||cpcalendars.angelbursa.com^
 ||cpcalendars.annaduralska.pl^
+||cpcalendars.antibiotikarezeptfrei.de^
 ||cpcalendars.apibusinesstic.net^
 ||cpcalendars.aplock.net^
 ||cpcalendars.appledaniels.com^
@@ -83458,7 +83458,6 @@ Stand: 16.11.2026 12:30
 ||feuerzeuge.jetzt^
 ||feussip.click^
 ||feverjoymusic.com^
-||feverup.com^
 ||fevery.com^
 ||fewfsdfsdfsdfsd.s3.amazonaws.com^
 ||fewo-hierundjetzt.com^
@@ -90936,6 +90935,7 @@ Stand: 16.11.2026 12:30
 ||gu091.myscoutai.com^
 ||gu77.onehigginbotham.us^
 ||gu782.mylesson.cyou^
+||guacamole.pharma-rezeptfrei.com^
 ||guacfarms.com^
 ||guadalcanonized.com^
 ||guadyoijgs.ctn.ssl.multi1.st.v2.gclb.gtr-dev.certsbridge.com^
@@ -96825,7 +96825,6 @@ Stand: 16.11.2026 12:30
 ||image.email.broadwaybox.com^
 ||image.email.canadiens.com^
 ||image.email.cfmtg.com^
-||image.email.feverup.com^
 ||image.email.foracredit.ca^
 ||image.email.groups.broadway.com^
 ||image.email.loc.pathward.com^
@@ -99461,6 +99460,7 @@ Stand: 16.11.2026 12:30
 ||jeniferadamsmitchell.com^
 ||jenius-poker.biz^
 ||jenjensen.org^
+||jenkins.pharma-rezeptfrei.com^
 ||jennarationtravel.com^
 ||jennc.fitness.blog^
 ||jennico.jetzt^
@@ -114428,7 +114428,6 @@ Stand: 16.11.2026 12:30
 ||media.cosmeticexpress.com^
 ||media.ernstsexpress.se^
 ||media.fastclick.net^
-||media.feverup.com^
 ||media.fuckcoronaeskilstuna.se^
 ||media.genrep.ernstsexpress.se^
 ||media.intranet.buchaillard.fr^
@@ -114605,6 +114604,7 @@ Stand: 16.11.2026 12:30
 ||meerglueck.jetzt^
 ||meet-a-winner.gdglille.org^
 ||meet.anaproy.nl^
+||meet.pharma-rezeptfrei.com^
 ||meet.welkom.world^
 ||meet4sex.org.uk^
 ||meeta.ma^
@@ -120066,6 +120066,7 @@ Stand: 16.11.2026 12:30
 ||nextwebagentur.com^
 ||nextwebdesigns.com^
 ||nexus.dev.zeus.casino^
+||nexus.pharma-rezeptfrei.com^
 ||nexusai.help^
 ||nexusnestzone.com^
 ||nexway.store^
@@ -141088,6 +141089,7 @@ Stand: 16.11.2026 12:30
 ||sharansky.com^
 ||share-eu1.hsforms.com^
 ||share.chally.in^
+||share.pharma-rezeptfrei.com^
 ||share.rezeptfreie-schlaftabletten.com^
 ||share.rezeptfreies-potenzmittel.de^
 ||share2.hoopo.ca^
@@ -162589,6 +162591,7 @@ Stand: 16.11.2026 12:30
 ||web.toppoker.co.kr^
 ||web.whatsmeet.com^
 ||web.xoxopoker.com^
+||web01.pharma-rezeptfrei.com^
 ||web06dev.ufscar.br^
 ||web06dev1.ufscar.br^
 ||web06dev10.ufscar.br^
@@ -163432,6 +163435,7 @@ Stand: 16.11.2026 12:30
 ||webmail.amateursexero.com^
 ||webmail.anagayol.com^
 ||webmail.annaduralska.pl^
+||webmail.antibiotikarezeptfrei.de^
 ||webmail.appledaniels.com^
 ||webmail.arigatoporno.com^
 ||webmail.aroundtheworldanddotinred.com^
@@ -163846,6 +163850,7 @@ Stand: 16.11.2026 12:30
 ||webmail.peritusexim.com^
 ||webmail.pervychat.co.uk^
 ||webmail.petidtagsexpress.co.uk^
+||webmail.pharma-rezeptfrei.com^
 ||webmail.phone-sex-chat-line.co.uk^
 ||webmail.pinballexpress.co.uk^
 ||webmail.pioneerschina.com^

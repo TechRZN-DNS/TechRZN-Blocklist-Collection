@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 18.11.2026 12:44
+Stand: 18.11.2026 22:45
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -5793,6 +5793,7 @@ Stand: 18.11.2026 12:44
 ||fiammshop.eu^
 ||fiat-global.com^
 ||fiat-transporter.at^
+||fibovest.com^
 ||fichtenaumodehaus.de^
 ||fidelity-ag.com^
 ||fidexico.eu^
@@ -10835,6 +10836,7 @@ Stand: 18.11.2026 12:44
 ||maiser-markt.de^
 ||maison-dartois.co^
 ||maisoncalyx.shop^
+||maisonerve.com^
 ||maisonorelle.com^
 ||maisonverkauf.com^
 ||majesticpuro.shop^
@@ -12091,6 +12093,7 @@ Stand: 18.11.2026 12:44
 ||mynewpink.com^
 ||myonepieceshop.de^
 ||myonlyshop.de^
+||myopaline.com^
 ||mypfute.com^
 ||myplayground.store^
 ||mypookino.com^
@@ -18854,6 +18857,7 @@ Stand: 18.11.2026 12:44
 ||webstorerx.com^
 ||webtrader.aeratiqos.com^
 ||webtrader.aptos-ai.net^
+||webtrader.arvelon-barnyx.com^
 ||webtrader.capexgo.net^
 ||webtrader.finaurex.org^
 ||webtrader.nuxeros.app^

@@ -1,5 +1,5 @@
 ### TechRZN - DATING ###
-Stand: 18.11.2026 12:44
+Stand: 18.11.2026 22:45
 
 ||0-candidates.t-access.com^
 ||0-datingaction.cn^
@@ -105713,7 +105713,6 @@ Stand: 18.11.2026 12:44
 ||e-singlesguide.com^
 ||e-speeddating.nl^
 ||e-zdating.com^
-||e.singles^
 ||e1-lifecare-singleinteg.lc.khshp.fi^
 ||e1-lifecare-singleweb.lc.khshp.fi^
 ||e2bet.singles^
@@ -280655,7 +280654,6 @@ Stand: 18.11.2026 12:44
 ||w-hardship-bff-updatingweb.internal.consumer-web-dev.nube.53.com^
 ||w-qqdatesapp.com^
 ||w-sneakydates.xyz^
-||w.singles^
 ||w3dating.com^
 ||w4m.singles^
 ||w779-updating-epg.stage-fs.powr.tv^
@@ -284594,7 +284592,6 @@ Stand: 18.11.2026 12:44
 ||x-sweetflirt.com^
 ||x-sweetflirt.live^
 ||x-udatings.com^
-||x.singles^
 ||x18dating.site^
 ||x1singlepoint.com^
 ||x2030-single-spa.leo.sim-dev.work^

@@ -1,5 +1,5 @@
 ### TechRZN - DATING ###
-Stand: 19.11.2026 12:35
+Stand: 20.11.2026 12:35
 
 ||0-candidates.t-access.com^
 ||0-datingaction.cn^
@@ -193,6 +193,7 @@ Stand: 19.11.2026 12:35
 ||100bestdatingsites.org^
 ||100bestdatingsites.ph^
 ||100bestonlinedatingsites.com^
+||100caipiaocaipiaodating.com.cn^
 ||100caipiaodating.com.cn^
 ||100caipiaogoucaidating.com.cn^
 ||100caipiaoguanfangdating.com.cn^
@@ -324,6 +325,7 @@ Stand: 19.11.2026 12:35
 ||108firstdates.com^
 ||108gymdating.com^
 ||108wangtoudating.com.cn^
+||108wangtougoucaidating.com.cn^
 ||108wangtouguanfangdating.com.cn^
 ||108wangtouguanwangdating.com.cn^
 ||108wangtouwelcomedating.com.cn^
@@ -608,6 +610,7 @@ Stand: 19.11.2026 12:35
 ||1267-anon-dating.dev.indidino.com^
 ||1268-anon-dating.dev.indidino.com^
 ||1269-anon-dating.dev.indidino.com^
+||127-updating-nonprofit-page-on.libertylts.smartwebsitedesign.com^
 ||1273-gay-dating.dev.indidino.com^
 ||1274-anon-dating.dev.indidino.com^
 ||1275-gay-dating.dev.indidino.com^
@@ -668,6 +671,7 @@ Stand: 19.11.2026 12:35
 ||1324-anon-dating.dev.indidino.com^
 ||1325-anon-dating.dev.indidino.com^
 ||133-singletree-r-1.haroldcaceresph.com^
+||133-updating-services-page.libertylts.smartwebsitedesign.com^
 ||1337.dating^
 ||1337.singles^
 ||1337x.singles^
@@ -986,10 +990,27 @@ Stand: 19.11.2026 12:35
 ||1datings.com^
 ||1datings.in^
 ||1daydating.com^
+||1dollar-connect.dating^
+||1dollar-finder.dating^
+||1dollar-finder.singles^
+||1dollar-matching.dating^
+||1dollar-matching.singles^
+||1dollar-search.dating^
+||1dollar-search.singles^
+||1dollar-seek.singles^
 ||1dollaradultdating.com^
+||1dollarconnect.dating^
+||1dollarconnect.singles^
 ||1dollardating.com^
 ||1dollardating.date^
+||1dollarfinder.dating^
 ||1dollargaydating.com^
+||1dollarmatching.dating^
+||1dollarmatching.singles^
+||1dollarsearch.dating^
+||1dollarsearch.singles^
+||1dollarseek.dating^
+||1dollarseek.singles^
 ||1dollarsexdating.com^
 ||1dthewidowsguidetosexanddating.coauthsmtp.m3dia.ie^
 ||1easyflirt.biz^
@@ -1035,6 +1056,7 @@ Stand: 19.11.2026 12:35
 ||1onlinedating.com^
 ||1onlinedating.site^
 ||1onlinedating.xyz^
+||1p.dating^
 ||1padatest.zendesk.com^
 ||1partnermatchflirt.biz^
 ||1percent.dating^
@@ -2331,6 +2353,7 @@ Stand: 19.11.2026 12:35
 ||40-singles.mberkompas.com^
 ||4008yundingyouxidating.cn^
 ||4008yundingyouxidating.com.cn^
+||4008yundingyouxidatingj.com.cn^
 ||4008yundingyouxidatingk.cn^
 ||4008yundingyouxidatingx.cn^
 ||401-online-dating.space^
@@ -2676,6 +2699,7 @@ Stand: 19.11.2026 12:35
 ||49185-event-dates.site.dev.tentorium.ru^
 ||492-dating-aquascutum-coats.icqbot.ru^
 ||497dating-marriage.sumy.pp.ua^
+||49cpjituanwelcomecpdating.com.cn^
 ||49intimidating.zqkas.com^
 ||49thwardcandidates.billmorton49.com^
 ||49thwardmeetthecandidates.billmorton49.com^
@@ -2834,6 +2858,7 @@ Stand: 19.11.2026 12:35
 ||50-first-dates-poster.unclaimed-asset.com^
 ||50-first-dates.com^
 ||50-first-dates.unclaimed-asset.com^
+||50-hilosconductoresingles.pages.dev^
 ||50-older-dating-sites.shophubnepal.com^
 ||50-plus-aalst-belgie-datingsite.asya.fans^
 ||50-plus-dating-sites.letswatchmovies.org^
@@ -2870,11 +2895,14 @@ Stand: 19.11.2026 12:35
 ||500caipiaogoucaidating.com.cn^
 ||500caipiaogoucaidatingwelcome.cn^
 ||500caipiaoguanfangappdating.cn^
+||500caipiaoguanfangappdating.com.cn^
 ||500caipiaowelcomecaipiaodating.cn^
 ||500caipiaowelcomedating.cn^
+||500caipiaowelcomedating.com.cn^
 ||500caiwelcomecaipiaodating.cn^
 ||500caiwelcomecaipiaodating.com.cn^
 ||500caiwelcomedating.cn^
+||500caiwelcomedating.com.cn^
 ||500datingdengluwelcome.cn^
 ||500firstdates.com^
 ||500frasesingles.profjuniobarros.com^
@@ -2965,6 +2993,7 @@ Stand: 19.11.2026 12:35
 ||50flirts.de^
 ||50flirty.com^
 ||50foodtruckdates.com^
+||50hilosconductoresingles.pages.dev^
 ||50isthenewsexy.com^
 ||50lifesingleautodiscover.bsmith.nl^
 ||50millionfirstdates.com^
@@ -3146,6 +3175,7 @@ Stand: 19.11.2026 12:35
 ||516qipaiyouxidating.ph^
 ||516qipaiyouxidating.s03.zbpengyuan.com^
 ||516qipaiyouxidatingguanwang.zapto.xyz^
+||518588cpwelcomegoucaidating.com.cn^
 ||519-review-72-dates-c-ymu60c.apps.bcn.dev.rmt.dorna.com^
 ||51dating.cc^
 ||51dating.club^
@@ -3295,6 +3325,8 @@ Stand: 19.11.2026 12:35
 ||5898-validating-duplicate-creates-obusiness-invoic.test2-owork.fr^
 ||58caipiaocaipiaodating.com.cn^
 ||58caipiaogoucaidating.com.cn^
+||58caipiaowelcomegoucaidating.com.cn^
+||58wangcaipiaogoupiaodating.com.cn^
 ||58wdatingxiazai.zapto.xyz^
 ||58win.singles^
 ||58wyouxidating.54973.com^
@@ -3490,12 +3522,16 @@ Stand: 19.11.2026 12:35
 ||61caipiaodatingguanwangrukou.com.cn^
 ||61caipiaodatingwelcome.com.cn^
 ||61caipiaodenglushouyedating.com.cn^
+||61caipiaoyuledatingwelcome.com.cn^
 ||61qipaidating.taobaocangku.com^
 ||626dating.com^
 ||629dating.com^
 ||63-asian-dating.online^
 ||631017.singles^
+||633caipiaocaipiaodating.com.cn^
 ||633caipiaodating.com.cn^
+||633caipiaogoucaidating.com.cn^
+||633caipiaoguanfangappdating.com.cn^
 ||633caipiaowelcomegoucaidating.com.cn^
 ||636-dates-section-edit.rams-new.sk.vps.involve.cz^
 ||636-dates-section-edit.rams-new.vps.involve.cz^
@@ -3525,7 +3561,10 @@ Stand: 19.11.2026 12:35
 ||6686.singles^
 ||668caipiaocaipiaodating.com.cn^
 ||668caipiaoguanfangdating.com.cn^
+||668caipiaowelcomegoucaidating.com.cn^
 ||668qipaidating.com.cn^
+||66caipiaocaipiaodating.com.cn^
+||66caipiaodating.com.cn^
 ||66caipiaowelcomegoucaidating.com.cn^
 ||66dating.com^
 ||66daydatingchallenge.com^
@@ -3675,6 +3714,8 @@ Stand: 19.11.2026 12:35
 ||756tonightdating1to1.online^
 ||757dating.bon-care.com^
 ||757dating.com^
+||75caipiaowangcaipiaodating.com.cn^
+||75caipiaowanggoucaidating.com.cn^
 ||75caipiaowangguanwangdating.com.cn^
 ||75cpwangwelcomecpdating.com.cn^
 ||75dates.com^
@@ -3761,6 +3802,7 @@ Stand: 19.11.2026 12:35
 ||78dianwanyouxidatinggh.com.cn^
 ||78dianwanyouxidatinggw.com.cn^
 ||78dianwanyouxidatingh.net.cn^
+||78dianwanyouxidatingj.com.cn^
 ||78dianwanyouxidatingr.net.cn^
 ||78dianwanyouxidatingw.com.cn^
 ||78dianwanyouxidatingw.net.cn^
@@ -3838,6 +3880,7 @@ Stand: 19.11.2026 12:35
 ||7pm.dating^
 ||7pts-singleton.com^
 ||7queenlesbiandatingmoineschristian.innovationsmedizin.de^
+||7rongyaoguojicaipiaodating.com.cn^
 ||7seasdating.com^
 ||7secondsdating.com^
 ||7single.com^
@@ -3893,6 +3936,7 @@ Stand: 19.11.2026 12:35
 ||840-gay-dating.dev.indidino.com^
 ||852dating.com^
 ||853-gay-dating.dev.indidino.com^
+||857caipiaodating.com.cn^
 ||857caipiaoguanfangappdating.com.cn^
 ||857caipiaoguanwangdating.com.cn^
 ||86-singles.com^
@@ -6493,6 +6537,7 @@ Stand: 19.11.2026 12:35
 ||adultclubdating.com^
 ||adultcontemporary-singles.bizengenharia.com^
 ||adultcougardating.com^
+||adultcouplesdating.com^
 ||adultcrowd.co.uk^
 ||adultcrowd.com^
 ||adultcyberdating.ca^
@@ -7666,6 +7711,7 @@ Stand: 19.11.2026 12:35
 ||affair-dating-sites.net^
 ||affair-flirt.com^
 ||affair.dating^
+||affair.singles^
 ||affairdates.com^
 ||affairdates.net^
 ||affairdating-au.com^
@@ -8209,6 +8255,7 @@ Stand: 19.11.2026 12:35
 ||agegapdatingsite.com^
 ||agegapdatingsites.us^
 ||agegapromance.singles^
+||agegapsingles.com^
 ||ageisjustanumberdating.icu^
 ||ageless-dating.com^
 ||agelessdates.com^
@@ -8294,6 +8341,7 @@ Stand: 19.11.2026 12:35
 ||agendatest.schutzsistemas.com^
 ||agendatest.sn21mor.workers.dev^
 ||agendatest.swo.es^
+||agendatest.tomboul.com^
 ||agendatest.vindwijs.nl^
 ||agendatest.viniciusgnandt.com.br^
 ||agendatest.wcde.backend-prod.azgrafana.io^
@@ -8655,6 +8703,7 @@ Stand: 19.11.2026 12:35
 ||aicai8dating.com.cn^
 ||aicai8guanfangdating.com.cn^
 ||aicai8welcomecaipiaodating.com.cn^
+||aicaiwangcaipiaodating.com.cn^
 ||aicamflirt.com^
 ||aicandidates.app^
 ||aicandidates.com^
@@ -10151,6 +10200,7 @@ Stand: 19.11.2026 12:35
 ||alldateshirts.com^
 ||alldatesites.com^
 ||alldatesmatter.com^
+||alldatesmatter.pages.dev^
 ||alldatesremembered.com^
 ||alldatesremembered.info^
 ||alldatesupport.ph^
@@ -11735,6 +11785,7 @@ Stand: 19.11.2026 12:35
 ||amoredates.co^
 ||amoredates.com^
 ||amoredates.net^
+||amoredates.org^
 ||amoredates.world^
 ||amoredating.app^
 ||amoredating.com^
@@ -12431,6 +12482,7 @@ Stand: 19.11.2026 12:35
 ||annualpassdating.com^
 ||annulment-dating.v-cgw.com^
 ||annunci-single.com^
+||anodating.com^
 ||anodating.net^
 ||anoflirt.com^
 ||anoiaar.singles^
@@ -12680,6 +12732,7 @@ Stand: 19.11.2026 12:35
 ||anyflirt.tw1.su^
 ||anyflirts.com^
 ||anyflirtzones.life^
+||anyingcaipiaocaipiaodating.com.cn^
 ||anyingcaipiaogoucaidating.com.cn^
 ||anyingcaipiaowelcomedating.com.cn^
 ||anyonedating.com^
@@ -12866,6 +12919,7 @@ Stand: 19.11.2026 12:35
 ||api-bs-mat-set-dates-on-manually-ren-dev.securionpay.com^
 ||api-bs-mat-updating-log-file-in-ryr-dev.securionpay.com^
 ||api-bug-esp-4229-requests-filters-custom-fields-datesx.lb.easiware-start-preview.fr^
+||api-candidates-am.platform.ouestfrance-emploi.com^
 ||api-candidates-staging-feat-buep-1514-mig-api-candidates.platform.ouestfrance-emploi.com^
 ||api-candidates-staging.platform.ouestfrance-emploi.com^
 ||api-candidates.electhq.net^
@@ -12920,6 +12974,7 @@ Stand: 19.11.2026 12:35
 ||api-fotos-datingapp.innarotech.com^
 ||api-getsingles.onrender.com^
 ||api-hq-dating.waebox.app^
+||api-josep-kal-3540-oj-dates-calendar.kalipso.dev^
 ||api-lambdatest-docker-tunnel.auto.stage.osaas.io^
 ||api-ls-idx-error-custom-dates-86b4y0ue0.goreach.io^
 ||api-mandates.hotenb.com^
@@ -13089,6 +13144,7 @@ Stand: 19.11.2026 12:35
 ||app-git-delphinevendryes-byl-multi-seed-candidates.suno.run^
 ||app-git-sadkins-sft-candidates.suno.run^
 ||app-jiejidwcyouxidating.com.cn^
+||app-josep-kal-3540-oj-dates-calendar.kalipso.dev^
 ||app-ls-idx-error-custom-dates-86b4y0ue0.goreach.io^
 ||app-pierre-kal-1578-show-dates-messages.kalipso.dev^
 ||app-pokemon-dating.pages.dev^
@@ -14331,6 +14387,7 @@ Stand: 19.11.2026 12:35
 ||asdatest.app.co.uk^
 ||asdatest.photokio.sk^
 ||asdatest.quest^
+||asdatest.scene7.com^
 ||asdatest.zeabur.app^
 ||asdatest1serv.chickenkiller.com^
 ||asdating.andresabetta.com^
@@ -16896,6 +16953,7 @@ Stand: 19.11.2026 12:35
 ||asiandating.xyz^
 ||asiandating.zendesk.com^
 ||asiandating.zogtor.com^
+||asiandating1.com^
 ||asiandating1718292842.zendesk.com^
 ||asiandating1742836144.zendesk.com^
 ||asiandating2023.shop^
@@ -17769,9 +17827,11 @@ Stand: 19.11.2026 12:35
 ||astrodates.app^
 ||astrodates.ch^
 ||astrodates.com^
+||astrodates.live^
 ||astrodates.love^
 ||astrodates.tapsuccess.com^
 ||astrodates.trade^
+||astrodates.vip^
 ||astrodatesapp.com^
 ||astrodating.app^
 ||astrodating.be^
@@ -18791,6 +18851,7 @@ Stand: 19.11.2026 12:35
 ||authenticseniordates.cyou^
 ||authenticseniordates.icu^
 ||authenticseniordates.sbs^
+||authenticsingles.org^
 ||authenticsingles.randygoldberg.org^
 ||authenticsinglesdating.randygoldberg.org^
 ||authenticsinglesevents.com^
@@ -18802,6 +18863,7 @@ Stand: 19.11.2026 12:35
 ||author-feature-ts-85-updating-me-tenant-to-m.dev-jtides.com^
 ||author.singles^
 ||authorcynthiasingleton.com^
+||authoring-ui-brow-13826-credit-dates-mdy.nordstromaws.app^
 ||authorizedcandidates.com^
 ||authorkatsingleton.com^
 ||authsingles.xyz^
@@ -18852,6 +18914,7 @@ Stand: 19.11.2026 12:35
 ||autisticsapphics.dating^
 ||autisticsingles.com^
 ||autisticssecuredating.club^
+||autisticssecuredating.com^
 ||autistismdating.com^
 ||auto-dating.be^
 ||auto-dating.com^
@@ -20036,6 +20099,7 @@ Stand: 19.11.2026 12:35
 ||bakersfieldflirt.com^
 ||bakersfieldsingles.com^
 ||bakheetdates.com^
+||baking.singles^
 ||bakingdates.com^
 ||bakingsingles.com^
 ||bakker-display-dates.the-oz.link^
@@ -21985,6 +22049,7 @@ Stand: 19.11.2026 12:35
 ||beforethedatesapi.alliancetek.net^
 ||beforethedatesinc.com^
 ||beforethedatesuat.alliancetek.net^
+||beforeudatesonthemainwebsite.arthurhighendfurniture.com^
 ||beforeupdatingcontactandvolunteerpages.habitatedu.org^
 ||beforeupdatingnewaddress.test1.optum.com^
 ||beforeupdatingnewaddress.test2.optum.com^
@@ -25860,6 +25925,7 @@ Stand: 19.11.2026 12:35
 ||bingoplus.singles^
 ||bingosingles.com^
 ||binguocaipiaowelcomedating.com.cn^
+||binguocaipiaozhongxindating.com.cn^
 ||binguocpdatinganzhuangjiaocheng.com.cn^
 ||binguocpdatingguanwangrukou.com.cn^
 ||binguocpdatinggwrukou.com.cn^
@@ -26210,6 +26276,7 @@ Stand: 19.11.2026 12:35
 ||biyingcaipiaowangwelcomedating.com.cn^
 ||biyingcaipiaowangwelcomegoucaidating.cn^
 ||biyingcpwangguanwangdating.com.cn^
+||biyingcpwangwelcomecpdating8.com.cn^
 ||biyingyouhuidating.com.cn^
 ||biz.singles^
 ||bizaccommodating.com^
@@ -27769,6 +27836,7 @@ Stand: 19.11.2026 12:35
 ||bofa-support-updating-department-secure-alerts.bond^
 ||bofa-support-updating-department-secure-alerts.cyou^
 ||bofangyulechengdating.betzol.com^
+||bofasinglesupport.com^
 ||bofdating.com^
 ||boffer-dating.jscha.dev^
 ||bogdanov-hotfix-delivery-dates-ourgold.review.ourgold.ru^
@@ -28465,6 +28533,7 @@ Stand: 19.11.2026 12:35
 ||boutthatsinglelife.com^
 ||bovedatest.intelitax.com^
 ||bow-ciara-dating-still-wow-222f1.sexy-chat-rooms.info^
+||bow-youxidatingguanfangxiazai.com.cn^
 ||bowdating.com^
 ||bowdating.digital^
 ||bowenislandsingles.com^
@@ -28485,6 +28554,7 @@ Stand: 19.11.2026 12:35
 ||bowwowwowdating.com^
 ||box-dating-api.itfew.com^
 ||box-install-dates.k8s-prod.myestino.de^
+||box-youxidatingapp.com.cn^
 ||boxdates.com^
 ||boxdates.xyz^
 ||boxedates.com^
@@ -30845,6 +30915,7 @@ Stand: 19.11.2026 12:35
 ||cai500guanfangappdating.cn^
 ||cai500guanfangdating.cn^
 ||cai500guanwangdating.cn^
+||cai500guanwangdating.com.cn^
 ||cai500welcomecaipiaodating.cn^
 ||cai500welcomedating.cn^
 ||caibawangcaipiaodating.com.cn^
@@ -30859,6 +30930,7 @@ Stand: 19.11.2026 12:35
 ||cailey-dating.nl^
 ||caimiaocaipiaodating.com.cn^
 ||caimiaoguojicaipiaodating.com.cn^
+||caimiaowelcomecaipiaodating.com.cn^
 ||caimingtangdating.cn^
 ||caimingtangguanfangappdating.cn^
 ||caimingtangguanwangdating.cn^
@@ -30873,13 +30945,19 @@ Stand: 19.11.2026 12:35
 ||caipiaohemaidatingshuangseqiu.8jx8.com^
 ||caipiaohemaidatingshuangseqiu.ph^
 ||caipiaohemaidatingshuangseqiu.taolla.com^
+||caipiaohuiguanfangdating.com.cn^
+||caipiaohuiguanwangdating.com.cn^
+||caipiaohuiwelcomecaipiaodating.com.cn^
 ||caipiaohuiwelcomedating.com.cn^
 ||caipiaoshequcaipiaodating.com.cn^
+||caipiaoshequdating.com.cn^
 ||caipiaoshequgoucaidating.com.cn^
 ||caipiaoshequguanfangappdating.com.cn^
 ||caipiaoshequguanwangdating.com.cn^
 ||caipiaoshequwelcomedating.com.cn^
 ||caipiaoshuangseqiugoucaidating.ngo.ph^
+||caipiaotouzhuwangcaipiaodating.com.cn^
+||caipiaowangdating.com.cn^
 ||caipiaowangdengluwelcomegoucaidating.cn^
 ||caipiaowanggoucaidating.com.cn^
 ||caipiaowangguanfangappdating.cn^
@@ -30887,6 +30965,7 @@ Stand: 19.11.2026 12:35
 ||caipiaowangwelcomecaipiaodating.cn^
 ||caipiaowangwelcomedating.cn^
 ||caipiaowangwelcomegoucaidating.com.cn^
+||caipiaowangzhancaipiaodating.com.cn^
 ||caipiaowangzhanwelcomedating.cn^
 ||caipiaowangzhanwelcomegoucaidating.cn^
 ||caipiaoyulecaipiaodating.com.cn^
@@ -30911,12 +30990,14 @@ Stand: 19.11.2026 12:35
 ||caishencaipiaodating.cn^
 ||caishencaipiaodating.com.cn^
 ||caishencaipiaogoucaidating.cn^
+||caishencaipiaogoucaidating.com.cn^
 ||caishencaipiaoguanfangappdating.cn^
 ||caishencaipiaoguanfangdating.cn^
 ||caishencaipiaoguanfangdating.com.cn^
 ||caishencaipiaowelcomecaipiaodating.cn^
 ||caishencaipiaowelcomedating.cn^
 ||caishencaipiaowelcomegoucaidating.cn^
+||caishencpwelcomecpdating.com.cn^
 ||caishencpwelcomegoucaidating.com.cn^
 ||caishengoucai-goucaidatingrukou.com.cn^
 ||caishenllwelcomedating.cn^
@@ -32195,6 +32276,7 @@ Stand: 19.11.2026 12:35
 ||candidates.bytebuzz.in^
 ||candidates.ca^
 ||candidates.ca.combridgeenglish.org^
+||candidates.ca.sincron.biz^
 ||candidates.cabridgeenglish.org^
 ||candidates.caf.techfarm.co.ke^
 ||candidates.calaaction.org^
@@ -32278,6 +32360,7 @@ Stand: 19.11.2026 12:35
 ||candidates.connectgen.net^
 ||candidates.connectpath.ca^
 ||candidates.conservativeactionnetwork.org^
+||candidates.contractaviation.co.uk^
 ||candidates.contrario.ai^
 ||candidates.contrario.co^
 ||candidates.conveniencedonorsnetwork.org^
@@ -32951,6 +33034,7 @@ Stand: 19.11.2026 12:35
 ||candidates.sigmato.co.in^
 ||candidates.signorini.dev^
 ||candidates.sinaptia.dev^
+||candidates.sincron.biz^
 ||candidates.sinergiacrm.org^
 ||candidates.sirseek.com^
 ||candidates.site^
@@ -33556,6 +33640,7 @@ Stand: 19.11.2026 12:35
 ||candidateshortlistoffice.com^
 ||candidateshotlist.com^
 ||candidateshowcase.com^
+||candidateshowdown.com^
 ||candidateshq.com^
 ||candidateshub.cloudsmiths.ai^
 ||candidateshub.com^
@@ -34930,6 +35015,7 @@ Stand: 19.11.2026 12:35
 ||casualdating.pl^
 ||casualdating.pro^
 ||casualdating.rocks^
+||casualdating.ru^
 ||casualdating.se^
 ||casualdating.segurancahumana.eu^
 ||casualdating.sg^
@@ -35685,10 +35771,13 @@ Stand: 19.11.2026 12:35
 ||ccandidates.cabridgeenglish.org^
 ||ccapadates.com^
 ||ccb.singles^
+||ccbaocaipiaodating.com.cn^
 ||ccbaodating.com.cn^
+||ccbaoguanwangdating.com.cn^
 ||ccbpaymentdates.ca^
 ||cccntvonlinedatingservicewebsite.com.ph^
 ||cccs-singlewire.cccs.edu^
+||cccsingles.org^
 ||ccdatest.hinfonet.org^
 ||ccdatesus.zbk.czeladz.pl^
 ||ccdating.com^
@@ -36014,6 +36103,7 @@ Stand: 19.11.2026 12:35
 ||celebsgodatingcasting.com^
 ||celebsingles.com^
 ||celebskeydating.com^
+||celebskeydating.in^
 ||celestiaflirt.online^
 ||celestial.dating^
 ||celestialdates.com^
@@ -36661,6 +36751,7 @@ Stand: 19.11.2026 12:35
 ||chastitydates.com^
 ||chastitydating.com^
 ||chastitydating.net^
+||chastitysingles.com^
 ||chat-adult-dating.moltingyeti.com^
 ||chat-and-dates.com^
 ||chat-app-dating-dev.tongblog.com^
@@ -37242,12 +37333,60 @@ Stand: 19.11.2026 12:35
 ||cheapdatingservice.com^
 ||cheaper.singles^
 ||cheaperdatingtoday.com^
+||cheapest-connect.dating^
+||cheapest-connect.singles^
+||cheapest-date.dating^
+||cheapest-date.singles^
+||cheapest-dating.com^
+||cheapest-dating.date^
+||cheapest-dating.dating^
+||cheapest-dating.org^
+||cheapest-dating.singles^
+||cheapest-finder.dating^
+||cheapest-finder.singles^
+||cheapest-match.dating^
+||cheapest-match.singles^
+||cheapest-matching.dating^
+||cheapest-matching.singles^
+||cheapest-search.dating^
+||cheapest-search.singles^
+||cheapest-seek.dating^
+||cheapest-seek.singles^
 ||cheapest.dating^
+||cheapest.singles^
 ||cheapestadultdating.website^
 ||cheapestadultdatinghub.website^
+||cheapestconnect.dating^
+||cheapestconnect.singles^
+||cheapestdate.dating^
+||cheapestdate.singles^
 ||cheapestdates.com^
+||cheapestdating.biz^
+||cheapestdating.cheap^
+||cheapestdating.club^
+||cheapestdating.com^
+||cheapestdating.date^
+||cheapestdating.dating^
+||cheapestdating.free^
+||cheapestdating.group^
+||cheapestdating.llc^
+||cheapestdating.org^
+||cheapestdating.singles^
+||cheapestdating.site^
+||cheapestdating.spot^
+||cheapestdating.website^
 ||cheapestdatingapps.co.uk^
 ||cheapestdatingapps.com^
+||cheapestfinder.dating^
+||cheapestfinder.singles^
+||cheapestmatch.dating^
+||cheapestmatch.singles^
+||cheapestmatching.dating^
+||cheapestmatching.singles^
+||cheapestsearch.dating^
+||cheapestsearch.singles^
+||cheapestseek.dating^
+||cheapestseek.singles^
 ||cheapflirt.com^
 ||cheapflirt.site^
 ||cheapinternetdating.com^
@@ -37335,6 +37474,7 @@ Stand: 19.11.2026 12:35
 ||checkdatings.com^
 ||checkdatingsignals.com^
 ||checkdatingsites.com^
+||checkdoubledating.online^
 ||checkerflirter.life^
 ||checkerspeedating.autonomyself.com^
 ||checkflirt.com^
@@ -38005,6 +38145,7 @@ Stand: 19.11.2026 12:35
 ||chocodates.waycupapp.com^
 ||chocodatesco.com^
 ||chocodatesusa.com^
+||chocodating.com^
 ||chocoflirt.com^
 ||chocolate-dates.com^
 ||chocolatecardinalsingles.club^
@@ -39284,6 +39425,7 @@ Stand: 19.11.2026 12:35
 ||chuangyingguanfangappdating.cn^
 ||chuangyingguanfangdating.cn^
 ||chuangyingguanwangdating.cn^
+||chuangyingguanwangdating.com.cn^
 ||chuangyingwelcomecaipiaodating.cn^
 ||chuangyingwelcomedating.cn^
 ||chubby-flirt-durant.testing.guard.io^
@@ -39979,6 +40121,7 @@ Stand: 19.11.2026 12:35
 ||claude-guard-against-invalid-partial-dates-in-sess-assessor.staging.skillerwhale.com^
 ||claude-guard-against-invalid-partial-dates-in-sess-train.staging.skillerwhale.com^
 ||claude-policy-dates-and-baseline-drift.test.trollcrawler.com^
+||claude-site-dates-compta-1e06d2-site.preprod.rescueforce.fr^
 ||claude-system-generated-signature-dates-glmdp.preview.flightdesk.dev^
 ||claudedating.ai^
 ||claudedating.com^
@@ -40883,6 +41026,7 @@ Stand: 19.11.2026 12:35
 ||coffeeshopdating.com^
 ||coffeeshopflirt.com^
 ||coffeeshopsingles.com^
+||coffeeshopspeeddating-preview.pages.dev^
 ||coffeesinglepods.com^
 ||coffeesingles.com^
 ||coffeesingleserve.istriacafe.com^
@@ -42765,6 +42909,7 @@ Stand: 19.11.2026 12:35
 ||cosdatings.com^
 ||coshree-sexo-bunda-dating.robhyndman.info^
 ||cosi-en-playa-datingwestcobb.younglife.org^
+||cosigndating.app^
 ||cosigndating.com^
 ||cosingle.com^
 ||cosingleanedhosppill.tk^
@@ -42811,6 +42956,7 @@ Stand: 19.11.2026 12:35
 ||cosplaydating.com^
 ||cosplaydating.net^
 ||cosplaydating.site^
+||cosplaydating.top^
 ||cosplaydatingsite.com^
 ||cosplayingsinglesconnect.com^
 ||cosplaysingles.com^
@@ -43127,6 +43273,7 @@ Stand: 19.11.2026 12:35
 ||country-dating.com.au^
 ||country-singles.com^
 ||countryandwesterndating.com^
+||countryapivalidatingwebhook.ph^
 ||countryclubdates.com^
 ||countryclubdating.com^
 ||countryclubdatinggroup.com^
@@ -43477,10 +43624,12 @@ Stand: 19.11.2026 12:35
 ||cps-portal-agent-fix-mandates-edit-confirmation.qual.tahitinumerique.com^
 ||cps-portal-employeur-fix-mandates-edit-confirmation.qual.tahitinumerique.com^
 ||cptadatestingtemp.com^
+||cptouzhuwangguanfangdating.com.cn^
 ||cptouzhuwangguanwangdating.com.cn^
 ||cptouzhuwangwelcomecpdating.com.cn^
 ||cptsukaeru-ne-jp-servlet-turbine-frm-single.estell6054.workers.dev^
 ||cptsukaeru-ne-jp-servlet-turbine-frm-single.tsukaeru-cp.workers.dev^
+||cpwangzhanwelcomegoucaidating.com.cn^
 ||cpzhongxindatingwelcomerukou.com.cn^
 ||cq9dianzidating.com.cn^
 ||cq9dianzidatingf.com.cn^
@@ -43731,6 +43880,7 @@ Stand: 19.11.2026 12:35
 ||creepydates-ei6.pages.dev^
 ||creepydates-online.pages.dev^
 ||creepydates-org.pages.dev^
+||creepydates-w7qm.89-29-211-250.sslip.io^
 ||creepydates.app^
 ||creepydates.com^
 ||creepydates.dev^
@@ -43823,6 +43973,7 @@ Stand: 19.11.2026 12:35
 ||crm.singles^
 ||crmdates.pl^
 ||crmflirtbuzz.com^
+||crmflirtfever.com^
 ||crmflirtfever.online^
 ||crmflirtmuse.com^
 ||crmflirtmuse.online^
@@ -44366,6 +44517,7 @@ Stand: 19.11.2026 12:35
 ||cuddlysingles.com.au^
 ||cuddlysinglesnear.me^
 ||cue-dating.com^
+||cue-youxidatingguanfangxiazai.com.cn^
 ||cue.dating^
 ||cuedating.com^
 ||cuedatingevents.com^
@@ -44399,6 +44551,7 @@ Stand: 19.11.2026 12:35
 ||cuidatesiempre.com^
 ||cuidatesiempre.online^
 ||cuidatesindietas.com^
+||cuidatesinexcusas.com^
 ||cuidatesolo.online^
 ||cuidatesolutions.com^
 ||cuidatesolutions.website999.co.in^
@@ -45259,6 +45412,8 @@ Stand: 19.11.2026 12:35
 ||dadadatestinghw.com^
 ||dadanaidating.com^
 ||dadandsingle.com^
+||dadaohangcaipiaodating.com.cn^
+||dadaohangwelcomecaipiaodating.com.cn^
 ||dadates.cyou^
 ||dadatesow.zensiert-durch-elf.de^
 ||dadatest.ch^
@@ -45364,10 +45519,12 @@ Stand: 19.11.2026 12:35
 ||dafacaipiaowelcomecaipiaodating.cn^
 ||dafacaipiaowelcomedating.cn^
 ||dafacaipiaowelcomegoucaidating.cn^
+||dafacaipiaowelcomegoucaidating.com.cn^
 ||dafacaipingtaidating.com^
 ||dafacaishendating.cn^
 ||dafacaishendating.com.cn^
 ||dafacaishenpingtaidating.com^
+||dafacpwelcomecpdating.com.cn^
 ||dafagoucaidatingjinru.h68rr61.com^
 ||dafagoucaidatingwelcome.com.cn^
 ||dafagoucaizhongxin-goucaidating.com.cn^
@@ -45385,6 +45542,7 @@ Stand: 19.11.2026 12:35
 ||dafawelcomegoucaidating.bn79ag21.com^
 ||dafawelcomegoucaidatingwangzhanshouye.123longaa.com^
 ||dafayicaipiaodatingguanwangrukou.cn^
+||dafayicpdatingguanwangrukou.com.cn^
 ||dafayulechengdating.ff81.com^
 ||dafayulechengdating.hbxueyan.com^
 ||dafayulepingtaidating.com^
@@ -46063,6 +46221,7 @@ Stand: 19.11.2026 12:35
 ||darlingdatingprofile.com^
 ||darlingflirt.site^
 ||darlingsingles.music.blog^
+||darlingsocialdating.com^
 ||darlydating.com^
 ||darmadating.com^
 ||darngooddates.com^
@@ -46703,6 +46862,7 @@ Stand: 19.11.2026 12:35
 ||dates-dreams.optios.net^
 ||dates-dug.pages.dev^
 ||dates-e7w.pages.dev^
+||dates-eaf.pages.dev^
 ||dates-ec.jitrosa.com^
 ||dates-ec.net^
 ||dates-ef.xyz^
@@ -47493,6 +47653,7 @@ Stand: 19.11.2026 12:35
 ||dates.malviv.love^
 ||dates.mariachis.com^
 ||dates.marius.tools^
+||dates.mariuskroh.design^
 ||dates.marketplaceofgames.com^
 ||dates.martrixcare.com^
 ||dates.maylie.fr^
@@ -47832,6 +47993,7 @@ Stand: 19.11.2026 12:35
 ||dates.vegas^
 ||dates.verticalrais.com^
 ||dates.video^
+||dates.vifly.fr^
 ||dates.vikingtools.no^
 ||dates.vinmatchpro.com^
 ||dates.vivaa.nl^
@@ -48853,6 +49015,7 @@ Stand: 19.11.2026 12:35
 ||datescout.co.uk^
 ||datescout.com^
 ||datescout.de^
+||datescout.eu^
 ||datescout.heartedaffairs.com^
 ||datescout.io^
 ||datescout.pages.dev^
@@ -50754,6 +50917,7 @@ Stand: 19.11.2026 12:35
 ||dateslove.com^
 ||datesloveo.com^
 ||dateslovers.com^
+||dateslovers.store^
 ||dateslovesite0.pages.dev^
 ||dateslovesite1.pages.dev^
 ||dateslovesite11.pages.dev^
@@ -51433,6 +51597,7 @@ Stand: 19.11.2026 12:35
 ||datespace.net^
 ||datespace.nl^
 ||datespace.online^
+||datespace.org^
 ||datespace.ru^
 ||datespace.site^
 ||datespace.top^
@@ -51477,6 +51642,7 @@ Stand: 19.11.2026 12:35
 ||datespark-design-c.pages.dev^
 ||datespark-design-d.pages.dev^
 ||datespark-design-e.pages.dev^
+||datespark-t3q.madethis.app^
 ||datespark-zn2.madethis.app^
 ||datespark.ageva.net^
 ||datespark.ai^
@@ -56677,6 +56843,7 @@ Stand: 19.11.2026 12:35
 ||dating-gendis999.shop^
 ||dating-gendis999.site^
 ||dating-gendis999.store^
+||dating-genie.com^
 ||dating-genk.mailto.site^
 ||dating-geoffrey.com^
 ||dating-germany-reviews-elitepartner.pages.dev^
@@ -57268,6 +57435,7 @@ Stand: 19.11.2026 12:35
 ||dating-kompass.com^
 ||dating-kompass.de^
 ||dating-kontakt.de^
+||dating-kontakte-24.com^
 ||dating-kontakte.de^
 ||dating-kontakte.info^
 ||dating-kontakte.net^
@@ -57327,6 +57495,7 @@ Stand: 19.11.2026 12:35
 ||dating-landing-page.pages.dev^
 ||dating-landing.pages.dev^
 ||dating-landingpage.pages.dev^
+||dating-landmark-park.pages.dev^
 ||dating-lanzelot.de^
 ||dating-lass.vip^
 ||dating-lass1.vip^
@@ -59196,6 +59365,7 @@ Stand: 19.11.2026 12:35
 ||dating-realista.amargamarga.cl^
 ||dating-realista.centroesoterico.cl^
 ||dating-reality-bites.music.blog^
+||dating-reality-check.pages.dev^
 ||dating-realm.com^
 ||dating-realm.life^
 ||dating-recommendations.com^
@@ -62998,6 +63168,7 @@ Stand: 19.11.2026 12:35
 ||dating.besenior.it^
 ||dating.bespokapps.com^
 ||dating.best-innovator.com^
+||dating.best-printer-drivers.com^
 ||dating.best-track.store^
 ||dating.bestakcasino.com^
 ||dating.bestbuygames.com^
@@ -63675,6 +63846,7 @@ Stand: 19.11.2026 12:35
 ||dating.chaotifit.com^
 ||dating.chaozhouxs.com^
 ||dating.chargingcradle.com^
+||dating.charikat.com^
 ||dating.charity^
 ||dating.charles.lab.ezstatic.com^
 ||dating.charles.lab.in-da.cloud^
@@ -69299,6 +69471,7 @@ Stand: 19.11.2026 12:35
 ||dating.ryans.app^
 ||dating.rydza.com^
 ||dating.ryedominicana.com^
+||dating.s-jaehrig.de^
 ||dating.s2e6.com^
 ||dating.sa.com^
 ||dating.sabara.my.id^
@@ -70415,6 +70588,7 @@ Stand: 19.11.2026 12:35
 ||dating.thomasb.lab.in-da.cloud^
 ||dating.thotan.com^
 ||dating.threesomeland.com^
+||dating.throughcuriosity.com^
 ||dating.thunda.com^
 ||dating.thunderboltcity.co.uk^
 ||dating.thunderboltcity.co.za^
@@ -70741,6 +70915,7 @@ Stand: 19.11.2026 12:35
 ||dating.untrek.com^
 ||dating.unveilme.space^
 ||dating.unwillingfalconine.site^
+||dating.up-studio.co^
 ||dating.upedia.de^
 ||dating.upen.in^
 ||dating.upstream.to^
@@ -73859,6 +74034,7 @@ Stand: 19.11.2026 12:35
 ||dating911.love^
 ||dating911.online^
 ||dating911podcast.com^
+||dating911x.com^
 ||dating9147.zendesk.com^
 ||dating918.com^
 ||dating92.premiumsex.asia^
@@ -78053,6 +78229,7 @@ Stand: 19.11.2026 12:35
 ||datingchatgroupz.site^
 ||datingchatin.com^
 ||datingchating.com^
+||datingchating.cu.ma^
 ||datingchatinn.com^
 ||datingchatlines.com^
 ||datingchatlive.com^
@@ -78273,6 +78450,7 @@ Stand: 19.11.2026 12:35
 ||datingclassified.nz^
 ||datingclassified.uk^
 ||datingclassifiedads.com^
+||datingclassifieds-sales-page.pages.dev^
 ||datingclassifieds.ca^
 ||datingclassifieds.click^
 ||datingclassifieds.club^
@@ -78401,6 +78579,7 @@ Stand: 19.11.2026 12:35
 ||datingclub.fun^
 ||datingclub.gift365.xyz^
 ||datingclub.gr^
+||datingclub.gr.commens.co.uk^
 ||datingclub.gr.commens.gr^
 ||datingclub.home-page.org^
 ||datingclub.hotgirl.ink^
@@ -81180,6 +81359,7 @@ Stand: 19.11.2026 12:35
 ||datingfever.de.weglot.io^
 ||datingfever.mom^
 ||datingfever.online^
+||datingfever.space^
 ||datingfeverr.com^
 ||datingfevers.com^
 ||datingffefemteo.ga^
@@ -82949,6 +83129,7 @@ Stand: 19.11.2026 12:35
 ||datinggodate.com^
 ||datinggoddess.com^
 ||datinggoddess.shop^
+||datinggodmother.com^
 ||datinggodsdaughters.com^
 ||datinggodsway.arwpublishinggroup.com^
 ||datinggodsway.com^
@@ -85707,6 +85888,7 @@ Stand: 19.11.2026 12:35
 ||datinglist.com^
 ||datinglist.de^
 ||datinglist.gr^
+||datinglist.gr.commens.co.uk^
 ||datinglist.gr.commens.gr^
 ||datinglist.info^
 ||datinglist.it^
@@ -86203,6 +86385,7 @@ Stand: 19.11.2026 12:35
 ||datinglove2.ru^
 ||datinglove2.shop^
 ||datinglove2.xyz^
+||datinglove24.blog^
 ||datinglove24.online^
 ||datinglove3.ru^
 ||datinglove365.com^
@@ -88538,6 +88721,7 @@ Stand: 19.11.2026 12:35
 ||datingone.site^
 ||datingone.test.aerobicos.com^
 ||datingone2one.info^
+||datingonedges.hu^
 ||datingonee.online^
 ||datingonelove.com^
 ||datingonenight.ineedu.online^
@@ -88997,6 +89181,7 @@ Stand: 19.11.2026 12:35
 ||datingos.briye.co^
 ||datingos.com^
 ||datingos.free.nf^
+||datingos.oysterme.co^
 ||datingos.xyz^
 ||datingosaka.com^
 ||datingosman.live^
@@ -89526,6 +89711,7 @@ Stand: 19.11.2026 12:35
 ||datingpicker.justaconversationaway.com^
 ||datingpickleball.club^
 ||datingpickleball.com^
+||datingpicklers.com^
 ||datingpickshub.com^
 ||datingpickss.com^
 ||datingpickup.ru^
@@ -89848,6 +90034,7 @@ Stand: 19.11.2026 12:35
 ||datingpolls.com^
 ||datingpolo.com^
 ||datingpolyandry.com^
+||datingpond.com^
 ||datingpoo.com^
 ||datingpoo.life^
 ||datingpool.ai^
@@ -93463,6 +93650,7 @@ Stand: 19.11.2026 12:35
 ||datingsitepanel.com^
 ||datingsitepicture.net.ph^
 ||datingsitepkeboy.pages.dev^
+||datingsiteplus.net^
 ||datingsiteprices.co.uk^
 ||datingsiteprices.com^
 ||datingsitepro.com^
@@ -95242,6 +95430,7 @@ Stand: 19.11.2026 12:35
 ||datingtest.ch^
 ||datingtest.chickenkiller.com^
 ||datingtest.com^
+||datingtest.de^
 ||datingtest.directory^
 ||datingtest.dk^
 ||datingtest.eu^
@@ -96019,6 +96208,7 @@ Stand: 19.11.2026 12:35
 ||datingtours.xyz^
 ||datingtoursabroad.com^
 ||datingtous.com^
+||datingtovow.com^
 ||datingtowallstreet.com^
 ||datingtowed.com^
 ||datingtowed.love^
@@ -96995,6 +97185,7 @@ Stand: 19.11.2026 12:35
 ||datingweb.io^
 ||datingweb.ireniktop.com^
 ||datingweb.lat^
+||datingweb.lunarlink.cc^
 ||datingweb.me^
 ||datingweb.net^
 ||datingweb.nl^
@@ -97611,6 +97802,7 @@ Stand: 19.11.2026 12:35
 ||datingwithgirlsss.com^
 ||datingwithgod.com^
 ||datingwithgod.org^
+||datingwithgoddess.com^
 ||datingwithgodliness.com^
 ||datingwithgrace.com^
 ||datingwithgrace.me^
@@ -99170,6 +99362,8 @@ Stand: 19.11.2026 12:35
 ||daydatingonline.com^
 ||daydaydating.com^
 ||daydaygodating.com^
+||daydreamdating.app^
+||daydreamdating.com^
 ||daydreamdating.net^
 ||dayflirt.com^
 ||dayflirt.de^
@@ -99178,6 +99372,7 @@ Stand: 19.11.2026 12:35
 ||dayforsingles.com^
 ||daygamedating.dubb.com.au^
 ||daygamedating.org^
+||dayingjiacaipiaowelcomedating.com.cn^
 ||dayingjiadating.cn^
 ||dayingjiaguanwangdating.cn^
 ||dayingjiaqipaiyouxidating.33q.74bc.com^
@@ -99263,6 +99458,7 @@ Stand: 19.11.2026 12:35
 ||dazhongcaipiaoguanwangdating.com.cn^
 ||dazhongcaipiaowelcomedating.cn^
 ||dazhongcaipiaowelcomegoucaidating.cn^
+||dazhongcpdenglushouyedating.com.cn^
 ||dazhongmjdatingpingtai.com.cn^
 ||dazuiqipaiyouxidating.balkantravel.eu^
 ||dazuiqipaiyouxidating.mil.ph^
@@ -99735,6 +99931,7 @@ Stand: 19.11.2026 12:35
 ||decadentdatescafe.com^
 ||decadentgourmetdates.com^
 ||decades.dating^
+||decadesdating.app^
 ||decasualdating.online^
 ||decaturdating.com^
 ||decatursingles.com^
@@ -100722,6 +100919,7 @@ Stand: 19.11.2026 12:35
 ||designselkhartflirter.com^
 ||designthedates.de.com^
 ||designyourdating.com^
+||desihub.singles^
 ||desingleb.ru^
 ||desinglecoach.nl^
 ||desinglegcadif.tk^
@@ -101045,6 +101243,7 @@ Stand: 19.11.2026 12:35
 ||dev-flirtblue.webservice-host.net^
 ||dev-frontend-apptimezonedates.legalnature.com^
 ||dev-get-latest-candidates-worker.candibots.com^
+||dev-golden-dates.pantheonsite.io^
 ||dev-historydates-siteclegacy-dev.d.02.coolclever.tech^
 ||dev-integracion-dates7hy.it-cpi003.cpi.us10.hana.ondemand.com^
 ||dev-james-singleton.usw2.scooter.zendesk-dev.com^
@@ -101455,6 +101654,7 @@ Stand: 19.11.2026 12:35
 ||dianwanchengyouxidatingfx.com.cn^
 ||dianwanchengyouxidatingguanwangban.asia^
 ||dianwanchengyouxidatingguanwangban.com.cn^
+||dianwanchengyouxidatingj.com.cn^
 ||dianwanchengyouxidatingw.com.cn^
 ||dianwanchengyouxidatingw8.com.cn^
 ||dianwanchengyouxidatingwe.com.cn^
@@ -101465,6 +101665,7 @@ Stand: 19.11.2026 12:35
 ||dianwanduboyouxidatingxiazai.com.ph^
 ||dianwanyouxidating.asia^
 ||dianwanyouxidating.casa^
+||dianwanyouxidating.com.cn^
 ||dianwanyouxidatingdaquan.com.cn^
 ||dianwanyouxidatingmianfei.cn^
 ||dianwanyouxidatingnentixiande.com.cn^
@@ -101473,6 +101674,7 @@ Stand: 19.11.2026 12:35
 ||dianwanyouxidatingshoujban9.com.cn^
 ||dianwanyouxidatingshoujiban.com.cn^
 ||dianwanyouxidatingshoujibanc.com.cn^
+||dianwanyouxidatingxiazai.com.cn^
 ||dianwanyouxidatingxiazai.zapto.xyz^
 ||dianyingyuandating.xiaoniaodianying.com^
 ||diaper.dating^
@@ -101896,6 +102098,7 @@ Stand: 19.11.2026 12:35
 ||dingflirt.com.ph^
 ||dinghydates.com^
 ||dinghydatesllc.com^
+||dingjiguibinfuwudating.com.cn^
 ||dingleflirt.com^
 ||dingniujingjidating.kp998.com^
 ||dining-club.singles^
@@ -101926,6 +102129,7 @@ Stand: 19.11.2026 12:35
 ||dinkodating.coursewhiz.org^
 ||dinksdating.com^
 ||dinksingles.com^
+||dinky.dating^
 ||dinkydating.optimisedirect.com^
 ||dinnedates.com^
 ||dinner-dates.de^
@@ -102207,6 +102411,7 @@ Stand: 19.11.2026 12:35
 ||dirtydatinglaundry.com^
 ||dirtydatinglife.com^
 ||dirtydatinglive.com^
+||dirtydatinglive.de^
 ||dirtydatingplace.com^
 ||dirtydatingsecrets.com^
 ||dirtydatingshow.com^
@@ -102443,6 +102648,7 @@ Stand: 19.11.2026 12:35
 ||disclosuretourdates.com^
 ||disco-flirt.nurdu.com^
 ||disco.dating^
+||discodates.co.uk^
 ||discodates.de^
 ||discodating.com^
 ||discodating.com.au^
@@ -103813,13 +104019,36 @@ Stand: 19.11.2026 12:35
 ||dolcevitasingles.org.ph^
 ||doleticdisingles.ngvm-test.com^
 ||dolfindating.com^
+||dollar-connect.dating^
+||dollar-connect.singles^
 ||dollar-dating.com^
+||dollar-finder.dating^
+||dollar-finder.singles^
+||dollar-matching.dating^
+||dollar-matching.singles^
+||dollar-search.dating^
+||dollar-search.singles^
+||dollar-seek.dating^
+||dollar-seek.singles^
 ||dollar.dating^
+||dollarconnect.singles^
 ||dollardates.com^
+||dollardating.cheap^
 ||dollardating.com^
+||dollardating.gratis^
+||dollardating.group^
+||dollardating.llc^
 ||dollardating.ph^
 ||dollardatingclub.com^
+||dollarfinder.dating^
+||dollarfinder.singles^
+||dollarmatching.dating^
+||dollarmatching.singles^
 ||dollarsanddates.online^
+||dollarsearch.dating^
+||dollarsearch.singles^
+||dollarseek.dating^
+||dollarseek.singles^
 ||dollarsingles.com^
 ||dollarsingles.online^
 ||dollarsinglesclub.com^
@@ -103918,6 +104147,7 @@ Stand: 19.11.2026 12:35
 ||dominicandatingwomen.com^
 ||dominicandreamdates.dominicandreams.ca^
 ||dominicanonly.singles^
+||dominicanrepublicdating.com^
 ||dominicanrepublicsingles.com^
 ||dominicansingles.com^
 ||dominicansinglesonline.com^
@@ -103977,6 +104207,7 @@ Stand: 19.11.2026 12:35
 ||dongdatest.direct.ug.link^
 ||dongdating.com^
 ||dongfangcaipiaocaipiaodating.cn^
+||dongfangcaipiaogoucaidating.com.cn^
 ||dongfangcaipiaoguanfangdating.com.cn^
 ||dongfangcaipiaoguanwangdating.cn^
 ||dongfangcaipiaoguanwangdating.com.cn^
@@ -103989,6 +104220,7 @@ Stand: 19.11.2026 12:35
 ||dongfangyuncaipiaoguanfangappdating.cn^
 ||dongfangyuncaipiaoguanwangdating.cn^
 ||dongfangyuncaipiaowelcomedating.cn^
+||dongfangyuncpguanfangappdating.com.cn^
 ||dongfangyuncpguanwangdating.com.cn^
 ||dongfangyuncpwelcomedating.com.cn^
 ||donhangoutsocialdatingformat.family.blog^
@@ -104488,6 +104720,7 @@ Stand: 19.11.2026 12:35
 ||drama-filter-dating.com^
 ||drama-free-dating.com^
 ||drama-korean-dating.sexlivechats.com^
+||dramaflirt.com^
 ||dramafreedates.com^
 ||dramafreedating.com^
 ||dramafreedatingbook.com^
@@ -105231,6 +105464,7 @@ Stand: 19.11.2026 12:35
 ||duckdates.com^
 ||duckdating.co.uk^
 ||duckdating.com^
+||duckdating.uk^
 ||duckdatingapps.com^
 ||ducklingdating.wearetheducklings.com^
 ||ducksanddates.com^
@@ -106496,6 +106730,7 @@ Stand: 19.11.2026 12:35
 ||echtflirty.de^
 ||echtgratisdating.nl^
 ||echtsexdating.nl^
+||echtvibedating.com^
 ||echtzeit-dating.com^
 ||echtzeitdating.de^
 ||eclassingles.cl^
@@ -108023,6 +108258,7 @@ Stand: 19.11.2026 12:35
 ||elitesinglescom.com^
 ||elitesinglescomlogin.com^
 ||elitesinglescompany.co.uk^
+||elitesinglesconnect.com^
 ||elitesinglesconnect.ph^
 ||elitesinglescustomercare.car.blog^
 ||elitesinglesdate.com^
@@ -108397,6 +108633,7 @@ Stand: 19.11.2026 12:35
 ||emandates-merchant-tmt-a.nl.eu.abnamro.com^
 ||emandates-merchant-tmt-d.nl.eu.abnamro.com^
 ||emandates-merchant-tmt.nl.eu.abnamro.com^
+||emandates-merchant-website-net.bluenew.maxcode.net^
 ||emandates-pr1.abnamro.nl^
 ||emandates-pr2.abnamro.nl^
 ||emandates-pr3.abnamro.nl^
@@ -109358,6 +109595,8 @@ Stand: 19.11.2026 12:35
 ||erfurt-singles.ausnahmepreise.de^
 ||ergodating.com^
 ||ergrownupdatingtozh.thedailycroton.com^
+||erhaocaicaipiaodating.com.cn^
+||erhaocaiwelcomecaipiaodating.com.cn^
 ||eri-singles-matching.de^
 ||eri.singles^
 ||eri09singlemother.com^
@@ -111802,6 +112041,7 @@ Stand: 19.11.2026 12:35
 ||fabuloussinglesfinddates.com^
 ||fabuloussinglesmeetup.com^
 ||fabuloussinglestakeachanceatlove.com^
+||facaiwangcaipiaodating.com.cn^
 ||face-2-face-dating.de^
 ||face-flirt.co.uk^
 ||face-flirt.com^
@@ -112093,6 +112333,8 @@ Stand: 19.11.2026 12:35
 ||fairydating.xyz^
 ||fairyflirt.com^
 ||fairytaledating.com^
+||faiscadating.pages.dev^
+||faiscadatingxx.pages.dev^
 ||faith-dating.co.uk^
 ||faith-dating.com^
 ||faith-dating.nl^
@@ -113311,6 +113553,7 @@ Stand: 19.11.2026 12:35
 ||feature-341-edit-single-key-in-text-modu.edit.promaster.divid.se^
 ||feature-392-disabled-booking-dates.tng4.ipn.eu^
 ||feature-539-dates.lk.test.moe-sobranie.ru^
+||feature-544-dates.lk.test.moe-sobranie.ru^
 ||feature-add-dates-to-pricing-tier.bemyguest.tech^
 ||feature-adddatestatexport.e-testing.dev^
 ||feature-allow-bad-dates.wedodev.ch^
@@ -113600,6 +113843,7 @@ Stand: 19.11.2026 12:35
 ||feiyangcaipiaogoucaidating.com.cn^
 ||feiyangcaipiaoguanfangdating.com.cn^
 ||feiyangcaipiaowelcomedating.com.cn^
+||feiyangcpguanfangappdating8.com.cn^
 ||fejleszdangolodatingyenlodingteszt.gauravani.eu^
 ||felepenler-sex-ipho-dating.pideseloaalgore.org^
 ||felert.dating^
@@ -113751,6 +113995,7 @@ Stand: 19.11.2026 12:35
 ||fenggedatesense.cn^
 ||fenghcpbinguogoucaidating.com.cn^
 ||fenghuangcaipiaocaipiaodating.cn^
+||fenghuangcaipiaocaipiaodating.com.cn^
 ||fenghuangcaipiaodating.cn^
 ||fenghuangcaipiaodating8.com.cn^
 ||fenghuangcaipiaodatingappguanwang.cn^
@@ -113761,6 +114006,7 @@ Stand: 19.11.2026 12:35
 ||fenghuangcaipiaoguanfangdating.cn^
 ||fenghuangcaipiaoguanwangdating.cn^
 ||fenghuangcaipiaowelcomedating.cn^
+||fenghuangcaipiaowelcomedating.com.cn^
 ||fenghuangcaipiaowelcomegoucaidating.cn^
 ||fenghuangcpbinguogoucaidating.com.cn^
 ||fenghuangcpwelcomecpdating.com.cn^
@@ -113775,8 +114021,10 @@ Stand: 19.11.2026 12:35
 ||fenghuangshanzhuangyouxidating.lol^
 ||fenghuangvicaipiaodating.com.cn^
 ||fenghuangvidating.cn^
+||fenghuangviguanfangappdating.com.cn^
 ||fenghuangviguanfangdating.cn^
 ||fenghuangviguanwangdating.cn^
+||fenghuangviguanwangdating.com.cn^
 ||fenghuangvipdating.cn^
 ||fenghuangvipguanwangdating.cn^
 ||fenghuangvipguanwangdating.com.cn^
@@ -114134,6 +114382,7 @@ Stand: 19.11.2026 12:35
 ||fhnw-nfp77-single-xuvsecy-vexxwiqkwzql2.eu-5.platformsh.site^
 ||fi-datingsite.com^
 ||fi-onlinedating.life^
+||fiamma-dating.pages.dev^
 ||fianceflirterfloss.cfd^
 ||fiber-stats-snapshots-extend-single.brainance.demo.advantis.io^
 ||fibyvnlafctsekfdflirtcgsljda.fis.sfo.test.prod.sadbirds.aws.dev^
@@ -115743,6 +115992,7 @@ Stand: 19.11.2026 12:35
 ||firstbasemidwest.dating^
 ||firstbaseny.dating^
 ||firstbasewestcoast.dating^
+||firstbloomdates.site^
 ||firstcandidates.com^
 ||firstcasual.com^
 ||firstchoicedating.org^
@@ -115897,6 +116147,7 @@ Stand: 19.11.2026 12:35
 ||firstfedliquidatingtrust.com^
 ||firstfilipinoasiandating.com^
 ||firstfivedating.com^
+||firstfivedating.pages.dev^
 ||firstflirt.app^
 ||firstflirt.com^
 ||firstflirtapp.com^
@@ -118586,6 +118837,7 @@ Stand: 19.11.2026 12:35
 ||flirt.hot10.top^
 ||flirt.hotcrush.space^
 ||flirt.hotelbarcelo.com^
+||flirt.hotexes.site^
 ||flirt.hotget.net^
 ||flirt.hotgirls18.fun^
 ||flirt.hotstory.de^
@@ -119168,6 +119420,7 @@ Stand: 19.11.2026 12:35
 ||flirt18pl.com.ph^
 ||flirt18plus.com^
 ||flirt18x.net^
+||flirt1k-bot.workers.dev^
 ||flirt1nest.com^
 ||flirt1on1.com^
 ||flirt1to1.com^
@@ -119616,6 +119869,7 @@ Stand: 19.11.2026 12:35
 ||flirt4muslim.ph^
 ||flirt4porn.ph^
 ||flirt4real.com^
+||flirt4real.com.yourhostwp.com^
 ||flirt4rfee.com^
 ||flirt4rfee.net^
 ||flirt4seks.be^
@@ -122597,6 +122851,7 @@ Stand: 19.11.2026 12:35
 ||flirtcu.com^
 ||flirtcub.com.futuresite.register.com^
 ||flirtcube.com^
+||flirtcubes.com^
 ||flirtcue.com^
 ||flirtcul.com^
 ||flirtcul.fr^
@@ -126239,6 +126494,7 @@ Stand: 19.11.2026 12:35
 ||flirtin2.eu^
 ||flirtin2025.com^
 ||flirtin3.eu^
+||flirtina.bap.io^
 ||flirtina.com^
 ||flirtinabit.com^
 ||flirtinaevents.co.uk^
@@ -127351,6 +127607,7 @@ Stand: 19.11.2026 12:35
 ||flirtis.online^
 ||flirtis.ru^
 ||flirtis.se^
+||flirtisch.de^
 ||flirtisdating.online^
 ||flirtise.co.uk^
 ||flirtise.com^
@@ -127485,6 +127742,7 @@ Stand: 19.11.2026 12:35
 ||flirtivo.com^
 ||flirtivo.online^
 ||flirtivo.online.kaamyashila.shop^
+||flirtivo.org^
 ||flirtivo.xyz^
 ||flirtivon.com^
 ||flirtivox.com^
@@ -129262,6 +129520,7 @@ Stand: 19.11.2026 12:35
 ||flirtmydrm.com^
 ||flirtmyfinder.life^
 ||flirtmylife.cam^
+||flirtmylife.com^
 ||flirtmymate.com^
 ||flirtmymilf.com^
 ||flirtmyno.com^
@@ -129522,6 +129781,7 @@ Stand: 19.11.2026 12:35
 ||flirtnlocal.net^
 ||flirtnlocal.org^
 ||flirtnlocals.com^
+||flirtnlocalz.online^
 ||flirtnlove.com^
 ||flirtnmatch.com^
 ||flirtnmeet.com^
@@ -129561,6 +129821,7 @@ Stand: 19.11.2026 12:35
 ||flirtnotificaties.com^
 ||flirtnotification.be^
 ||flirtnotification.com^
+||flirtnotification.net^
 ||flirtnotification.nl^
 ||flirtnotification.xyz^
 ||flirtnotifications.be^
@@ -131436,6 +131697,7 @@ Stand: 19.11.2026 12:35
 ||flirtseeker.net^
 ||flirtseeker.pornstronghold.biz^
 ||flirtseeker.sisurine.xyz^
+||flirtseeker.space^
 ||flirtseeker.top^
 ||flirtseeking.com^
 ||flirtseeking.webdev.staging.hydrahub.io^
@@ -133808,6 +134070,8 @@ Stand: 19.11.2026 12:35
 ||flirtwithcupid.com^
 ||flirtwithcupid.net^
 ||flirtwithcupid.org^
+||flirtwithdaisy.com^
+||flirtwithdaisy.pages.dev^
 ||flirtwithdaisy24t.pages.dev^
 ||flirtwithdamaris46l.pages.dev^
 ||flirtwithdanger.com^
@@ -133889,6 +134153,8 @@ Stand: 19.11.2026 12:35
 ||flirtwithlocal.com^
 ||flirtwithlocals.com^
 ||flirtwithlocalwhite.com^
+||flirtwithlola.com^
+||flirtwithlola.pages.dev^
 ||flirtwithlos.com^
 ||flirtwithlove.com^
 ||flirtwithlove.info^
@@ -134701,6 +134967,7 @@ Stand: 19.11.2026 12:35
 ||flirtyagency.com^
 ||flirtyagent.com^
 ||flirtyagi.com^
+||flirtyai.app^
 ||flirtyai.chat^
 ||flirtyai.com^
 ||flirtyai.fr^
@@ -137081,6 +137348,7 @@ Stand: 19.11.2026 12:35
 ||flirtystore.shop^
 ||flirtystore.uk^
 ||flirtystories.com^
+||flirtystranger.com^
 ||flirtystream-app.com^
 ||flirtystream.com^
 ||flirtystream.online^
@@ -142544,6 +142812,7 @@ Stand: 19.11.2026 12:35
 ||fucaivipdatingwelcome3.com.cn^
 ||fucaivipguanfangappdating.cn^
 ||fucaivipguanfangdating.cn^
+||fucaivipguanfangdating.com.cn^
 ||fucaivipguanwangdating.cn^
 ||fucaivipguanwangdating.com.cn^
 ||fucaivipwelcomecaipiaodating.cn^
@@ -142561,6 +142830,7 @@ Stand: 19.11.2026 12:35
 ||fucaiwangwelcomecaipiaodating.cn^
 ||fucaiwangwelcomecaipiaodating.com.cn^
 ||fucaiwangwelcomedating.cn^
+||fucaiwangwelcomedating.com.cn^
 ||fucaiwangwelcomegoucaidating.com.cn^
 ||fuccas-dating1iaq.rollout.site^
 ||fucfucking-in-albergo-dating.videosexyporno.info^
@@ -142713,8 +142983,11 @@ Stand: 19.11.2026 12:35
 ||fufcdatesevxatvjlzprqqyzirki.fis.cmh.test.prod.sadbirds.aws.dev^
 ||fuhsingleather.com^
 ||fuhvlcountryhmans-datingsimwww.youka.la^
+||fukelaicaipiaogoucaidating.com.cn^
 ||fukelaicaipiaoguanwangdating.com.cn^
 ||fukelaicaipiaowelcomedating.com.cn^
+||fukelaicpwelcomecpdating.com.cn^
+||fukelaicpwelcomegoucaidating.com.cn^
 ||fukfriend-flirt.com^
 ||fukkdating.fun^
 ||fukudatest.xyz^
@@ -142730,6 +143003,8 @@ Stand: 19.11.2026 12:35
 ||fulgiaditasagruflirteuinuelojasuxtaptibo.foundation^
 ||fulicaicaipiaodating.com.cn^
 ||fulicaiguanfangappdating.com.cn^
+||fulicaiguanfangdating.com.cn^
+||fulicaipiaogoucaidating.com.cn^
 ||fulicaipiaowelcomedating.com.cn^
 ||fulicaipiaowelcomegoucaidating.com.cn^
 ||fulicaiwelcomedating.com.cn^
@@ -143603,6 +143878,7 @@ Stand: 19.11.2026 12:35
 ||gambiansingles.com^
 ||gambitdating.com^
 ||gambledating.com^
+||gambledating.nl^
 ||gamblerdates.com^
 ||gamblerdating.com^
 ||gamblingsingles.com^
@@ -146382,6 +146658,7 @@ Stand: 19.11.2026 12:35
 ||gigantits-a-younger-dating.pideseloaalgore.org^
 ||gigdates.co.uk^
 ||gigdates.com^
+||gigdates.gigbooklive.com^
 ||gigdates.net^
 ||gigglesdating.com^
 ||gigglesingles.com^
@@ -147338,6 +147615,7 @@ Stand: 19.11.2026 12:35
 ||go-uk-dating-websites-ok.live^
 ||go-us-online-dating-ok.live^
 ||go-where-dating.76.13.215.243.sslip.io^
+||go-youxidatingapp.com.cn^
 ||go1-dating.com^
 ||go2dates.com^
 ||go2dating.com^
@@ -147871,6 +148149,7 @@ Stand: 19.11.2026 12:35
 ||goldendates.store^
 ||goldendates.tn^
 ||goldendates.xyz^
+||goldendatesdubai.com^
 ||goldendatesfarm.com^
 ||goldendatesfarms.com^
 ||goldendatesllc.com^
@@ -148623,13 +148902,16 @@ Stand: 19.11.2026 12:35
 ||goucaidating.com.cn^
 ||goucaidating360caipiao.net.ph^
 ||goucaidating360caipiao.ph^
+||goucaidatinganquangoucai.com.cn^
 ||goucaidatingapp.com.cn^
+||goucaidatingcaipiaodating.com.cn^
 ||goucaidatingdenglu.op64sfg.com^
 ||goucaidatingwelcome.f68yy95.com^
 ||goucaidatingwelcomecaipiaodating.cn^
 ||goucaidatingwelcomeshoujigoucai.sg68sg23.com^
 ||goucaidatingwelcomezhongxin.d58kk689.com^
 ||goucaizhongxindatingappxiazai.ha523sg5.com^
+||goucaizhongxingoucaidating.com.cn^
 ||goucaizhongxingoucaidating.op64sfg.com^
 ||goucaizhongxingoucaidating.sa5634dika.com^
 ||goucaizhongxingoucaidating3haoyule.bn79ag21.com^
@@ -148963,6 +149245,7 @@ Stand: 19.11.2026 12:35
 ||grannydatingsites.com^
 ||grannydatingsites.org^
 ||grannydatinguk.co.uk^
+||grannydatingusa.com^
 ||grannydatingwebsite.com^
 ||grannyflirt.co.uk^
 ||grannyflirt.com^
@@ -150024,6 +150307,7 @@ Stand: 19.11.2026 12:35
 ||guibinhuiyouhuidatinggh.com.cn^
 ||guibinhuiyouhuidatinggw.com.cn^
 ||guibinhuiyouhuidatingh.net.cn^
+||guibinhuiyouhuidatingj.com.cn^
 ||guibinhuiyouhuidatingr.net.cn^
 ||guibinhuiyouhuidatingw.com.cn^
 ||guibinhuiyouhuidatingw.net.cn^
@@ -150613,6 +150897,7 @@ Stand: 19.11.2026 12:35
 ||hakodatestreet.workers.dev^
 ||hakodatesuginokoen.net^
 ||hakodatesuisan.hokkaido-c.ed.jp^
+||hakodatesyakyo.net^
 ||hakunasingles.com^
 ||haladates.com^
 ||haladatesco.com^
@@ -150975,6 +151260,7 @@ Stand: 19.11.2026 12:35
 ||haocaiwangwelcomecaipiaodating.cn^
 ||haocaiwangwelcomecaipiaodating.com.cn^
 ||haocaiwangwelcomedating.cn^
+||haocaiwangwelcomedating.com.cn^
 ||haocaiwelcomedatinggoucai.cn^
 ||haocaiwelcomedatinggoucai.com.cn^
 ||haodeqipaidating.yx-4399.com^
@@ -151744,6 +152030,8 @@ Stand: 19.11.2026 12:35
 ||hd.dating^
 ||hd6500-singleara01.direct.quickconnect.cn^
 ||hd6500-singleara02.direct.quickconnect.cn^
+||hd88.dating^
+||hd88.singles^
 ||hdates.com^
 ||hdates.fun^
 ||hdates.org^
@@ -152019,6 +152307,7 @@ Stand: 19.11.2026 12:35
 ||heartleddating.club^
 ||heartleddating.com^
 ||heartleddating.store^
+||heartleddatingacademy.com^
 ||heartleddatingmastery.com^
 ||heartledsinglesnetwork.com^
 ||heartline-dating.icu^
@@ -152178,6 +152467,7 @@ Stand: 19.11.2026 12:35
 ||hedatingrrgh.sophiealdred.net^
 ||hedeflirt.dk^
 ||hedflirt.dk^
+||hedgehogdating.com^
 ||hedgerowdating.co.uk^
 ||hedgerowdating.com^
 ||hedonismdating.com^
@@ -152315,6 +152605,7 @@ Stand: 19.11.2026 12:35
 ||hellocandidatesites.com^
 ||hellochatmodeflirtygirl.flenssgirl.fun^
 ||helloclubspeeddating.com^
+||hellodates.click^
 ||hellodates.com^
 ||hellodates.online^
 ||hellodating.app^
@@ -152502,6 +152793,7 @@ Stand: 19.11.2026 12:35
 ||hendesaffaeredating-dk.com^
 ||hengfacaipiaogoucaidating.bao888app.com^
 ||hengfawelcomecaipiaodating.cn^
+||hengfawelcomecaipiaodating.com.cn^
 ||hengxincaidatingwelcome.com.cn^
 ||hengxincaipiaocaipiaodating.cn^
 ||hengxincaipiaocaipiaodating.com.cn^
@@ -153002,6 +153294,7 @@ Stand: 19.11.2026 12:35
 ||hi-luve-dating.pages.dev^
 ||hi-pulse-dating.workers.dev^
 ||hi-vis-dating.com^
+||hi-youxidatingapp.com.cn^
 ||hi1percentdating.com^
 ||hi88.dating^
 ||hi88.singles^
@@ -155192,6 +155485,7 @@ Stand: 19.11.2026 12:35
 ||hotdailyflirts.iconsexy.click^
 ||hotdailyflirts.org^
 ||hotdalyflirts.com^
+||hotdamndating.com^
 ||hotdate.singles^
 ||hotdateflirt.life^
 ||hotdateflirts.com^
@@ -155972,6 +156266,7 @@ Stand: 19.11.2026 12:35
 ||hotsinglesinmyarea.com^
 ||hotsinglesinmyarea.doodlekit.com^
 ||hotsinglesinn.com^
+||hotsinglesinyourarea.co.nz^
 ||hotsinglesinyourarea.com^
 ||hotsinglesinyourarea.fun^
 ||hotsinglesinyourarea.online^
@@ -156766,6 +157061,7 @@ Stand: 19.11.2026 12:35
 ||httpsvozknbriillantdatesnetutmsourceda57dc555e50572ds.workers.dev^
 ||httteam-reactivate-your-membership-by-updating.50-6-203-161.cprapid.com^
 ||htxprofessionalsingles.com^
+||huacaiwangdating.com.cn^
 ||huacaiwangwelcomedating.com.cn^
 ||huadating.com^
 ||huaianguandanyouxidatingmianfeiban.asia^
@@ -156774,9 +157070,11 @@ Stand: 19.11.2026 12:35
 ||huangguodj-dating.com.cn^
 ||huangjiacaipiaocaipiaodating.com.cn^
 ||huangjiacaipiaodating.com.cn^
+||huangjiacaipiaoguanwangdating.com.cn^
 ||huangjiacpwelcomecpdating.com.cn^
 ||huangjindaoqipaidating.cam^
 ||huangjindaoqipaidating.lol^
+||huangse500caicaipiaodating.com.cn^
 ||huangse500caiwelcomedating.com.cn^
 ||huangyedating.pages.dev^
 ||huanleguyulechengdating.hzc.io^
@@ -156814,11 +157112,13 @@ Stand: 19.11.2026 12:35
 ||huawei.singles^
 ||huaxiacaipiaocaipiaodating.com.cn^
 ||huaxiacaipiaodating.com.cn^
+||huaxiacaipiaoguanwangdating.com.cn^
 ||huaxiacpwelcomecpdating.com.cn^
 ||huaxiaqipaiyouxidating.716f.com^
 ||huaxiaqipaiyouxidating.7p53.com^
 ||huaxiaqipaiyouxidating.97xr.com^
 ||huaxiaqipaiyouxidating.zv75.com^
+||huaxincaipiaodating.com.cn^
 ||hub-confidencewithdating.pages.dev^
 ||hub-dating-emulator.richcoin.pro^
 ||hub.singles^
@@ -157217,6 +157517,7 @@ Stand: 19.11.2026 12:35
 ||hustlerflirts.net.ph^
 ||hustlersflirts.com^
 ||huston-speed-dating.com^
+||hut-youxidatingapp.com.cn^
 ||huttdating.com^
 ||hutteritesingles.com^
 ||huukpidmeetdating.xyz^
@@ -157284,6 +157585,8 @@ Stand: 19.11.2026 12:35
 ||hygjdating.com.cn^
 ||hygjgfappdating.com.cn^
 ||hygjgfdating.com.cn^
+||hygjwelcomecpdating.com.cn^
+||hylaicpgoucaidating.com.cn^
 ||hylandsinglemalts.co.uk^
 ||hynewspdates.com^
 ||hypahub-singlecell-client.hypahubusercontent.com^
@@ -157503,6 +157806,7 @@ Stand: 19.11.2026 12:35
 ||iandatesting.zendesk.com^
 ||iandatesting1778174039.zendesk.com^
 ||iandatesting1783006545.zendesk.com^
+||iapdates.pages.dev^
 ||iasingles.com^
 ||iattractdating.com^
 ||ib-candidates.glocap-sourcing.com^
@@ -160128,6 +160432,7 @@ Stand: 19.11.2026 12:35
 ||intelli.singles^
 ||intellidateselect.com^
 ||intellidatespark.com^
+||intellidating.co.uk^
 ||intellidating.com^
 ||intellidating.uk^
 ||intellidatingai.com^
@@ -160476,6 +160781,7 @@ Stand: 19.11.2026 12:35
 ||internationaldatingforseniors.com^
 ||internationaldatingforum.com^
 ||internationaldatingguide.com^
+||internationaldatingguide.online^
 ||internationaldatingindia.co^
 ||internationaldatinginfo.com^
 ||internationaldatingkingdom.com^
@@ -161073,6 +161379,7 @@ Stand: 19.11.2026 12:35
 ||interviewdates.shop^
 ||interviewdateswww.primarycarerecruitment.ie^
 ||interviewdating.com^
+||intervieweddating.com^
 ||interviewingcandidates.com^
 ||interviewsingles.com^
 ||interviewswithdatinggurus.com^
@@ -161533,6 +161840,7 @@ Stand: 19.11.2026 12:35
 ||iom-dating.top^
 ||iom-singles.top^
 ||iomaturedatingljxy.carmendeedy.com^
+||ion-youxidatingapp.com.cn^
 ||iondates.com^
 ||iondating.com^
 ||iondating.org^
@@ -161574,6 +161882,7 @@ Stand: 19.11.2026 12:35
 ||iowasingleschat.com^
 ||iowasinglesclub.com^
 ||iowasinglesnetwork.com^
+||ip-datingmedialtd-com.pages.dev^
 ||ip-datingmedialtd.com^
 ||ipaction-corsearch.dating^
 ||ipaddating.com^
@@ -163478,6 +163787,7 @@ Stand: 19.11.2026 12:35
 ||jesus-dating.de^
 ||jesus-flirt.de^
 ||jesus-singles-out-there.shortshost.com^
+||jesus.dating^
 ||jesus.singles^
 ||jesuschristiamsingle.com^
 ||jesusdates.com^
@@ -163918,10 +164228,12 @@ Stand: 19.11.2026 12:35
 ||jibestaffingcandidates.co^
 ||jibestaffingcandidates.info^
 ||jibondating.shop^
+||jicaicaipiaodatingrukou.com.cn^
 ||jicaicpdatingdenglu.com.cn^
 ||jicaicpwelcomedating.com.cn^
 ||jicaicpwelcomedatingdafa.com.cn^
 ||jicaicpwelcomedatinghuodongxiangqing.com.cn^
+||jicaidating.com.cn^
 ||jicaiwangcaipiaodating.com.cn^
 ||jicaiwangdating.com.cn^
 ||jiclkdating.footballscoreapps.com^
@@ -164037,6 +164349,7 @@ Stand: 19.11.2026 12:35
 ||jingbowelcomecpdatingdenglu.com.cn^
 ||jingcaicaipiaodating.com.cn^
 ||jingcaidating.com.cn^
+||jingcaigoucaidating.com.cn^
 ||jingcaiwangcaipiaodating.cn^
 ||jingcaiwangcaipiaodating.com.cn^
 ||jingcaiwangdating.com.cn^
@@ -164122,6 +164435,7 @@ Stand: 19.11.2026 12:35
 ||jiujiufacaipiaocaipiaodating.com.cn^
 ||jiujiufacaipiaowelcomedating.cn^
 ||jiujiufacaipiaowelcomegoucaidating.cn^
+||jiujiufacpwelcomegoucaidating.com.cn^
 ||jiuleqipaixiazaidating.ngo.ph^
 ||jiuleqipaiyouxidating.8ng8.com^
 ||jiuleqipaiyouxidating.jc677.com^
@@ -164273,6 +164587,7 @@ Stand: 19.11.2026 12:35
 ||job-singles.de^
 ||job-speed-dating.isl-ev.de^
 ||job-speed-dating.net^
+||job-youxidatingguanfangxiazai.com.cn^
 ||job.dating^
 ||jobaccommodating.org.ph^
 ||jobandcandidates.com^
@@ -164315,6 +164630,7 @@ Stand: 19.11.2026 12:35
 ||jobdating-hopitaldelabaie.vivalto-sante.com^
 ||jobdating-hopitaldelabaie.vivalto-sante.fr^
 ||jobdating-imsi.fr^
+||jobdating-industrie.com^
 ||jobdating-industries.fr^
 ||jobdating-innovagri.com^
 ||jobdating-itii.crisp.help^
@@ -164651,6 +164967,7 @@ Stand: 19.11.2026 12:35
 ||joindating.top^
 ||joindatingapps.pages.dev^
 ||joindatingarea.online^
+||joindatingcamp.com^
 ||joindatingfree.pages.dev^
 ||joindatinglab.com^
 ||joindatinglive.pages.dev^
@@ -166383,12 +166700,16 @@ Stand: 19.11.2026 12:35
 ||kaixincaicaipiaodating.com.cn^
 ||kaixincaicpiaodatingdenglurukou.com.cn^
 ||kaixincaidating.cn^
+||kaixincaidating.com.cn^
 ||kaixincaidatinggoucai.com.cn^
 ||kaixincaipiaogoucaidating.g21hhd6.com^
 ||kaixincaiwelcomedating.cn^
 ||kaixincaiwelcomedating.com.cn^
+||kaixinwangcaipiaodating.com.cn^
 ||kaixinwangguanfangappdating.cn^
+||kaixinwangguanfangappdating.com.cn^
 ||kaixinwangwelcomecaipiaodating.cn^
+||kaixinwangwelcomedating.com.cn^
 ||kaixuanyouxidatinggfxiazai.com.cn^
 ||kaiyuanky888qiledatingappxiazai.com.cn^
 ||kaiyuanky888qiledatingrukouxiazai.cn^
@@ -167126,6 +167447,7 @@ Stand: 19.11.2026 12:35
 ||kgglookdating.com^
 ||kggyqdating.designarchitects.art^
 ||kgirlsdatesapp.com^
+||kgirlsdating.com^
 ||kgndates.wpplugintips.com^
 ||kgpdating.in^
 ||kgrdating.live^
@@ -167417,6 +167739,7 @@ Stand: 19.11.2026 12:35
 ||kineticsingles.com^
 ||kinflirt.com^
 ||king-and-country-tour-dates.cbf-dance.nl^
+||king-dates.com^
 ||king-detcpoccultist-cider-shuffling-flirt.tradablechart.ir^
 ||king-edward-school-lichfield-term-dates.rohrfrei-sofort.de^
 ||king-solomondates.com^
@@ -167850,6 +168173,7 @@ Stand: 19.11.2026 12:35
 ||kiswahdates.com^
 ||kit-mapasingles.pmreditora.online^
 ||kit-vodatest.ru^
+||kit-youxidatingguanfangxiazai.com.cn^
 ||kitadateshiori.tuadgd.site^
 ||kitadating.com^
 ||kitchendates.com^
@@ -167955,6 +168279,7 @@ Stand: 19.11.2026 12:35
 ||klemdatingsitesfarmers.com.ph^
 ||kleo.dating^
 ||kleopatra-dating.com^
+||kleptodating.com^
 ||klick2flirt.at^
 ||klick2flirt.ch^
 ||klick2flirt.com^
@@ -168030,6 +168355,7 @@ Stand: 19.11.2026 12:35
 ||knodating.live^
 ||knodating.redoko.com^
 ||knot.dating^
+||knotadatingapp.com^
 ||knotarydating.com^
 ||knotdating.app^
 ||knotdating.club^
@@ -169477,6 +169803,7 @@ Stand: 19.11.2026 12:35
 ||lambdatestconferences.com^
 ||lambdatestconnect.com^
 ||lambdatestdemo.com^
+||lambdatestdev-dev.proalpha.dev^
 ||lambdatestdev.com^
 ||lambdateste.agevon.com^
 ||lambdatestengage.com^
@@ -169773,6 +170100,7 @@ Stand: 19.11.2026 12:35
 ||larrysingleton.unomaha.community^
 ||larsen.dating^
 ||las-vegas-singles.club^
+||las-vegas-singles.com^
 ||las-vegas-speed-dating.com^
 ||lasallesingles.com^
 ||lasegundatest.sidesys.com^
@@ -169940,6 +170268,8 @@ Stand: 19.11.2026 12:35
 ||laterdatesaynytcrossword.move.to^
 ||laterdating.com^
 ||laterepublicdating.com^
+||laterinlifedating.com^
+||laterinlifesingles.com^
 ||latest-mobile-dating-india.bitdroplet.com^
 ||latest-sendbit-singlepage.pages.dev^
 ||latest-training-dates.pages.dev^
@@ -170941,6 +171271,7 @@ Stand: 19.11.2026 12:35
 ||le-singles.de^
 ||le.dating^
 ||lea.dating^
+||lead-dates.service.welbex-core.ru^
 ||lead.dating^
 ||lead2dating.online^
 ||lead4dating.fr^
@@ -171081,6 +171412,7 @@ Stand: 19.11.2026 12:35
 ||lecaicaipiaowelcomedating.tt88tt58.com^
 ||lecaicaipiaozhucedating.bn79ag21.com^
 ||lecaihuiwelcomedating.cn^
+||lecaihuiwelcomedating.com.cn^
 ||lecaste-xxx-animax-dating.pideseloaalgore.org^
 ||lechodesdates.fr^
 ||leckbueqonlinedatingservicewebsite.net.ph^
@@ -171161,6 +171493,7 @@ Stand: 19.11.2026 12:35
 ||left-dating.com^
 ||leftcandidates.com^
 ||leftcoastdates.com^
+||leftdating.com^
 ||leftist-candidates.com^
 ||leftlanecandidates.nl^
 ||leftoversdating.com^
@@ -171387,6 +171720,7 @@ Stand: 19.11.2026 12:35
 ||leqipaiyouxidating.fjguilong.com^
 ||leqipaiyouxidating.shnq.net^
 ||lequcaigoucaidating.com.cn^
+||lequcaiguanfangdating.com.cn^
 ||lera.dating^
 ||lerenflirten.nl^
 ||lerevedating.org^
@@ -171406,6 +171740,7 @@ Stand: 19.11.2026 12:35
 ||lesben-dating.de^
 ||lesbendating.com^
 ||lesbendating.de^
+||lesbi-dating.xyz^
 ||lesbi.dating^
 ||lesbian-adult-dating.qwzv.com^
 ||lesbian-cougar-dating.com^
@@ -171976,6 +172311,7 @@ Stand: 19.11.2026 12:35
 ||lexamoredating.com^
 ||lexflirtu.ru^
 ||lexiang8dating.com.cn^
+||lexiang8guanfangdating.com.cn^
 ||lexiang8guanwangdating.com.cn^
 ||lexington-ky-online-dating.todayinawesome.com^
 ||lexingtondating.com^
@@ -173310,6 +173646,7 @@ Stand: 19.11.2026 12:35
 ||live-flirts.de^
 ||live-flirtu.info^
 ||live-for-fun-dating.pages.dev^
+||live-golden-dates.pantheonsite.io^
 ||live-hardtom001-flirt-sex.cam69.live^
 ||live-mandates.com^
 ||live-mastrubasi-dating.pages.dev^
@@ -175479,6 +175816,7 @@ Stand: 19.11.2026 12:35
 ||loftsingle.cl^
 ||lofty.dating^
 ||loftyflirt.com^
+||log-youxidatingguanfangxiazai.com.cn^
 ||log.dating^
 ||log.singles^
 ||loganshieldsdatinglive.pages.dev^
@@ -175895,6 +176233,7 @@ Stand: 19.11.2026 12:35
 ||looking-for-single-women-to-date.xyz^
 ||looking-for-singles.com^
 ||looking-for-singles.de^
+||looking.singles^
 ||looking4dates.com^
 ||looking4dating.altervista.org^
 ||looking4dating.com^
@@ -178159,6 +178498,7 @@ Stand: 19.11.2026 12:35
 ||luxurydatingapps.com^
 ||luxurydatingarch.org^
 ||luxurydatingaudit.com^
+||luxurydatingbd.com^
 ||luxurydatingblogs.cyou^
 ||luxurydatingcanada.com^
 ||luxurydatingchina.com^
@@ -178524,7 +178864,9 @@ Stand: 19.11.2026 12:35
 ||madinadates.pk^
 ||madinadates.store^
 ||madinadates.uk^
+||madinadates.zendesk.com^
 ||madinadatesexpo.com^
+||madinadateshelp.zendesk.com^
 ||madinah-dates.com^
 ||madinahdates.co.uk^
 ||madinahdates.com^
@@ -180172,6 +180514,7 @@ Stand: 19.11.2026 12:35
 ||mandates.axo.tools^
 ||mandates.banked.com^
 ||mandates.bidvestbank.co.za^
+||mandates.bond^
 ||mandates.bridgefund-acceptance.net^
 ||mandates.bridgefund-development.net^
 ||mandates.bridgefund.net^
@@ -180258,6 +180601,7 @@ Stand: 19.11.2026 12:35
 ||mandates.un.org^
 ||mandates.unesco.org^
 ||mandates.vin^
+||mandates.walkersandford.co.uk^
 ||mandates.welfare.scot^
 ||mandates.willikplastics.co.za^
 ||mandates.www980288.com^
@@ -180404,6 +180748,7 @@ Stand: 19.11.2026 12:35
 ||mandatesummit.com^
 ||mandatesummit26.com^
 ||mandatesupply.com^
+||mandatesupportstudio.com^
 ||mandatesurvey.com^
 ||mandatesview.postponed.net^
 ||mandatesvr.com^
@@ -180535,6 +180880,8 @@ Stand: 19.11.2026 12:35
 ||mansfieldsingles.com^
 ||mansfieldsingles.ph^
 ||mantalityofdating.com^
+||mantangcaiguanfangdating.com.cn^
+||mantangcaiwelcomecaipiaodating.com.cn^
 ||mantdating.com^
 ||mantelligencedating.com^
 ||mantelligencedating.lovemedocumentary.com^
@@ -180696,6 +181043,7 @@ Stand: 19.11.2026 12:35
 ||marciadating.com^
 ||marcindudatest.workers.dev^
 ||marciss-dating.live^
+||marco-dates.pages.dev^
 ||marcoislanddating.com^
 ||marcoislandsingles.com^
 ||marcosinglesfacil.com^
@@ -183065,6 +183413,7 @@ Stand: 19.11.2026 12:35
 ||medinadatesexpress.com^
 ||medinadatesmarket.com^
 ||mediocredating.com^
+||mediocresingles.com^
 ||meditation.dating^
 ||meditationsingles.com^
 ||meditationsingleschat.com^
@@ -186180,6 +186529,7 @@ Stand: 19.11.2026 12:35
 ||millbrooksinglemalt.com^
 ||millennial.singles^
 ||millennialdates.us^
+||millennialdating.com^
 ||millennialdatingadvice.com^
 ||millennialdatingbible.com^
 ||millennialflirts.com^
@@ -186565,6 +186915,7 @@ Stand: 19.11.2026 12:35
 ||minflirthits.com^
 ||mingelea-dating-app.workers.dev^
 ||mingfagoucaidating.f68yy95.com^
+||mingguanappdating.com.cn^
 ||mingle-dates.com^
 ||mingle-singles.com^
 ||mingle.singles^
@@ -186970,6 +187321,7 @@ Stand: 19.11.2026 12:35
 ||mithridates.alfawolf.sbs^
 ||mithridates.ca^
 ||mithridates.com^
+||mithridates.elvorakimo.click^
 ||mithridates.fashion^
 ||mithridates.ir^
 ||mithridates.net^
@@ -192215,6 +192567,7 @@ Stand: 19.11.2026 12:35
 ||my-tilda-dating.kerihosting.com^
 ||my-updating-blogs.pages.dev^
 ||my-wolf-girlfriend-anime-dating-sim.cheat-hacks.com^
+||my-youxidatingapp.com.cn^
 ||my.dating^
 ||my.singles^
 ||my24-casualdating.com^
@@ -194650,6 +195003,7 @@ Stand: 19.11.2026 12:35
 ||naksingles.de^
 ||nalove.dating^
 ||nalovedating.com^
+||namaadates.pk^
 ||namadates.com^
 ||namadatest.alloxesinfotech.com^
 ||namadating.com^
@@ -194807,6 +195161,7 @@ Stand: 19.11.2026 12:35
 ||narsus-sex-fok-dating.pideseloaalgore.org^
 ||naruto-dating-sim-2.gamesfree.me^
 ||naruto-dating-sim-easy.unclaimed-asset.com^
+||naruto.singles^
 ||narutosingles.com^
 ||narutosinglestcg.com^
 ||narutotcgsingles.com^
@@ -197915,6 +198270,7 @@ Stand: 19.11.2026 12:35
 ||niuniujinhuayouxidatingh.com.cn^
 ||niuniujinhuayouxidatingi.com.cn^
 ||niuniujinhuayouxidatingj.com.cn^
+||niuniujinhuayouxidatingj2.com.cn^
 ||niuniujinhuayouxidatings.com.cn^
 ||niuniujinhuayouxidatingu.com.cn^
 ||niuniujinhuayouxidatingv.com.cn^
@@ -198132,6 +198488,7 @@ Stand: 19.11.2026 12:35
 ||noboringdates.app^
 ||nobotdating.com^
 ||nobs-dating.com^
+||nobs-dating.pages.dev^
 ||nobs.dating^
 ||nobsdating.blog^
 ||nobsdating.com^
@@ -198862,6 +199219,7 @@ Stand: 19.11.2026 12:35
 ||norwaydatings.ru^
 ||norwayflirting.today^
 ||norwaysingles.com^
+||norwegian-singles-method.pages.dev^
 ||norwegian-singles.app^
 ||norwegian.singles^
 ||norwegiandating.ca^
@@ -200972,6 +201330,8 @@ Stand: 19.11.2026 12:35
 ||ok-singlespf.dev.bonasource.ca^
 ||ok-singlespf.live.bonasource.com^
 ||ok-uae-dating-ok.live^
+||ok-youxidatingapp.com.cn^
+||ok-youxidatingguanfangxiazai.com.cn^
 ||ok.dating^
 ||ok.singles^
 ||ok365.singles^
@@ -201398,6 +201758,7 @@ Stand: 19.11.2026 12:35
 ||oldermandating.com^
 ||oldermandatingyoungerwoman.com^
 ||oldermandatingyoungerwoman.pages.dev^
+||oldermansingles.com^
 ||oldermanyoungerwomandatingsites.com^
 ||oldermanyoungerwomendating.com^
 ||oldermanyoungerwomendating.com.itstech-ct.net^
@@ -201459,9 +201820,11 @@ Stand: 19.11.2026 12:35
 ||olderthandirt.dating^
 ||olderthandirtdating.com^
 ||olderwiserdating.com^
+||olderwomandates.com^
 ||olderwomandating.com^
 ||olderwomandating.net^
 ||olderwomandatingsites.com^
+||olderwomansingles.com^
 ||olderwomemdating.com^
 ||olderwomen-dating.com^
 ||olderwomen-dating.org^
@@ -201833,6 +202196,8 @@ Stand: 19.11.2026 12:35
 ||on-linedating.bond^
 ||on-linedating.com^
 ||on-linedatinginternetsecurity.com^
+||on-youxidatingapp.com.cn^
+||on-youxidatingguanfangxiazai.com.cn^
 ||on.singles^
 ||onadates.com^
 ||onamissiondating.com^
@@ -227993,6 +228358,7 @@ Stand: 19.11.2026 12:35
 ||onlinedatingadvice.site^
 ||onlinedatingadvice.today^
 ||onlinedatingadvice.website^
+||onlinedatingadvice.xyz^
 ||onlinedatingadvice101.com^
 ||onlinedatingadvicebook.com^
 ||onlinedatingadvices.com^
@@ -230961,6 +231327,7 @@ Stand: 19.11.2026 12:35
 ||oowdatest.app.ceramicheilpozzo.it^
 ||oowlsdating.com^
 ||op-3241-publish-misses-updating-94358.devm02.webflow.services^
+||op.dating^
 ||op.singles^
 ||opa.singles^
 ||opadating.world^
@@ -231095,6 +231462,7 @@ Stand: 19.11.2026 12:35
 ||opendatingonline.info^
 ||opendatingplatform.com^
 ||opendatingpoint.com^
+||opendatingprotocol.com^
 ||opendatingservice.com^
 ||opendatingservice.womenrussianbrides.com^
 ||opendatingsex.pages.dev^
@@ -231134,8 +231502,10 @@ Stand: 19.11.2026 12:35
 ||openposition.dating^
 ||openpositiondating.com^
 ||openrelatie-dating.nl^
+||openrelationshipdates.com^
 ||openrelationshipdating.com^
 ||openrelationshipsdating.com^
+||openrelationshipsingles.com^
 ||openroadsingles.com^
 ||opensdating.org^
 ||opensea.dating^
@@ -232660,6 +233030,7 @@ Stand: 19.11.2026 12:35
 ||pactivecandidates.info^
 ||pactivecandidates.net^
 ||pactivecandidates.org^
+||pad-youxidatingguanfangxiazai.com.cn^
 ||pad.dating^
 ||padatesintag.ph^
 ||padatest.santinela.com^
@@ -232694,6 +233065,7 @@ Stand: 19.11.2026 12:35
 ||padelplaydates.com^
 ||padelsingles.com^
 ||padenk.singles^
+||padp.singles^
 ||paducahsingles.com^
 ||paf.dating^
 ||pafcsingles.ph^
@@ -233079,6 +233451,7 @@ Stand: 19.11.2026 12:35
 ||pandoradating.com^
 ||pandorasboxdating.com^
 ||pandorasboxdating.great-online-income.com^
+||panel-pdates.pages.dev^
 ||panel-tiendatest.0zapp.xyz^
 ||panel-tiendatesttest.0zapp.xyz^
 ||panel-updating-status.legimi.dev^
@@ -233504,6 +233877,7 @@ Stand: 19.11.2026 12:35
 ||pasadenasinglesonline.com^
 ||pasardates.com^
 ||pasardates.com.arabstats.org^
+||pasardates.com.barupunyatoto.xyz^
 ||pasardates.com.omahreview.com^
 ||pasardates.ph^
 ||pascagoulasingles.com^
@@ -233600,6 +233974,8 @@ Stand: 19.11.2026 12:35
 ||passionflirts.com^
 ||passionflirtzone.com^
 ||passionflirtzz.com^
+||passionfruitdating.app^
+||passionfruitdating.com^
 ||passionpeopledating.com^
 ||passionpittourdates.com^
 ||passionpulsedates.life^
@@ -233668,6 +234044,8 @@ Stand: 19.11.2026 12:35
 ||patentdates.com^
 ||patentdating.com^
 ||patersondating.com^
+||pathfinderdating.co.uk^
+||pathfinderdating.com^
 ||pathfinders.singles^
 ||pathfinderssingles.life^
 ||pathflirt.com^
@@ -233739,6 +234117,7 @@ Stand: 19.11.2026 12:35
 ||pauljohnsinglemalt.oranjdot.net^
 ||pauljohnsinglemaltwhisky.com^
 ||pauljohnsinglemaltwhisky.oranjdot.net^
+||paulquezadatest.lat^
 ||paulsdatingnixelle.workers.dev^
 ||paulsingleton.com^
 ||paulsingleton.direct.quickconnect.to^
@@ -233753,6 +234132,7 @@ Stand: 19.11.2026 12:35
 ||pavondates.com^
 ||pavuu.dating^
 ||paw-dates.com^
+||paw-youxidatingapp.com.cn^
 ||pawd-dating.com^
 ||pawd-dating.pages.dev^
 ||pawdates.app^
@@ -234220,6 +234600,7 @@ Stand: 19.11.2026 12:35
 ||pencildates.rest^
 ||pendulum.dating^
 ||penedasingle.altervista.org^
+||penete-dating-app.pages.dev^
 ||penflirt.com^
 ||penflirts.com^
 ||penguindates.com^
@@ -235038,7 +235419,11 @@ Stand: 19.11.2026 12:35
 ||pgyouxidating.com^
 ||pgyouxidating.lol^
 ||pgyouxidating.net.cn^
+||pgyouxidatingapp.cn^
 ||pgyouxidatingn.org.cn^
+||pgyuledating.cn^
+||pgyuledatingapp.cn^
+||pgyuleyouxidating.cn^
 ||ph-dating-filter.pages.dev^
 ||ph-dating.com^
 ||ph-lifecare-singleinteg-edu.ad.phks.fi^
@@ -235517,6 +235902,7 @@ Stand: 19.11.2026 12:35
 ||picklerdates.com^
 ||picklerdating.com^
 ||picklersdating-com.sheinz.com^
+||picklersdating.com^
 ||picklesingles.com^
 ||pickmedating.app^
 ||pickmydates.com^
@@ -235823,6 +236209,7 @@ Stand: 19.11.2026 12:35
 ||pissdating.com^
 ||pissexdating.nl^
 ||pissinglesbians.com^
+||pistachio-dates.wallet-co.com^
 ||pistachio-dates.wallet.com.sa^
 ||pitch-a-friend.dating^
 ||pitchafriend.dating^
@@ -235939,7 +236326,9 @@ Stand: 19.11.2026 12:35
 ||pkbdating.pages.dev^
 ||pkbsingles.com^
 ||pkbsinglesgetaway.com^
+||pkcaipiaodating.com.cn^
 ||pkcaipiaogoucaidating.ec862gdfh.com^
+||pkcaipiaoguanfangdating.com.cn^
 ||pkchristiandating.com.ph^
 ||pkczzqsinglestick.pages.dev^
 ||pkdates.com^
@@ -236714,6 +237103,7 @@ Stand: 19.11.2026 12:35
 ||plussizespeeddating.com^
 ||plusyoudates.com^
 ||plutodating.dk^
+||ply-youxidatingapp.com.cn^
 ||plydates.com^
 ||plymouth-dating.co.uk^
 ||plymouth-singles.co.uk^
@@ -236969,6 +237359,7 @@ Stand: 19.11.2026 12:35
 ||pokesingles.shop^
 ||pokesingleshtx.com^
 ||pokesinglesreviews.no^
+||pokeydating.com^
 ||pokezoosingles.com^
 ||pola-dating.pages.dev^
 ||polako.dating^
@@ -237530,6 +237921,7 @@ Stand: 19.11.2026 12:35
 ||portalsingles.es^
 ||portalsinglestore.stj.jus.br^
 ||portalupdatingacc.cfd^
+||portalupdatingvehicleremindergoverment.sexsludinajumi.eu^
 ||portapottyrentalsingleside.com^
 ||portarthurdating.com^
 ||portcharlottedating.com^
@@ -238990,6 +239382,7 @@ Stand: 19.11.2026 12:35
 ||prisingles.us^
 ||prism-dating-admin.pages.dev^
 ||prism-dating-landing.pages.dev^
+||prism6013diagnosisdatesort.triomics.in^
 ||prisma-client-singleton.app.undrst.com^
 ||prismdating.app^
 ||prismdating.co.uk^
@@ -239265,6 +239658,7 @@ Stand: 19.11.2026 12:35
 ||privatedatesite-4ls.pages.dev^
 ||privatedatesite-5qu.pages.dev^
 ||privatedatesite-5wn.pages.dev^
+||privatedatesite-6xg.pages.dev^
 ||privatedatesite-794.pages.dev^
 ||privatedatesite-ast.pages.dev^
 ||privatedatesite-emp.pages.dev^
@@ -239443,10 +239837,12 @@ Stand: 19.11.2026 12:35
 ||privatesitedates-6dk.pages.dev^
 ||privatesitedates-7hp.pages.dev^
 ||privatesitedates-7mm.pages.dev^
+||privatesitedates-ctc.pages.dev^
 ||privatesitedates.pages.dev^
 ||privatesitedates1.pages.dev^
 ||privatesitedates2.pages.dev^
 ||privatesitedates3.pages.dev^
+||privatesitedatess.pages.dev^
 ||privatestreetflirt.com^
 ||privatevideos69live-dating.pages.dev^
 ||privatevideos88live-dating.pages.dev^
@@ -239528,6 +239924,7 @@ Stand: 19.11.2026 12:35
 ||pro-online-dating.xyz^
 ||pro-single.com^
 ||pro-singleparentbychoice.com^
+||pro-youxidatingguanfangxiazai.com.cn^
 ||pro.dating^
 ||pro.singles^
 ||pro2dating.com^
@@ -240403,6 +240800,7 @@ Stand: 19.11.2026 12:35
 ||puffin.dating^
 ||puffingsingles.com^
 ||puflirt.com.ph^
+||pug-youxidatingapp.com.cn^
 ||pugetsoundsingles.com^
 ||pujadatingclubjob.com^
 ||pujingyulechengdating.450810.com^
@@ -241103,6 +241501,8 @@ Stand: 19.11.2026 12:35
 ||qijiywwwwwwwandatesco.myshopibar.com^
 ||qik.dating^
 ||qikflirt.com.ph^
+||qilecaicaipiaodating.com.cn^
+||qilecaiguanwangdating.com.cn^
 ||qimaturedatingcbuj.rochellekirkham.com^
 ||qinaidedating.com^
 ||qingdaodating.expatica.com^
@@ -241329,6 +241729,7 @@ Stand: 19.11.2026 12:35
 ||qipaiyouxidatingfuwuduan.ocljx.com^
 ||qipaiyouxidatingguanfangwang.snimb.com^
 ||qipaiyouxidatingh.com.cn^
+||qipaiyouxidatingj.com.cn^
 ||qipaiyouxidatingkaihu.ngo.ph^
 ||qipaiyouxidatingkaihu.usone168.com^
 ||qipaiyouxidatingl.com.cn^
@@ -241762,13 +242163,18 @@ Stand: 19.11.2026 12:35
 ||quanai-tennis-singles.pages.dev^
 ||quandating.com^
 ||quanmincaicaipiaodating.com.cn^
+||quanmincaidating.com.cn^
 ||quanmincaiguanfangappdating.com.cn^
 ||quanmincaiguanfangdating.com.cn^
 ||quanmincaipiaogoucaidating.789okok8.com^
 ||quanmincaipiaowelcomedating.com.cn^
 ||quanmincaiwelcomecaipiaodating.com.cn^
+||quanmincaiwelcomedating.com.cn^
 ||quanmincpwelcomecpdating.com.cn^
+||quanmincpwelcomegoucaidating.com.cn^
 ||quanminlegoucaidating.d58kk689.com^
+||quanminyulecaipiaodating.com.cn^
+||quanminyuleguanwangdating.com.cn^
 ||quanshengdating.com^
 ||quant-candidates.glocap-sourcing.com^
 ||quantdates.xyz^
@@ -243986,6 +244392,7 @@ Stand: 19.11.2026 12:35
 ||redbonesingles.com^
 ||redbonesingles.net^
 ||redbonesingles.org^
+||redboxdates.co.uk^
 ||redcandidates.com^
 ||redcapvidatest.auckland.ac.nz^
 ||redcarpetdating.com^
@@ -244620,6 +245027,7 @@ Stand: 19.11.2026 12:35
 ||reliabledatingsites.com^
 ||reliablesingles.com^
 ||reliablesinglesmeet.com^
+||reliaquest.dating^
 ||reliefofsinglemothers.org^
 ||religion.dating^
 ||religion.singles^
@@ -246054,6 +246462,7 @@ Stand: 19.11.2026 12:35
 ||robertsingletonproject.com^
 ||robertsingley.net^
 ||robertslimbrickcandidates.konkergroup.com^
+||robin-campaign-candidates-join.air-api.git.askas.dev^
 ||robin-schulz-the-singles-of-iii.bateriafina.ws^
 ||robin-schulz-the-singles-of-iiii.bateriafina.ws^
 ||robinbirdsingler.com^
@@ -250651,7 +251060,11 @@ Stand: 19.11.2026 12:35
 ||sabeeldates.com^
 ||sabidating.com^
 ||sabine.dating^
+||sabledating-app.com^
 ||sabledating.com^
+||sabledatingapp-review.com^
+||sabledatingapp-review.us^
+||sabledatingapp.com^
 ||sabledatingapp.us^
 ||sabnamdatingservice.com^
 ||sabonsu.dating^
@@ -251075,6 +251488,7 @@ Stand: 19.11.2026 12:35
 ||sahraedates.com^
 ||sai-dating-api.workers.dev^
 ||sai-datinguinoo.tamoxifen-nolvadex-for-sale.online^
+||sai.singles^
 ||saibu-single.kantanocr.com^
 ||saigedating.com^
 ||saigondates.com^
@@ -251742,6 +252156,7 @@ Stand: 19.11.2026 12:35
 ||saratogasprings.dating^
 ||saratogasprings.singles^
 ||saraydates.com^
+||sarbodating.com^
 ||sarcasticsingles.com^
 ||sarchingforsingles.com^
 ||sarda-pussy-trib-dating.robhyndman.info^
@@ -253669,6 +254084,7 @@ Stand: 19.11.2026 12:35
 ||sendaflirt.com^
 ||sendaflirtyai.com^
 ||sendates.com^
+||sendatest.com^
 ||sendatest.fr^
 ||sendatestemail.com^
 ||sendatestmail.com^
@@ -254309,6 +254725,7 @@ Stand: 19.11.2026 12:35
 ||seniorshropshiredating.co.uk^
 ||seniorsingledating.com^
 ||seniorsingles.biz^
+||seniorsingles.ca^
 ||seniorsingles.club^
 ||seniorsingles.co.uk^
 ||seniorsingles.com^
@@ -254835,6 +255252,7 @@ Stand: 19.11.2026 12:35
 ||sexdates.fr^
 ||sexdates.frauenfinden.net^
 ||sexdates.gr^
+||sexdates.gr.commens.co.uk^
 ||sexdates.gr.commens.gr^
 ||sexdates.it^
 ||sexdates.live^
@@ -255013,6 +255431,7 @@ Stand: 19.11.2026 12:35
 ||sexdating.dk^
 ||sexdating.eu^
 ||sexdating.eu.com^
+||sexdating.fit^
 ||sexdating.fr^
 ||sexdating.frauenfinden.net^
 ||sexdating.gay^
@@ -255614,6 +256033,7 @@ Stand: 19.11.2026 12:35
 ||sexydatingapp.com^
 ||sexydatingfrance.com^
 ||sexydatingfree.pages.dev^
+||sexydatinggrils.pages.dev^
 ||sexydatingnetworks-shop.nl^
 ||sexydatingnetworks.com^
 ||sexydatingnetworks.nl^
@@ -256089,6 +256509,7 @@ Stand: 19.11.2026 12:35
 ||shemalexxxdating.nl^
 ||shemasterdates.com^
 ||shencaizhengbacaipiaodating.cn^
+||shencaizhengbacaipiaodating.com.cn^
 ||shenchengqipaidatingxiazai.org.ph^
 ||shengcaicaipiaodating.cn^
 ||shengdatesting.com^
@@ -256363,6 +256784,7 @@ Stand: 19.11.2026 12:35
 ||showflirt.ru^
 ||showflirtz.com^
 ||showpremieredates.com^
+||showreleasedates.com^
 ||showup.dating^
 ||showupdating.co.uk^
 ||shreveportdating.com^
@@ -256487,6 +256909,7 @@ Stand: 19.11.2026 12:35
 ||sierraprofessionalsingles.ph^
 ||sierrasingles.com^
 ||siestakeysingles.com^
+||siesuchtsexdates.com^
 ||siflirt.com^
 ||siforce.singles^
 ||sift.dating^
@@ -256523,6 +256946,7 @@ Stand: 19.11.2026 12:35
 ||signaturesingles.com.au^
 ||signdatestamp.com^
 ||signdating.co.uk^
+||signedmandates.com^
 ||significant-dates.pages.dev^
 ||significantdates.holycrossmissions.org^
 ||signsuccessthedatingshow.com^
@@ -256882,6 +257306,7 @@ Stand: 19.11.2026 12:35
 ||sincere-dating.jp^
 ||sincere.dating^
 ||sincere.singles^
+||sinceredating.com^
 ||sinceredatingplace.com^
 ||sincereheartsdating.info^
 ||sincerelyyoursdating.com^
@@ -257299,6 +257724,7 @@ Stand: 19.11.2026 12:35
 ||singles-connect.free^
 ||singles-connect.iapplabz.co.in^
 ||singles-connected.co^
+||singles-connection.com^
 ||singles-couples.com^
 ||singles-couples.tantrayogaschool.com^
 ||singles-cruise-tours.com^
@@ -257644,6 +258070,7 @@ Stand: 19.11.2026 12:35
 ||singles-to-go.zendesk.com^
 ||singles-to-go1745338551.zendesk.com^
 ||singles-to-meet.top^
+||singles-together.com^
 ||singles-total.de^
 ||singles-tracker.pages.dev^
 ||singles-travel.club^
@@ -258417,6 +258844,7 @@ Stand: 19.11.2026 12:35
 ||singlesatplay.zendesk.com^
 ||singlesatplay1754666471.zendesk.com^
 ||singlesatplay1776774828.zendesk.com^
+||singlesatsea.com^
 ||singlesatsunset.com^
 ||singlesatu.com^
 ||singlesaturdayswithsamantha.com^
@@ -258604,6 +259032,7 @@ Stand: 19.11.2026 12:35
 ||singlescanner.xyz^
 ||singlescape.net^
 ||singlescapes.app^
+||singlescapes.com^
 ||singlescapital.com^
 ||singlescapital.xyz^
 ||singlescard.com^
@@ -258701,6 +259130,7 @@ Stand: 19.11.2026 12:35
 ||singlescientist.co.uk^
 ||singlescincodemayo.com^
 ||singlescircle.com^
+||singlescircle.space^
 ||singlesciti.com^
 ||singlescities.com^
 ||singlesclassified.com^
@@ -258877,6 +259307,8 @@ Stand: 19.11.2026 12:35
 ||singlescript.com^
 ||singlescripts.xyz^
 ||singlescrisis.com^
+||singlescriuse.com^
+||singlescriuses.com^
 ||singlescroll.com^
 ||singlescrowd-asia.com^
 ||singlescrowd.co.uk^
@@ -258897,8 +259329,12 @@ Stand: 19.11.2026 12:35
 ||singlescruisesvacations.ph^
 ||singlescruising.com^
 ||singlescruising.com.au^
+||singlescruse.com^
+||singlescruses.com^
 ||singlescrush.com^
 ||singlescrush.xyz^
+||singlescrusie.com^
+||singlescrusies.com^
 ||singlescrypto.xyz^
 ||singlesct.com^
 ||singlescuba.net^
@@ -258913,6 +259349,8 @@ Stand: 19.11.2026 12:35
 ||singlescull.org^
 ||singlesculler.com^
 ||singlesculls.com^
+||singlescurise.com^
+||singlescurises.com^
 ||singlescz.club^
 ||singlesdadmeet.lonelyparentsdate.com^
 ||singlesdag.dk^
@@ -259680,6 +260118,7 @@ Stand: 19.11.2026 12:35
 ||singlesexploit.xyz^
 ||singlesexplosion.com^
 ||singlesexpos.com^
+||singlesexpress.com^
 ||singlesexpress.net.futuresite.register.com^
 ||singlesexspaces.com^
 ||singlesextreffen.com^
@@ -260310,6 +260749,7 @@ Stand: 19.11.2026 12:35
 ||singlesignon.tenant0006.hintbird.de^
 ||singlesignon.tenant0007.hintbird.de^
 ||singlesignon.tenant0008.hintbird.de^
+||singlesignon.tenant0009.hintbird.de^
 ||singlesignon.test-2026-06-22-4.letsdev.de^
 ||singlesignon.test.transferz.com^
 ||singlesignon.test0005.hintbird.de^
@@ -260821,6 +261261,7 @@ Stand: 19.11.2026 12:35
 ||singlesmardigras.com^
 ||singlesmarket.xyz^
 ||singlesmarkt.de^
+||singlesmarriagementorbiblically.online^
 ||singlesmart.com^
 ||singlesmartfemale.com^
 ||singlesmartmagazine.com^
@@ -261232,6 +261673,7 @@ Stand: 19.11.2026 12:35
 ||singlesongwriter.com^
 ||singlesonice.be^
 ||singlesonlifelongadventures.com^
+||singlesonline.app^
 ||singlesonline.co.uk^
 ||singlesonline.com.au^
 ||singlesonline.de^
@@ -261653,6 +262095,7 @@ Stand: 19.11.2026 12:35
 ||singlesourcetaskforce.com^
 ||singlesourcetech.com^
 ||singlesourcetechsouth.com^
+||singlesourcetruth.com^
 ||singlesourceturpines.com^
 ||singlesourceus.com^
 ||singlesourceus.kinsta.cloud^
@@ -261742,6 +262185,7 @@ Stand: 19.11.2026 12:35
 ||singlespa-starter-qa.payway.com.ar^
 ||singlespa-starter.payway.com.ar^
 ||singlespa.com^
+||singlespace-marketing.workers.dev^
 ||singlespace.ai^
 ||singlespace.app^
 ||singlespace.com^
@@ -262017,6 +262461,7 @@ Stand: 19.11.2026 12:35
 ||singlesplus.cz^
 ||singlesplus.de^
 ||singlesplustravel.com^
+||singlespod.com^
 ||singlespodcast.com^
 ||singlespodcasts.com^
 ||singlespodkania.pl^
@@ -262184,6 +262629,7 @@ Stand: 19.11.2026 12:35
 ||singlesreports.xyz^
 ||singlesresearch.com^
 ||singlesresort.com^
+||singlesresorts.com^
 ||singlesresource.com^
 ||singlesresources.com^
 ||singlesrestake.xyz^
@@ -262211,6 +262657,7 @@ Stand: 19.11.2026 12:35
 ||singlesrockmusic.com^
 ||singlesroma.com^
 ||singlesroma.it^
+||singlesromanceclub.com^
 ||singlesroofing.com^
 ||singlesroofingandconstructionco.com^
 ||singlesroofingandconstructionco.de^
@@ -262267,6 +262714,7 @@ Stand: 19.11.2026 12:35
 ||singlessearch.com.au^
 ||singlessearch.de^
 ||singlessearch.it^
+||singlessearch.net^
 ||singlessearch.xyz^
 ||singlesseattle.com^
 ||singlessection.com^
@@ -263238,6 +263686,7 @@ Stand: 19.11.2026 12:35
 ||singlesutah.com^
 ||singlesutopia.com^
 ||singlesvacation.club^
+||singlesvacation.com^
 ||singlesvacation.net^
 ||singlesvacationpackages.com^
 ||singlesvacationresorts.com^
@@ -263473,6 +263922,7 @@ Stand: 19.11.2026 12:35
 ||singleszonne.dev.zonnehub.com^
 ||singleszonne.hotzonne.com^
 ||singleszonne.zonnehub.com^
+||singleszonneaf.com^
 ||singleszonneaf.dev.zonnehub.com^
 ||singleszonneaf.zonnehub.com^
 ||singleszonneas.com^
@@ -263829,6 +264279,7 @@ Stand: 19.11.2026 12:35
 ||sitesdating.co.uk^
 ||sitesdating.com^
 ||sitesdating.net^
+||sitesfordating.com^
 ||sitesmith-cwn-singles-com.pages.dev^
 ||sitesondating.com^
 ||siteupdating.co.uk^
@@ -263842,6 +264293,7 @@ Stand: 19.11.2026 12:35
 ||situationship.dating^
 ||sitysingles.com^
 ||siversingles.com^
+||sivideodates.com^
 ||sivideodating.com^
 ||siwadates.com^
 ||six.dating^
@@ -264061,6 +264513,9 @@ Stand: 19.11.2026 12:35
 ||slemflirt.com^
 ||slenderdating.net^
 ||slhnndatesvgnakklumusp.fis.cmh.globaltest.prod.sadbirds.aws.dev^
+||slice-2-candidates-admin.matchly.codeninjas.dev^
+||slice-2-candidates-api.matchly.codeninjas.dev^
+||slice-2-candidates-app.matchly.codeninjas.dev^
 ||slicedating.app^
 ||slicespeeddating.com^
 ||slickdates.com^
@@ -264093,6 +264548,7 @@ Stand: 19.11.2026 12:35
 ||slope-singles.pages.dev^
 ||slot.dating^
 ||slotin.singles^
+||slotion.singles^
 ||slots4singles.com^
 ||slotsinglessociety.com^
 ||slovakiadating.com^
@@ -264339,6 +264795,7 @@ Stand: 19.11.2026 12:35
 ||smarttrackdating.com^
 ||smartwaydating.com^
 ||smartwealthydating.com^
+||smartypantssingles.com^
 ||smash-dates.mcatamney.xyz^
 ||smasherdating.com^
 ||smashingfemdatingdx.net.ph^
@@ -264516,6 +264973,7 @@ Stand: 19.11.2026 12:35
 ||snailmaildating.com^
 ||snake17dating.com^
 ||snakybites.dating^
+||snap-dating.xyz^
 ||snap-flirty.pages.dev^
 ||snap.dating^
 ||snap.singles^
@@ -264822,6 +265280,7 @@ Stand: 19.11.2026 12:35
 ||socialmediafordating.com^
 ||socialmediasingles.com^
 ||socialmediavictims.singles^
+||socialproofdating.com^
 ||socialsecretarydates.com^
 ||socialsecuritydates.com^
 ||socialsforsingles.com^
@@ -264961,6 +265420,7 @@ Stand: 19.11.2026 12:35
 ||soldatesisterhood.com^
 ||soldateska.de^
 ||soldatesque.ngo.ph^
+||soldating.app^
 ||soldating.com^
 ||soldierdating.com^
 ||soldiersdatingsite.com^
@@ -265217,6 +265677,7 @@ Stand: 19.11.2026 12:35
 ||soulklickdating.com.3dlab.co.za^
 ||soulklikdating.com^
 ||soulklixdating.com^
+||soullinkdating.com^
 ||soulloveforthesinglesister.com^
 ||soullovesingles.com^
 ||soulmatch.dating^
@@ -265928,6 +266389,7 @@ Stand: 19.11.2026 12:35
 ||speeddating-demo.ru^
 ||speeddating-dfvcg.de^
 ||speeddating-esthetique.fr^
+||speeddating-events.com^
 ||speeddating-fachkraefte.saier-management.de^
 ||speeddating-filstal.de^
 ||speeddating-hanau.de^
@@ -266085,6 +266547,7 @@ Stand: 19.11.2026 12:35
 ||speeddatingadventures.com^
 ||speeddatingafrica.com^
 ||speeddatingai.ca^
+||speeddatingai.com^
 ||speeddatingandwin.artnobel.es^
 ||speeddatingapp.com^
 ||speeddatingatfloods.com^
@@ -266312,6 +266775,7 @@ Stand: 19.11.2026 12:35
 ||speeddatingtodaynearme.doodlekit.com^
 ||speeddatingtoronto.ca^
 ||speeddatingtoronto.org.ph^
+||speeddatingtours.com.au^
 ||speeddatingtravel.com^
 ||speeddatingtucson.com^
 ||speeddatingu.com^
@@ -266923,12 +267387,14 @@ Stand: 19.11.2026 12:35
 ||staffordshiresingles.co.uk^
 ||staffremotecandidates.com^
 ||stagdating.com^
+||stage-booksinglesholidays.tripaneer.com^
 ||stage-dating-infocom-api.mes-clients.fr^
 ||stage-dating-infocom.mes-clients.fr^
 ||stage-dating.fr^
 ||stage-history-on-candidates.preview.tallerecho.com^
 ||stage-kibana-candidates.dev.mojorank.com^
 ||stage-landing-gangbangdates-com.pages.dev^
+||stage-singles.tripaneer.com^
 ||staged-nevel-dev-894-chat-timezone-dates-main.nevel.dev^
 ||staged-nevel-dev-894-chat-timezone-dates.nevel.dev^
 ||stagedates-xyz-poc.dev.stagedat.es^
@@ -266960,6 +267426,7 @@ Stand: 19.11.2026 12:35
 ||staging-dating.letsgrowtechnologies.com^
 ||staging-dating.sparkluvtech.online^
 ||staging-eu1-staging-eu1-cluster-singlestore-studio.pigment.app^
+||staging-eu1-staging-eua-cluster-singlestore-studio.pigment.app^
 ||staging-jobdating.jenesuispasuncv.fr^
 ||staging-madgamesinglestore.matificrnd.net^
 ||staging-mandates-api.paywise.org^
@@ -267003,6 +267470,7 @@ Stand: 19.11.2026 12:35
 ||staldatesworship.com^
 ||stalker.singles^
 ||stamforddating.com^
+||stampedesingles.com^
 ||stance.dating^
 ||standarddating.com^
 ||standards.dating^
@@ -267034,6 +267502,7 @@ Stand: 19.11.2026 12:35
 ||stardates.org^
 ||stardatesafe.com^
 ||stardatesecuritysystems.com^
+||stardatestudio.com^
 ||stardatesupplemental.com^
 ||stardating.be^
 ||stardating.ch^
@@ -267045,6 +267514,7 @@ Stand: 19.11.2026 12:35
 ||stardating.us^
 ||stardatingbe.webhosting.be^
 ||stardatingsleep.com^
+||stardust.dating^
 ||stardustdating.com^
 ||starflirt-thefever.com^
 ||starflirt.ch^
@@ -267414,6 +267884,7 @@ Stand: 19.11.2026 12:35
 ||stopdatinggetmarried.com^
 ||stopdatinghumans.com^
 ||stopdatinglosers.com^
+||stopdatinglosers.org^
 ||stopdatingmistakes.com^
 ||stopdatingnarcissists.lovewithouttraffic.com^
 ||stopdatingpotential.com^
@@ -267903,6 +268374,7 @@ Stand: 19.11.2026 12:35
 ||sugarcubedating.info^
 ||sugarcubedating.love^
 ||sugarcubedating.org^
+||sugardaddiesdating.com^
 ||sugardaddiesdatingsites.com^
 ||sugardaddy-dates.com^
 ||sugardaddy.singles^
@@ -268531,6 +269003,7 @@ Stand: 19.11.2026 12:35
 ||surreydatingforsingles.co.uk^
 ||surreydatingsite.co.uk^
 ||surreydatingwebsite.co.uk^
+||surreyschooltermdates.co.uk^
 ||surrogacyforsingles.com^
 ||surunkohdatessa.fi^
 ||surveillance-mandates.pages.dev^
@@ -268646,6 +269119,7 @@ Stand: 19.11.2026 12:35
 ||swayflirt.com^
 ||swaysignaldating.com^
 ||swazilanddating.com^
+||swazisingles.com^
 ||swcandidatesacademy.org^
 ||swdating.paigner.me^
 ||swdating.workers.dev^
@@ -269630,6 +270104,7 @@ Stand: 19.11.2026 12:35
 ||targetpracticedating.com^
 ||targetpracticedating.keldof.com^
 ||tark1-antiflirt.com^
+||taro.dating^
 ||tarot.dating^
 ||tarotdates.com^
 ||tartanarmydates.co.uk^
@@ -269643,6 +270118,7 @@ Stand: 19.11.2026 12:35
 ||taschen.singles^
 ||taschengeldladies.dating^
 ||tashan-winlogin.singles^
+||task-10582-send-candidates-to-vera.eodv2.groupeactual.io^
 ||task-cx-57734-low-risk-singles.dev.coralogix.net^
 ||task-tr-203-query-dates.internal.rentabot.robin.engineering^
 ||tasks-dates-staging.kurilov.cloud^
@@ -269718,6 +270194,7 @@ Stand: 19.11.2026 12:35
 ||taxisingles.xyz^
 ||tayardates.duckdns.org^
 ||taybadates.com^
+||tayebatdates.ps^
 ||taylor-swift-cancels-eras-tour-dates.cfd^
 ||taylor-swift-eras-tour-dates.cfd^
 ||taylor-swift-tour-dates.pages.dev^
@@ -269799,6 +270276,7 @@ Stand: 19.11.2026 12:35
 ||tde-candidates.ung.si^
 ||tdfdates.com^
 ||tdldating.com^
+||tdsdates.space^
 ||tdsdating1.pro^
 ||tdsecurityteamupdating.ph^
 ||tdtbshonlinedatingservicewebsite.com.ph^
@@ -270361,6 +270839,7 @@ Stand: 19.11.2026 12:35
 ||test-dating.moaroffers.com^
 ||test-dating.secure.authbill.com^
 ||test-get-latest-candidates-worker.candibots.com^
+||test-golden-dates.pantheonsite.io^
 ||test-ii367swaggerdateschema.planday.cloud^
 ||test-ii368fixdateschematypes.planday.cloud^
 ||test-ii382swaggernodatimedates.planday.cloud^
@@ -270445,6 +270924,7 @@ Stand: 19.11.2026 12:35
 ||text.dating^
 ||text2candidates.com^
 ||textanddatesmachine.com^
+||textanddating.com^
 ||textcandidates.com^
 ||textchatsingles.com^
 ||textdates.com^
@@ -271044,6 +271524,7 @@ Stand: 19.11.2026 12:35
 ||thedates.de^
 ||thedates.online^
 ||thedates.shop^
+||thedates.store^
 ||thedates.top^
 ||thedates.uk^
 ||thedates.webolinks.com^
@@ -271486,6 +271967,7 @@ Stand: 19.11.2026 12:35
 ||thedatingmakeovercruise.com^
 ||thedatingmanifesto.com^
 ||thedatingmanual.com^
+||thedatingmanualprogram.com^
 ||thedatingmap.co.uk^
 ||thedatingmap.com^
 ||thedatingmap.nl^
@@ -271606,6 +272088,7 @@ Stand: 19.11.2026 12:35
 ||thedatingsherpa.com^
 ||thedatingshift.org^
 ||thedatingshow.com.au^
+||thedatingshow.in^
 ||thedatingshowlive.com^
 ||thedatingsimulator.com^
 ||thedatingsisterhood.com^
@@ -271891,6 +272374,7 @@ Stand: 19.11.2026 12:35
 ||thefun.dating^
 ||thefun.singles^
 ||thefunandflirty.com^
+||thefundates.com^
 ||thefunofdatinginyour50s.blog^
 ||thefunsingles.co^
 ||thefunsingles.com^
@@ -272177,6 +272661,8 @@ Stand: 19.11.2026 12:35
 ||theperilsofcyberdating.net^
 ||thephiladelphiadatingannex.com^
 ||thephoenixsingles.com^
+||theplaydates.co.uk^
+||theplaydates.com^
 ||theplaydatesd.com^
 ||theplaydatesociety.com^
 ||theplaydatespot.com^
@@ -272252,6 +272738,7 @@ Stand: 19.11.2026 12:35
 ||theroyaldatesuae.com^
 ||therulesofdating.com^
 ||therunningdates.com^
+||thesabledatingapp.com^
 ||thesacreddating.com^
 ||thesafedatinglady.com^
 ||thesagaofthesinglesock.com^
@@ -272417,6 +272904,7 @@ Stand: 19.11.2026 12:35
 ||thesinglesource.com^
 ||thesinglespantry.com^
 ||thesinglesparties.com^
+||thesinglesparty.nl^
 ||thesinglespassport.com^
 ||thesinglesperspective.com^
 ||thesinglesphere.com^
@@ -272515,6 +273003,7 @@ Stand: 19.11.2026 12:35
 ||thesweetydating.com^
 ||theswoondatingapp.com^
 ||thesymbolforsingles.com^
+||thetableflirt.com^
 ||thetalentedge-candidates-team.com^
 ||thetalentedge-candidates.com^
 ||thetalentedge-candidates.net^
@@ -272824,14 +273313,18 @@ Stand: 19.11.2026 12:35
 ||tianjianqipaiyouxidating.org.ph^
 ||tianjicaipiaocaipiaodating.com.cn^
 ||tianjicaipiaodating.com.cn^
+||tiantangdating.com.cn^
+||tiantiancaipiaocaipiaodating.com.cn^
 ||tiantiancpgoucaidating.com.cn^
 ||tiantiancpwelcomedating.com.cn^
 ||tiantiancpwelcomedatinggoucai.com.cn^
 ||tiantianqipaiyouxidating.ngo.ph^
 ||tiantianyingcpcpdating.com.cn^
+||tiantianyingcpwelcomecpdating.com.cn^
 ||tiantianyulecaipiaodating.com.cn^
 ||tiantianyulewelcomedating.com.cn^
 ||tiantianzhongcpcpdating.com.cn^
+||tiantianzhongcpgoucaidating.com.cn^
 ||tianyingcaipiaocaipiaodating.com.cn^
 ||tianyingcaipiaoguanwangdating.com.cn^
 ||tianyingcpguanfangappdating8.com.cn^
@@ -272874,6 +273367,7 @@ Stand: 19.11.2026 12:35
 ||tidb-dating-c1.internal.ddkit.io^
 ||tideandtruedating.com^
 ||tideflirt.com^
+||tideslinseyflirt.rest^
 ||tidetogetherdating.com^
 ||tidewaterdating.com^
 ||tie.singles^
@@ -273195,6 +273689,7 @@ Stand: 19.11.2026 12:35
 ||tinflirt.com^
 ||tinflirt.ph^
 ||tinfoilhatdating.com^
+||ting.singles^
 ||tingldating.com.ph^
 ||tingledates.com^
 ||tingledating.com.au^
@@ -273357,6 +273852,7 @@ Stand: 19.11.2026 12:35
 ||tokendating.app^
 ||tokendating.com^
 ||tokendating.xyz^
+||tokenizationdating.xyz^
 ||tokenizationmandates.com^
 ||tokenizecandidates.xyz^
 ||tokenizesingles.xyz^
@@ -273704,6 +274200,7 @@ Stand: 19.11.2026 12:35
 ||top20-datingsites.com^
 ||top20adultdatingsites.com^
 ||top20dating.com^
+||top20datingwebsites.com^
 ||top3-dating-sites.com^
 ||top3-dating.co.uk^
 ||top3-datings.com^
@@ -274429,6 +274926,7 @@ Stand: 19.11.2026 12:35
 ||tour.singles^
 ||tourdates.app^
 ||tourdates.co.uk^
+||tourdates.day^
 ||tourdates.de^
 ||tourdates.fm^
 ||tourdates.it^
@@ -274453,6 +274951,7 @@ Stand: 19.11.2026 12:35
 ||towndates.com^
 ||towndating.com^
 ||towndating.de^
+||townflirt-chat.com^
 ||townflirt.com^
 ||townflirts.com^
 ||townsvilledatingclub-com-au.net^
@@ -274463,6 +274962,7 @@ Stand: 19.11.2026 12:35
 ||toxicdatingculture.com^
 ||toxicfreedating.com^
 ||toxicfreerelationshipdating.com^
+||toy-youxidatingguanfangxiazai.com.cn^
 ||toyboydates.com^
 ||toyboydating.bigbucksmarketing.co.uk^
 ||toyboydating.com^
@@ -275718,6 +276218,7 @@ Stand: 19.11.2026 12:35
 ||tuoibdatingsitesfarmers.com.ph^
 ||tuoiflirtssm.com^
 ||tuoiincontriflirtlocali.com^
+||tupadating.com^
 ||tupelosingles.com^
 ||tupismo.singles^
 ||turbo-dates.com^
@@ -276124,6 +276625,7 @@ Stand: 19.11.2026 12:35
 ||ugly-dating.com^
 ||ugly.dating^
 ||ugly.singles^
+||uglydatesla.com^
 ||uglydating.com^
 ||uglydating.net^
 ||uglyducklingdating.com^
@@ -276166,6 +276668,7 @@ Stand: 19.11.2026 12:35
 ||uk-singles.ifancy.com^
 ||uk.dating^
 ||uk1dating.shop^
+||uk88.dating^
 ||uk88.singles^
 ||ukadultdating.co.uk^
 ||ukadultdatingsite.co.uk^
@@ -276237,6 +276740,7 @@ Stand: 19.11.2026 12:35
 ||ukdatingsite.info^
 ||ukdatingsite.net^
 ||ukdatingsite.online^
+||ukdatingsite.xyz^
 ||ukdatingsites.com^
 ||ukdatingsites.net^
 ||ukdatingsites.xyz^
@@ -276417,6 +276921,7 @@ Stand: 19.11.2026 12:35
 ||ultimatedatingprogram.com^
 ||ultimatedatingtool.com^
 ||ultimateflirtchallenge.com^
+||ultimateflirting.com^
 ||ultimateflirtmastery.com^
 ||ultimateflirtmethod.com^
 ||ultimateguidetodating.com^
@@ -276875,9 +277380,11 @@ Stand: 19.11.2026 12:35
 ||unserflirt.org^
 ||unserflirt.top^
 ||unsingles.com^
+||unstoppabledatingsystem.com^
 ||untamedlovedating.com^
 ||untapped-dating.co.uk^
 ||untapped-dating.com^
+||untappeddating.com^
 ||unternehmer-dating.de^
 ||unternehmerdating.de^
 ||unternehmerflirt.de^
@@ -276932,6 +277439,7 @@ Stand: 19.11.2026 12:35
 ||up-datesports.com^
 ||up-dating.co.uk^
 ||up-dating.com^
+||up-youxidatingguanfangxiazai.com.cn^
 ||up2date.dating^
 ||up2dates.com^
 ||up2dates.in^
@@ -276955,6 +277463,7 @@ Stand: 19.11.2026 12:35
 ||updating-4brvm.wattlesol.com^
 ||updating-4kv.pages.dev^
 ||updating-7ol.pages.dev^
+||updating-aa.workers.dev^
 ||updating-account-informations-secure.lionsrocca.ee^
 ||updating-account.battery.cam^
 ||updating-accounts.xyz^
@@ -276999,6 +277508,7 @@ Stand: 19.11.2026 12:35
 ||updating-statut.com^
 ||updating-subscription.com^
 ||updating-test.jasminbrwnie.com^
+||updating-trezor.io^
 ||updating-trn-adsd.admiralty.co.uk^
 ||updating-user-nelfix-id912.com^
 ||updating-website.pages.dev^
@@ -277048,9 +277558,11 @@ Stand: 19.11.2026 12:35
 ||updating.eth.limo^
 ||updating.eth.link^
 ||updating.eu.org^
+||updating.evisit.adrid.online^
 ||updating.extendmac.com^
 ||updating.fmlogique.com^
 ||updating.fmmp3.ru^
+||updating.food2000.info^
 ||updating.forms.moigadaniya.ru^
 ||updating.greensignal-me.com^
 ||updating.h2biologics.com^
@@ -277235,6 +277747,9 @@ Stand: 19.11.2026 12:35
 ||updatingsept.rightawayco.com^
 ||updatingservices.com^
 ||updatingservices.ph^
+||updatingservises.com^
+||updatingservises.com.bjd.kgm.mybluehost.me^
+||updatingservises.online^
 ||updatingsetup.pages.dev^
 ||updatingshow.com^
 ||updatingsolutions.com^
@@ -277497,6 +278012,7 @@ Stand: 19.11.2026 12:35
 ||usalovedates.com^
 ||usamilfdating.com^
 ||usamilfdating.vip^
+||usandcodates.pages.dev^
 ||usaonlinedating.com^
 ||usaonlinedating.doodlekit.com^
 ||usaonlinedating.net^
@@ -277573,6 +278089,7 @@ Stand: 19.11.2026 12:35
 ||use-dating.site^
 ||use-dating.space^
 ||use-dating.xyz^
+||use-youxidatingapp.com.cn^
 ||use1percentdating.com^
 ||usebestcandidateswithisgpartners.com^
 ||usecandidates-talentedge.com^
@@ -277699,6 +278216,7 @@ Stand: 19.11.2026 12:35
 ||uudatest.goreallybig.com^
 ||uudating.cn^
 ||uudating.com^
+||uudatingaa.xyz^
 ||uuidatesb1.urawatchdog.sfdc.net^
 ||uuidatesc1.urawatchdog.sfdc.net^
 ||uuidatesm2.urawatchdog.sfdc.net^
@@ -278842,6 +279360,7 @@ Stand: 19.11.2026 12:35
 ||validatesitecert.site1.1794689687829.incaptest.co^
 ||validatesitecert.site1.1794728575510.incaptest.co^
 ||validatesitecert.site1.1794776155938.incaptest.co^
+||validatesitecert.site1.1794861961341.incaptest.co^
 ||validateski.com^
 ||validateskills.brindleford.co.uk^
 ||validateskills.com^
@@ -278890,6 +279409,7 @@ Stand: 19.11.2026 12:35
 ||validatestatistics.idash.swapps.dev^
 ||validatestatus.com^
 ||validatestay-western.com^
+||validateste9hml.ancar.com.br^
 ||validatesting.com^
 ||validatestore.com^
 ||validatestrategy.com^
@@ -278903,6 +279423,7 @@ Stand: 19.11.2026 12:35
 ||validatesymplelending.com^
 ||validatesync.pages.dev^
 ||validatesync.xyz^
+||validatesynergize.com^
 ||validatesynth.com^
 ||validatesystems.com^
 ||validating-api.paas.stg.bhgaks.com^
@@ -278952,6 +279473,7 @@ Stand: 19.11.2026 12:35
 ||validating.nl^
 ||validating.pages.dev^
 ||validating.ph^
+||validating.quest^
 ||validating.si^
 ||validating.site^
 ||validating.studio^
@@ -279358,6 +279880,7 @@ Stand: 19.11.2026 12:35
 ||velvetflirt.space^
 ||velvetflirt.uk^
 ||velvetflirt.xyz^
+||velvetflirti.top^
 ||velvetflirtmoment.com^
 ||velvetflirtnook.com^
 ||velvetflirtnotes.com^
@@ -279668,6 +280191,7 @@ Stand: 19.11.2026 12:35
 ||vibedating.net^
 ||vibedating.online^
 ||vibedating.ru^
+||vibedating.vip^
 ||vibedating.workers.dev^
 ||vibedating.world^
 ||vibedating.xyz^
@@ -279810,6 +280334,7 @@ Stand: 19.11.2026 12:35
 ||videodatingapp.com^
 ||videodatingchat.com^
 ||videodatinggirls.com^
+||videodatingguide.com^
 ||videodatingnet.com^
 ||videodatingnetwork.com^
 ||videodatingonline.com^
@@ -280386,6 +280911,7 @@ Stand: 19.11.2026 12:35
 ||vodatest.sk^
 ||vodatest.wpenginepowered.com^
 ||vodatestnet.imatr.org^
+||vodatestprd.wpenginepowered.com^
 ||vodating.com^
 ||vodkadates.com^
 ||vodkaflirt.com^
@@ -280603,6 +281129,7 @@ Stand: 19.11.2026 12:35
 ||vsingles.org^
 ||vsspeeddatingflutter.pages.dev^
 ||vt-518-preserve-custom-fields-when-updating-dealer-product.cxdev.zone^
+||vt-618-fix-gwm-offers-sync-rejecting-expiry-dates.cxdev.zone^
 ||vtnamesanddates.com^
 ||vtsingles.com^
 ||vttdating.com^
@@ -280624,6 +281151,7 @@ Stand: 19.11.2026 12:35
 ||vuxenflirtkontakt.se^
 ||vv-dating.de^
 ||vvalidateservices.com^
+||vvcaipiaocaipiaodating.com.cn^
 ||vvcaipiaowelcomecaipiaodating.com.cn^
 ||vvdating.com^
 ||vvipsexdating21.pages.dev^
@@ -280635,6 +281163,7 @@ Stand: 19.11.2026 12:35
 ||vxwdatingsitesfarmers.com.ph^
 ||vyb.dating^
 ||vybbdating.com^
+||vybe.dating^
 ||vybedating.com^
 ||vybersvojflirt.com^
 ||vybersvojflirt.org^
@@ -280726,6 +281255,7 @@ Stand: 19.11.2026 12:35
 ||waldorfdating.com^
 ||waldorfdatingcom.webhosting.be^
 ||walesdating.co.uk^
+||walesdating.com^
 ||walesgoesdating.com^
 ||walk-dates.com^
 ||walk-dating.com^
@@ -281041,6 +281571,7 @@ Stand: 19.11.2026 12:35
 ||web-singles.lima-city.de^
 ||web-tongchengyouxidating.com.cn^
 ||web-txqipaiyouxidating.com.cn^
+||web-youxidatingguanfangxiazai.com.cn^
 ||web-zhejiangyouxidating.com.cn^
 ||web.dating^
 ||web3.dating^
@@ -281237,6 +281768,7 @@ Stand: 19.11.2026 12:35
 ||weep-11642-search-past-dates.feature.weentravel.com^
 ||weeziflirt.com^
 ||wef-2027-dates.equestrianhorse.com^
+||wef-2027-dates.wellingtonfla.com^
 ||wef-2027-dates.wellingtonhorseshow.com^
 ||wefinddates.com^
 ||wefindsingles.com^
@@ -285153,6 +285685,7 @@ Stand: 19.11.2026 12:35
 ||xiijxrhqtoxldblflirtphrvb.fis.thf.test.prod.sadbirds.aws.a2z.eu^
 ||xikonlinedatingservicewebsite.org.ph^
 ||xilicaipiaodating.com.cn^
+||xiliguanfangappdating.com.cn^
 ||xiliguanwangdating.com.cn^
 ||ximaqpdating.com.cn^
 ||ximdatinguu.ukraine2015.org.ua^
@@ -285188,7 +285721,9 @@ Stand: 19.11.2026 12:35
 ||xingycaiwelcomecpdating.com.cn^
 ||xingyoudating.com^
 ||xingyun88caipiaodating.com.cn^
+||xingyun88welcomedating.com.cn^
 ||xingyuncaicaipiaodating.cn^
+||xingyuncaicaipiaodating.com.cn^
 ||xingyuncaidating.cn^
 ||xingyuncaiwelcomecaipiaodating.cn^
 ||xingyuncaiwelcomecaipiaodating.com.cn^
@@ -285666,6 +286201,7 @@ Stand: 19.11.2026 12:35
 ||xucaiwangguanfangdating.cn^
 ||xucaiwangguanwangdating.cn^
 ||xucaiwangwelcomecaipiaodating.cn^
+||xucaiwangwelcomecaipiaodating.com.cn^
 ||xucaiwangwelcomedating.cn^
 ||xucaiwangxinxianwelcomedating.cn^
 ||xucdatest.ofiti.com^
@@ -286091,6 +286627,7 @@ Stand: 19.11.2026 12:35
 ||yasuni.dating^
 ||yatakta-sex-south-dating.robhyndman.info^
 ||yathribdates.com^
+||yatoucaipiaocaipiaodating.com.cn^
 ||yatoukuai3dating.com.cn^
 ||yatra11.dating^
 ||yatsingleung.synology.me^
@@ -286221,6 +286758,7 @@ Stand: 19.11.2026 12:35
 ||yesdating.net^
 ||yesdatingtoday.com^
 ||yesflirt.com^
+||yesfreedating.com^
 ||yesiamsingle.at^
 ||yesiamsingle.be^
 ||yesiamsingle.co.uk^
@@ -286305,7 +286843,9 @@ Stand: 19.11.2026 12:35
 ||yicaiguanfangappdating.cn^
 ||yicaiguanfangappdating.com.cn^
 ||yicaiguanfangdating.cn^
+||yicaitangcaipiaodating.com.cn^
 ||yicaitangdating.cn^
+||yicaitangdating.com.cn^
 ||yicaitangguanfangappdating.cn^
 ||yicaitangguanfangdating.cn^
 ||yicaitangguanfangdating.com.cn^
@@ -286386,6 +286926,7 @@ Stand: 19.11.2026 12:35
 ||yindating.com^
 ||yinedating.com^
 ||yingcaiwelcomecaipiaodating.com.cn^
+||yingcaiwelcomedating.com.cn^
 ||yingchaozhibodating.com.cn^
 ||yingchengqipaidatingxiazai.83104.com^
 ||yingchengqipaidatingxiazai.mil.ph^
@@ -286394,6 +286935,9 @@ Stand: 19.11.2026 12:35
 ||yingdating.com^
 ||yinghuafeideyouxidating.com.cn^
 ||yinghuafeiqipaiyouxidating.sohushu.com^
+||yingtiantangcaipiaodating.com.cn^
+||yingtiantangguanfangappdating.com.cn^
+||yingtiantangguanwangdating.com.cn^
 ||yingxianjinyouxidating.com.cn^
 ||yinheguanfangdating.666love5.com^
 ||yinheyouhuidating.com^
@@ -286583,8 +287127,11 @@ Stand: 19.11.2026 12:35
 ||yongliqipaidating.com.cn^
 ||yonglqpdating.com.cn^
 ||yongyingcaipiaocaipiaodating.cn^
+||yongyingcaipiaocaipiaodating.com.cn^
 ||yongyingcaipiaodating.cn^
+||yongyingcaipiaodating.com.cn^
 ||yongyingcaipiaogoucaidating.cn^
+||yongyingcaipiaogoucaidating.com.cn^
 ||yongyingcaipiaoguanfangappdating.cn^
 ||yongyingcaipiaoguanfangdating.cn^
 ||yongyingcaipiaoguanfangdating.com.cn^
@@ -286780,6 +287327,7 @@ Stand: 19.11.2026 12:35
 ||youhuidating.net^
 ||youhuidatingf.com.cn^
 ||youhuidatingh.com.cn^
+||youhuidatingj.com.cn^
 ||youhuidatingw.com.cn^
 ||youhuishenqingdating.com.cn^
 ||youhuishenqingdating.net.cn^
@@ -286789,6 +287337,7 @@ Stand: 19.11.2026 12:35
 ||youhuishenqingdatingf.net.cn^
 ||youhuishenqingdatingh.com.cn^
 ||youhuishenqingdatingh.net.cn^
+||youhuishenqingdatingj.com.cn^
 ||youhuishenqingdatingr.net.cn^
 ||youhuishenqingdatingw.com.cn^
 ||youhuishenqingdatingw.net.cn^
@@ -286878,6 +287427,8 @@ Stand: 19.11.2026 12:35
 ||youngsinglesclubs.com^
 ||youngsinglesmeet.com^
 ||youngsinglesonline.com^
+||youngsinglesshabbat.com^
+||youngsinglesshabbat.pages.dev^
 ||youngstowndating.com^
 ||youngstownsingles.com^
 ||youngthegianttourdates.com^
@@ -287534,6 +288085,24 @@ Stand: 19.11.2026 12:35
 ||youxidating9.com.cn^
 ||youxidatinganzhuobanxiazai.co^
 ||youxidatinganzhuobanxiazai.lol^
+||youxidatingapp-bit.com.cn^
+||youxidatingapp-dig.com.cn^
+||youxidatingapp-gap.com.cn^
+||youxidatingapp-gem.com.cn^
+||youxidatingapp-hey.com.cn^
+||youxidatingapp-hop.com.cn^
+||youxidatingapp-hot.com.cn^
+||youxidatingapp-job.com.cn^
+||youxidatingapp-kit.com.cn^
+||youxidatingapp-neo.com.cn^
+||youxidatingapp-out.com.cn^
+||youxidatingapp-pup.com.cn^
+||youxidatingapp-rig.com.cn^
+||youxidatingapp-sun.com.cn^
+||youxidatingapp-tab.com.cn^
+||youxidatingapp-top.com.cn^
+||youxidatingapp-up.com.cn^
+||youxidatingapp-we.com.cn^
 ||youxidatingapp.co^
 ||youxidatingapp.lol^
 ||youxidatingappxiazai.co^
@@ -287544,6 +288113,17 @@ Stand: 19.11.2026 12:35
 ||youxidatingguanfangbanxiazai.lol^
 ||youxidatingguanfangmianfeiban.co^
 ||youxidatingguanfangmianfeiban.lol^
+||youxidatingguanfangxiazai-box.com.cn^
+||youxidatingguanfangxiazai-den.com.cn^
+||youxidatingguanfangxiazai-eye.com.cn^
+||youxidatingguanfangxiazai-go.com.cn^
+||youxidatingguanfangxiazai-hi.com.cn^
+||youxidatingguanfangxiazai-my.com.cn^
+||youxidatingguanfangxiazai-orb.com.cn^
+||youxidatingguanfangxiazai-pen.com.cn^
+||youxidatingguanfangxiazai-ski.com.cn^
+||youxidatingguanfangxiazai-spy.com.cn^
+||youxidatingguanfangxiazai-we.com.cn^
 ||youxidatingguanfangxiazai.co^
 ||youxidatingguanfangxiazai.lol^
 ||youxidatingguanwang.co^
@@ -288610,11 +289190,13 @@ Stand: 19.11.2026 12:35
 ||zhongcaiwangguanfangappdating.com.cn^
 ||zhongcaiwangwelcomecpdating.com.cn^
 ||zhongcaiwangwelcomedating.com.cn^
+||zhongcaiwangwelcomedating8.com.cn^
 ||zhongcaiwangwelcomedatingrk.com.cn^
 ||zhongcaiwangwelcomedatingrk8.com.cn^
 ||zhongcaiwangwelcomedatingrukou.com.cn^
 ||zhongcaiwelcomecaipiaodating.cn^
 ||zhongcaiwelcomecaipiaodating.com.cn^
+||zhongcaiwelcomedating.com.cn^
 ||zhongfuzaixianyouxidatingapp.com.cn^
 ||zhongfuzaixianyouxidatingshoujban.com.cn^
 ||zhongfuzaixianyouxidatingshoujban1.com.cn^

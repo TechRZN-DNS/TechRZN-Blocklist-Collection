@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 25.11.2026 00:23
+Stand: 25.11.2026 13:58
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -839,7 +839,6 @@ Stand: 25.11.2026 00:23
 ||babygluckde.com^
 ||babyglueck.shop^
 ||babylissde.de^
-||babymodepur.com^
 ||babynippon.com^
 ||babyroom-shop.com^
 ||babyschlafsack-abc.de^
@@ -1042,6 +1041,7 @@ Stand: 25.11.2026 00:23
 ||benecharm.com^
 ||benjamin-scheuer.de^
 ||bennet-bock.de^
+||benxi.info^
 ||benzinkanistertrichter.com^
 ||berando.de^
 ||beratify.de^
@@ -1432,6 +1432,7 @@ Stand: 25.11.2026 00:23
 ||bokermessershop.com^
 ||boldsports.de^
 ||bombardina.pl^
+||bomiafx.com^
 ||bonficegermany.myshopify.com^
 ||bongochat.de^
 ||bongochat.me^
@@ -1627,7 +1628,6 @@ Stand: 25.11.2026 00:23
 ||burgmoebel.de^
 ||burritos-hermanos.de^
 ||burton.co.at^
-||burtonrefund.info^
 ||burtonski.de^
 ||burtonsnowboard.de^
 ||buschorholzbau.ch^
@@ -2692,7 +2692,6 @@ Stand: 25.11.2026 00:23
 ||duftspraysale.com^
 ||dugshop.de^
 ||duhm-motorgerate.de^
-||duitpanas.top^
 ||dulontransport.com^
 ||dumanus.com^
 ||dunndavid.com^
@@ -3467,7 +3466,6 @@ Stand: 25.11.2026 00:23
 ||fischenladen.com^
 ||fischenmarken.com^
 ||fischerfashion.com^
-||fishingdaily.shop^
 ||fishingluresverkauf.com^
 ||fit-perfect.de^
 ||fitflopromania.com^
@@ -3665,7 +3663,6 @@ Stand: 25.11.2026 00:23
 ||furnihabit.com^
 ||furnishmyhome.ca^
 ||furniturej.shop^
-||furykms.com^
 ||fusenest-at.works^
 ||fussballarea.de^
 ||fussballm2c.com^
@@ -5091,6 +5088,7 @@ Stand: 25.11.2026 00:23
 ||iowautotrading.com^
 ||ipgatetrade.pro^
 ||iphone.quiztionnaire.biz^
+||iphonedefender.com^
 ||iprimmo.com^
 ||iptv-kaufen-germany.shop^
 ||iptvanbieter.at^
@@ -6337,6 +6335,7 @@ Stand: 25.11.2026 00:23
 ||marketxarproducts.shop^
 ||markierskibindungen.com^
 ||markt-shop.com^
+||markt.agency^
 ||markt.life^
 ||marktexpress.com^
 ||marktkarree-langenfeld.de^
@@ -7098,6 +7097,7 @@ Stand: 25.11.2026 00:23
 ||netherexpro.com^
 ||netlfix-at.com^
 ||netotrade.com^
+||netsugar.shop^
 ||nettimarkt.de^
 ||nettoautoteile.de^
 ||netzpro.shop^
@@ -7155,6 +7155,7 @@ Stand: 25.11.2026 00:23
 ||nflfanaticsstore.com^
 ||nger.de^
 ||nguebelipharma.com^
+||nhcol.com^
 ||nholz.com^
 ||nicechmk.shop^
 ||nicedoc.co^
@@ -7798,6 +7799,7 @@ Stand: 25.11.2026 00:23
 ||petrovia.de^
 ||petroya.de^
 ||petshops1.com^
+||petsimulator.live^
 ||pexotera.com^
 ||peykshop.com^
 ||pfannen-onshop.com^
@@ -8693,7 +8695,6 @@ Stand: 25.11.2026 00:23
 ||savetheduckde.com^
 ||savingstsunami.com^
 ||saynebeauty.com^
-||sberbank.www.www.id19045617.info^
 ||sbk-hoffmeyer.de^
 ||sboxcontainers.com^
 ||scarpaosterreich.at^
@@ -9035,6 +9036,7 @@ Stand: 25.11.2026 00:23
 ||skinqira.de^
 ||skinszone.net^
 ||skinwell.store^
+||skipped.vip^
 ||skirt-discount-store.shop^
 ||skisurfskate.com^
 ||skisurfsports.com^
@@ -9384,6 +9386,7 @@ Stand: 25.11.2026 00:23
 ||stattkaffeegottesdienst.de^
 ||statz-haushaltprodukte.de^
 ||staubsaugerrabatt.de^
+||steamcommnunjity.com^
 ||steamgateways.com^
 ||steampunk-welt.com^
 ||steamunlock.com^
@@ -9934,7 +9937,6 @@ Stand: 25.11.2026 00:23
 ||todaymarketdeal.com^
 ||todayonlineonly.com^
 ||todaytoneshop.com^
-||toddlershood.shop^
 ||todo-para-embarcaciones.com^
 ||toffifeeaktion.de^
 ||togelhongkongpools1.com^
@@ -10229,7 +10231,6 @@ Stand: 25.11.2026 00:23
 ||tynoraemporium.com^
 ||typeline.de^
 ||uaeteampissei.team^
-||uange.shop^
 ||uarleniz.com^
 ||uberwachungskamera-ohne-wlan.de^
 ||ubinary.com^
@@ -10593,7 +10594,6 @@ Stand: 25.11.2026 00:23
 ||vndjuety.shop^
 ||vobishop.de^
 ||vod-tv.pl^
-||vod.film^
 ||vodfix.pl^
 ||vodkaleti-formations-online-portal.com^
 ||vogeler-technik.de^
@@ -11103,6 +11103,7 @@ Stand: 25.11.2026 00:23
 ||yuaonew.com^
 ||yumgo.net^
 ||yumgs.holdenouterwear.shop^
+||yvjexi.shop^
 ||z-lib.id^
 ||z-lib.is^
 ||z7v4fn-e1.myshopify.com^

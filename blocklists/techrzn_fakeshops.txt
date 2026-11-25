@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 24.11.2026 14:38
+Stand: 25.11.2026 00:23
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -285,6 +285,7 @@ Stand: 24.11.2026 14:38
 ||algexia.pro^
 ||algo-robot.co^
 ||algorates.com^
+||algosone.ai^
 ||aliceblue-alligator-117543.hostingersite.com^
 ||alijz.com^
 ||alimora.shop^
@@ -1332,6 +1333,7 @@ Stand: 24.11.2026 14:38
 ||bitcoin-pharmacy.com^
 ||bitcoin-xact.fr^
 ||bitcoineer.ai^
+||bitcoinera.app^
 ||bitcoinera.com^
 ||bitcoins-central.com^
 ||bite-life.com^
@@ -1513,6 +1515,7 @@ Stand: 24.11.2026 14:38
 ||brennholz-forstservice-gilbert.de^
 ||brennholz-friedrich.com^
 ||brennholz-hans.de^
+||brennholz-haus.com^
 ||brennholz-hofmann.de^
 ||brennholz-konig.de^
 ||brennholz-land.com^
@@ -3152,7 +3155,6 @@ Stand: 24.11.2026 14:38
 ||evoqueebikeshop.shop^
 ||evoragaming.com^
 ||ewigerbund.org^
-||ewigesleder.com^
 ||ewzmvasz.shop^
 ||ex-torrenty.org^
 ||exakubusinessclub.com^
@@ -4090,6 +4092,7 @@ Stand: 24.11.2026 14:38
 ||goelitemarketing.com^
 ||gogumus.com^
 ||gohuntsport.myshoplaza.com^
+||goia-direkt.de^
 ||goillo.com^
 ||goindiavisa.com^
 ||gokoelectricinc.com^
@@ -4156,6 +4159,7 @@ Stand: 24.11.2026 14:38
 ||gotrixa.de^
 ||govern1.com^
 ||gpautoshopimport.com^
+||gplate.de^
 ||gpslocatorphone.com^
 ||gqaltq.shop^
 ||grabpillsusa.com^
@@ -4182,6 +4186,7 @@ Stand: 24.11.2026 14:38
 ||green-shop.com.ua^
 ||greenbird-shop.com^
 ||greencrosspharmacy.online^
+||greendax.com^
 ||greeneggstore.de^
 ||greenhousesshop.com^
 ||greentec-handel.de^
@@ -4395,7 +4400,6 @@ Stand: 24.11.2026 14:38
 ||haushaltland.de^
 ||haushaltmarkt.de^
 ||haushaltofficial.com^
-||haushalts.store^
 ||haushaltsgeraete-profis.de^
 ||haushaltsgeratemarkt.com^
 ||haushaltsheld.com^
@@ -5480,7 +5484,6 @@ Stand: 24.11.2026 14:38
 ||kazoomba.com^
 ||kbetake.com^
 ||kbs-management.cc^
-||kedejo.com^
 ||kedros-zeklant.de^
 ||kedssuomi.com^
 ||keen--shoes.com^
@@ -9782,6 +9785,7 @@ Stand: 24.11.2026 14:38
 ||thaisawadee.de^
 ||thanesar.com^
 ||the-bitcoin-bank.com^
+||the-ethereumcode-pro.com^
 ||the-garden-pavilions-of-sobranie-russian.eshop.t-online.de^
 ||the-immediateconnect.com^
 ||the-portable-monitor.tech^
@@ -10507,7 +10511,6 @@ Stand: 24.11.2026 14:38
 ||viennaaustrohotel.com^
 ||vientooffice.de^
 ||vigamtransport.com^
-||vignetten.gettookun.com^
 ||vignobles-terroirs.com^
 ||viking-cnc.com^
 ||viking-outlet.at^

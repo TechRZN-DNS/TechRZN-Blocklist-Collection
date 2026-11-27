@@ -1,5 +1,6 @@
-### TechRZN - GAMBLING ###
-Stand: 27.11.2026 23:50
+! TechRZN - GAMBLING
+! Stand: 27.11.2026 23:54 UTC
+! Eintraege: 54490
 
 ||00-66bet.com^
 ||000-beta.net^
@@ -46085,11 +46086,7 @@ Stand: 27.11.2026 23:50
 ||ssempurnatoto.com^
 ||ssis344.casino^
 ||sslottcasino.com^
-||sslproxy.gateway-i-php-i33.apiqa-www-orgstoreqa2livebeta-testint.shopcgateway-phpacademy-westonfoods.hicloudcam.com^
-||sslproxy.gateway.v.gateway-i-php-i33.apiqa-www-orgstoreqa2livebeta-testint.shopcgateway-phpacademy-westonfoods.hicloudcam.com^
 ||sslproxy.gateway.v.gateway-i-php-i33.www.kpmg.beta.invest.hicloudcam.com^
-||sslproxy.gateway3advisorgroup-uat-tableau.bi.app.ariba-privatebank-qaalsengineeringv-secure.betplay.hicloudcam.com^
-||sslproxy.gatewayvvlillylillylilly-managelillylillylilly-stagebet365.controller.hicloudcam.com^
 ||sspinboss-casino.net^
 ||sss88.casino^
 ||sssgame11.com^

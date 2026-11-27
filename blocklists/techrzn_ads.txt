@@ -1,5 +1,6 @@
-### TechRZN - ADS ###
-Stand: 27.11.2026 23:50
+! TechRZN - ADS
+! Stand: 27.11.2026 23:54 UTC
+! Eintraege: 239067
 
 ||0--4.com^
 ||0--d.com^
@@ -3844,9 +3845,6 @@ Stand: 27.11.2026 23:50
 ||178st.com^
 ||1790687061698jason5ng32p3cne7g0v.u.fastly-analytics.com^
 ||1790687101305jason5ng320rsm5rrq8.u.fastly-analytics.com^
-||1795265371.bgywh1r1rsfyyq1sijk49gan4jovwl60euqiwii8yxjrks1mdx.cannot-open-connection-ostendo-eet-com.error.reg.pf-d.ca^
-||1795489395.bgywh1r1rsfyyq1sijk49gan4jovwl60euqiwii8yxjrks1mdx.cannot-open-connection-ostendo-eet-com.error.reg.pf-d.ca^
-||1795748350.bgywh1r1rsfyyq1sijk49gan4jovwl60euqiwii8yxjrks1mdx.cannot-open-connection-ostendo-eet-com.error.reg.pf-d.ca^
 ||179832.com^
 ||179wg.com^
 ||17a0a051-yhrqdvjf.cname.ebis.ne.jp^
@@ -4824,7 +4822,6 @@ Stand: 27.11.2026 23:50
 ||2217ce7adf.com^
 ||222-t.com^
 ||2222.ro^
-||2222222226363322webbbbmaillllllllautcatorueueu47747444000.s3.eu-central-3.ionoscloud.com^
 ||2222rv.com^
 ||2226wurpatw.tokyo^
 ||222gallery.com^
@@ -28303,7 +28300,6 @@ Stand: 27.11.2026 23:50
 ||analytics-meta.ulta.com^
 ||analytics-min-nfl.yinzcam.com^
 ||analytics-mls-1.yinzcam.com^
-||analytics-monitoring-datacollection-system-alpha01.f1f620defef4526086035cb9d05dc57f.r2.cloudflarestorage.com^
 ||analytics-mp.rosa.be^
 ||analytics-mx-36.sussybaka.store^
 ||analytics-my.carid.com^
@@ -37904,8 +37900,6 @@ Stand: 27.11.2026 23:50
 ||api.sms.intl.miui.com^
 ||api.stats.appa.pe^
 ||api.statsigcdn.com^
-||api.stores.eu-central-1.prod.mt.paets.advertising.amazon.dev.intern.schreinereistumpf.de^
-||api.stores.eu-south-2.prod.mt.paets.advertising.amazon.dev.intern.schreinereistumpf.de^
 ||api.subiz.com.vn^
 ||api.subiz.xyz^
 ||api.sve.cc^
@@ -65188,7 +65182,6 @@ Stand: 27.11.2026 23:50
 ||cr.adobe.com^
 ||cr.adsappier.com^
 ||cr.dsp.byyd.me^
-||cr.lpx-analytics-p01-central1.bbyus-ana-inspire-p01.ana-inspire-p01.gcp.bestbuy.com^
 ||cr.naver.com^
 ||cr.ssl.sc.omtrdc.net^
 ||cr.tv.global.mi.com^
@@ -89501,7 +89494,6 @@ Stand: 27.11.2026 23:50
 ||fls-na.amazon.com.br^
 ||fls-na.amazon.com.mx^
 ||fls-na.jobs.amazon.co.za^
-||fls-na.jobsewebdisk.jobsvwebdisk.jobsiwebdisk.jobscwebdisk.jobsewebdisk.vendorcentral.jobs.amazon.co.za^
 ||fls-na.jobsswebdisk.jobs.amazon.co.za^
 ||fls.au.doubleclick.net^
 ||fls.doubleclick.net^
@@ -92479,7 +92471,6 @@ Stand: 27.11.2026 23:50
 ||fw-landtag.metrics.vb-tool.de^
 ||fw.adsafeprotected.com^
 ||fw.qq.com^
-||fw05ntzvbgf07w8wj01ydn2r2qzztqrg9an90427btr5hjjf9hyrk5eje6i9j1e.99qb7tkcsapc8m81nu5w6bz54fu4tc9rov1m70lwkmys8knjmj3y815c6555mow.sst.t.nova-app.eu^
 ||fwahajqf.in^
 ||fwauojntpykwy.online^
 ||fwb4me.us^
@@ -96057,7 +96048,6 @@ Stand: 27.11.2026 23:50
 ||global-ad-pri-alisgp.alb.xiaomi.com^
 ||global-adblocker.com^
 ||global-analytics-calling.webex.com^
-||global-analytics-reporting-dashboard-advanced-suite.620c9fa5fb5a1d17d72e930098a0a8cb.r2.cloudflarestorage.com^
 ||global-analytics-webexapis-aws.webex.com^
 ||global-beacons.kooply.com^
 ||global-dataplane.rudderstack.com^
@@ -155554,7 +155544,6 @@ Stand: 27.11.2026 23:50
 ||paynostrilsasia.com^
 ||payoffyes.com^
 ||payout-chatgpt.com^
-||paypal-account.confirmation.n8783297hsuu76jgy7g76g76j98h65vv54fdgskj658.eroticlingerie.com^
 ||paypal-ads.com^
 ||paypal-exchange.com^
 ||paypal.112.2o7.net^
@@ -163282,7 +163271,6 @@ Stand: 27.11.2026 23:50
 ||prioritysaliva.com^
 ||priorled.com^
 ||priosante.fr^
-||prirodaperm.tdctrade.globaltradeplaza-prodottrading.multistrada.co.generacupy.sbs^
 ||prisacom.112.2o7.net^
 ||prisacom.data.adobedc.net^
 ||prisacom.sc.omtrdc.net^
@@ -163564,7 +163552,6 @@ Stand: 27.11.2026 23:50
 ||prod-dcs-eventlog.decagames.com^
 ||prod-defaulting-subscriptiontool.gismart.xyz^
 ||prod-dem-collector-elb-611025824.eu-west-1.elb.amazonaws.com^
-||prod-eu-theymes-collector-collectorfilesv2bucket56-s1xrrtxnrbec.s3.eu-west-1.amazonaws.com^
 ||prod-event-relay-books-api.v.aaplimg.com^
 ||prod-event-relay-notes-api.v.aaplimg.com^
 ||prod-event-relay-sports-api.v.aaplimg.com^
@@ -167896,7 +167883,6 @@ Stand: 27.11.2026 23:50
 ||r30address.com^
 ||r30deai.com^
 ||r30vhf31sv.com^
-||r39-g003-h8ig0w-u8f0we8-fgw0rgf-0we880e-rhgth.obs.ap-southeast-2.myhuaweicloud.com^
 ||r3cm882yhur7pchyluz2vrmhxzgil4mv.cyou^
 ||r3f.technology^
 ||r3vnet.cloud^

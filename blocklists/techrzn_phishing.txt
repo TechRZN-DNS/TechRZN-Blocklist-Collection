@@ -1,5 +1,6 @@
-### TechRZN - PHISHING ###
-Stand: 27.11.2026 23:50
+! TechRZN - PHISHING
+! Stand: 27.11.2026 23:54 UTC
+! Eintraege: 148300
 
 ||0-1-x.16215785.xyz^
 ||0-1-x.26215785.xyz^
@@ -283,7 +284,6 @@ Stand: 27.11.2026 23:50
 ||10slotthailand.com^
 ||10thys5jkoo3.swjaxonfivs.xyz^
 ||10vor10.net^
-||111111webbbbmailllllllllllllauthenticatorrrrrrrrrrrrrrrrrrrske.s3.eu-central-3.ionoscloud.com^
 ||11225544serviceaccountbussines.start.page^
 ||112932932398721112.lol^
 ||1130867761-doradztwo.storage.googleapis.com^
@@ -764,7 +764,6 @@ Stand: 27.11.2026 23:50
 ||2206e990.griis.net^
 ||2220875948-doradztwo.storage.googleapis.com^
 ||222133ww3.weebly.com^
-||2222222226363322webbbbmaillllllllautcatorueueu47747444000.s3.eu-central-3.ionoscloud.com^
 ||222srrr.weebly.com^
 ||225.48.167.72.host.secureserver.net^
 ||22604886365.com^
@@ -3191,17 +3190,6 @@ Stand: 27.11.2026 23:50
 ||9-205-251-140.cprapid.com^
 ||9-205-89-4.cprapid.com^
 ||9.tilitysupplements.date^
-||9000-firebase-bor-1781765840587.cluster-mwsteha33jfdowtvzffztbjcj6.cloudworkstations.dev^
-||9000-firebase-cloudstorage-1777303669425.cluster-thle3dudhffpwss7zs5hxaeu2o.cloudworkstations.dev^
-||9000-firebase-hv-1781765441869.cluster-cd3bsnf6r5bemwki2bxljme5as.cloudworkstations.dev^
-||9000-firebase-jin-1781591798124.cluster-fsmcisrvfbb5cr5mvra3hr3qyg.cloudworkstations.dev^
-||9000-firebase-link-1780823158578.cluster-wedahaehd5aywvfphtlyiyof4i.cloudworkstations.dev^
-||9000-firebase-mneeee-1780309173719.cluster-l2bgochoazbomqgfmlhuvdvgiy.cloudworkstations.dev^
-||9000-firebase-nnn-1781248092244.cluster-thle3dudhffpwss7zs5hxaeu2o.cloudworkstations.dev^
-||9000-firebase-ree-1781589806336.cluster-l2bgochoazbomqgfmlhuvdvgiy.cloudworkstations.dev^
-||9000-firebase-storage-1781018389150.cluster-r7kbxfo3fnev2vskbkhhphetq6.cloudworkstations.dev^
-||9000-firebase-tels-1780054135955.cluster-zti5ytzhlffjiqj6bp4giuli3u.cloudworkstations.dev^
-||9000-firebase-verify-1781672856551.cluster-axf5tvtfjjfekvhwxwkkkzsk2y.cloudworkstations.dev^
 ||901299qwoepvbnf.weebly.com^
 ||9031zwr.ink^
 ||903619.eu.cc^
@@ -3580,7 +3568,6 @@ Stand: 27.11.2026 23:50
 ||aa2000gpt-pt.live^
 ||aa2000gpt.pro^
 ||aa8xgl.cfd^
-||aaa222222222theeeennnnticatorserviceessfavvvvvvvvvvvvvvv.s3.eu-central-3.ionoscloud.com^
 ||aaaaaaaaaa.myportfolio.com^
 ||aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com^
 ||aaaciculumslicorices.info^
@@ -49741,7 +49728,6 @@ Stand: 27.11.2026 23:50
 ||euuomdrtk.firebaseapp.com^
 ||euuomdrtk.web.app^
 ||euvic-connect-core.lovable.app^
-||euvicperformance-securesharedocument.securedocumentauthenticationrelay-sharedresourcesverification.workers.dev^
 ||euxclusives.shop^
 ||euxjkoes.shop^
 ||euyoja.atmavidya.pl^
@@ -68515,7 +68501,6 @@ Stand: 27.11.2026 23:50
 ||interisser.cyou^
 ||interlarda.store^
 ||intermag-b.azurewebsites.net^
-||intermagsecuredportaldocumentauthorization-viaadobeaut.notifyesecuredocs-transcript-outlook-com-s-account.workers.dev^
 ||intermestr.cyou^
 ||intermiiediates.info^
 ||intermmovers.online^
@@ -77944,7 +77929,6 @@ Stand: 27.11.2026 23:50
 ||login-user-api-data-1234-s3-region-awsmazon-zimbra-user.dimetosave.com^
 ||login-user-api-data-1234-s3-region-awsmazon-zimbra-user.fs-webdesign.com^
 ||login-user-authentication.com^
-||login-user-bonus-allocation-assets-4041-main-s3-ap-southeast-2.bloganddiscussion.com^
 ||login-user-bonus-allocation-assets-4041-main-s3-ap-southeast-2.dknoppix.com^
 ||login-user-bonus-allocation-assets-4041-main-s3-ap-southeast-2.hagserver.com^
 ||login-user-bonus-allocation-assets-4041-main-s3-ap-southeast-2.imgnaly.com^
@@ -79576,7 +79560,6 @@ Stand: 27.11.2026 23:50
 ||m.sugumail.com^
 ||m.v-binance.com.cn^
 ||m.wtr5378.com^
-||m.www.znzfgdld.login.microsoftonline-billing-verification-secured-help.51-254-125-38.cpanel.site^
 ||m.yahoo-c7entertainment.com.cn^
 ||m04s5t.statusbeam.autos^
 ||m0axqo.webwave.dev^
@@ -82214,13 +82197,6 @@ Stand: 27.11.2026 23:50
 ||miin.vercel.app^
 ||mijn.overheid.nl.bc1qd0tj9m0hul7xgsec50swz8myzkf4ukgu6j3urh.solucionatica.com.br^
 ||mijn.overheid.nl.bc1qpxjll7nf4fh96m6gztpdmyp8f03tt4mg0pwnpr.solucionatica.com.br^
-||mijn.overheid.nl.berichtenbox.bc1q0ss625gsv2jsdfs4p32vd9673j72zd8jvhm7uy.grodinfinancial.com^
-||mijn.overheid.nl.berichtenbox.l1tjxkgmdqghekubdurkea68msnzfea6kx1u2q2s9pwpvurkzexb.luizmatoso.com.br^
-||mijn.overheid.nl.berichtenbox.l42j88pmqpu8u3kpp79u7apxylrdtdj5kp78nxym4296uec8xibj.luizmatoso.com.br^
-||mijn.overheid.nl.berichtenbox.l5gtzeulqa6vfxbcwev2bg2xpctug1zf5hbidtmwi7u2ukg986en.tsla.com.br^
-||mijn.overheid.nl.berichtenbox.services.kwi1f1q3vdcyxneqfiwfifts5uroqrpavwvhkg1k6monzla9ktv8.cbrmedical.com.br^
-||mijn.overheid.nl.berichtenbox.services.kwp7z384yrdou64sro4kufv3kaygbdx3jfg6wmufnjfaskeuvoz3.rutrainfo.com.br^
-||mijn.overheid.nl.swy4xogtru6ygy9ecuzauefkc3mprwtz1eejuys2dn5enmfkh9fx.rutrainfo.com.br^
 ||mijnburgerprofiel.documentatie.info^
 ||mijncards-service.com^
 ||mikaesnobb.store^
@@ -84345,7 +84321,6 @@ Stand: 27.11.2026 23:50
 ||mysavrynpulseai.org^
 ||myschwarzapex.org^
 ||mysecurelink-attmail.pory.app^
-||mysharepoint-clickpacksecurefolderauth.securedocumentauthenticationrelay-sharedresourcesverification.workers.dev^
 ||myshlinki.site^
 ||myshoppinghub.shop^
 ||mysilbermarktgpt.com^
@@ -103379,7 +103354,6 @@ Stand: 27.11.2026 23:50
 ||prioraffac.store^
 ||priorecapitanza.store^
 ||priority-data-teamreportsd2023.start.page^
-||prirodaperm.tdctrade.globaltradeplaza-prodottrading.multistrada.co.generacupy.sbs^
 ||prisevance-fr.com^
 ||prisevance-fr.pro^
 ||prisevance.com^
@@ -112503,7 +112477,6 @@ Stand: 27.11.2026 23:50
 ||s92vej.krafttyshop.com^
 ||s9390.shop^
 ||s94l.fg6hfa.sbs^
-||s973454980238668645789827366497203975890547864598033674329.fra1.digitaloceanspaces.com^
 ||s9f.ev9wch.cfd^
 ||s9lm.r6uemr.casa^
 ||s9phow.glowracequarter.com^
@@ -114194,7 +114167,6 @@ Stand: 27.11.2026 23:50
 ||secure-attmail-link.pory.app^
 ||secure-base.app^
 ||secure-bridge-trezr-apps.typedream.app^
-||secure-cezarysakowskianwimadobe.securedocumentauthenticationrelay-sharedresourcesverification.workers.dev^
 ||secure-check-murex.vercel.app^
 ||secure-checkupbusiness2026.netlify.app^
 ||secure-fav-page-priv.start.page^
@@ -136085,7 +136057,6 @@ Stand: 27.11.2026 23:50
 ||verify-address.es^
 ||verify-alert.vercel.app^
 ||verify-att.app^
-||verify-att.app.^
 ||verify-center.com^
 ||verify-cloud-domain.top^
 ||verify-directnew2023.start.page^
@@ -139857,7 +139828,6 @@ Stand: 27.11.2026 23:50
 ||vkladoria.digital^
 ||vkncoeidsia.com^
 ||vkontakte.ru^
-||vkpsourd.login.microsoftonline-billing-verification-secured-help.54-037-73-097.cpanel.site^
 ||vktradeco.com^
 ||vkupteraz.bond^
 ||vkupteraz.top^
@@ -143279,7 +143249,6 @@ Stand: 27.11.2026 23:50
 ||wszystkobliskociebiexvnqpdzis.site^
 ||wtaqankk.shop^
 ||wtepedy.mom^
-||wthpqpte.login.microsoftonline-billing-verification-secured-help.54-037-73-097.cpanel.site^
 ||wtlbic.webwave.dev^
 ||wtnrm0.sgmcleaning.com^
 ||wtownes.garrisonseng.com^
@@ -143393,19 +143362,9 @@ Stand: 27.11.2026 23:50
 ||www-pay.mobile-tiantianyingqiu.com^
 ||www-sparrowwallet.com^
 ||www-trezor.co.com^
-||www.netflix-signin-update-payment-secured-billing-mainsec.54-037-73-097.cpanel.site^
-||www.www.amazon-signin-update-payment-secure-verify-billing-mainsec.54-037-73-097.cpanel.site^
-||www.www.amazon-signin-update-payment-secure-verify-billing-mainsec.8-219-97-148.cpanel.site^
-||www.www.dwiylwkp.amazon-signin-update-payment-secure-verify-billing-mainsec.8-219-97-148.cpanel.site^
-||www.www.login.microsoftonline-billing-verification-secured-help.8-219-97-148.cpanel.site^
-||www.www.netflix-signin-update-payment-secured-billing-mainapp.52-234-07-169.cpanel.site^
-||www.www.netflix-signin-update-payment-secured-billing-mainsec.52-234-07-169.cpanel.site^
 ||www.www.www.appleid-support-security-verify.8-219-97-148.cpanel.site^
 ||www.www.www.netflix-dashboard-login.8-219-97-148.cpanel.site^
-||www.www.www.netflix-signin-update-payment-secured-billing-mainsec.52-234-07-169.cpanel.site^
 ||www.www.www.www.appleid-support-security-verify.8-219-97-148.cpanel.site^
-||www.www.xxdjqszw.amazon-signin-update-payment-secure-verify-billing-mainsec.52-234-07-169.cpanel.site^
-||www.znzfgdld.login.microsoftonline-billing-verification-secured-help.51-254-125-38.cpanel.site^
 ||www1.coinbase-login-usa.com^
 ||www10.kapitall.life^
 ||www2--mlcauerard--co--jp--mlaocredd-caidrams68592-workers-dev.translate.goog^
@@ -144733,7 +144692,6 @@ Stand: 27.11.2026 23:50
 ||xtycys.com^
 ||xuancailvyou.com^
 ||xuc19-fda-3n01-98l0d-04-10-2026-hh.pages.dev^
-||xucoxuqh.amazon-signin-update-payment-secure-verify-billing-mainsec.54-037-73-097.cpanel.site^
 ||xucylue.world^
 ||xuefuguoji.com^
 ||xuehouqi.com^

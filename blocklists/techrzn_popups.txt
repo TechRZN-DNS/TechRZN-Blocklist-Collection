@@ -1,7 +1,7 @@
-### TechRZN - POPUPS ###
-Stand: 27.11.2026 23:50
+! TechRZN - POPUPS
+! Stand: 27.11.2026 23:54 UTC
+! Eintraege: 71723
 
-||.vafrike.ru^
 ||0--4.com^
 ||0--d.com^
 ||0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info^
@@ -42050,7 +42050,6 @@ Stand: 27.11.2026 23:50
 ||moecoco.com^
 ||moedgapers.com^
 ||moelove.jp^
-||moengage.com$dnstype=~cname^
 ||moetxylosid.qpon^
 ||moffpubsweary.cyou^
 ||mofox.com^
@@ -52144,7 +52143,6 @@ Stand: 27.11.2026 23:50
 ||r2fww1gz3681hu.cfd^
 ||r30address.com^
 ||r30deai.com^
-||r39-g003-h8ig0w-u8f0we8-fgw0rgf-0we880e-rhgth.obs.ap-southeast-2.myhuaweicloud.com^
 ||r3cm882yhur7pchyluz2vrmhxzgil4mv.cyou^
 ||r3f.technology^
 ||r3vnet.cloud^
@@ -64809,6 +64807,7 @@ Stand: 27.11.2026 23:50
 ||vadimgalperin.com^
 ||vafbmmsda.com^
 ||vafbpeqennikp.website^
+||vafrike.ru^
 ||vafvafnotif.com^
 ||vaganticrumbed.com^
 ||vagaryeburinnidary.cfd^
@@ -66891,8 +66890,6 @@ Stand: 27.11.2026 23:50
 ||webpu.sh^
 ||webpublic.substack.com^
 ||webpuppweb.com^
-||webpush.^
-||webpushbuilder.^
 ||webpushcloud.info^
 ||webpushdirect.biz^
 ||webpushr.com^
@@ -67386,7 +67383,6 @@ Stand: 27.11.2026 23:50
 ||widgethouse.com^
 ||widgetly.com^
 ||widgets.cryptopicture.com^
-||widgets.webengage.com^
 ||widndpnuiyqty.space^
 ||widowreseduereseduedescription.com^
 ||widthterribleclement.com^
@@ -71729,34 +71725,3 @@ Stand: 27.11.2026 23:50
 ||zzzclub.org^
 ||zzzjkf.com^
 ||zzzmxvoxooaat.site^
-|||api.growthrx.in^
-|||ilabspush.^
-|||jquery-notification.^
-|||maximizly-push.^
-|||mp-web-notification.^
-|||multi-desktop-notification.^
-|||nadz-sdk.^
-|||onesignal-modal.^
-|||onesignal.min.^
-|||onesignalfix.^
-|||prpushsw.^
-|||push-notification.^
-|||push-notifications.^
-|||push-sw.^
-|||push.delivery.^
-|||push.smp.^
-|||pushexsdk.^
-|||pushly-sdk.^
-|||pushly-sw.^
-|||pushmessageworker.^
-|||pushnews.min.^
-|||pushnotification.^
-|||pushnotificationsdknew.^
-|||pushsubscribe.^
-|||sna-pushwoosh.^
-|||t2push.^
-|||web-push.^
-|||webpushiframe.^
-|||webpushnotifications.^
-|||wonderpush.^
-|||yorker-push-init.js^

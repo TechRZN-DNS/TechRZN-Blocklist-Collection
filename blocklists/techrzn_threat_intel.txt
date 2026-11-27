@@ -1,5 +1,6 @@
-### TechRZN - THREAT_INTEL ###
-Stand: 27.11.2026 23:50
+! TechRZN - THREAT_INTEL
+! Stand: 27.11.2026 23:54 UTC
+! Eintraege: 1116052
 
 ||0-0-0-0-0-0-0-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-0-0-0-0.info^
 ||0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info^
@@ -4921,7 +4922,6 @@ Stand: 27.11.2026 23:50
 ||1111111110000000.sbs^
 ||11111111111111111111111111111111111111111111111111.com^
 ||111111111111uu11.xyz^
-||111111webbbbmailllllllllllllauthenticatorrrrrrrrrrrrrrrrrrrske.s3.eu-central-3.ionoscloud.com^
 ||111112.cc^
 ||111116138.com^
 ||111116js.com^
@@ -8297,7 +8297,6 @@ Stand: 27.11.2026 23:50
 ||16600.xyz^
 ||16608.uk^
 ||16612.cc^
-||16612b8e12a86471840ca6c9a3b2dd28-dot-656757657-306609.df.r.homelandfoundation.org^
 ||16618.cc^
 ||166188991.eu.cc^
 ||166188992.eu.cc^
@@ -8565,7 +8564,6 @@ Stand: 27.11.2026 23:50
 ||16dd66f7.org^
 ||16dd6d7a345477f3ce8b54e754c56c74.com^
 ||16degreessouth.vu^
-||16df2d9a55ab7b27393cb29dcb761859-dot-656757657-306609.df.r.homelandfoundation.org^
 ||16df5828.org^
 ||16eb10a7d35a3032b1097fab45c103ab.com^
 ||16ejcasino.com^
@@ -11722,7 +11720,6 @@ Stand: 27.11.2026 23:50
 ||1qqqqbet.casino^
 ||1qqtv.me^
 ||1qr.cc.cd^
-||1qre64dqdpek06f6ih710vuh9p-4310f933-01ac-4df2-9220-3bfd7579a9c0.proof-proxy.ziflow.net^
 ||1qskjn.cn^
 ||1qsxc.eu.cc^
 ||1qsxfd.eu.cc^
@@ -14984,7 +14981,6 @@ Stand: 27.11.2026 23:50
 ||22222.online^
 ||2222222.sbs^
 ||22222222220.sbs^
-||2222222226363322webbbbmaillllllllautcatorueueu47747444000.s3.eu-central-3.ionoscloud.com^
 ||222223.best^
 ||222226138.com^
 ||22222bet.casino^
@@ -19567,7 +19563,6 @@ Stand: 27.11.2026 23:50
 ||2nzy.com^
 ||2o26.eu.cc^
 ||2o7.com^
-||2o72f9dnc2r1qk400ca5r6b5ub-1caca680-5d7d-4188-9c8b-7c9153649971.proof-proxy.ziflow.net^
 ||2o947xwv.xyz^
 ||2oauth.com^
 ||2oceans-yachtcrew.com^
@@ -19759,7 +19754,6 @@ Stand: 27.11.2026 23:50
 ||2turbodynamics.digital^
 ||2turbostation.click^
 ||2tw5w2.pics^
-||2twqdwmgvsdhtrkqsiqoc234tfxbyqtm.ajdq5hylhhlulssniwza.1.0.qels7qr2wuxwal7ugk5d2ijjuxss5cr3zvy2hea.st2wfby.dns0.org^
 ||2tycag.com^
 ||2tycvip.com^
 ||2tyuiokjhu.cc.cd^
@@ -22578,7 +22572,6 @@ Stand: 27.11.2026 23:50
 ||35c8ba600dd4.com^
 ||35c9aebc.org^
 ||35cbf0548d11h.net^
-||35cfe3149f11edac4d5c0529d0dc0fb3-dot-656757657-306609.df.r.homelandfoundation.org^
 ||35chongwu.com^
 ||35cp1.com^
 ||35d4022f.org^
@@ -25567,7 +25560,6 @@ Stand: 27.11.2026 23:50
 ||3e076c6df98cc4d0.com^
 ||3e0c522db304d157.com^
 ||3e0c89ea.org^
-||3e0cd859aa35745e92e69cd3d3f8de6c-dot-656757657-306609.df.r.homelandfoundation.org^
 ||3e108e1e5321da5117e55c97f9cae887.today^
 ||3e13d12b4ad4.com^
 ||3e184422a5e228e977bc3b1c676d2084.com^
@@ -27244,7 +27236,6 @@ Stand: 27.11.2026 23:50
 ||43647-coinbase.com^
 ||43654bet.com^
 ||43658.cc^
-||43689913134866qm2ln34ogfi43689913134866qm2ln34ogfi.nyungsep.opcaoconstrucoes.com.br^
 ||436ba51077a53997cf209c00ef09e92c.com^
 ||436chase.com^
 ||4370134066.com^
@@ -34396,7 +34387,6 @@ Stand: 27.11.2026 23:50
 ||5ee-m0.re^
 ||5ee-mo.re^
 ||5ee56470.cnhls.com.cn^
-||5ee79db124294f25c5f03f5d56f54776-dot-656757657-306609.df.r.homelandfoundation.org^
 ||5ee9f858.org^
 ||5eef12ac3311h.net^
 ||5ef8bcfe.org^
@@ -39460,7 +39450,6 @@ Stand: 27.11.2026 23:50
 ||6qgzc9wozm8ddc8.icu^
 ||6qhicc.one^
 ||6ql83wy90f.com^
-||6qm2ln34ogfi43689913134866qm2ln34ogfi43689913134866qm2ln34ogfi.nyungsep.opcaoconstrucoes.com.br^
 ||6qpf.com^
 ||6qujetg4tpkdrpk.top^
 ||6qwer101.eu.cc^
@@ -40779,7 +40768,6 @@ Stand: 27.11.2026 23:50
 ||747r.xyz^
 ||748-magneticslots.com^
 ||748.cc.cd^
-||74805b128ff1bc52745f6b19735d6097-dot-656757657-306609.df.r.homelandfoundation.org^
 ||74820531.xyz^
 ||748213-binance.com^
 ||748324-ledger.com^
@@ -50100,7 +50088,6 @@ Stand: 27.11.2026 23:50
 ||8b83163427cac.xyz^
 ||8b869c457b07b8d17748a40c8e11b8f6.com^
 ||8b86f99cd7d4.com^
-||8b8d1f546455897406883d549f129714-dot-656757657-306609.df.r.homelandfoundation.org^
 ||8b8o.com^
 ||8b91936d027d6f83.com^
 ||8b92ad1808c242680833ac2bf2ddf934.xyz^
@@ -50632,7 +50619,6 @@ Stand: 27.11.2026 23:50
 ||8it68q.garden^
 ||8itk5k-3n302ot5eo.store^
 ||8iui8.8p8py2kkl.cc^
-||8iukf5x1pmwlov5z.vutsrqponmlkjihgfedcbasberbank.76543notexistspochta.1ofyxy2th9od8df3.media.qq992.cc^
 ||8ium.com^
 ||8iyuqbo76l.gudatrade.com^
 ||8j.ink^
@@ -51324,17 +51310,6 @@ Stand: 27.11.2026 23:50
 ||90-ji-54-p-l.rest^
 ||90-link.xyz^
 ||90-music.com^
-||9000-firebase-bor-1781765840587.cluster-mwsteha33jfdowtvzffztbjcj6.cloudworkstations.dev^
-||9000-firebase-cloudstorage-1777303669425.cluster-thle3dudhffpwss7zs5hxaeu2o.cloudworkstations.dev^
-||9000-firebase-hv-1781765441869.cluster-cd3bsnf6r5bemwki2bxljme5as.cloudworkstations.dev^
-||9000-firebase-jin-1781591798124.cluster-fsmcisrvfbb5cr5mvra3hr3qyg.cloudworkstations.dev^
-||9000-firebase-link-1780823158578.cluster-wedahaehd5aywvfphtlyiyof4i.cloudworkstations.dev^
-||9000-firebase-mneeee-1780309173719.cluster-l2bgochoazbomqgfmlhuvdvgiy.cloudworkstations.dev^
-||9000-firebase-nnn-1781248092244.cluster-thle3dudhffpwss7zs5hxaeu2o.cloudworkstations.dev^
-||9000-firebase-ree-1781589806336.cluster-l2bgochoazbomqgfmlhuvdvgiy.cloudworkstations.dev^
-||9000-firebase-storage-1781018389150.cluster-r7kbxfo3fnev2vskbkhhphetq6.cloudworkstations.dev^
-||9000-firebase-tels-1780054135955.cluster-zti5ytzhlffjiqj6bp4giuli3u.cloudworkstations.dev^
-||9000-firebase-verify-1781672856551.cluster-axf5tvtfjjfekvhwxwkkkzsk2y.cloudworkstations.dev^
 ||9000.cc.cd^
 ||90000.cc.cd^
 ||90000.eu.cc^
@@ -55623,7 +55598,6 @@ Stand: 27.11.2026 23:50
 ||9aef18e5adbef233.club^
 ||9aefdc9f.org^
 ||9af2f63671ff.win^
-||9af7aelaidaoraiweeji.ugwcscan075114954f963c8c5c09395742be2baa.syaratco-man.santander-serfin.com^
 ||9af84e96.org^
 ||9ago11.xyz^
 ||9ago5.xyz^
@@ -56972,7 +56946,6 @@ Stand: 27.11.2026 23:50
 ||a10ab8c65f11h.net^
 ||a10b9644ff8c7c74be8c3d0f51ac052f.xyz^
 ||a10d3c78.org^
-||a10e3779714b27dcc7ec22184dda3751-dot-656757657-306609.df.r.homelandfoundation.org^
 ||a10iharcabitmez.sbs^
 ||a10v.eu.cc^
 ||a11-office.asia^
@@ -58371,7 +58344,6 @@ Stand: 27.11.2026 23:50
 ||aaa123.eu.cc^
 ||aaa124.eu.cc^
 ||aaa16888ccc.space^
-||aaa222222222theeeennnnticatorserviceessfavvvvvvvvvvvvvvv.s3.eu-central-3.ionoscloud.com^
 ||aaa29.com^
 ||aaa369.com^
 ||aaa44b89d65a.xyz^
@@ -62334,10 +62306,6 @@ Stand: 27.11.2026 23:50
 ||accesspaypal.com^
 ||accessplatformm92.com^
 ||accesspoint.live^
-||accesspoint.vpce-029a061b202c7da7f-c299vkxm-eusc-de-east-1a.s3.eusc-de-east-1.vpce.amazonaws.eu^
-||accesspoint.vpce-029a061b202c7da7f-c299vkxm-eusc-de-east-1c.s3.eusc-de-east-1.vpce.amazonaws.eu^
-||accesspoint.vpce-04fd9d01dd3b3ae3a-t4urgann-eusc-de-east-1a.s3.eusc-de-east-1.vpce.amazonaws.eu^
-||accesspoint.vpce-09f97311b674ddb7e-a6lyp8z4-cn-northwest-1a.s3.cn-northwest-1.vpce.amazonaws.com.cn^
 ||accessportal-8761.me^
 ||accessportal.me^
 ||accessportalusa.com^
@@ -63036,7 +63004,6 @@ Stand: 27.11.2026 23:50
 ||accounts.cinnamonclubs.com^
 ||accounts.com.es^
 ||accounts.connexion-cafe.com^
-||accounts.craigslist.org-securelogin.viewpostid8162-bmayeo-carsandtrucks.evamata.com^
 ||accounts.dashboard.rainstormai.cloud^
 ||accounts.dinohabit.kirboaz.co.il^
 ||accounts.equipodefotografico.eu.cc^
@@ -63045,7 +63012,6 @@ Stand: 27.11.2026 23:50
 ||accounts.fromcircle.com^
 ||accounts.getaccess.world^
 ||accounts.google-notifications.org^
-||accounts.google.com.gmailreverificationonline89754serversecured.stephanielassalle.com^
 ||accounts.google.com.medbp.com^
 ||accounts.google.com.search.er.in^
 ||accounts.google.com.waycobeauty.com^
@@ -67297,8 +67263,6 @@ Stand: 27.11.2026 23:50
 ||admin.hopeh.eu.cc^
 ||admin.hostpoint-ch-customer.auth-e75c9780.ijsblokjesalmere.nl^
 ||admin.hostpoint.ch-039567b6.id-54e5s32q.pphuvelum.pl^
-||admin.hostpoint.ch-customer-auth.login-site-customer-index6suppress-errors.3d1l42dc4c2a.associazioneridere.it^
-||admin.hostpoint.ch-customer-auth.login-site-customer-index6suppress-errors.3dl3-99878004.faby.eu^
 ||admin.hostpoint.ch-customer-shop.buy74-1aaa096e.typodo.com^
 ||admin.hostpoint.ch-customer-shop.buy74-84fc81c3.typodo.com^
 ||admin.iapsact.org^
@@ -79015,7 +78979,6 @@ Stand: 27.11.2026 23:50
 ||ajfprime.in^
 ||ajfygx.help^
 ||ajfzwy.info^
-||ajg2qmvbpmukbo74.cpochtabank.76543notexistspochta.1ofyxy2th9od8df3.media.qq992.cc^
 ||ajgbubpnhnwlfgjmn.org^
 ||ajgggpwmxkcktyaon.org^
 ||ajgjej.help^
@@ -100199,10 +100162,6 @@ Stand: 27.11.2026 23:50
 ||app-conbase.com^
 ||app-conbase.pro^
 ||app-concretefoundation.icu^
-||app-confirmation-pages.21354654523app-yundt.xfh58kkmcx-rz83yjmrv3d7.p.runcloud.link^
-||app-confirmation-pages.21546545231app-mccullough.xfh58kkmcx-rz83yjmrv3d7.p.runcloud.link^
-||app-confirmation-pages.21546545232app-brekke.xfh58kkmcx-rz83yjmrv3d7.p.runcloud.link^
-||app-confirmation-pages.21546546527app-langworth.xfh58kkmcx-rz83yjmrv3d7.p.runcloud.link^
 ||app-conn.dtqhn3ddnq-jqp3vn1ky650.p.runcloud.link^
 ||app-connect-whatsapp.com^
 ||app-contenido.com^
@@ -100300,13 +100259,6 @@ Stand: 27.11.2026 23:50
 ||app-fakturownia.01pl.ink^
 ||app-familiars.fun^
 ||app-fb.09iqxypqbh-pxr4k0dxo3gn.p.runcloud.link^
-||app-fbads-confirmation-pages-33523562463575486575.yn6uouylbp-lxd6rvmyq49g.p.runcloud.link^
-||app-fbads-confirmation-pages-33523562463575486579.yn6uouylbp-lxd6rvmyq49g.p.runcloud.link^
-||app-fbads-confirmation-pages-35235624635754865733.yn6uouylbp-lxd6rvmyq49g.p.runcloud.link^
-||app-fbads-confirmation-pages-43523562463575486576.yn6uouylbp-lxd6rvmyq49g.p.runcloud.link^
-||app-fbads-confirmation-pages-53523562463575486570.yn6uouylbp-lxd6rvmyq49g.p.runcloud.link^
-||app-fbads-confirmation-pages-53523562463575486577.yn6uouylbp-lxd6rvmyq49g.p.runcloud.link^
-||app-fbads-confirmation-pages-63523562463575486578.yn6uouylbp-lxd6rvmyq49g.p.runcloud.link^
 ||app-feiji.com.cn^
 ||app-ferry.xk3ojelmme-v1p3z0q0o6ye.p.runcloud.link^
 ||app-feryy.xk3ojelmme-v1p3z0q0o6ye.p.runcloud.link^
@@ -101311,19 +101263,6 @@ Stand: 27.11.2026 23:50
 ||app.metamaskapp.cn^
 ||app.microgent.ru^
 ||app.minhapromocaox.com^
-||app.mobile-form-login-08506685097560910355.zzpm5rptl1-ez94d17jn4mr.p.runcloud.link^
-||app.mobile-form-login-13582454732751062232.zzpm5rptl1-ez94d17jn4mr.p.runcloud.link^
-||app.mobile-form-login-41713610950619609736.zzpm5rptl1-ez94d17jn4mr.p.runcloud.link^
-||app.mobile-form-login-53626743016465270180.zzpm5rptl1-ez94d17jn4mr.p.runcloud.link^
-||app.mobile-form-login-69995271486655856402.zzpm5rptl1-ez94d17jn4mr.p.runcloud.link^
-||app.mobile-form-login-75600167131795129649.zzpm5rptl1-ez94d17jn4mr.p.runcloud.link^
-||app.mobile-form-login-81600994594153304107.zzpm5rptl1-ez94d17jn4mr.p.runcloud.link^
-||app.mobile-form-login-86148968281271263029.zzpm5rptl1-ez94d17jn4mr.p.runcloud.link^
-||app.mobile-form-login-94503270948082563438.zzpm5rptl1-ez94d17jn4mr.p.runcloud.link^
-||app.mobile-recovery-pages09813639021174648273.jbud4ix21f-zqy3jw70y6kg.p.runcloud.link^
-||app.mobile-recovery-pages46646726173814702655.jbud4ix21f-zqy3jw70y6kg.p.runcloud.link^
-||app.mobile-recovery-pages48218455305747828448.jbud4ix21f-zqy3jw70y6kg.p.runcloud.link^
-||app.mobile-recovery-pages76866811998011267651.jbud4ix21f-zqy3jw70y6kg.p.runcloud.link^
 ||app.mockplus.com^
 ||app.monad.xyz-get.com^
 ||app.moneyz.com^
@@ -104386,13 +104325,6 @@ Stand: 27.11.2026 23:50
 ||apps.majere.com^
 ||apps.marginalmom.com^
 ||apps.methanesat.hosted.unionai.cloud^
-||apps.mobile-form-verification01049620186365565011.xjzsg0tqkl-ewl6ngk8w352.p.runcloud.link^
-||apps.mobile-form-verification21835401639127250114.xjzsg0tqkl-ewl6ngk8w352.p.runcloud.link^
-||apps.mobile-form-verification37192565060044030758.xjzsg0tqkl-ewl6ngk8w352.p.runcloud.link^
-||apps.mobile-form-verification40124572700208277579.xjzsg0tqkl-ewl6ngk8w352.p.runcloud.link^
-||apps.mobile-form-verification58456440496474047373.xjzsg0tqkl-ewl6ngk8w352.p.runcloud.link^
-||apps.mobile-form-verification72726142747673118355.xjzsg0tqkl-ewl6ngk8w352.p.runcloud.link^
-||apps.mobile-form-verification77408481491326226810.xjzsg0tqkl-ewl6ngk8w352.p.runcloud.link^
 ||apps.muonspace.us-west-2.unionai.cloud^
 ||apps.mylocal.pro^
 ||apps.nypost.com^
@@ -121191,7 +121123,6 @@ Stand: 27.11.2026 23:50
 ||avito.hgfedcbasberbank.pay.76543notexistspochta.1ofyxy2th9od8df3.media.qq992.cc^
 ||avito.pay.pay.cdek.sber.yandex.5diid4z9xdouin8x.ries.info^
 ||avito.sberbank.ld48stp821tyfk3q.waf-it-kku.online^
-||avito.sberbank.www.yandex.qsber.nalozhka.ld3f08448-5364-4150-a42f-44a88c1aafc6.random.debonairmechanical.com^
 ||avito.www.sber.blablacar.mail.cod3m3m.picpasteplus.com^
 ||avito.yandex.andystonecold2009.ngs70.ru^
 ||avito.yandex.youla.cdek.pochtabank.cdek.www.cod3d.com^
@@ -125402,7 +125333,6 @@ Stand: 27.11.2026 23:50
 ||b-c-d-whatsapp.com.cn^
 ||b-c-r-f.org^
 ||b-c.casino^
-||b-cfd26fc7-1d7d-4c9b-a89d-9e783d65bd6c-1.mq-gamma.cn-northwest-1.amazonaws.com.cn^
 ||b-chauffage.de^
 ||b-coder.com^
 ||b-coinbase.com^
@@ -159212,7 +159142,6 @@ Stand: 27.11.2026 23:50
 ||blablacar.pay.nalozhka.yandex.pochta.sber.pay.id37.aquadacommons.com^
 ||blablacar.pochta.yandex.sbermarket.avito.nalozhka.id178.xyz^
 ||blablacar.sber.yandex.youla.3ukt68wn6qt2od4ebng.tourismo.site^
-||blablacar.sberbank.vpochta.nyoula.rrgubtft94qar68f.6543210sbermegamarket.7id2ee2csrv2zjr2.jsmetatrader.com^
 ||blablacar.yandex.avito.avito.yandex.federicod4.sg-hosadmin.vm-cs.ru^
 ||blablacar.yandex.pay.hyyicmyjdld5qfx.mailsrv.panvasoft.com^
 ||blablacar.yandex.pochta.od9m4.shriradhe.com^
@@ -169304,7 +169233,6 @@ Stand: 27.11.2026 23:50
 ||bni-whatsapp.com^
 ||bni-zuidoost.nl^
 ||bni.iakmialor.web.id^
-||bni64ervuvgf6epmlqkfywqbhnla3livfgs3d7c6t63wfbyxkp5a.northcentralus.waconazure.com^
 ||bnicl.net^
 ||bnicr.eu.cc^
 ||bnidsdvkocqpywjsm.org^
@@ -184538,10 +184466,7 @@ Stand: 27.11.2026 23:50
 ||bucket-pbyvflugbkgg.s3.amazonaws.com^
 ||bucket-test.umevia.com^
 ||bucket.vpce-043a997e406b6e900-5g8hxboe.s3.cn-northwest-1.vpce.amazonaws.com.cn^
-||bucket.vpce-079f550e43ef234d2-dx1u2q9q-cn-north-1d.s3.cn-north-1.vpce.amazonaws.com.cn^
-||bucket.vpce-08c69d5bbd98b2c2a-utjandf9-cn-northwest-1c.s3.cn-northwest-1.vpce.amazonaws.com.cn^
 ||bucket.vpce-08c69d5bbd98b2c2a-utjandf9.s3.cn-northwest-1.vpce.amazonaws.com.cn^
-||bucket.vpce-09f97311b674ddb7e-a6lyp8z4-cn-northwest-1b.s3.cn-northwest-1.vpce.amazonaws.com.cn^
 ||bucketbistro.com^
 ||bucketbolt.com^
 ||bucketbrigademobile.com^
@@ -192868,7 +192793,6 @@ Stand: 27.11.2026 23:50
 ||c1bc289b77.com^
 ||c1bcdcf2b3.info^
 ||c1bcdcf2b3.net^
-||c1bf2bd46be018ed123d460e99287499-dot-656757657-306609.df.r.homelandfoundation.org^
 ||c1bffdb7.org^
 ||c1bpx94s4v8x1v.xyz^
 ||c1c360ac7fdf1ebb6c92824ecc72225c.info^
@@ -215718,7 +215642,6 @@ Stand: 27.11.2026 23:50
 ||cbabonus.vip^
 ||cbad4a3f.org^
 ||cbadge.click^
-||cbadnotexistszyxwnotexistsmlkjihgfedcpochtabank.76543notexistspochta.1ofyxy2th9od8df3.media.qq992.cc^
 ||cbaevglp.org^
 ||cbaf3cffb394982b156408e2efaf43ae.com^
 ||cbag.xyz^
@@ -216018,7 +215941,6 @@ Stand: 27.11.2026 23:50
 ||cbnjyjc.org^
 ||cbnmvsza.info^
 ||cbnnlisceoeddeifc.net^
-||cbnotexistsxwnotexistsmlsbermegamarket.sberbank.76543notexistspochta.1ofyxy2th9od8df3.media.qq992.cc^
 ||cbnp.eu.cc^
 ||cbnsccn.cc.cd^
 ||cbnss.com^
@@ -217630,8 +217552,6 @@ Stand: 27.11.2026 23:50
 ||cdek-world.com^
 ||cdek.6id7ea7r06rm.ouulook.com^
 ||cdek.asberbank.cdek.erbank.youla.4yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
-||cdek.avito.zjelbixk.ajgfwqiy.5sberbank.blablacar.7ztld4lkwrjmrydj.schoolworknow.com^
-||cdek.blablacar.avito.sberbank.sbermegamarket.yandex.alozhka.hmyld80.dao24dao.online^
 ||cdek.blablacar.proyoula.sberbank.yandex.mnbdsod2.69qiusu.cc^
 ||cdek.bz^
 ||cdek.click^
@@ -226645,12 +226565,6 @@ Stand: 27.11.2026 23:50
 ||checkpoint.app-ullrich-fbmmsnshdk.fwwwu4gyil-zng4p7vv54dp.p.runcloud.link^
 ||checkpoint.cc.cd^
 ||checkpoint.cyou^
-||checkpoint.details-manage-fb-abuse-05498548260378475861.w31bfefobj-zng4pd0d54dp.p.runcloud.link^
-||checkpoint.details-manage-fb-abuse-33723232267630490540.w31bfefobj-zng4pd0d54dp.p.runcloud.link^
-||checkpoint.details-manage-fb-abuse-64715727815712676411.w31bfefobj-zng4pd0d54dp.p.runcloud.link^
-||checkpoint.details-manage-fb-abuse-69128345550531242957.w31bfefobj-zng4pd0d54dp.p.runcloud.link^
-||checkpoint.details-manage-fb-abuse-91796100089711890899.w31bfefobj-zng4pd0d54dp.p.runcloud.link^
-||checkpoint.details-manage-fb-abuse-94835088980350610821.w31bfefobj-zng4pd0d54dp.p.runcloud.link^
 ||checkpoint23.com^
 ||checkpoint681.uncody.site^
 ||checkpointsys.com^
@@ -249492,8 +249406,6 @@ Stand: 27.11.2026 23:50
 ||community.fb-pages-99558416152942940161.qf4owyef2n-xoy4w7wpr6pw.p.runcloud.link^
 ||community.films43.me^
 ||community.lc^
-||community.manage-app-uuid32899926009389349564.q8pwzeiv8n-ewx3lwn7l4zq.p.runcloud.link^
-||community.manage-app-uuid72329026450911547548.q8pwzeiv8n-ewx3lwn7l4zq.p.runcloud.link^
 ||community.microsoftbusinessapps.com^
 ||community.nester.com^
 ||community.openedr.eu.org^
@@ -251286,7 +251198,6 @@ Stand: 27.11.2026 23:50
 ||confressionaleporto900.com^
 ||confressionaleporto950.com^
 ||confrime-verifinfo-id489.com^
-||confrlm-confirmation-pages-apps3575486575357357548624634.46s0vlirfx-zqy3jw5qy6kg.p.runcloud.link^
 ||confrontationdrunk.com^
 ||confrontationgroundtransgress.com^
 ||confrontments.space^
@@ -253015,7 +252926,6 @@ Stand: 27.11.2026 23:50
 ||control.sanvi.xyz^
 ||control.shelbycompany.uk^
 ||control.thepulse.parkingticket.online^
-||control.vpce-0e779941a571be1b6-5tbdnmt8-cn-north-1a.s3.cn-north-1.vpce.amazonaws.com.cn^
 ||control.zelemall.shop^
 ||controla-cloudflare.com^
 ||controla.online^
@@ -269652,7 +269562,6 @@ Stand: 27.11.2026 23:50
 ||cwwi.com.pk^
 ||cwwnxfxqhdaiynksp.org^
 ||cwwrvv.garden^
-||cwwsotei.sber.ksbermegamarket.sberbank.2sberbank.blablacar.unsvjbzopk6id9he.lamerstyle.com^
 ||cwww.eu.cc^
 ||cwww8.ru.com^
 ||cwwxghpxrdcrgbpgi.org^
@@ -281789,7 +281698,6 @@ Stand: 27.11.2026 23:50
 ||dcbrcjnwwixc.space^
 ||dcbrhffqnjgq.space^
 ||dcbropjvckoc.space^
-||dcbsbermegamarket.yandex.onmsber.gavito.youla.jid77053260429876543update.gtllrvik33znrejm.l.tunwg.com^
 ||dcbuownspplo.space^
 ||dcbvktmytlgf.space^
 ||dcbxcxqfacpkdemlb.net^
@@ -282308,7 +282216,6 @@ Stand: 27.11.2026 23:50
 ||dd1111.poker^
 ||dd15581558.com^
 ||dd1615.com^
-||dd17133be4073b2419e892b9cadf129f-dot-656757657-306609.df.r.homelandfoundation.org^
 ||dd188.org^
 ||dd18c5223a21713.lol^
 ||dd1b59b5.org^
@@ -291660,7 +291567,6 @@ Stand: 27.11.2026 23:50
 ||df5ghj.eu.cc^
 ||df61e19463c8b26.lol^
 ||df64coffeestore.shop^
-||df65g46df54g65df.df56g46d5fg6df54g.df654gd65fg456fd.d1fb65d1fb651dfb.fdg654df65g4.df6g5dfg654dgsdf654sdf65sd4f65sd4f.sdf65sd4f65s.sdf654sdfs.thetrainer.co.cc^
 ||df6655525.com^
 ||df6655567.com^
 ||df6655583.com^
@@ -319759,7 +319665,6 @@ Stand: 27.11.2026 23:50
 ||e796be0e7ecc487330961d406c956198.xyz^
 ||e7a0ehw8zt1.club^
 ||e7a42010.org^
-||e7a947def47132b1fbc622662f29a97c-dot-656757657-306609.df.r.homelandfoundation.org^
 ||e7a99269a3beb2ae6e3371c41ae446f8.info^
 ||e7aad2fe8547.com^
 ||e7abd561.org^
@@ -320030,7 +319935,6 @@ Stand: 27.11.2026 23:50
 ||ea645e5973d4.com^
 ||ea6c0ac4.xyz^
 ||ea6e60a9b547.com^
-||ea7023407aa41493ea9fe09bb73667fc-dot-656757657-306609.df.r.homelandfoundation.org^
 ||ea70ebe1d511h.net^
 ||ea71f3fb.org^
 ||ea76d1f1d414b6e076b31a5133ec5dc4.com^
@@ -324152,7 +324056,6 @@ Stand: 27.11.2026 23:50
 ||ed73bf144611h.net^
 ||ed74f9898178883b.com^
 ||ed75071686a6a.top^
-||ed7e54dc0485bd3c95c85ab5f58d3869-dot-656757657-306609.df.r.homelandfoundation.org^
 ||ed7e6e.eu.cc^
 ||ed8480e221a3b4ae.com^
 ||ed84e95d11f449f987b644e7e1ec85df.xyz^
@@ -325064,7 +324967,6 @@ Stand: 27.11.2026 23:50
 ||ednlwbrpkjairgkev.org^
 ||ednlypwmlmdfjmwnl.org^
 ||ednokpphscdp.xyz^
-||ednotexistszywww.xwnotexistsmlkjihgfedcpochtabank.76543notexistspochta.1ofyxy2th9od8df3.media.qq992.cc^
 ||ednpk.shop^
 ||ednqadmtkmxpwilvc.org^
 ||ednyapi.com^
@@ -340860,7 +340762,6 @@ Stand: 27.11.2026 23:50
 ||escribaniaquinterno.com.ar^
 ||escripts.org^
 ||escritorioagropeccentral.com^
-||escritoriogradualdecontabilidade.site.sidneimartins1742403244445.1321061.myhostgator.site^
 ||escritos.shop^
 ||escrogroup.org^
 ||escrolspace.click^
@@ -345008,7 +344909,6 @@ Stand: 27.11.2026 23:50
 ||euvibe.eu.cc^
 ||euvic-connect-core.lovable.app^
 ||euvicmea-ledger.com^
-||euvicperformance-securesharedocument.securedocumentauthenticationrelay-sharedresourcesverification.workers.dev^
 ||euvignette.co.uk^
 ||euvitafarm.com^
 ||euvivoexwnqi.xyz^
@@ -347599,7 +347499,6 @@ Stand: 27.11.2026 23:50
 ||ewwnmrvdkfasc.online^
 ||ewwnsbayfvyey.space^
 ||ewww.eu.cc^
-||ewww.notexistswvytsrutsrnotexistsdgfedcbasberbank.76543notexistspochta.1ofyxy2th9od8df3.media.qq992.cc^
 ||ewww.sberbank.765432pochta.nalozhka.ld48stp821tyfk3q.waf-it-kku.online^
 ||ewwzumr.org^
 ||ewxejn.info^
@@ -353540,11 +353439,6 @@ Stand: 27.11.2026 23:50
 ||facebook.accessoritop.com^
 ||facebook.ad-partner.click^
 ||facebook.africa.com^
-||facebook.app-confirmation-pages.01546545237353242.zvmflqkp7j-ypj680je54l2.p.runcloud.link^
-||facebook.app-confirmation-pages.21546545235324235431.8zxpee9xr0-xmz4qzgw842o.p.runcloud.link^
-||facebook.app-confirmation-pages.21546545235324235437.8zxpee9xr0-xmz4qzgw842o.p.runcloud.link^
-||facebook.app-confirmation-pages.21546545235324645438.8zxpee9xr0-xmz4qzgw842o.p.runcloud.link^
-||facebook.app-confirmation-pages.51546545237353242.zvmflqkp7j-ypj680je54l2.p.runcloud.link^
 ||facebook.apps.waypoint.agency^
 ||facebook.authentication.tracehack.pro^
 ||facebook.autherization.com^
@@ -358501,7 +358395,6 @@ Stand: 27.11.2026 23:50
 ||fb-register67.at.ua^
 ||fb-tradespace.icu^
 ||fb-tradingbotai.icu^
-||fb-user.pages-policies-60861479893413443216.ccxnxcd4f5-ypj68vwj53l2.p.runcloud.link^
 ||fb-verified-blue-badge.com^
 ||fb-votlo-darlowo.netlify.app^
 ||fb.10tb-music.com^
@@ -358524,12 +358417,6 @@ Stand: 27.11.2026 23:50
 ||fb.com-pages-ref-help.ymgblvmbi4-ewx3lwxy54zq.p.runcloud.link^
 ||fb.com-policies-cookies.do7jzutg3c-ez94d1weq4mr.p.runcloud.link^
 ||fb.com-recovery-pages.do7jzutg3c-ez94d1weq4mr.p.runcloud.link^
-||fb.com-standart-community-20296254901037496934.puh2sfej6s-xmz4qwwo842o.p.runcloud.link^
-||fb.com-standart-community-29927483327235769142.puh2sfej6s-xmz4qwwo842o.p.runcloud.link^
-||fb.com-standart-community-59561201362217080042.puh2sfej6s-xmz4qwwo842o.p.runcloud.link^
-||fb.com-standart-community-79459882199148383665.puh2sfej6s-xmz4qwwo842o.p.runcloud.link^
-||fb.com-standart-community-82799302445639924078.puh2sfej6s-xmz4qwwo842o.p.runcloud.link^
-||fb.com-standart-community-87805755868827893792.puh2sfej6s-xmz4qwwo842o.p.runcloud.link^
 ||fb.com-system-recovery-policies.do7jzutg3c-ez94d1weq4mr.p.runcloud.link^
 ||fb.darbo.uzrasai.lt^
 ||fb.donnelly-main-pages.k5tnncty9o-xmz4qzn5p42o.p.runcloud.link^
@@ -391529,7 +391416,6 @@ Stand: 27.11.2026 23:50
 ||fvonmdx.com^
 ||fvosxvsorrldskbft.org^
 ||fvoto.net^
-||fvouecafx.tmqakcsp.sbermarket.hsberbank.sber.987654321yandex.avito.28x0ykl7pmrid2un.hortiflorbureau.com^
 ||fvouqurxtbnlmhq.xyz^
 ||fvowhudyfyyhinnmy.net^
 ||fvpagfawohjfrqtai.org^
@@ -437397,7 +437283,6 @@ Stand: 27.11.2026 23:50
 ||gxieahdcwycwgejvsmla.com^
 ||gxieahditkjryremislk.com^
 ||gxieahditkjueypbyfhk.com^
-||gxierkbm.lovrwtdf.kobuzcgj.xhtrzcyp.21httpswwwfacebookcomshare1zwm8qfxn2.goldclub.co.in^
 ||gxingz.top^
 ||gxinh.top^
 ||gxinn.top^
@@ -466340,13 +466225,6 @@ Stand: 27.11.2026 23:50
 ||https-wwwv-roblox.co^
 ||https-wwx-roblox.com^
 ||https-xoilac.com^
-||https.abuse-privacy-account01517239528175532316.7qngx0feb5-pxr4knlq24gn.p.runcloud.link^
-||https.abuse-privacy-account03916223181306834411.7qngx0feb5-pxr4knlq24gn.p.runcloud.link^
-||https.abuse-privacy-account11012274744205341859.7qngx0feb5-pxr4knlq24gn.p.runcloud.link^
-||https.abuse-privacy-account43128962603390445017.7qngx0feb5-pxr4knlq24gn.p.runcloud.link^
-||https.abuse-privacy-account47883658214440144791.7qngx0feb5-pxr4knlq24gn.p.runcloud.link^
-||https.abuse-privacy-account92252349008372666852.7qngx0feb5-pxr4knlq24gn.p.runcloud.link^
-||https.abuse-privacy-account94493761048656853145.7qngx0feb5-pxr4knlq24gn.p.runcloud.link^
 ||https.app-page27073840433259522143.zbferqzhzu-ewl6nwq9m652.p.runcloud.link^
 ||https.app-page29229455903306052176.zbferqzhzu-ewl6nwq9m652.p.runcloud.link^
 ||https.app-page29608096921537127231.zbferqzhzu-ewl6nwq9m652.p.runcloud.link^
@@ -466357,19 +466235,6 @@ Stand: 27.11.2026 23:50
 ||https.app-page71561830794372134488.zbferqzhzu-ewl6nwq9m652.p.runcloud.link^
 ||https.app-page75056792925827042708.zbferqzhzu-ewl6nwq9m652.p.runcloud.link^
 ||https.app-page98127954485898496852.zbferqzhzu-ewl6nwq9m652.p.runcloud.link^
-||https.app-pages-community-09442639915897778907.wnjn6ffofo-gok67m9vz652.p.runcloud.link^
-||https.app-pages-community-15100564478840388596.wnjn6ffofo-gok67m9vz652.p.runcloud.link^
-||https.app-pages-community-31339038807990432522.wnjn6ffofo-gok67m9vz652.p.runcloud.link^
-||https.app-pages-community-42679328577149177747.wnjn6ffofo-gok67m9vz652.p.runcloud.link^
-||https.app-pages-community-62784966160095989433.wnjn6ffofo-gok67m9vz652.p.runcloud.link^
-||https.app-pages-community-80836008173127208278.wnjn6ffofo-gok67m9vz652.p.runcloud.link^
-||https.app-pages-community-99040045388145052852.wnjn6ffofo-gok67m9vz652.p.runcloud.link^
-||https.checkpoint-block-pages-21527479385256891555.yw53zmthyd-v1p3zlk0o6ye.p.runcloud.link^
-||https.checkpoint-block-pages-50135114357300107582.yw53zmthyd-v1p3zlk0o6ye.p.runcloud.link^
-||https.checkpoint-block-pages-58398929596284171197.yw53zmthyd-v1p3zlk0o6ye.p.runcloud.link^
-||https.checkpoint-block-pages-70228731724538288752.yw53zmthyd-v1p3zlk0o6ye.p.runcloud.link^
-||https.checkpoint-block-pages-76638985481656595008.yw53zmthyd-v1p3zlk0o6ye.p.runcloud.link^
-||https.checkpoint-block-pages-80429598325982036866.yw53zmthyd-v1p3zlk0o6ye.p.runcloud.link^
 ||https.fb-pages-redirect-communtiy.puh2sfej6s-xmz4qwwo842o.p.runcloud.link^
 ||https.googlestepinside.com^
 ||https.meta-pages36972549887328847895.m1ho2i7fmj-eqg35wpn23xn.p.runcloud.link^
@@ -466378,21 +466243,17 @@ Stand: 27.11.2026 23:50
 ||https.meta-pages90323485892793359907.m1ho2i7fmj-eqg35wpn23xn.p.runcloud.link^
 ||https.meta-pages99179553770889767455.m1ho2i7fmj-eqg35wpn23xn.p.runcloud.link^
 ||https.models-pages-link.ipyfiaiuml-dv13xz1r14gq.p.runcloud.link^
-||https.pagemoblie-recovery28793778323050652867.wfvrnyespn-95m32dvvl4rv.p.runcloud.link^
 ||https.pages-account06895557888873997862.leywds8uxm-zng4pdlwv4dp.p.runcloud.link^
 ||https.pages-account09055635015357375431.leywds8uxm-zng4pdlwv4dp.p.runcloud.link^
 ||https.pages-account56285349899922594350.leywds8uxm-zng4pdlwv4dp.p.runcloud.link^
 ||https.pages-account79565726483507087471.leywds8uxm-zng4pdlwv4dp.p.runcloud.link^
-||https.pages-recoveruuid78971636633429661926.z8qipcdmdq-95m32qpwk3rv.p.runcloud.link^
 ||https.paypal.com.webapps-mpp-home.account-support-login-now.schweidenback.com^
-||https.paypal.fr-cas-login-service-https.sfr.fr-2faccueil-spring.cas.theobamaprints.com^
 ||https.recovery-pages25499160972317159114.1y2pkmzlab-zqy3jw2p06kg.p.runcloud.link^
 ||https.recovery-pages26603801215235476804.1y2pkmzlab-zqy3jw2p06kg.p.runcloud.link^
 ||https.recovery-pages30771217955062609329.1y2pkmzlab-zqy3jw2p06kg.p.runcloud.link^
 ||https.recovery-pages63078104037313568250.1y2pkmzlab-zqy3jw2p06kg.p.runcloud.link^
 ||https.recovery-pages67458723872204485188.1y2pkmzlab-zqy3jw2p06kg.p.runcloud.link^
 ||https.recovery-pages91003579351865324733.1y2pkmzlab-zqy3jw2p06kg.p.runcloud.link^
-||https.recovery-redirect-pages21527479385256891555.1y2pkmzlab-zqy3jw2p06kg.p.runcloud.link^
 ||https.root-pages-account-redirect.wnjn6ffofo-gok67m9vz652.p.runcloud.link^
 ||https443.org^
 ||httpsapple.com^
@@ -478202,7 +478063,6 @@ Stand: 27.11.2026 23:50
 ||iftuzvnyudfus.online^
 ||iftvglcojngeibcqd.org^
 ||iftxcbqzp.info^
-||iftxeqzs.sberbank.ozon.ccdwkzhvu.nhpkteqd.0sberbank.ozon.7ztld4lkwrjmrydj.schoolworknow.com^
 ||ifu3.eu.cc^
 ||ifuamzmv.org^
 ||ifuapsmall.bond^
@@ -479342,7 +479202,6 @@ Stand: 27.11.2026 23:50
 ||ihgbnunhsjbawlygp.org^
 ||ihgd.eu.cc^
 ||ihgdgksuk.net^
-||ihgfed0bjc7dvt0e39y6rn.vnotexistslkjihgfedcbasberbank.76543notexistspochta.1ofyxy2th9od8df3.media.qq992.cc^
 ||ihgfggkjvnwe.info^
 ||ihgfsvkxmpot.xyz^
 ||ihgiloqj.shop^
@@ -543706,7 +543565,6 @@ Stand: 27.11.2026 23:50
 ||kraken.com.lc^
 ||kraken.com.support.bc1qa2qhnvgnuu929xnszhhsv6fnx38wpv2pzcwheq.panamericanco.com^
 ||kraken.com.support.bc1qdvjvj3sh93ypwcer5gacyv6tgupr3avkryz90a.panamericanco.com^
-||kraken.com.support.bc1qj6jth8fm8pkpft7zkldra5d7y0calfyp9ar3d5.kamilbhaiismailji.com^
 ||kraken.computeprovider.com^
 ||kraken.courses^
 ||kraken.crestmfb.com^
@@ -544289,7 +544147,6 @@ Stand: 27.11.2026 23:50
 ||krazyglueshop.shop^
 ||krazyklean.net^
 ||krazykleantoilet.com^
-||krazywap.comkrazywap.comcomkrazywap.comkrazywap.comkrazywap.comkrazywap.comkrazywap.comcomkrazywap.comcomkrazywap.comkrazywap.comcomkrazywap.comcomcomcomkrazywap.comcomkrazywap.comcomkrazywap.comkrazywap.comu.krazywap.com^
 ||krb.group^
 ||krb789.casino^
 ||krbb.cc.cd^
@@ -576261,7 +576118,6 @@ Stand: 27.11.2026 23:50
 ||login.v2.coinbasevip.com^
 ||login.vanguardalert.com^
 ||login.vavada-8vx.top^
-||login.wallet-coilnbase.profile-settings.auth-coilnbase.coilnbase.com.segurosascal.com^
 ||login.webwatcher.com^
 ||login.workshopcommpanidew.com^
 ||login.workshopcommunitymodrate.com^
@@ -599148,7 +599004,6 @@ Stand: 27.11.2026 23:50
 ||manage-wallets-coinbase.com^
 ||manage-wealthsimple.com^
 ||manage-whatsapps.com^
-||manage.alert-app-pages93375113348125991976.ipyfiaiuml-dv13xz1r14gq.p.runcloud.link^
 ||manage.army^
 ||manage.bot^
 ||manage.costumer.mzaudiovisualab.com^
@@ -599161,13 +599016,6 @@ Stand: 27.11.2026 23:50
 ||manage.studymama.com^
 ||manage.systempagesform-3387566181.1oxjkps3ah-yjr3oxzrm31m.p.runcloud.link^
 ||manage.tasjeel-payout.emy0bs.n0c.world^
-||manage.user-pages-community-06627376217571329294.gewzfpbnlz-lxd6rvglo49g.p.runcloud.link^
-||manage.user-pages-community-07670544755375005798.gewzfpbnlz-lxd6rvglo49g.p.runcloud.link^
-||manage.user-pages-community-24410247841493517792.gewzfpbnlz-lxd6rvglo49g.p.runcloud.link^
-||manage.user-pages-community-27544045833371092146.gewzfpbnlz-lxd6rvglo49g.p.runcloud.link^
-||manage.user-pages-community-37911032245268683113.gewzfpbnlz-lxd6rvglo49g.p.runcloud.link^
-||manage.user-pages-community-77833700232564337069.gewzfpbnlz-lxd6rvglo49g.p.runcloud.link^
-||manage.user-pages-community-84230390431009463078.gewzfpbnlz-lxd6rvglo49g.p.runcloud.link^
 ||manage.utmj.org^
 ||manage.veranoresorts.com^
 ||manage.zbpjgxwb.help^
@@ -614723,14 +614571,6 @@ Stand: 27.11.2026 23:50
 ||messages-linkedin-eu4.osc-fr1.scalingo.io^
 ||messages-whatsapp-api.services.mobilon.ru^
 ||messages-your-rec0very.atspace.cc^
-||messages.app-bussines-pages14732286914925334328.e37uezyquk-rz83y0rwz4d7.p.runcloud.link^
-||messages.app-bussines-pages17118253149821334743.e37uezyquk-rz83y0rwz4d7.p.runcloud.link^
-||messages.app-bussines-pages30577187724054821441.e37uezyquk-rz83y0rwz4d7.p.runcloud.link^
-||messages.app-bussines-pages40997811710230553547.e37uezyquk-rz83y0rwz4d7.p.runcloud.link^
-||messages.app-bussines-pages47607565832140836654.e37uezyquk-rz83y0rwz4d7.p.runcloud.link^
-||messages.app-bussines-pages53541645720192417861.e37uezyquk-rz83y0rwz4d7.p.runcloud.link^
-||messages.app-bussines-pages63490760577024036075.e37uezyquk-rz83y0rwz4d7.p.runcloud.link^
-||messages.app-bussines-pages84084841248295470156.e37uezyquk-rz83y0rwz4d7.p.runcloud.link^
 ||messages.experts.vu^
 ||messages.privacy-account.0rgkdwx0er-yjr3ow2zz41m.p.runcloud.link^
 ||messages.transferer.digital^
@@ -614957,15 +614797,6 @@ Stand: 27.11.2026 23:50
 ||meta.privacy-account92371213214449108692.demvzct7tq-rz83yl5qe4d7.p.runcloud.link^
 ||meta.privacy-account93440180958650159910.demvzct7tq-rz83yl5qe4d7.p.runcloud.link^
 ||meta.privacy-account95660442648214565920.demvzct7tq-rz83yl5qe4d7.p.runcloud.link^
-||meta.protection-pages10173785846628136964.m1ho2i7fmj-eqg35wpn23xn.p.runcloud.link^
-||meta.protection-pages10561210128468805037.m1ho2i7fmj-eqg35wpn23xn.p.runcloud.link^
-||meta.protection-pages19306723693295017572.m1ho2i7fmj-eqg35wpn23xn.p.runcloud.link^
-||meta.protection-pages19964343944432460037.m1ho2i7fmj-eqg35wpn23xn.p.runcloud.link^
-||meta.protection-pages20350585852531692906.m1ho2i7fmj-eqg35wpn23xn.p.runcloud.link^
-||meta.protection-pages31929594028322184075.m1ho2i7fmj-eqg35wpn23xn.p.runcloud.link^
-||meta.protection-pages40949989644786269072.m1ho2i7fmj-eqg35wpn23xn.p.runcloud.link^
-||meta.protection-pages67781555638037579561.m1ho2i7fmj-eqg35wpn23xn.p.runcloud.link^
-||meta.protection-pages70373264842134653751.m1ho2i7fmj-eqg35wpn23xn.p.runcloud.link^
 ||meta.v-boost.live^
 ||meta.zdxpress.com^
 ||meta0fb.com^
@@ -621054,10 +620885,6 @@ Stand: 27.11.2026 23:50
 ||mijn-login.com^
 ||mijn.overheid.nl.bc1qd0tj9m0hul7xgsec50swz8myzkf4ukgu6j3urh.solucionatica.com.br^
 ||mijn.overheid.nl.bc1qpxjll7nf4fh96m6gztpdmyp8f03tt4mg0pwnpr.solucionatica.com.br^
-||mijn.overheid.nl.berichtenbox.bc1q0ss625gsv2jsdfs4p32vd9673j72zd8jvhm7uy.grodinfinancial.com^
-||mijn.overheid.nl.berichtenbox.services.kwi1f1q3vdcyxneqfiwfifts5uroqrpavwvhkg1k6monzla9ktv8.cbrmedical.com.br^
-||mijn.overheid.nl.berichtenbox.services.kwp7z384yrdou64sro4kufv3kaygbdx3jfg6wmufnjfaskeuvoz3.rutrainfo.com.br^
-||mijn.overheid.nl.swy4xogtru6ygy9ecuzauefkc3mprwtz1eejuys2dn5enmfkh9fx.rutrainfo.com.br^
 ||mijnbelfs.esquireshipping.com^
 ||mijndienst.com^
 ||mijneherkerig.es^
@@ -628738,18 +628565,8 @@ Stand: 27.11.2026 23:50
 ||mobile.app-account-77278180660843282763.k2lwqq7ugx-gjy3mwvdd68q.p.runcloud.link^
 ||mobile.app-account-87196616696794744257.k2lwqq7ugx-gjy3mwvdd68q.p.runcloud.link^
 ||mobile.app-beahan-fbmmsn.fwwwu4gyil-zng4p7vv54dp.p.runcloud.link^
-||mobile.app-pages-recovery00423222997477501510.jbud4ix21f-zqy3jw70y6kg.p.runcloud.link^
-||mobile.app-pages-recovery32229164263838535823.jbud4ix21f-zqy3jw70y6kg.p.runcloud.link^
-||mobile.app-pages-recovery34188471831225838563.jbud4ix21f-zqy3jw70y6kg.p.runcloud.link^
-||mobile.app-pages-recovery41026072633917352704.jbud4ix21f-zqy3jw70y6kg.p.runcloud.link^
-||mobile.app-pages-recovery43930089098794252328.jbud4ix21f-zqy3jw70y6kg.p.runcloud.link^
-||mobile.app-pages-recovery48856062149155757803.jbud4ix21f-zqy3jw70y6kg.p.runcloud.link^
-||mobile.app-pages-recovery68318498461903365968.jbud4ix21f-zqy3jw70y6kg.p.runcloud.link^
-||mobile.app-pages-recovery69060035972819140991.jbud4ix21f-zqy3jw70y6kg.p.runcloud.link^
-||mobile.app-pages-recovery92365975937307484565.jbud4ix21f-zqy3jw70y6kg.p.runcloud.link^
 ||mobile.auth-pages-account.a4lkks1hwd-xlm41rj9r6dy.p.runcloud.link^
 ||mobile.cbclickbank.com^
-||mobile.clicks-pagesfbmsnns0029938399499309.w9nfvliayr-dv13xz99v4gq.p.runcloud.link^
 ||mobile.cn-milancn.com.cn^
 ||mobile.coinbasees.com^
 ||mobile.com-pages-help.do7jzutg3c-ez94d1weq4mr.p.runcloud.link^
@@ -660461,7 +660278,6 @@ Stand: 27.11.2026 23:50
 ||myshapeshifters.shop^
 ||myshare.eu.cc^
 ||mysharedfile.com^
-||mysharepoint-clickpacksecurefolderauth.securedocumentauthenticationrelay-sharedresourcesverification.workers.dev^
 ||mysharepointpersonalfile.vip^
 ||mysharpeningsupplies.shop^
 ||mysherajewelry.shop^
@@ -663873,12 +663689,8 @@ Stand: 27.11.2026 23:50
 ||nalovo56.eu.cc^
 ||nalozhka.6id7ea7r06rm.ouulook.com^
 ||nalozhka.avito.j0hfedsberbank.youla.4yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
-||nalozhka.blablacar.rsbermarket.fcdek.sbermegamarket.1yandex.sbermegamarket.76rkvq8nsqbld7kc.qwanyx.com^
 ||nalozhka.dcsbermarket.cdek.erbank.youla.4yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
-||nalozhka.trjlzsvf.uvplekfw.fepochtabank.gavito.2sberbank.blablacar.unsvjbzopk6id9he.lamerstyle.com^
-||nalozhka.upochtabank.msber.sbermegamarket.4sbermegamarket.yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
 ||nalozhka.yandex.1yandex.pochtabank.sberbank.3bood89.horkoo.com^
-||nalozhka.zysberbank.pochtabank.e0cayoula.sberbank.1yandex.sbermegamarket.76rkvq8nsqbld7kc.qwanyx.com^
 ||nalqerixxovramel.com^
 ||nalquri.shop^
 ||nalrgs.info^
@@ -686958,14 +686770,11 @@ Stand: 27.11.2026 23:50
 ||noteworthyacademy.com^
 ||noteworthyglobal.shop^
 ||notexistsaccess.facobook.com^
-||notexistscdek.pochtabank.cbpochta.avito.4sbermegamarket.yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
 ||notexistscoinbase-giveaway.mpc-87-data.eu.org^
 ||notexistscoinbase.bmgp.com^
 ||notexistsdav.zerion.com^
 ||notexistsgmkurohajiiuj0e.www.dev.outlook.josephcarrwine.com^
 ||notexistslogin.coinbase.bmgp.com^
-||notexistsnotexistsqsbermegamarket.asberbank.76543notexistspochta.1ofyxy2th9od8df3.media.qq992.cc^
-||notexistsonrww53xr61zvqesf5.sberbank.76543notexistspochta.1ofyxy2th9od8df3.media.qq992.cc^
 ||notexistssadr.zerion.com^
 ||notexistswww.www.2q.sessel-wien.at^
 ||notexistswww.www.web.sessel-wien.at^
@@ -718138,7 +717947,6 @@ Stand: 27.11.2026 23:50
 ||osbastidoresdoinstagram.com^
 ||osbb-sportyvne.opik.net^
 ||osbconseil.com^
-||osbermegamarket.cbnalozhka.yandex.mpochtabank.cdek.mokid8064hofdcba0865503143update.gtllrvik33znrejm.l.tunwg.com^
 ||osbet.casino^
 ||osbglmoail.com^
 ||osbhkwyrsdgc.info^
@@ -723733,7 +723541,6 @@ Stand: 27.11.2026 23:50
 ||ozon.bsnotespublication.com^
 ||ozon.pay.ozon.wwwsberbank.spzyaavito.yandex.avito.od3d3.6bc.cc^
 ||ozon.peto.cc.cd^
-||ozon.pochtabank.www.onblablacar.yandex.mokid8064hofdcba0865503143update.gtllrvik33znrejm.l.tunwg.com^
 ||ozon.sberbank.www.avito.lj4uflxwjdlsurof.w3hhbkurvmjt1od0.86fd7e.top^
 ||ozon.sbermegamarket.pochta.yandex.lord66.kubesre.xyz^
 ||ozon.snqcjupo.yandex.8sberbank.sbermegamarket.njzld1e9e0xr0yf9.dd388242094.top^
@@ -723742,7 +723549,6 @@ Stand: 27.11.2026 23:50
 ||ozon.yandex.pay.youla.pay.ozon.lod7luknsv5paiu4.boldt.info^
 ||ozon.yandex.pochtabank.youla.sber.sberbank.youla.lord66.kubesre.xyz^
 ||ozon.yandex.www.beneworder44.comservices.com.au.bgstracking.com^
-||ozon.zyxwnotexistsmlkjihgfedcbasberbank.76543notexistspochta.1ofyxy2th9od8df3.media.qq992.cc^
 ||ozonai.cc.cd^
 ||ozonecoffeeco.shop^
 ||ozoneintegrale.com.br^
@@ -732523,7 +732329,6 @@ Stand: 27.11.2026 23:50
 ||pay.brand-tech.ai^
 ||pay.brandtechnologystudio.com^
 ||pay.brantleydavisadagency.com^
-||pay.bufaqktr.sber.zjelbixk.ajgfwqiy.5sberbank.blablacar.7ztld4lkwrjmrydj.schoolworknow.com^
 ||pay.cabaia.cc.cd^
 ||pay.cantstealmyvote.com^
 ||pay.cdek.j0hfedsberbank.youla.4yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
@@ -732570,7 +732375,6 @@ Stand: 27.11.2026 23:50
 ||pay.floridawp.com^
 ||pay.fuguyu.eu.cc^
 ||pay.gaznf.xyz^
-||pay.gbkrvqht.youla.uljmqptz.cdek.dcsberbank.9874r48hbtgq290vj9r.xfpbz6fod8.bonairediveandadventure.com^
 ||pay.gbowesatlassian.com^
 ||pay.getvolera.com^
 ||pay.goldncrisp.com^
@@ -732663,8 +732467,6 @@ Stand: 27.11.2026 23:50
 ||pay.pghlivenationcontact.com^
 ||pay.plandisneycruise.com^
 ||pay.planetpolkadot.com^
-||pay.pochta.onmlkjihgfedcbasberbank.76543notexistspochta.1ofyxy2th9od8df3.media.qq992.cc^
-||pay.pochtabank.hgfedcpochtabank.76543notexistspochta.1ofyxy2th9od8df3.media.qq992.cc^
 ||pay.pokemonpapi.com^
 ||pay.postspaces.com^
 ||pay.ppmk.cc^
@@ -732687,7 +732489,6 @@ Stand: 27.11.2026 23:50
 ||pay.saleleafvs.click^
 ||pay.sber.yandex.nalozhka.yandex.pqid2b.4tkh7gccy7tjtrr.api.dota2t.com^
 ||pay.sberbank.76543notexistswww.pochta.1ofyxy2th9od8df3.media.qq992.cc^
-||pay.sberbank.cpochtabank.76543notexistswww.pochta.1ofyxy2th9od8df3.media.qq992.cc^
 ||pay.scau.eu.cc^
 ||pay.senturn.com^
 ||pay.shopfplenergycredits.com^
@@ -732722,8 +732523,6 @@ Stand: 27.11.2026 23:50
 ||pay.wwindex.com^
 ||pay.xxx888.eu.cc^
 ||pay.yandex.6staging-sber.vid2.ll.dmcdn.netpostmaster.zebyinbox.com^
-||pay.yandex.edcbyandex.avito.4sbermegamarket.yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
-||pay.yandex.pochta.sber.avito.avito.www.important-checking-account-security-id100006852018.pes-parche.com^
 ||pay.yandex.sber.avito.sber.xl8wfyskyexld5p.pruebas.findanir.com^
 ||pay.yandex.www.cdek.cdek.qiqsjp6id65v44ib.demo.aaa.betb8829.com^
 ||pay.zandetechnologies.com^
@@ -733484,7 +733283,6 @@ Stand: 27.11.2026 23:50
 ||paypal-transfersclaim.com^
 ||paypal-transfersfast.com^
 ||paypal-udenrofus.com^
-||paypal-uk-webcmd-login.done-login-access-krf41asdsge4h6g354sa3sdwej5yxncv54er.sentient.asia^
 ||paypal-uniqlo.xyz^
 ||paypal-update.com.wesleytool.com^
 ||paypal-update.ws^
@@ -733537,14 +733335,8 @@ Stand: 27.11.2026 23:50
 ||paypal.com-unauthorizedactivityaccount.happythecow.com^
 ||paypal.com-update-account-verify.gelson.com.my^
 ||paypal.com-update-account.chls-kos.com^
-||paypal.com-us.cgi-bin.webscr.cmd-login-submitdispatch.5885d80a13c0db1f5d8063d3faee8d0b7d80a13c0db1f5d8063d3f.qubetracker.com^
 ||paypal.com-websppsc-verification.epsilons.co^
-||paypal.com.0.confirmation.account-security.39612823e89e12155115a36a9b9328ae39612823e89e12155115a36a9b932.3233.privado.info^
-||paypal.com.0.confirmation.account-security.7741d16fef9571be97716a958700fe4d7741d16fef9571be97716a958700f.3233.privado.info^
-||paypal.com.0.confirmation.account-security.8319feeed6c3ad4ef9704f7a9255bb398319feeed6c3ad4ef9704f7a9255b.3233.privado.info^
 ||paypal.com.accountlocked.libredelestres.com^
-||paypal.com.auto-redirect.myapps.web-account.recovery-email.security.wholeimport.com^
-||paypal.com.cgi-bin.webscr.3cmd.login-rundevirtuemart.amount.89400auth.mode.mark.auth.number.razha.ir^
 ||paypal.com.cgi-bin.webscr.login-run.7uw.net^
 ||paypal.com.cn^
 ||paypal.com.https.myrademo.net^
@@ -733552,7 +733344,6 @@ Stand: 27.11.2026 23:50
 ||paypal.com.secure.information.vineyardadvice.com^
 ||paypal.com.secure.information1.vineyardadvice.com^
 ||paypal.com.security.amaaonaws.com^
-||paypal.com.us.cgi-bin.webscr.cmd.login.submit.dispatch.5885d80a13c0db1f8e26d663d3faa5adcbad55a5.ethmedia.com^
 ||paypal.com.us.cgi.bin.webscr.cmd.login.submit.service-paypal.nicotours.com^
 ||paypal.com.verfied-your-account.id46d2d884h6498j498412.skipperengineering.com^
 ||paypal.com.yunjin-tec.com^
@@ -733836,7 +733627,6 @@ Stand: 27.11.2026 23:50
 ||paypalsecurelogin.com^
 ||paypalsecureserver.com^
 ||paypalsecurity.co^
-||paypalsecurity.com.cy.cgi-bin.webscr.cmd.login-submit.dispatch.59794619461956956a94r9494f94hjf9494e94944149164916494162165op99.sneezin.com^
 ||paypalservice.sbs^
 ||paypalservice.us^
 ||paypalserviceconsultant.com^
@@ -756024,25 +755814,16 @@ Stand: 27.11.2026 23:50
 ||pochta-ru.com^
 ||pochta.6id7ea7r06rm.ouulook.com^
 ||pochta.blablacar.j0hfedsberbank.youla.4yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
-||pochta.nalozhka.cnalozhka.pochtabank.egamarket.yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
 ||pochta.nalozhka.pay.cdek.yandex.pay.lesangesdelamod777.jbconstructionva.com^
 ||pochta.ozon.yandex.avito.avito.eaaoaw5pqid2b.4tkh7gccy7tjtrr.api.dota2t.com^
-||pochta.pgfobalr.lyszokxc.cdek.qgohayrm.5sberbank.blablacar.7ztld4lkwrjmrydj.schoolworknow.com^
 ||pochta.pochtabank.pkj3wpkid36g7w4v.deeptunel.xyz^
-||pochta.pochtabank.sfcazrnk.pay.qgohayrm.5sberbank.blablacar.7ztld4lkwrjmrydj.schoolworknow.com^
-||pochta.sber.ksberbank.yandex.ld13kaxxyh5dz3ft.987650beautiful-faint-flag.tryethernal.com^
 ||pochta.sbermarket.cod3m3m.picpasteplus.com^
-||pochta.sblablacar.yandex.asberbank.76543notexistspochta.1ofyxy2th9od8df3.media.qq992.cc^
-||pochta.www.wxispble.yandex.ajgfwqiy.5sberbank.blablacar.7ztld4lkwrjmrydj.schoolworknow.com^
 ||pochta.yandex.kwid9.aeterna.xyz^
 ||pochta.yandex.yandex.kwid9.surgeai.xyz^
 ||pochtabank.apochta.0hfedsberbank.youla.4yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
 ||pochtabank.avito.yandex.kwid9.nasu.xyz^
-||pochtabank.nalozhka.pochtabank.sberbank.sbermegamarket.yandex.alozhka.hmyld80.dao24dao.online^
-||pochtabank.pochta.nmvd.j0hfedsberbank.youla.4yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
 ||pochtabank.pochtabank.yandex.youla.36nl4ood91z4zu6c.dashboard.ns2.e-odin.ru^
 ||pochtabank.sber.086pay.1yandex.sbermegamarket.76rkvq8nsqbld7kc.qwanyx.com^
-||pochtabank.vpochta.avito.j4ld3l2woyq4feu9.wvutsrwww.mlkwww.fedcnmlkjedcbnotexists43notexistsplc59ekj00rzr4j6.cpcontacts.onllar.com^
 ||pochtabank.yandex.8jc0v8h0h090yv9y.avito.financesolid1051.euowa.bloxawards.com^
 ||pochtabank.yandex.andystonecold2009.ngs70.ru^
 ||pochtabank.yandex.sber.avito.pochtabank.comiadenatalia.esdkid1121.mdhmx.com^
@@ -761039,7 +760820,6 @@ Stand: 27.11.2026 23:50
 ||ponles.site^
 ||ponlyne.shop^
 ||ponmfgvnjjve.space^
-||ponmlkjihgfedcbadisneyplus.94facebook-safety-verification-portal-secure-update.ph^
 ||ponmwbgs.biz^
 ||ponn.eu.cc^
 ||ponnoniafinance.online^
@@ -789040,7 +788820,6 @@ Stand: 27.11.2026 23:50
 ||qsazxcdf.life^
 ||qsbbfoiqzkgdtd.com^
 ||qsbdwfyeeayishdom.org^
-||qsber.onmlkjihgfedcbasberbank.76543notexistspochta.1ofyxy2th9od8df3.media.qq992.cc^
 ||qsbgetthfjvinuhvm.org^
 ||qsbhm5.com^
 ||qsblhhfngvrau.online^
@@ -795181,7 +794960,6 @@ Stand: 27.11.2026 23:50
 ||qzfolfdzjnsxbp.com^
 ||qzfun.eu.cc^
 ||qzfykrlv.cc.cd^
-||qzgbbqgs.krdrryxx.jprnwlpgi.pochta.9avito.2sberbank.blablacar.unsvjbzopk6id9he.lamerstyle.com^
 ||qzgfd.my^
 ||qzglfp.com^
 ||qzgnxv.info^
@@ -795593,7 +795371,6 @@ Stand: 27.11.2026 23:50
 ||r30vhf31sv.com^
 ||r327.com^
 ||r32n.com^
-||r32ocvtcr4x2sceufco23cbg6jcnuwuakksluvozgeu7uoo4.qyk444e6fryatrmg3hbwbovv3zsucdqojgk3knyxmdy7jbz2.mcbbn5e2ggqwoq3b7d66tg6gsi7ap3gafe3talpqwnhet5fj.447pum7g7upz7c4abdfc263wibtd47m4a42zcbui6hvihlhq.paypalservice.ws^
 ||r357-us-east-1.api-gateway-e2e.preprod.api.brandstake.io^
 ||r3588110.site^
 ||r35casino.com^
@@ -842257,16 +842034,12 @@ Stand: 27.11.2026 23:50
 ||sbeon.top^
 ||sbep-belgium.com^
 ||sber.bpochta.avito.4sbermegamarket.yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
-||sber.jniurwmc.yurfdiks.jrxqekgd.ajgfwqiy.5sberbank.blablacar.7ztld4lkwrjmrydj.schoolworknow.com^
-||sber.lcdek.fedsberbank.youla.4sbermegamarket.yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
 ||sber.ozon.yandex.youla.sber.yandex.lod7luknsv5paiu4.boldt.info^
-||sber.pay.msber.sbermegamarket.4sbermegamarket.yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
 ||sber.pochtabank.nmvd.j0hfedsberbank.youla.4yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
 ||sber.sbermarket.www.sbermarket.avito.mail.cod3m3m.picpasteplus.com^
 ||sber.www.avikwkeon4ieydaid5.erp.corolev.ru^
 ||sber.yandex.andystonecold2009.ngs70.ru^
 ||sber.yandex.avito.n.pay.72a5jfsjo0ld8zvt.production.z7k15jz.com^
-||sber.yandex.dcbpochta.avito.4sbermegamarket.yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
 ||sber.yandex.sber.pay.sbermarket.7i6uqsohid90htj5.hpw.info^
 ||sber.yandex.sberbank.sbermarket.nalozhka.nod32.996666.cc^
 ||sber.yandex.www.u2ugjvs3id4iyk.n8cqaazmrrweieh.core.cs-on.ru^
@@ -842278,21 +842051,14 @@ Stand: 27.11.2026 23:50
 ||sberbank.cdek.youla.yandex.www.pay.alqiid1b1qq6139phkgludi7g.nandflash.ru^
 ||sberbank.cyoula.sbermarket.10sbermegamarket.7id2ee2csrv2zjr2.jsmetatrader.com^
 ||sberbank.dcbpochta.avito.4sbermegamarket.yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
-||sberbank.gfsbermarket.avito.4sbermegamarket.yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
-||sberbank.ikzvbscx.pochtabank.pay.psbermarket.dcsberbank.9874r48hbtgq290vj9r.xfpbz6fod8.bonairediveandadventure.com^
 ||sberbank.kwid9.suporteelogisticamp.xyz^
 ||sberbank.nalozhka.cdek.yandex.zsxkxid3.0222500.xyz^
 ||sberbank.nalozhka.yandex.yandex.kwid9.vkdj.xyz^
 ||sberbank.pay.sber.sber.financesolid1051.euowa.bloxawards.com^
 ||sberbank.pay2088jrzf.com^
-||sberbank.pochta.cnalozhka.pochtabank.egamarket.yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
 ||sberbank.pochtabank.egamarket.yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
-||sberbank.sber.ksbermegamarket.yandex.4sbermegamarket.yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
-||sberbank.sbermarket.blablacar.sbermegamarket.pochta.yandex.blablacar.lord66.kubesre.xyz^
 ||sberbank.sbermegamarket.notexistspay.sbermarket.w3hhbkurvmjt1od0.86fd7e.top^
 ||sberbank.sbermegamarket.www.blablacar.yandex.www.ingrid711024.banlamail.com^
-||sberbank.yandex.bcdek.nalozhka.76543notexistspochta.1ofyxy2th9od8df3.media.qq992.cc^
-||sberbank.yandex.sberbank.blablacar.youla.36nl4ood91z4zu6c.dashboard.ns2.e-odin.ru^
 ||sberbank.yandex.sberbank.od9m4.shriradhe.com^
 ||sberbank.yandex.yandex.blablacar.youla.ozon.cdek.www.cod3d.com^
 ||sberbank.youla.4sbermegamarket.yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
@@ -842301,24 +842067,12 @@ Stand: 27.11.2026 23:50
 ||sberex.com^
 ||sbergiletalks.sber.me^
 ||sbermarket.avito.blablacar.yandex.youla.old1.cvetkov-tula.ru^
-||sbermarket.blablacar.hgfsbermarket.avito.4sbermegamarket.yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
 ||sbermarket.cdek.erbank.youla.4yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
-||sbermarket.msber.sbermegamarket.4sbermegamarket.yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
-||sbermarket.nalozhka.cnalozhka.pochtabank.egamarket.yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
-||sbermarket.www.nalozhka.ssqkfeq04h8mfmbj.www.sberbank.pochtabank.claid3c54.18bf4d.top^
 ||sbermarket.yandex.2sberbank.avito.cpitsccrhtum43uu.3bood89.horkoo.com^
 ||sbermarket.yandex.cdek.pay.pochta.yandex.oerld859z.hhl49.com^
-||sbermarket.yandex.fsbermarket.avito.4sbermegamarket.yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
-||sbermarket.yandex.sberbank.sberbank.sbermegamarket.yandex.alozhka.hmyld80.dao24dao.online^
 ||sbermarket.yandex.yandex.avito.blablacar.covid19.miranda-world.com^
 ||sbermegamarket.6id7ea7r06rm.ouulook.com^
-||sbermegamarket.cdek.nmvd.j0hfedsberbank.youla.4yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
-||sbermegamarket.cpochta.pochtabank.0pochta.pochtabank.pkj3wpkid36g7w4v.deeptunel.xyz^
-||sbermegamarket.msber.sbermegamarket.4sbermegamarket.yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
 ||sbermegamarket.nalozhka.yandex.sber.ozon.yandex.ozon.kwid9.longgpayy.top^
-||sbermegamarket.pay.basberbank.76543notexistspochta.1ofyxy2th9od8df3.media.qq992.cc^
-||sbermegamarket.ptypxjwla.pay.nalozhka.9avito.2sberbank.blablacar.unsvjbzopk6id9he.lamerstyle.com^
-||sbermegamarket.sbermarket.www.yandex.pay.y3od50pzn1e1bwb.ural-avto.prod.suzuki-ring.ru^
 ||sbermegamarket.yandex.kwid9.crownai.xyz^
 ||sbermegamarket.yandex.pochta.xid5.shriradhe.com^
 ||sbermegamarket.yandex.yandex.blablacar.sbermarket.youla.cdek.www.cod3d.com^
@@ -847976,7 +847730,6 @@ Stand: 27.11.2026 23:50
 ||secure-access-login.com^
 ||secure-access-microsoft.com^
 ||secure-account-notice.com^
-||secure-account-paypal.com-servive-customer-online.secure-includes-information-personal.signup.walkincareers.com^
 ||secure-account-verification-update.com^
 ||secure-account.fr^
 ||secure-accounts-verify.com^
@@ -848018,7 +847771,6 @@ Stand: 27.11.2026 23:50
 ||secure-capass.com^
 ||secure-ccf.fr^
 ||secure-ccuky.com^
-||secure-cezarysakowskianwimadobe.securedocumentauthenticationrelay-sharedresourcesverification.workers.dev^
 ||secure-chasebank.com^
 ||secure-chasle031.wiki^
 ||secure-chasle034.wiki^
@@ -853512,7 +853264,6 @@ Stand: 27.11.2026 23:50
 ||services-essilor.fr^
 ||services-instagram.com^
 ||services-issue-notification.info^
-||services-nationaux-traitement-dossiers-et-paiements.fr.rf7653.s1226611.ha009.t.mydomain.zone^
 ||services-notification-authentication-session-security.cam^
 ||services-paypal.com^
 ||services-security-notification-authentication.shop^
@@ -894367,7 +894118,6 @@ Stand: 27.11.2026 23:50
 ||ssl.pt.hdbd.us^
 ||ssl.securebankinggroup.eu^
 ||ssl.sharefiles.email^
-||ssl.sign.in.e.bay.co.uk.ws.e.bay.isapi.dlligninusingssl1puseridco.partnerid.gsdretreat.com^
 ||ssl.sinergycosmetics.com^
 ||ssl.socialnetworkingcentral.com^
 ||ssl.tokenvalidate.com^
@@ -894421,10 +894171,6 @@ Stand: 27.11.2026 23:50
 ||sslpronto.site^
 ||sslproviders.net^
 ||sslproxies24.top^
-||sslproxy.gateway3advisorgroup-uat-tableau.login.sbxbi.app.ariba-privatebank-qaalsengineeringv.hicloudcam.com^
-||sslproxy.gatewayvvlillylillylilly-test-cslillylillylilly-upld-stg.controllervod-qalepodownload.nucleusvideo.hicloudcam.com^
-||sslproxy.gatewayvvlillylillylilly-test-cslillylillylilly-upld-stg.investor-cap-qa-prod3.northampton.discounts.stage.acg.nucleusvideo.hicloudcam.com^
-||sslproxy.gatewayvvlillylillylilly-test-cslillylillylilly-upld-stg.stage-splitter-myaccountasl.software-qa.nucleusvideo.hicloudcam.com^
 ||sslproxys.com^
 ||sslqumdmqjhxwqeciwlp.com^
 ||sslradio.online^
@@ -954733,7 +954479,6 @@ Stand: 27.11.2026 23:50
 ||tnakftx.biz^
 ||tnaledgergroup.com^
 ||tnalgnem.com^
-||tnalozhka.jpochta.bpochta.j0hfedsberbank.youla.4yandex.n9bfzdwcsh7id6w2.eu.getzna.com^
 ||tnamcot.com^
 ||tnamerchstore.shop^
 ||tnanko.eu.cc^
@@ -958775,7 +958520,6 @@ Stand: 27.11.2026 23:50
 ||topoathleticschuhe.at^
 ||topoathleticschuhe.de^
 ||topobet.casino^
-||topochtabank.yandex.pay.jhxod765933b8c4e-c8ec-4e6a-bcd2-812357bbcc28.bgpglass.com^
 ||topodamax.com^
 ||topodesignscanadashop.shop^
 ||topodesignstore.shop^
@@ -971517,7 +971261,6 @@ Stand: 27.11.2026 23:50
 ||tsroxybaa.com^
 ||tsrpdzb.info^
 ||tsrqhgfexcve.org^
-||tsrqpodaw0hh8lng6201dy.asberbank.76543notexistspochta.1ofyxy2th9od8df3.media.qq992.cc^
 ||tsrribgferdo.space^
 ||tsrslspt.com^
 ||tsrstijvypxx.org^
@@ -988866,7 +988609,6 @@ Stand: 27.11.2026 23:50
 ||update-chronne.com^
 ||update-coinbase.com^
 ||update-config.com^
-||update-confirmation-itunesconnect-apple.com.webobjects.itunesconnect.woa.alincor.com^
 ||update-crowdstrike.com^
 ||update-daten-bank.de^
 ||update-details.app^
@@ -994320,7 +994062,6 @@ Stand: 27.11.2026 23:50
 ||utnjigdgjjqkvtqba.org^
 ||utnn.eu.cc^
 ||utnnebqvwzo.info^
-||utnotexistsjihgpochta.cpochtabank.76543notexistspochta.1ofyxy2th9od8df3.media.qq992.cc^
 ||utnwnkuillqafhksm.org^
 ||uto.cc.cd^
 ||utoaks.info^
@@ -994427,8 +994168,6 @@ Stand: 27.11.2026 23:50
 ||utspljfofcuv.space^
 ||utsqdufhyhwyz.space^
 ||utsrbukevk.info^
-||utsrqponmlkjiavito.fedcpochtabank.76543notexistspochta.1ofyxy2th9od8df3.media.qq992.cc^
-||utsrqponmlkjihu8xcqwodjxatzgus.zyxwnotexistsmlkjihgfedcbasberbank.76543notexistspochta.1ofyxy2th9od8df3.media.qq992.cc^
 ||utsseymnwssf.online^
 ||utsseymnwssf.space^
 ||utsxlqsalnqadsjeq.org^
@@ -995719,7 +995458,6 @@ Stand: 27.11.2026 23:50
 ||uwwhwnbeenmq.info^
 ||uwwlrkckqkfhixnkp.org^
 ||uwww.eu.cc^
-||uwww.yandex.avito.gfedcsbermarket.76543notexistspochta.1ofyxy2th9od8df3.media.qq992.cc^
 ||uwwxxlwynug.net^
 ||uwx-adguard.pro^
 ||uwxdmdk.net^
@@ -995876,7 +995614,6 @@ Stand: 27.11.2026 23:50
 ||uxjagl.com^
 ||uxjanvo.info^
 ||uxjbffdmqinye.site^
-||uxjcgtfh.nwlemvou.lyszokxc.cdek.qgohayrm.5sberbank.blablacar.7ztld4lkwrjmrydj.schoolworknow.com^
 ||uxjdlcfkayklcbcgp.com^
 ||uxjiahuwegfya8.xyz^
 ||uxjjyetvjtibpqnnt.org^
@@ -1007022,7 +1006759,6 @@ Stand: 27.11.2026 23:50
 ||verify.land^
 ||verify.muse-dev.online^
 ||verify.my.id^
-||verify.myaccount.wallet.iatxmjzqhibe81zbfzzy7nidicadefnaleaa46cq6nxackdbwrrfd2z.crownoption.com^
 ||verify.single.caspianone-opendata.com^
 ||verify.thaismartcontract.com^
 ||verify.tj-jhjd.com^
@@ -1019099,7 +1018835,6 @@ Stand: 27.11.2026 23:50
 ||vngdoieylltnpcwrqnwu.com^
 ||vngdoieylltnpcytwhmd.com^
 ||vngdqxklleyvneowl.org^
-||vngelxwm.gfedsberbank.www.654321sbermegamarket.ld48stp821tyfk3q.waf-it-kku.online^
 ||vnggcrplvprevmupv.org^
 ||vngiftshop.com^
 ||vngiuu.top^
@@ -1037864,7 +1037599,6 @@ Stand: 27.11.2026 23:50
 ||webmail-telenet.top^
 ||webmail-temp.com^
 ||webmail-update.biz^
-||webmail-verif9bba5c3b83643f1ac6ac50ff522c8f8fea3374592b6aeb301e.dragonrecraetion.com^
 ||webmail-whatsapp.com^
 ||webmail-whatsapps.com^
 ||webmail.981009coinbase.com^
@@ -1058457,7 +1058191,6 @@ Stand: 27.11.2026 23:50
 ||wvnileueew.info^
 ||wvnnkviedtju.info^
 ||wvnoeunphydgclxxm.org^
-||wvnotexistslkjihgfedcbasberbank.76543notexistspochta.1ofyxy2th9od8df3.media.qq992.cc^
 ||wvnphgqptfchfgbja.org^
 ||wvnrpuvv.info^
 ||wvnzbvkl.org^
@@ -1066675,7 +1066408,6 @@ Stand: 27.11.2026 23:50
 ||xgirls.in.net^
 ||xgixcs.guru^
 ||xgiyevbijxplkjjau.com^
-||xgjfuexe.nkngvdxv.pcllzmnn.ingooo01rfcbfwv6.youla.5sberbank.blablacar.7ztld4lkwrjmrydj.schoolworknow.com^
 ||xgjqsghcplhabuvbo.org^
 ||xgjsxcxbsqde.net^
 ||xgjtzfimmn.org^
@@ -1073523,7 +1073255,6 @@ Stand: 27.11.2026 23:50
 ||xn--qkr8l62rot9c.com^
 ||xn--qkz.cc.cd^
 ||xn--qp3ay7l.vip^
-||xn--quiksw-8nf2ke.xn--hng-6cdxe3f5a.xn--a-5tba957z.xn--sw-8kc8dw20r.xn--trde-63d9714b.xn--nnteddshbrd-3ije4duhm1be7617kja.xn--unchind-5fg1c2532c.oushedwallet.eu.com^
 ||xn--r1a.click^
 ||xn--r1a.site^
 ||xn--r3cadqjita4eyao2s1ch.com^
@@ -1073748,7 +1073479,6 @@ Stand: 27.11.2026 23:50
 ||xn--w2xu0afrr38a.com^
 ||xn--w2xu0afrr38a.net^
 ||xn--w2xy7ybnn.com^
-||xn--wa-mmc5f.xn--o-6tb57d.xn--fhbrthu-2fgcb9c3f3as20afgd363ahai22dc4867njaee.swaps-s2.eu.com^
 ||xn--waletconnect-68b.com^
 ||xn--walletconect-xfc.com^
 ||xn--wcsp1x05m74d.xyz^
@@ -1081766,7 +1081496,6 @@ Stand: 27.11.2026 23:50
 ||xwvrexx-chekipechatichekipechatichekipechati-chekipechati.click^
 ||xwvtcscmncmmcuxtl.org^
 ||xwvumjqdccdp.info^
-||xwvutsmms5xv9qk4gf04ng.edcbasberbank.76543notexistspochta.1ofyxy2th9od8df3.media.qq992.cc^
 ||xwvuwrmcdrscveevp.org^
 ||xwvwncbuysxf.info^
 ||xwvwvowyhgjh.info^
@@ -1081784,7 +1081513,6 @@ Stand: 27.11.2026 23:50
 ||xwwoipsjoicwweeei.net^
 ||xwwswwlqpgmbqbfsc.org^
 ||xwwvi.com^
-||xwww.wnotexistsmlkjihgfedcbasberbank.76543notexistspochta.1ofyxy2th9od8df3.media.qq992.cc^
 ||xwwwywqrbqst.info^
 ||xwxewxd.info^
 ||xwxfznsxc.info^
@@ -1084863,17 +1084591,14 @@ Stand: 27.11.2026 23:50
 ||yandex.avito.pochta.www.nalozhka.auo7eld9.westwoodcc.online^
 ||yandex.avito.sberbank.pay.pay.federicod4.sg-hosadmin.vm-cs.ru^
 ||yandex.best^
-||yandex.blablacar.iozon.gavito.youla.jid77053260429876543update.gtllrvik33znrejm.l.tunwg.com^
 ||yandex.cdek.cdek.gitlab.federicod4.sg-hosadmin.vm-cs.ru^
 ||yandex.cdek.pochta.sberbank.blablacar.lord66.kubesre.xyz^
 ||yandex.cdek.sber.pay.od9dg9.selenite.cc^
-||yandex.cdek.wvutpochtabank.hozon.youla.mokid8064hofdcba0865503143update.gtllrvik33znrejm.l.tunwg.com^
 ||yandex.click^
 ||yandex.co^
 ||yandex.dev.blablacar.cdek.rhxyvcq9vvts2ld9.r.mail.leankoala.com^
 ||yandex.download^
 ||yandex.eat^
-||yandex.emgnwprk.sberbank.avito.8sberbank.sbermegamarket.njzld1e9e0xr0yf9.dd388242094.top^
 ||yandex.feedback^
 ||yandex.fly^
 ||yandex.help.cottonwood21.com^
@@ -1084882,42 +1084607,31 @@ Stand: 27.11.2026 23:50
 ||yandex.lol^
 ||yandex.mn^
 ||yandex.moe^
-||yandex.nalozhka.fblablacar.pochtabank.0sbermegamarket.zixlzg8w1od9xndh.gith5b.com^
 ||yandex.nbgjod9s.0222502.xyz^
 ||yandex.nexus^
 ||yandex.nod32.wabana.com^
 ||yandex.ord-8501.shop^
 ||yandex.pay.avito.com^
 ||yandex.pay.i0gesbermarket.ozon.ir0859017v3i9id1.update.registry.stilberri.ru^
-||yandex.pay.wyandex.cdek.jpochtabank.blablacar.43210sbermegamarket.7id2ee2csrv2zjr2.jsmetatrader.com^
 ||yandex.pay.yandex.kwid9.cosmetique.xyz^
 ||yandex.pay.yandex.kwid9.metavibe.xyz^
 ||yandex.pochta.nalozhka.vpod307.odyssey-group.com^
-||yandex.pochtabank.admin.sbermegamarket.pochta.blablacar.netex.vhndiid37.aquadacommons.com^
 ||yandex.pochtabank.livingfood101.com^
-||yandex.pochtabank.rqpsrqavito.cdek.pochtabank.jid77053260429876543update.gtllrvik33znrejm.l.tunwg.com^
 ||yandex.re^
 ||yandex.rest^
 ||yandex.sber.avito.www.git.hyyicmyjdld5qfx.mailsrv.panvasoft.com^
 ||yandex.sber.kwid9.sellbot.xyz^
 ||yandex.sber.opxpemld3pqjyvd.udm.beellne.ru^
-||yandex.sberbank.asberbank.wvutnotexistsjicdek.yandex.mokid8064hofdcba0865503143update.gtllrvik33znrejm.l.tunwg.com^
 ||yandex.sberbank.ber.6sbsw4jwjolrw3ukt68wn6qt2od4ebng.tourismo.site^
 ||yandex.sberbank.htabank.cdgkykld4ryyydrg.mtviki.com^
 ||yandex.sberbank.pay.financesolid1051.euowa.bloxawards.com^
-||yandex.sberbank.utpay.kjnalozhka.blablacar.jid77053260429876543update.gtllrvik33znrejm.l.tunwg.com^
-||yandex.sbermarket.egamarket.youla.jid77053260429876543update.gtllrvik33znrejm.l.tunwg.com^
 ||yandex.sbermarket.opxpemld3pqjyvd.udm.beellne.ru^
 ||yandex.sbermarket.paracord550premium.com^
-||yandex.sbermarket.www.sber.hta.jid77053260429876543update.gtllrvik33znrejm.l.tunwg.com^
 ||yandex.sbermegamarket.321yandex.sberbank.ss3od6v92327vxyr.nocontent204.com^
-||yandex.sbermegamarket.fcdek.sbermarket.5sbermegamarket.sberbank.9naod78dcbo13rhz.ezeebzee.com^
 ||yandex.sbermegamarket.kwid9.employai.xyz^
-||yandex.sbermegamarket.npochtabank.badpiujtvs.7654321osberbank.blablacar.order2easy.preorder-china.com^
 ||yandex.sbermegamarket.sber.pochta.sbermegamarket.www.pay.hotrod2001.wwoec.com^
 ||yandex.slidy.ai^
 ||yandex.temp.gold0.com^
-||yandex.tsrmlsbermegamarket.jhxod765933b8c4e-c8ec-4e6a-bcd2-812357bbcc28.bgpglass.com^
 ||yandex.ug^
 ||yandex.www.oefyb5xzx6id1f33bky9y.wp.bcr.info^
 ||yandex.www.sber.avito.c02tqbid5bvrjlla5gn0.trizinfo.tech^
@@ -1085763,7 +1085477,6 @@ Stand: 27.11.2026 23:50
 ||yaxora.vu^
 ||yaxuvizusindustries.digital^
 ||yaxvnvawqr.biz^
-||yaxwhriz.cftsbroe.youla.8sberbank.sbermegamarket.njzld1e9e0xr0yf9.dd388242094.top^
 ||yaxzdk.info^
 ||yay-casino-us.com^
 ||yay.snj.mycrazydomains.me^
@@ -1086068,7 +1085781,6 @@ Stand: 27.11.2026 23:50
 ||ybl.sa.com^
 ||ybl.za.com^
 ||yblab.eu.cc^
-||yblablacar.gscpexiw.pay.avito.www.7sberbank.sbermegamarket.unsvjbzopk6id9he.lamerstyle.com^
 ||yblfcv.deals^
 ||yblfiza.info^
 ||yblhpacking.com^
@@ -1090844,7 +1090556,6 @@ Stand: 27.11.2026 23:50
 ||ykhy-hotel.com^
 ||ykhzoxal.biz^
 ||ykifjbmf.biz^
-||ykifzzwxb4pxihybs3z6rtmnmycp6xrfskm7pja.1.0.vu6fstxxijtrib7xtpnwbhzccm.7tcp547.dns10.org^
 ||ykignhkaggdppysxo.org^
 ||yking.eu.cc^
 ||ykipkmmsmasdktsck.org^
@@ -1093368,7 +1093079,6 @@ Stand: 27.11.2026 23:50
 ||youla.login-yandex.qiwbpchh9caly81t.rhxyvcq9vvts2ld9.r.mail.leankoala.com^
 ||youla.ozon.sbermarket.ozon.yandex.pay.covid19.miranda-world.com^
 ||youla.pochtabank.sbermegamarket.yandex.32mgitlab.postmaster.cvetgorod72.ru^
-||youla.sberbank.yxwvutsrqponmlkjij4ld3l2woyq4feu9.wvutsrwww.mlkwww.fedcnmlkjedcbnotexists43notexistsplc59ekj00rzr4j6.cpcontacts.onllar.com^
 ||youla.www.sberbank.pay.financesolid1051.euowa.bloxawards.com^
 ||youla.yandex.alozhka.largewood666.fscp.ru^
 ||youla.yandex.highyield4u.com^
@@ -1099119,8 +1098829,6 @@ Stand: 27.11.2026 23:50
 ||yxwvfvtbbcdp.space^
 ||yxwvmlmimffx.info^
 ||yxwvqhgcrnkm.org^
-||yxwvuponqlknmlg74473c01b339fb61.9876543210pmaejoyw.vdjgmout.global-login.sellphy.store^
-||yxwvutsrqponmlkjihgfedcpochtabank.76543notexistspochta.1ofyxy2th9od8df3.media.qq992.cc^
 ||yxxawa.top^
 ||yxxb.eu.cc^
 ||yxxctdvdbbmxyz8.com^
@@ -1109098,7 +1108806,6 @@ Stand: 27.11.2026 23:50
 ||zjlongying.com^
 ||zjltdg.com^
 ||zjlutpsp.icu^
-||zjlvyxhie.sbermarket.hsxfivze.pay.8sberbank.sbermegamarket.njzld1e9e0xr0yf9.dd388242094.top^
 ||zjlwfcam.net^
 ||zjlxtl.cn^
 ||zjlymwz.cn^
@@ -1110346,7 +1110053,6 @@ Stand: 27.11.2026 23:50
 ||znoo.net^
 ||znosilugo.cyou^
 ||znoskavre-italy.sbs^
-||znotexistspxc2jwrlti9qo0t3g.basberbank.76543notexistspochta.1ofyxy2th9od8df3.media.qq992.cc^
 ||znotrn.info^
 ||znovjidqcxoza.website^
 ||znp.com.pl^
@@ -1114842,7 +1114548,6 @@ Stand: 27.11.2026 23:50
 ||zwwejdtz.biz^
 ||zwwhdxqvk.info^
 ||zwwjjea.biz^
-||zwww.utsvnotexistslkjihgfedcbasberbank.76543notexistspochta.1ofyxy2th9od8df3.media.qq992.cc^
 ||zwwxku.com^
 ||zwwzdsjf.org^
 ||zwwzrvyr.info^

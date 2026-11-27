@@ -1,5 +1,6 @@
-### TechRZN - NATIVE_TRACKER ###
-Stand: 27.11.2026 23:50
+! TechRZN - NATIVE_TRACKER
+! Stand: 27.11.2026 23:54 UTC
+! Eintraege: 140
 
 ||2mdn.net^
 ||7345023508.fxm9485766783.com^
@@ -28,7 +29,6 @@ Stand: 27.11.2026 23:50
 ||api-mf1.meta.ndmdhs.com^
 ||api.cid.samba.tv^
 ||api.distribution.hulu.com^
-||api.hismarttv.com^
 ||auth-em.hismarttv.com^
 ||auth-launcher-em.hismarttv.com^
 ||auth-launcher-na.hismarttv.com^
@@ -42,7 +42,6 @@ Stand: 27.11.2026 23:50
 ||cdn.samsungcloudsolution.net^
 ||cert-test.sandbox.google.com^
 ||cloud.arqiva.tv^
-||config.ioam.de$ctag=device_tv|device_other^
 ||connecttv.pelmorex.com^
 ||control-zoo-dai-default.tvinteractive.tv^
 ||control.tvinteractive.tv^
@@ -56,16 +55,13 @@ Stand: 27.11.2026 23:50
 ||d3mjsomixevyw7.cloudfront.net^
 ||data.arqiva.tv^
 ||database01p.anixe.net^
-||de.ioam.de$ctag=device_tv^
 ||device-metrics-us.amazon.com^
 ||devicemessaging.us-east-1.amazon.com^
-||drscdn.500px.org$ctag=device_tv^
 ||e2.resources.foxtel.com.au^
 ||events.cid.samba.tv^
 ||facemap.foldlife.net^
-||fkp.samsungcloudsolution.^
+||fkp.samsungcloudsolution^
 ||flingo.tv^
-||fls-amazon.com^
 ||foxtel-prod-events.digitalsmiths.net^
 ||game.internetat.tv^
 ||gamespromotion.samsungcloudsolution.com^
@@ -74,18 +70,12 @@ Stand: 27.11.2026 23:50
 ||hbbtv-1.eurosport.com^
 ||hbbtv-extern-fe01.sim-technik.de^
 ||hbbtv-track.redbutton.de^
-||hbbtv.de^
-||hbbtv.kika.de^
-||hbbtv.prosieben.de^
-||hbbtv.redbutton.de^
-||hbbtv.zdf.de^
 ||hbbtv01p.anixe.net^
 ||hbbtvapp.sonnenklar.tv^
 ||i-stream.pl^
 ||ibis.lgappstv.com^
 ||ibs.lgappstv.com^
 ||ichnaea.netflix.com^
-||infolink.pavv.co.kr^
 ||legacyportal.nettvservices.com^
 ||lgad.cjpowercast.com.edgesuite.net^
 ||lgsmartad.com^
@@ -96,10 +86,6 @@ Stand: 27.11.2026 23:50
 ||mads-eu.amazon.com^
 ||managed.xmpp.foxtel.com.au^
 ||mcp.tvinteractive.tv^
-||mhc-ajax-eu-s2.myhomescreen.tv^
-||mhc-ajax-eu.myhomescreen.tv^
-||mhc-xpana-eu-s2.myhomescreen.tv^
-||mhc-xpana-eu.myhomescreen.tv^
 ||mobileanalytics.us-east-1.amazonaws.com^
 ||msg-em.hismarttv.com^
 ||msg-na.hismarttv.com^
@@ -110,7 +96,7 @@ Stand: 27.11.2026 23:50
 ||notice.samsungcloudsolution.com^
 ||noticecdn.samsungcloudsolution.com^
 ||noticefile.samsungcloudsolution.com^
-||oempprd.samsungcloudsolution.^
+||oempprd.samsungcloudsolution^
 ||openapi.samsung.com^
 ||osb-apps-v2.samsungqbe.com^
 ||p-hbbtv.superrtl.de^
@@ -155,9 +141,4 @@ Stand: 27.11.2026 23:50
 ||vd.emp.prd.s3.amazonaws.com^
 ||vdterms.samsungcloudsolution.com^
 ||vindicosuite.com^
-||xml.opera.com$ctag=device_tv^
 ||yumenetworks.com^
-|||lgtvsdp.com^
-|||samsungcloudsolution.com^
-|||samsungcloudsolution.net^
-|||samsungqbe.com^

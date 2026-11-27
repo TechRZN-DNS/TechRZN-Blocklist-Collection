@@ -1,7 +1,23 @@
 version: 2
 updates:
-  # Überwacht deine GitHub Actions Workflows (falls du Automatisierungen im Repo hast)
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
       interval: "weekly"
+      day: "monday"
+      time: "03:00"
+      timezone: "Europe/Berlin"
+    commit-message:
+      prefix: "ci(deps)"
+    open-pull-requests-limit: 5
+
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "03:00"
+      timezone: "Europe/Berlin"
+    commit-message:
+      prefix: "build(deps)"
+    open-pull-requests-limit: 5

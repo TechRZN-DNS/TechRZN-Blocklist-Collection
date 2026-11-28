@@ -16,6 +16,7 @@ CATEGORIES = {
     "threat_intel": "sources/threat_intel.raw",
     "fakeshops": "sources/fakeshops.raw",
     "gambling": "sources/gambling.raw",
+    "crypto": "sources/techrzn-crypto.raw",
     "dating": "sources/dating.raw",
     "spam": "sources/spam.raw",
     "fake_science": "sources/fake_science.raw",
@@ -393,6 +394,8 @@ def main() -> None:
                 for future in as_completed(futures):
                     try:
                         domains = future.result()
+                        if not domains:
+                            continue
                         remaining = MAX_ENTRIES_PER_LIST - len(category_domains)
                         if remaining <= 0:
                             break

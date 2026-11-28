@@ -59,6 +59,27 @@ BLOCKED_TLDS = {
     "onion",
 }
 
+# Haeufige Tippfehler bei bekannten Top-Level-Domains (.com, .de, .org, .net, .co, .io)
+TYPO_TLDS = {
+    "con",
+    "cmo",
+    "ocm",
+    "comm",
+    "coom",
+    "vom",
+    "xom",
+    "dom",
+    "deu",
+    "ogr",
+    "ofr",
+    "orgg",
+    "nett",
+    "nte",
+    "ent",
+    "coo",
+    "oi",
+}
+
 # TLD: entweder klassisch (2-24 Buchstaben) oder Punycode (xn--...)
 DOMAIN_RE = re.compile(
     r"^[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?"
@@ -149,7 +170,7 @@ def clean_domain(line: str) -> str | None:
         return None
 
     tld = line.rsplit(".", 1)[-1]
-    if tld in BLOCKED_TLDS:
+    if tld in BLOCKED_TLDS or tld in TYPO_TLDS:
         return None
 
     return line

@@ -1,6 +1,6 @@
 ! TechRZN - PHISHING
-! Stand: 28.11.2026 00:12 UTC
-! Eintraege: 148302
+! Stand: 28.11.2026 00:44 UTC
+! Eintraege: 148300
 
 ||0-1-x.16215785.xyz^
 ||0-1-x.26215785.xyz^
@@ -37695,7 +37695,6 @@
 ||click.ashimm.info^
 ||click.commoncoding.info^
 ||click.meetwo.de^
-||click.pstmrk.it^
 ||click.shootproof.com^
 ||click.swiftpage.marketing^
 ||click.tenhoatitude.info^
@@ -77043,7 +77042,6 @@
 ||links.mkt51.net^
 ||links.vinted.labledelivery.de^
 ||linkscopuo.site^
-||linksredirect.com^
 ||linksta.cc^
 ||linkup.top^
 ||linkupaffix.pages.dev^

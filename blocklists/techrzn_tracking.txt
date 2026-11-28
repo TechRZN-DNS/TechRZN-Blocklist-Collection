@@ -1,6 +1,6 @@
 ! TechRZN - TRACKING
-! Stand: 28.11.2026 00:12 UTC
-! Eintraege: 385871
+! Stand: 28.11.2026 00:44 UTC
+! Eintraege: 385819
 
 ||0--skitch--0.tt.omtrdc.net^
 ||0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com^
@@ -20225,7 +20225,6 @@
 ||ablink.edm.zip.co^
 ||ablink.em.redmart.com^
 ||ablink.email.creator.shopltk.com^
-||ablink.email.etsy.com^
 ||ablink.email.luminarypodcasts.com^
 ||ablink.email.pressreader.com^
 ||ablink.emails.spothero.com^
@@ -20272,7 +20271,6 @@
 ||ablink.mail.flipfit.com^
 ||ablink.mail.grailed.com^
 ||ablink.mail.homecourt.ai^
-||ablink.mail.parkmobile.io^
 ||ablink.mail.truemoney.com^
 ||ablink.mail.winwinsave.com^
 ||ablink.mail1.iheart.com^
@@ -22364,7 +22362,6 @@
 ||adobes.marugame-seimen.com^
 ||adobes.pmi.org^
 ||adobes.toridoll.com^
-||adobetarget.data.adobedc.net^
 ||adobetarget.tt.omtrdc.net^
 ||adobetarget.yellohvillage.co.uk^
 ||adobetarget.yellohvillage.com^
@@ -22479,7 +22476,6 @@
 ||adserverstaffns.emailvision.net.daraz.com^
 ||adsgno.tuinexpress.nl^
 ||adskidoitruy-doitruy.emailvision.net.daraz.com^
-||adsmeasurement.com^
 ||adsnid.wagyushop.com^
 ||adspsp.com^
 ||adsr.tt.omtrdc.net^
@@ -22575,7 +22571,6 @@
 ||advertising-stage.stage-damxx.net.daraz.com^
 ||advertising-stagestagingmr.net.daraz.com^
 ||adviacu.fmservice.com^
-||advise.gallup.com^
 ||advisers.kingstonsmith.co.uk^
 ||advisor.americanexpress.ca^
 ||advisor.eaglestrategies.com^
@@ -23551,7 +23546,6 @@
 ||affiliate.levsalonu.cz^
 ||affiliate.lg-store.cz^
 ||affiliate.licit.cz^
-||affiliate.logitravel.com^
 ||affiliate.luxor.cz^
 ||affiliate.marketingminer.com^
 ||affiliate.martinchudy.sk^
@@ -24450,7 +24444,6 @@
 ||alaxlaxlication-slaxring.net.daraz.com^
 ||alazhj.sarahliller.com^
 ||alb-r-ln-1idocs.lib-ln-2.net.daraz.com^
-||alb.reddit.com^
 ||albanychicago.advancedtech.com^
 ||albatros.teamground.fr^
 ||albatross.creacoon.com^
@@ -25241,7 +25234,6 @@
 ||analytics-k8s-prd.n-switch.net.daraz.com^
 ||analytics-lgs.corebridgefinancial.com^
 ||analytics-nssl.bradyid.com^
-||analytics-prd.aws.wehaa.net^
 ||analytics-prod-alb-292764149.us-west-2.elb.amazonaws.com^
 ||analytics-prod2.glance-internal.inmobi.com^
 ||analytics-production.hapyak.com^
@@ -29357,7 +29349,6 @@
 ||app.libertyflames.com^
 ||app.libre.org^
 ||app.link.livibank.com^
-||app.link.nba.com^
 ||app.liven.com.au^
 ||app.lootpop.com^
 ||app.lore-keeper.com^
@@ -29582,7 +29573,6 @@
 ||app.selectyourtickets.com^
 ||app.seminoles.com^
 ||app.semusi.com^
-||app.sephora.com^
 ||app.sequencetool.com^
 ||app.shopback.com^
 ||app.shouta.co^
@@ -33193,7 +33183,6 @@
 ||awkfjy.dedoles.ro^
 ||awklir.0506mall.com^
 ||awlisa.net.daraz.com^
-||awmonitor.com^
 ||awogtl.1stopbedrooms.com^
 ||awowwo.forever21.com^
 ||awpre-open-api.net.daraz.com^
@@ -43035,7 +43024,6 @@
 ||bluejay.postmediagroup.com^
 ||bluejay.schreinerei-virnich.de^
 ||bluejay.wearegray.com^
-||bluekai.com^
 ||bluelionlabs.net^
 ||bluelp.2ask.blue.com.hk^
 ||bluemarblepayroll.actonservice.com^
@@ -60482,7 +60470,6 @@
 ||ch.tt.omtrdc.net^
 ||ch01mongo5.tt.omtrdc.net^
 ||ch0dro26t1qnc.accountfcanr.tt.omtrdc.net^
-||ch0p.darty.com^
 ||ch1.luxbridgenetwork.com^
 ||ch3ot3pupyyela5s.10-marketing.net.daraz.com^
 ||ch3ot3pupyyela5s.partner.net.daraz.com^
@@ -64793,7 +64780,6 @@
 ||click.aabacosmallbusiness.com^
 ||click.aaptiv.com^
 ||click.afiliados.uol.com.br^
-||click.alternate.de^
 ||click.amazingfacts.org^
 ||click.api-localhost.net.daraz.com^
 ||click.api-xspacewww.partner.net.daraz.com^
@@ -64879,7 +64865,6 @@
 ||click.quickenloansnow.com^
 ||click.r-ln-2.net.daraz.com^
 ||click.reclips.ai^
-||click.redditmail.com^
 ||click.redtrk.hotusnews.com^
 ||click.rollouki.com^
 ||click.season.net.daraz.com^
@@ -71648,7 +71633,6 @@
 ||connect.imersao.metododestiny.com.br^
 ||connect.info.halifaxhealthnews.org^
 ||connect.insidelpl.com^
-||connect.intel.com^
 ||connect.intercall.com^
 ||connect.invibio.com^
 ||connect.inxpo.com^
@@ -76438,7 +76422,6 @@
 ||cse22cl.ftp.tt.omtrdc.net^
 ||cse22cl.tt.omtrdc.net^
 ||cse25.tt.omtrdc.net^
-||cse3.chausport.com^
 ||csearch-car13r12.cmsearch-car13.net.daraz.com^
 ||csearchfreyanr-es-1.net.daraz.com^
 ||csearchnfreyad-www.partner.net.daraz.com^
@@ -83840,7 +83823,6 @@
 ||data.customer.pilotcompany.com^
 ||data.customermail.bioplanet.be^
 ||data.customermail.collectandgo.be^
-||data.customermail.colruyt.be^
 ||data.customermail.colruyt.lu^
 ||data.customermail.mijnextra.be^
 ||data.customermail.mijnxtra.be^
@@ -83957,8 +83939,6 @@
 ||data.diennaktszobarstnieciba.lv^
 ||data.digibee.pl^
 ||data.digital.adobe.com^
-||data.digital.costco.ca^
-||data.digital.costco.com^
 ||data.digitalavenue.pt^
 ||data.digitalcampusvorarlberg.at^
 ||data.digitalks.az^
@@ -84294,7 +84274,6 @@
 ||data.email.nrma.com.au^
 ||data.email.ondemand.sbs.com.au^
 ||data.email.partycity.com^
-||data.email.philips-hue.com^
 ||data.email.pilotcompany.com^
 ||data.email.podcast.adobe.com^
 ||data.email.prada.com^
@@ -84314,7 +84293,6 @@
 ||data.email.suressedirektbank.de^
 ||data.email.swisscom.com^
 ||data.email.tabcorp.com.au^
-||data.email.tangerine.ca^
 ||data.email.telmore.dk^
 ||data.email.triohockey.ca^
 ||data.email.tv2.dk^
@@ -124611,7 +124589,6 @@
 ||eulisaopecslisa41.net.daraz.com^
 ||eullsouth.administrator.net.daraz.com^
 ||eulsn.citizensbank.tt.omtrdc.net^
-||eultech.fnac.com^
 ||eum.instana.rewe-group.com^
 ||eum.lch.tt.omtrdc.net^
 ||eumail.autodesk.tt.omtrdc.net^
@@ -126977,7 +126954,6 @@
 ||ew1.coopbank.tt.omtrdc.net^
 ||ew1.nexipayments.tt.omtrdc.net^
 ||ew1.santanderargentina.tt.omtrdc.net^
-||ew3.io^
 ||ew4-probers-prod-1-1013061819917-git.tt-qe5.omtrdc.net^
 ||ew4.tt-stage3.omtrdc.net^
 ||ew4b.verizonwireless.tt.omtrdc.net^
@@ -151322,7 +151298,6 @@
 ||go.palpita.net^
 ||go.panda-click.com^
 ||go.panda.sa^
-||go.pardot.com^
 ||go.parents.mingle.com^
 ||go.paze.com^
 ||go.pcfaceshield.com^
@@ -169947,7 +169922,6 @@
 ||i.adloophq.com^
 ||i.adspaceagency.com^
 ||i.agentrelay.com^
-||i.airtel.in^
 ||i.amenli.com^
 ||i.americanblinds.com^
 ||i.appbox.me^
@@ -184436,7 +184410,6 @@
 ||k.kayomarz.com^
 ||k.keen.social^
 ||k.keepcloud.io^
-||k.keyade.com^
 ||k.khorala.com^
 ||k.kibbies.co^
 ||k.kiimu.at^
@@ -195838,7 +195811,6 @@
 ||link.crumbl.com^
 ||link.curious.com^
 ||link.curve.com^
-||link.dana.id^
 ||link.daryse.com^
 ||link.davison.com^
 ||link.dawriplus.com^
@@ -196239,7 +196211,6 @@
 ||link.superviz.com^
 ||link.support.discovery.plus^
 ||link.surbee.io^
-||link.swa.info^
 ||link.swaypayapp.com^
 ||link.swingindex.golf^
 ||link.syfy-channel.com^
@@ -219474,7 +219445,6 @@
 ||m.dormway.app^
 ||m.doublespeed.ai^
 ||m.dq.ca^
-||m.dq.com^
 ||m.dunwise.com^
 ||m.dvlp.energy^
 ||m.edengardenjewelry.com^
@@ -223899,7 +223869,6 @@
 ||marketing.towerfcu.org^
 ||marketing.toxicology.abbott^
 ||marketing.toyotaofeasley.com^
-||marketing.tr.netsalesmedia.pl^
 ||marketing.trackmarketing.net^
 ||marketing.transcend-strategy.com^
 ||marketing.transcore.com^
@@ -232915,7 +232884,6 @@
 ||monitor.channel4.com^
 ||monitor.deskolonia.de^
 ||monitor.ebay.com^
-||monitor.fraudblocker.com^
 ||monitor.growvib.com^
 ||monitor.music.qq.com^
 ||monitor.profilespartner-pay.net.daraz.com^
@@ -258159,7 +258127,6 @@
 ||opti-digital.com^
 ||optically.cyclecourierco.com^
 ||opticca.actonservice.com^
-||opticksprotection.com^
 ||optifiantsion.carte-gr.total.fr^
 ||optimallimit.com^
 ||optimeeze.appspot.com^
@@ -260201,7 +260168,6 @@
 ||p.pilotgo.ai^
 ||p.pinpointbowl.com^
 ||p.pintdeck.io^
-||p.placed.com^
 ||p.planbase.app^
 ||p.planeswalkerhub.com^
 ||p.platoniq.health^
@@ -262929,7 +262895,6 @@
 ||partnerk1push-pk-drzliverepository.net.daraz.com^
 ||partnerk8s-prd.n-switch.net.daraz.com^
 ||partnerlib-oa-2.net.daraz.com^
-||partnerlinks.io^
 ||partnerloginvc.net.daraz.com^
 ||partnermarketing.actonservice.com^
 ||partnermarketingpush.net.daraz.com^
@@ -274719,7 +274684,6 @@
 ||r.ainativeservicesmap.com^
 ||r.airnxt.ai^
 ||r.akademiskarodd.se^
-||r.akipam.com^
 ||r.alchemy-th.asia^
 ||r.allstan.com^
 ||r.altair.ehealthinsurance.tt.omtrdc.net^
@@ -274950,7 +274914,6 @@
 ||r.ishadeed.com^
 ||r.ivycraft.ai^
 ||r.jacques.citizensbank.tt.omtrdc.net^
-||r.jakuli.com^
 ||r.jamie.clinic^
 ||r.japanmedassist.com^
 ||r.jaras.io^
@@ -274972,7 +274935,6 @@
 ||r.kompa.pro^
 ||r.kyleundefined.dev^
 ||r.lacapitainerie.com^
-||r.lafamo.com^
 ||r.lavita.com^
 ||r.lavita.de^
 ||r.leaderformulas.com^
@@ -275030,7 +274992,6 @@
 ||r.nemours.org^
 ||r.net.daraz.com^
 ||r.nidofamilias.com^
-||r.niwepa.com^
 ||r.nomadsignal.io^
 ||r.noqa.ai^
 ||r.nordicfinancialnews.com^
@@ -275060,7 +275021,6 @@
 ||r.plasmolab.com^
 ||r.podiumoracle.com^
 ||r.popscript.app^
-||r.powuta.com^
 ||r.prayertimes.dev^
 ||r.prefecture-alerte.com^
 ||r.presspadnews.com^
@@ -276928,7 +276888,6 @@
 ||referrals.ridealto.com^
 ||referrals.tradeapp.me^
 ||referrals.zunify.me^
-||referrer.disqus.com^
 ||reff-associates.mboxedge37-02.tt.omtrdc.net^
 ||refferal.trk.agency^
 ||reffsdydfs1ehrr.fitnesssuperstore.com^
@@ -281306,7 +281265,6 @@
 ||s.shopvitacore.com^
 ||s.shpritz.ai^
 ||s.shyne.ai^
-||s.sick.com^
 ||s.sierrageotech.com^
 ||s.siliconvalleyhypnosiscenter.com^
 ||s.silverfox.digital^
@@ -332752,7 +332710,6 @@
 ||t.centreinthesquare.com^
 ||t.cert4sign.com^
 ||t.certapet.com^
-||t.cfjump.com^
 ||t.chainbound.io^
 ||t.chainloop.dev^
 ||t.chainsawsdirect.com^
@@ -333423,7 +333380,6 @@
 ||t.importgenius.com^
 ||t.improvconspiracy.com^
 ||t.incarnatelabs.com^
-||t.indeed.com^
 ||t.indoortrends.de^
 ||t.indymassagebangkok.com^
 ||t.indzu.com^
@@ -335243,7 +335199,6 @@
 ||tag.schemesmidias.com.br^
 ||tag.scojo.com^
 ||tag.serianaedilizia.it^
-||tag.shopping-feed.com^
 ||tag.slowhouselife.com^
 ||tag.solartec.com.tr^
 ||tag.speakuplondon.com^
@@ -335346,8 +335301,6 @@
 ||tagging.weightloss.goodbodyclinic.com^
 ||tagging.wellen-trading.de^
 ||tagging.worldvision.nl^
-||tagm.eduscho.at^
-||tagm.tchibo.de^
 ||tagman.billiga-dammsugarpasar.se^
 ||tagman.billige-stovsugerposer.no^
 ||tagman.britishairways.com^
@@ -336129,7 +336082,6 @@
 ||target.miaprova.com^
 ||target.michaels.com^
 ||target.microchip.com^
-||target.microsoft.com^
 ||target.mirtesen.ru^
 ||target.mixi.media^
 ||target.monaco.pwc.fr^
@@ -343956,7 +343908,6 @@
 ||tr.singhfit.com^
 ||tr.skalierenzurmillion.org^
 ||tr.skin.espmp-agfr.net^
-||tr.slvrbullet.com^
 ||tr.smtp1.email-mediapost.fr^
 ||tr.snapchat.com^
 ||tr.solendi.com^
@@ -346403,7 +346354,6 @@
 ||tracking.rootstoremedies.com^
 ||tracking.rti-inc.com^
 ||tracking.rtl.de^
-||tracking.s24.com^
 ||tracking.sabic.com^
 ||tracking.sailgp.com^
 ||tracking.salesangels.org^
@@ -349585,7 +349535,6 @@
 ||trkmt.clarifion.com^
 ||trkmt.cleanomicessentials.com^
 ||trkmt.getbugmd.com^
-||trkn.us^
 ||trkoffline.thedentoza.com^
 ||trkonline.thedentoza.com^
 ||trkpzz.dcinside.com^
@@ -362778,7 +362727,6 @@
 ||vfmahn.slevomat.cz^
 ||vfn.valkyriefitnessnutrition.com^
 ||vfnab.vegamour.com^
-||vfo.voyage-prive.co.uk^
 ||vfo4.carrefour-banque.fr^
 ||vfoycy.nhk-ep.com^
 ||vfp.intuit.com^

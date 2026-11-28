@@ -1,6 +1,6 @@
 ! TechRZN - ADS
-! Stand: 28.11.2026 00:12 UTC
-! Eintraege: 239066
+! Stand: 28.11.2026 00:44 UTC
+! Eintraege: 239058
 
 ||0--4.com^
 ||0--d.com^
@@ -21681,7 +21681,6 @@
 ||adsmartracker.com^
 ||adsmaster.dev^
 ||adsmatcher.com^
-||adsmeasurement.com^
 ||adsmeda.com^
 ||adsmediabox.com^
 ||adsmediacl.com^
@@ -28678,11 +28677,6 @@
 ||analytics.adfera.de^
 ||analytics.adfreetime.com^
 ||analytics.adjust-digital.com^
-||analytics.adjust.cn^
-||analytics.adjust.com^
-||analytics.adjust.io^
-||analytics.adjust.net.in^
-||analytics.adjust.world^
 ||analytics.adk.de^
 ||analytics.adler-group.com^
 ||analytics.adliners.de^
@@ -63608,7 +63602,6 @@
 ||contextualadv.com^
 ||contextualpalace.com^
 ||contextualyield.com^
-||contextweb.com^
 ||contiamo.com^
 ||contigoentufarmacia.com.data.adobedc.net^
 ||contile.services.mozilla.com^
@@ -83477,7 +83470,6 @@
 ||etrack.ext.arubanetworks.com^
 ||etrack.ext.hpe.com^
 ||etracker.com^
-||etracker.de^
 ||etracker.noon.com^
 ||etrade-securities.com^
 ||etrader.co.il^

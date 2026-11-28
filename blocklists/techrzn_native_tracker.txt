@@ -1,6 +1,6 @@
 ! TechRZN - NATIVE_TRACKER
-! Stand: 27.11.2026 23:54 UTC
-! Eintraege: 140
+! Stand: 28.11.2026 00:44 UTC
+! Eintraege: 149
 
 ||2mdn.net^
 ||7345023508.fxm9485766783.com^
@@ -70,12 +70,17 @@
 ||hbbtv-1.eurosport.com^
 ||hbbtv-extern-fe01.sim-technik.de^
 ||hbbtv-track.redbutton.de^
+||hbbtv.kika.de^
+||hbbtv.prosieben.de^
+||hbbtv.redbutton.de^
+||hbbtv.zdf.de^
 ||hbbtv01p.anixe.net^
 ||hbbtvapp.sonnenklar.tv^
 ||i-stream.pl^
 ||ibis.lgappstv.com^
 ||ibs.lgappstv.com^
 ||ichnaea.netflix.com^
+||infolink.pavv.co.kr^
 ||legacyportal.nettvservices.com^
 ||lgad.cjpowercast.com.edgesuite.net^
 ||lgsmartad.com^
@@ -86,6 +91,10 @@
 ||mads-eu.amazon.com^
 ||managed.xmpp.foxtel.com.au^
 ||mcp.tvinteractive.tv^
+||mhc-ajax-eu-s2.myhomescreen.tv^
+||mhc-ajax-eu.myhomescreen.tv^
+||mhc-xpana-eu-s2.myhomescreen.tv^
+||mhc-xpana-eu.myhomescreen.tv^
 ||mobileanalytics.us-east-1.amazonaws.com^
 ||msg-em.hismarttv.com^
 ||msg-na.hismarttv.com^

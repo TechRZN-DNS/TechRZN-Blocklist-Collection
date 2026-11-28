@@ -31,6 +31,9 @@ OUTPUT_DIR = "blocklists"
 WL_DIR = "Whitelists"
 LOCAL_WHITELIST = "sources/whitelist.raw"
 WHITELIST_OUTPUT_FILE = os.path.join(WL_DIR, "techrzn_whitelist.txt")
+REMOTE_WHITELIST_URLS = [
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.txt",
+]
 HEADERS = {"User-Agent": "Mozilla/5.0 TechRZN-Bot/1.3"}
 
 # False = nur melden/zaehlen, wenn Domains in mehreren Kategorien auftauchen
@@ -118,8 +121,14 @@ def normalize_url(url: str) -> str:
 
 def clean_domain(line: str) -> str | None:
     line = line.strip().lower()
-    if not line or line.startswith(("#", "!", "[", "@@")):
+    if not line or line.startswith(("#", "!", "[")):
         return None
+
+    # Adblock-Ausnahmen wie "@@||example.com^" fuer Whitelist-Eintraege entpacken
+    if line.startswith("@@"):
+        line = line[2:].strip()
+        if not line:
+            return None
 
     # Inline-Kommentare entfernen
     for sep in ("#", "!"):
@@ -176,19 +185,48 @@ def clean_domain(line: str) -> str | None:
     return line
 
 
-def load_whitelist(path: str) -> set[str]:
-    wl = set()
-    if not os.path.exists(path):
-        return wl
-
+def fetch_remote_whitelist(session: requests.Session, url: str) -> set[str]:
+    found = set()
+    fetch_url = normalize_url(url)
     try:
-        with open(path, "r", encoding="utf-8", errors="replace") as f:
-            for line in f:
-                d = clean_domain(line)
-                if d:
-                    wl.add(d)
+        with session.get(fetch_url, timeout=REQUEST_TIMEOUT, stream=True) as r:
+            r.raise_for_status()
+            for raw_line in r.iter_lines(decode_unicode=True):
+                if raw_line is None:
+                    continue
+                domain = clean_domain(raw_line)
+                if domain:
+                    found.add(domain)
     except Exception as e:
-        print(f"⚠️ Fehler beim Laden der Whitelist ({path}): {e}")
+        print(f"❌ Fehler bei Remote-Whitelist {fetch_url}: {e}")
+    return found
+
+
+def load_whitelist(
+    path: str,
+    session: requests.Session | None = None,
+    remote_urls: list[str] | None = None,
+) -> set[str]:
+    wl = set()
+    if os.path.exists(path):
+        try:
+            with open(path, "r", encoding="utf-8", errors="replace") as f:
+                for line in f:
+                    d = clean_domain(line)
+                    if d:
+                        wl.add(d)
+        except Exception as e:
+            print(f"⚠️ Fehler beim Laden der Whitelist ({path}): {e}")
+
+    if session and remote_urls:
+        with ThreadPoolExecutor(max_workers=min(MAX_WORKERS, len(remote_urls))) as executor:
+            futures = [executor.submit(fetch_remote_whitelist, session, url) for url in remote_urls]
+            for future in as_completed(futures):
+                try:
+                    wl.update(future.result())
+                except Exception as e:
+                    print(f"⚠️ Fehler bei Remote-Whitelist-Task: {e}")
+
     return wl
 
 
@@ -269,15 +307,14 @@ def main() -> None:
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     os.makedirs(WL_DIR, exist_ok=True)
 
-    whitelist = load_whitelist(LOCAL_WHITELIST)
+    session = create_session()
+    whitelist = load_whitelist(LOCAL_WHITELIST, session=session, remote_urls=REMOTE_WHITELIST_URLS)
     print(f"🛡️ Whitelist geladen: {len(whitelist)} Domains")
     write_whitelist_file(whitelist, timestamp)
 
     seen_domains: set[str] = set()
     cross_category_duplicates = 0
     summary_stats: list[tuple[str, int, str]] = []
-
-    session = create_session()
 
     try:
         for cat_name, src_path in CATEGORIES.items():

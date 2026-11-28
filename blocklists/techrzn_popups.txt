@@ -1,5 +1,5 @@
 ! TechRZN - POPUPS
-! Stand: 27.11.2026 23:54 UTC
+! Stand: 28.11.2026 00:12 UTC
 ! Eintraege: 71723
 
 ||0--4.com^
@@ -59479,6 +59479,7 @@
 ||supersedeaccolade.com^
 ||supersedeforbes.com^
 ||superserverstaircase.com^
+||superset-qa.sese.cn^
 ||supersonicads-a.akamaihd.net^
 ||supersonicads.com^
 ||superstarorganizer.com^
@@ -67829,6 +67830,7 @@
 ||womeniovers.com^
 ||womenmoss.com^
 ||womens-journal.ru^
+||womensecret.com^
 ||womxwsnxadxtl.space^
 ||woncherish.com^
 ||wonder.xhamster.com^
@@ -68350,8 +68352,6 @@
 ||www-mechonics.top^
 ||www-qishiu.com.cn^
 ||www-slash.co.com^
-||www.superset-qa.sese.cn^
-||www3.womensecret.com^
 ||www3secure.com^
 ||www49wz222.com^
 ||www60375.com^

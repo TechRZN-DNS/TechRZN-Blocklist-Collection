@@ -1,6 +1,6 @@
 ! TechRZN - ADS
-! Stand: 27.11.2026 23:54 UTC
-! Eintraege: 239067
+! Stand: 28.11.2026 00:12 UTC
+! Eintraege: 239066
 
 ||0--4.com^
 ||0--d.com^
@@ -16994,6 +16994,7 @@
 ||addshoppers.s3.amazonaws.com^
 ||addstock.co.uk^
 ||addthief.com^
+||addthis.com^
 ||addthiscdn.com^
 ||addthisedge.com^
 ||addtop.trangvangvietnam.com^
@@ -26973,6 +26974,7 @@
 ||americanmatureflirt.com^
 ||americanoverlook.com^
 ||americanpassage.com^
+||americanprogressaction.org^
 ||americansupplements.eu^
 ||americanunfinished.com^
 ||americanunsecured.com^
@@ -69480,6 +69482,7 @@
 ||daijisho.app^
 ||daijisho.com^
 ||daikin.vn^
+||daikinchemicals.com^
 ||daikinvietnam.vn^
 ||daiku.pl^
 ||dailail.com^
@@ -76246,6 +76249,7 @@
 ||doubleclick.de^
 ||doubleclick.host^
 ||doubleclick.ne.jp^
+||doubleclick.net^
 ||doubleclick.uk.net^
 ||doubleclickbygoogle.com^
 ||doubleclicks.biz^
@@ -87482,6 +87486,7 @@
 ||festivityoutlookcelsius.com^
 ||festiwalonline.shop^
 ||festmehrhaltung.com^
+||festo.com^
 ||festofiton.store^
 ||festoolz.shop^
 ||festsparhaltnis.com^
@@ -88727,6 +88732,7 @@
 ||firstsecurityreserve.com^
 ||firstsponsor.de^
 ||firstswynns.click^
+||firsttechfed.com^
 ||firsttechfed.com.ssl.sc.omtrdc.net^
 ||firstverificattionsettingsi-dpxrca6view0.edgeone.dev^
 ||firstvor.pro^
@@ -95854,6 +95860,7 @@
 ||glaikit-braird.shop^
 ||glaikkupper.com^
 ||glairedgestalt.qpon^
+||glam.com^
 ||glamhawk.com^
 ||glamipixel.com^
 ||glamkit.shop^
@@ -97336,6 +97343,7 @@
 ||gorillanation.com^
 ||gorillasushi.com^
 ||gorillatraffic.xyz^
+||gorillavid.in^
 ||goringsiest.qpon^
 ||gorlavexi.shop^
 ||gormansnaffle.com^
@@ -103919,6 +103927,7 @@
 ||hn.ssl.sc.omtrdc.net^
 ||hn3h5lwzrbwi82kwegwjnc2iw6.cfd^
 ||hnaqgojrtvgns.online^
+||hnavi.co.jp^
 ||hnbanvxtkavun.site^
 ||hnbc-act.zya.me^
 ||hncfpzkqjtgdq.site^
@@ -109370,6 +109379,7 @@
 ||info.m.seek.com.au.ssl.d1.sc.omtrdc.net^
 ||info.philips-hue.com.data.adobedc.net^
 ||info.redhat.com^
+||info.renesas.cn^
 ||info.sas.com.sg^
 ||info.seek.com.ssl.d1.sc.omtrdc.net^
 ||info.ssl.sc.omtrdc.net^
@@ -120481,6 +120491,7 @@
 ||ledgierbossier.shop^
 ||ledhatbet.com^
 ||ledinika.ru^
+||ledinside.com^
 ||ledixslca.firebaseapp.com^
 ||ledleuchtenshop.com^
 ||ledner.org^
@@ -126824,6 +126835,7 @@
 ||macroscystin.top^
 ||macspacereviver.com^
 ||macu.d2.sc.omtrdc.net^
+||macys.com^
 ||macys.data.adobedc.net^
 ||macys.sc.omtrdc.net^
 ||mad-casinno.fr^
@@ -135368,6 +135380,7 @@
 ||merrymilkfoods.com^
 ||merryopal.com^
 ||merryvault.com^
+||mersch-reinigungstechnik.de^
 ||merterpazar.com^
 ||merukore.jp^
 ||merusdesign.com^
@@ -143429,6 +143442,7 @@
 ||nationaldailydeal.com^
 ||nationalemaatschappijderbelgischespoorwegen.data.adobedc.net^
 ||nationalgeographic.112.2o7.net^
+||nationalgeographic.com^
 ||nationalgeographic.com.sc.omtrdc.net^
 ||nationalgeographic.com.ssl.sc.omtrdc.net^
 ||nationalgeographic.hb-api.omtrdc.net^
@@ -153944,6 +153958,7 @@
 ||pageadgooglesyndication.com^
 ||pagechoice.com^
 ||pagechoice.net^
+||pagecount.com^
 ||pagecrate.io^
 ||pagedemo.co^
 ||pagedown.net^
@@ -171003,6 +171018,7 @@
 ||resteasyacquire.com^
 ||resteddiabetepocket.com^
 ||resteeppropmen.com^
+||restek.com^
 ||resterent.com^
 ||restesvampey.com^
 ||restewardom.com^
@@ -199975,6 +199991,7 @@
 ||storader.com^
 ||storage-ad.com^
 ||storage-svc.com^
+||storage.com^
 ||storage.engagech.com^
 ||storage.lulu-row1.com^
 ||storage.softure.com^
@@ -201213,6 +201230,7 @@
 ||superseleotrs.com^
 ||superserverstaircase.com^
 ||superserwisy.pl^
+||superset-qa.sese.cn^
 ||supershoperbd.com^
 ||supersocken.de^
 ||supersonic.com^
@@ -206423,6 +206441,7 @@
 ||telus.com.sc.omtrdc.net^
 ||telus.com.ssl.sc.omtrdc.net^
 ||telus.data.adobedc.net^
+||telus.net^
 ||telus.signup.clik2pay.com^
 ||telus.tt.omtrdc.net^
 ||telusmobility.com.102.122.2o7.net^
@@ -230545,6 +230564,7 @@
 ||womenmoss.com^
 ||womennow.es.ssl.sc.omtrdc.net^
 ||womens-journal.ru^
+||womensecret.com^
 ||womensecret.com.ssl.sc.omtrdc.net^
 ||womensecret.mx.data.adobedc.net^
 ||womenzz.com^
@@ -231723,7 +231743,6 @@
 ||www-us-apple.com^
 ||www-wps-cn.com^
 ||www-wps.org.cn^
-||www.superset-qa.sese.cn^
 ||www0-49.net.mydays.de^
 ||www1-6-1.net.mydays.de^
 ||www1.acneohno.com^
@@ -231753,20 +231772,6 @@
 ||www18.glam.com^
 ||www19.a8.net^
 ||www2-festo-com-3663994.p06.elqsandbox.com^
-||www2.daikinchemicals.com^
-||www2.doubleclick.net^
-||www2.festo.com^
-||www2.firsttechfed.com^
-||www2.glam.com^
-||www2.gorillavid.in^
-||www2.hnavi.co.jp^
-||www2.info.renesas.cn^
-||www2.ledinside.com^
-||www2.mersch-reinigungstechnik.de^
-||www2.myishop.co.uk^
-||www2.pagecount.com^
-||www2.storage.com^
-||www2.wyylde.com^
 ||www20.a8.net^
 ||www21.a8.net^
 ||www22.a8.net^
@@ -231783,13 +231788,6 @@
 ||www28.a8.net^
 ||www29.a8.net^
 ||www2s.storage.com^
-||www3.addthis.com^
-||www3.americanprogressaction.org^
-||www3.macys.com^
-||www3.nationalgeographic.com^
-||www3.restek.com^
-||www3.telus.net^
-||www3.womensecret.com^
 ||www30.glam.com^
 ||www30a1-orig.glam.com^
 ||www30a1.glam.com^
@@ -231993,6 +231991,7 @@
 ||wywyuserservice.com^
 ||wyxwcqfgzitjj.website^
 ||wyygef.com^
+||wyylde.com^
 ||wyyniwgrffwvu.space^
 ||wyznajsekret.pl^
 ||wyzoshttlyvrm.space^

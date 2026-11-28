@@ -1,6 +1,6 @@
 ! TechRZN - TRACKING
-! Stand: 27.11.2026 23:54 UTC
-! Eintraege: 385884
+! Stand: 28.11.2026 00:12 UTC
+! Eintraege: 385871
 
 ||0--skitch--0.tt.omtrdc.net^
 ||0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com^
@@ -12352,6 +12352,7 @@
 ||2media.us-east-1.net.daraz.com^
 ||2mtjvn6rew797ada.net.daraz.com^
 ||2mxz2fx8ctpvwno0.draganddropobjects.net.daraz.com^
+||2ndgear.com^
 ||2ndxa6sds9ssqn5p.net.daraz.com^
 ||2ner.net.daraz.com^
 ||2net2customerproxy.0-0.net.daraz.com^
@@ -12593,6 +12594,7 @@
 ||3210zyxw.net.shop.com.mm^
 ||3218.test1.net.daraz.com^
 ||324zerb3.gaststaettenunterrichtung-bw.de^
+||325.tt.omtrdc.net^
 ||32aekv9p0hm78udg.production-documentsns.partner-pay.net.daraz.com^
 ||32vl3ki7w2tylz3n.net.daraz.com^
 ||33-trk-srv.com^
@@ -13382,6 +13384,7 @@
 ||52tyctnlwudd9dgx.emrj82plvision.authenticate.net.daraz.com^
 ||52tyctnlwudd9dgx.net.daraz.com^
 ||52tyctnlwudd9dgx.wikipartnerdashboard.net.daraz.com^
+||53.gz.tt.omtrdc.net^
 ||5339czg214f26vjk.net.daraz.com^
 ||535m3qiufeka173a.ns.emailvision.authenticate.net.daraz.com^
 ||5363316.marketing.numi.com^
@@ -13795,6 +13798,7 @@
 ||6868bri52keqrwqr.partner.net.daraz.com^
 ||6868bri52keqrwqr.support.net.daraz.com^
 ||688.wp.bootcamp.net.shop.com.mm^
+||68travel.com^
 ||69-141.net.daraz.com^
 ||69-175.net.daraz.com^
 ||69-74.net.jumia.sn^
@@ -20543,6 +20547,7 @@
 ||acceptfile.net.daraz.com^
 ||access-00d24000000isrqea4.net.daraz.com^
 ||access-dfw3-dr02.net.daraz.com^
+||access-kl2.tt.omtrdc.net^
 ||access-logs-1-de.net.daraz.com^
 ||access-logs-1.netdocs.net.daraz.com^
 ||access-logs-1.nethoth.net.daraz.com^
@@ -20584,6 +20589,7 @@
 ||acciaduntingpartner.net.daraz.com^
 ||acclaboratoriesuntingpartner.net.daraz.com^
 ||acclaro.actonservice.com^
+||acclivet.com^
 ||accllsouth.administrator.net.daraz.com^
 ||accllsouth.administrators.net.daraz.com^
 ||acclog001.shop-pro.jp^
@@ -20997,6 +21003,7 @@
 ||acsr47.net.daraz.com.00-bootstrap.net.daraz.com^
 ||acsscsslicationsdocker.net.daraz.com^
 ||acsupport.amputee-coalition.org^
+||acsvalves.com^
 ||acsweb-3dr1.dnp-cdms.jp^
 ||acswso.tt.omtrdc.net^
 ||act-on-marketing.advancedsolutionsplm.com^
@@ -22584,6 +22591,7 @@
 ||advisory.rottne.com^
 ||advisorycloud-dev.actonservice.com^
 ||advnn.laurageller.com^
+||advp.com^
 ||advtek.actonservice.com^
 ||advtxk.chocolife.com.br^
 ||adwdwountingpartner.net.daraz.com^
@@ -23273,6 +23281,7 @@
 ||aero-123pago.docs.net.daraz.com^
 ||aeroastro-obong.net.daraz.com^
 ||aeroastro-staging.stage-ugportal.net.daraz.com^
+||aerodynamic-solutions.com^
 ||aeromark.actonservice.com^
 ||aeroviasdelcontinent.tt.omtrdc.net^
 ||aeservices9-sjc1services-dr01.net.daraz.com^
@@ -25013,6 +25022,7 @@
 ||americanmarketinggroup.actonservice.com^
 ||americanos.v4company.com^
 ||americanportfolios.actonservice.com^
+||americanprogressaction.org^
 ||americanroller.actonservice.com^
 ||americansocietyofcli.tt.omtrdc.net^
 ||americanuniversityofantigua.actonservice.com^
@@ -25071,6 +25081,7 @@
 ||ams.lelong.com.my^
 ||ams.oraclecloud.com^
 ||ams.push.tt.omtrdc.net^
+||amsiso.com^
 ||amsix.net.daraz.com^
 ||amspbs.com^
 ||amsunsolar.actonservice.com^
@@ -31326,6 +31337,7 @@
 ||arubatourismauthoritymboxedge37-02.tt.omtrdc.net^
 ||aruoyf.peterhahn.ch^
 ||arvig.actonservice.com^
+||arvig.com^
 ||arvim.monkeywrenchutah.com^
 ||arvwwu.stepstone.be^
 ||arwff.menopausecare.co.uk^
@@ -32810,11 +32822,19 @@
 ||automaticturkey.com^
 ||automation.pemco.com^
 ||automationtest.pemco.com^
+||automd.com^
 ||automobileclubofsout.tt.omtrdc.net^
 ||automotive-business.vodafone.com^
 ||automotive.autodeskcommunications.com^
 ||automotive.balluff.com^
+||autopartscorner.com^
+||autopartsdeal.com^
+||autopartsgiant.com^
+||autopartsplace.com^
+||autopartswarehouse.com^
+||autopartsworld.com^
 ||autoredbookmmspdistribe.tt.omtrdc.net^
+||autotruckmirror.com^
 ||autovista-fi.autovistagroup.com^
 ||autovista-fr.autovistagroup.com^
 ||autovista-se.autovistagroup.com^
@@ -34527,6 +34547,7 @@
 ||barbarousbase.com^
 ||barbatm.barbanegocios.com.br^
 ||barbershirts.com^
+||barbiearab.fd.tt.omtrdc.net^
 ||barcalicensing.tt.omtrdc.net^
 ||barcellona.imprenditore-vero.com^
 ||barcelogestionhotele.tt.omtrdc.net^
@@ -41848,6 +41869,7 @@
 ||bimgsbucket.ns.emailvision.net.daraz.com^
 ||bimgscketns2.twtelecom.net.daraz.com^
 ||biminibliss.rwbimini.com^
+||bimobject.com^
 ||bin-i.kafka.tt.omtrdc.net^
 ||bin.richmanssport.com^
 ||binarycrest.com^
@@ -43493,6 +43515,7 @@
 ||bobby8.bruce.tt.omtrdc.net^
 ||bobbyclean.tt.omtrdc.net^
 ||bobcad.actonservice.com^
+||bobcad.com^
 ||bobcat.canopygrowthcorporat.tt.omtrdc.net^
 ||bobcat.com.ssl.d2.sc.tt.omtrdc.net^
 ||bobcat.fordapa.tt.omtrdc.net^
@@ -46986,6 +47009,7 @@
 ||brotherinternational.tt.omtrdc.net^
 ||brotherinternational.tt.tt.omtrdc.net^
 ||brotherslocket.com^
+||brotherzone.co.uk^
 ||broustet.tt.omtrdc.net^
 ||broward.tt.omtrdc.net^
 ||brown.canonusa.tt.omtrdc.net^
@@ -47111,6 +47135,7 @@
 ||bruceelectrical.net.daraz.com^
 ||brucefox.co.nz.tt.omtrdc.net^
 ||bruceh.tt.omtrdc.net^
+||brucepowerdirect.com^
 ||bruchsal.net.daraz.com^
 ||bruckertir.net.daraz.com^
 ||bruckrealty.tt.omtrdc.net^
@@ -50603,6 +50628,7 @@
 ||canadalegacyautoupdate-us-west-2.api.tt.omtrdc.net^
 ||canadamarketing.travelsavers.com^
 ||canadaoneauto.tt.omtrdc.net^
+||canadapartsonline.com^
 ||canadapost-ja.tt.tt.omtrdc.net^
 ||canadapost-postescanada.thetjxcompaniesinc.tt.omtrdc.net^
 ||canadapost-service.tt.omtrdc.net^
@@ -51700,6 +51726,7 @@
 ||car-net.tt.omtrdc.net^
 ||car-pediem.scan-eco.tt.omtrdc.net^
 ||car-rental.hosted.tt.omtrdc.net^
+||car-stuff.com^
 ||car-web-stag.tt.omtrdc.net^
 ||car-woz.sedico.tt.omtrdc.net^
 ||car.astrazenecauklimited.tt.omtrdc.net^
@@ -55850,6 +55877,7 @@
 ||carimusikmudssl.ns.emailvision.authenticate.net.daraz.com^
 ||carimusikmumarketing.net.daraz.com^
 ||caringcast.com^
+||carjunky.com^
 ||carlisleit.actonservice.com^
 ||carloforward.com^
 ||carlsberg.net.daraz.com^
@@ -55862,6 +55890,7 @@
 ||carolina.actonservice.com^
 ||carp.amespacios.com^
 ||carp.spotonevent.no^
+||carpartsdeal.com^
 ||carpc29.cardiov.tt.omtrdc.net^
 ||carpets.mobilecarpetsandflooring.com^
 ||carphonewarehouselim.tt.omtrdc.net^
@@ -55899,6 +55928,7 @@
 ||cartamin.cartamin.ae^
 ||cartavisita.net.daraz.com^
 ||cartazure-allseason.net.daraz.com^
+||carte-gr.total.fr^
 ||carte.fleet-page.total.fr^
 ||carteiro.altashabilidadesesuperdotacao.com^
 ||carteiro.institutomapeando.com.br^
@@ -59626,6 +59656,7 @@
 ||cespedartificial.net.daraz.com^
 ||cestovnelistkystage.sattadon0001.net.daraz.com^
 ||cesun11.tt.omtrdc.net^
+||cet-uk.com^
 ||cet.hiermitherz.de^
 ||cet.ximpl.digital^
 ||cetelemportugal.tt.omtrdc.net^
@@ -64020,6 +64051,7 @@
 ||citizensactive.com^
 ||citizensbank.tt.omtrdc.net^
 ||citizensclimate.actonservice.com^
+||citizensclimatelobby.org^
 ||citizenship.quantresear.ch^
 ||citrix-available.net.daraz.com^
 ||citrix.flatline.citizensbank.tt.omtrdc.net^
@@ -75384,6 +75416,7 @@
 ||cpnwgt.freedrinkingwater.com^
 ||cpodf.plunge.com^
 ||cpoqa2.plc3.tt.omtrdc.net^
+||cpoqa3.tt.omtrdc.net^
 ||cporotarytools.com.ssl.sc.tt.omtrdc.net^
 ||cport7354325staging.jamf.tt.omtrdc.net^
 ||cportfoliooudappr-is-1-2.net.daraz.com^
@@ -75812,6 +75845,7 @@
 ||credoss.credolegal.com^
 ||creepystories-staging-cointoon.net.daraz.com^
 ||crefm.sweatandmilk.com^
+||cremarc.com^
 ||crepemania.openapp.link^
 ||cresetr44.net.daraz.com^
 ||cresleighhomes.actonservice.com^
@@ -80370,6 +80404,7 @@
 ||daiichisankyo.k12.tt.omtrdc.net^
 ||daijiale-front-end.deltadentalca.tt.omtrdc.net^
 ||daijobu.tt.omtrdc.net^
+||daikinchemicals.com^
 ||daikinweb.net.daraz.com^
 ||daikiojm.tt.omtrdc.net^
 ||daikokuya.grupomonge.tt.omtrdc.net^
@@ -86767,6 +86802,7 @@
 ||datadump.beastanalyticsco.com^
 ||dataevent.myorbitshop.com^
 ||datafiletechnologies.actonservice.com^
+||dataflow.co.uk^
 ||dataflow.hk.dk^
 ||dataflow.mdrncapital.com^
 ||dataga.diviandtamarijnaruba.com^
@@ -94464,6 +94500,7 @@
 ||digital-merch.tt-stage1.omtrdc.net^
 ||digital-perf-wowzahttp.tt.omtrdc.net^
 ||digital-power.actonservice.com^
+||digital-power.com^
 ||digital-qa1.tt.omtrdc.net^
 ||digital-stagekatmoviehd.net.daraz.com^
 ||digital-staging-srv.net.daraz.com^
@@ -94969,6 +95006,14 @@
 ||discopond.com^
 ||discount.tt.omtrdc.net^
 ||discount.verizonenterprisesol.tt.omtrdc.net^
+||discountairintake.com^
+||discountautomirrors.com^
+||discountbodyparts.com^
+||discountbrakes.com^
+||discountcarlights.com^
+||discountcatalyticconverters.com^
+||discountexhaustsystems.com^
+||discountfuelsystems.com^
 ||discounttireofameric.tt.omtrdc.net^
 ||discovehcmsapi-01-lib-oa-1-cf23region.net.daraz.com^
 ||discovehcmsapi-k-application-spring.net.daraz.com^
@@ -95336,6 +95381,7 @@
 ||dk-api.tt.omtrdc.net^
 ||dk-berlingskemedia-dev.tt.omtrdc.net^
 ||dk-go.experian.com^
+||dk-online.de^
 ||dk-psa.com-docs.edgekey.net.easyjet.com^
 ||dk-psa.com.cdnkey.net.easyjet.com^
 ||dk-psa.com.edgekey-ex.net.easyjet.com^
@@ -108970,6 +109016,7 @@
 ||dwpuat-qi.net.daraz.com^
 ||dwrede.tt.omtrdc.net^
 ||dwrlwx.polo-motorrad.de^
+||dws-global.com^
 ||dws-x.oit.tt.omtrdc.net^
 ||dws001.tt.omtrdc.net^
 ||dws2.tt-qe2.omtrdc.net^
@@ -110577,6 +110624,7 @@
 ||e.tryiris.ai^
 ||e.tryreps.app^
 ||e.tryvox.co^
+||e.tt.omtrdc.net^
 ||e.ttmax.com.ua^
 ||e.tuavibe.com.br^
 ||e.tubissime.com^
@@ -113857,6 +113905,7 @@
 ||ecidatasettlement.e.epiqnotification.com^
 ||ecieltex.tt-stage3.omtrdc.net^
 ||ecigens1.viviotech.net.daraz.com^
+||ecina.com^
 ||ecis-partner.net.daraz.com^
 ||ecisco-capwap-datalersticns1.viviotech.net.daraz.com^
 ||ecit.tt-qe-ci1.omtrdc.net^
@@ -115158,6 +115207,7 @@
 ||edgenssl-r-ht-21.viviotech.net.daraz.com^
 ||edgenssquirrelmail.viviotech.net.daraz.com^
 ||edgensx-space.viviotech.net.daraz.com^
+||edgenuity.com^
 ||edgeontpage-partner.net.daraz.com^
 ||edgeops.acronymmedia.tt.omtrdc.net^
 ||edgepatner.net.daraz.com^
@@ -123383,6 +123433,7 @@
 ||esri.de.ssl.sc.tt.omtrdc.net^
 ||esri.nl.actonservice.com^
 ||esri.rw.ssl.sc.tt.omtrdc.net^
+||esri.se^
 ||esritest.tt.omtrdc.net^
 ||esriturkeynewmedia.hb.tt.omtrdc.net^
 ||esro.tickets.tt.omtrdc.net^
@@ -123729,6 +123780,7 @@
 ||et.adsdomaintracking.com^
 ||et.akademie-handel.de^
 ||et.alphalas.com^
+||et.amersports.tt.omtrdc.net^
 ||et.anahira.com^
 ||et.asx.eu^
 ||et.bagira.one^
@@ -128084,6 +128136,7 @@
 ||extensions.royalmailgroupltd.tt.omtrdc.net^
 ||extensions1.tt.omtrdc.net^
 ||extensionworkshop.tt.omtrdc.net^
+||extensis.com^
 ||exter-1.tt.omtrdc.net^
 ||exterieur.tt.omtrdc.net^
 ||extern-12.tt.omtrdc.net^
@@ -128326,6 +128379,7 @@
 ||extrarobot.net.daraz.com^
 ||extras.galaxygate.net^
 ||extras.habitpocket.io^
+||extraspace.com^
 ||extrystero.citizensbank.tt.omtrdc.net^
 ||exts.axsgroup.tt.omtrdc.net^
 ||extwww.tender.tt.omtrdc.net^
@@ -129939,8 +129993,10 @@
 ||faxsmarter.instantinfo.com^
 ||faxspeechc.citizensbank.tt.omtrdc.net^
 ||faxsr41.applifaxation.net.daraz.com^
+||faxsuite.de^
 ||faxtest1.net.daraz.com^
 ||faxtwelve.citizensbank.tt.omtrdc.net^
+||faxverteiler.com^
 ||faye-dev.tt.omtrdc.net^
 ||faye.chgmanagement.tt.omtrdc.net^
 ||fayebusiness.actonservice.com^
@@ -131025,6 +131081,7 @@
 ||fespzx.sfr.fr^
 ||festivalseks-brocom.events.tt.omtrdc.net^
 ||festo.actonservice.com^
+||festo.com^
 ||fet.abbottlaboratories.tt.omtrdc.net^
 ||fet.test.net.daraz.com^
 ||fet.uswest.tt.omtrdc.net^
@@ -133888,6 +133945,7 @@
 ||firststatesuper.com.au.ssl.sc.tt.omtrdc.net^
 ||firststeps.net.daraz.com^
 ||firststop.tt.omtrdc.net^
+||firsttechfed.com^
 ||firsttechfed.sc.tt.omtrdc.net^
 ||firsttechfederalsoar.tt.omtrdc.net^
 ||firsttest.net.daraz.com^
@@ -145207,6 +145265,7 @@
 ||gezvg.wildhawk.co^
 ||gf.laotraromi.cl^
 ||gf7t.cheques-cadeaux-culturels.fr^
+||gfa.org^
 ||gfavoc.cremede-ann.com^
 ||gfc.tt.omtrdc.net^
 ||gfcexch1.tt.omtrdc.net^
@@ -165103,6 +165162,7 @@
 ||hmzupe.image-republic.com^
 ||hn023at6lvtpy0ke.net.daraz.com^
 ||hn4ls9cy0n0wglct.net.daraz.com^
+||hnavi.co.jp^
 ||hnecr.herbaloasis.com^
 ||hnfnd.thehouseofnoa.com^
 ||hngen.lumanutrition.com^
@@ -174804,6 +174864,7 @@
 ||info.relphbenefit.aleragroup.com^
 ||info.relphbenefitadvisors.aleragroup.com^
 ||info.reltio.com^
+||info.renesas.cn^
 ||info.rescignos.com^
 ||info.restek.com^
 ||info.reutersagency.com^
@@ -220002,6 +220063,7 @@
 ||maapplicationsine.r-ln-2.net.daraz.com^
 ||maaprilketing.net.daraz.com^
 ||maark3.tt.omtrdc.net^
+||maartenmechelen.be^
 ||maas-authproxy.tt-stage3.omtrdc.net^
 ||maas-demos.net.daraz.com^
 ||maas-east.erc.erc.tt.omtrdc.net^
@@ -220400,6 +220462,7 @@
 ||mafro.tt.omtrdc.net^
 ||magallanes.tt.omtrdc.net^
 ||magazin.mboxedge37-02.tt.omtrdc.net^
+||magazyn.tt.omtrdc.net^
 ||magdidakroury.tt.omtrdc.net^
 ||magento-recs-sdk.adobe.net^
 ||magento.grundfosholdingas.tt.omtrdc.net^
@@ -221274,6 +221337,7 @@
 ||mama.tt.omtrdc.net^
 ||mamaesarada.tt.omtrdc.net^
 ||maman-salope.tt.omtrdc.net^
+||mamawillow.com^
 ||mammamia.pizza.tt.omtrdc.net^
 ||mammothmountainskiar.tt.omtrdc.net^
 ||mamonde.tt.omtrdc.net^
@@ -221988,6 +222052,7 @@
 ||marcom.biodexrehab.com^
 ||marcomauto.globalfoundries.com^
 ||marcomm.woodward.com^
+||marcommit.nl^
 ||marcomms.londonfirst.co.uk^
 ||marcomms.maistro.com^
 ||marenterpriseregistrationeting.bacenterpriseregistrationend.net.daraz.com^
@@ -223542,6 +223607,7 @@
 ||marketing.resolutionre.com^
 ||marketing.responsepoint.com^
 ||marketing.resuelve.mx^
+||marketing.retail-voodoo.com^
 ||marketing.retirementonly.com^
 ||marketing.revambulancegroup.com^
 ||marketing.revcommercialgroup.com^
@@ -226130,6 +226196,7 @@
 ||mediawall.tt.omtrdc.net^
 ||mediawebltd.tt.omtrdc.net^
 ||medibankltdau.tt.omtrdc.net^
+||medical.tt.omtrdc.net^
 ||medicaldemo.tt.omtrdc.net^
 ||medicalplus.tt.omtrdc.net^
 ||medicalsupply.sellmyteststripsusa.com^
@@ -226501,6 +226568,7 @@
 ||merch.bellsouth.administrator.net.daraz.com^
 ||merch.hrtm.citizensbank.tt.omtrdc.net^
 ||merch.merch.tt.omtrdc.net^
+||merchandise.tt.omtrdc.net^
 ||merchant-apac-cfw-c2s-01-n6x026.net.daraz.com^
 ||merchant-api-static-stage.net.daraz.com^
 ||merchant-app.th3rdwave.coffee^
@@ -233238,6 +233306,7 @@
 ||motoport-raj.tt.omtrdc.net^
 ||motoport-wit.monolit.tt.omtrdc.net^
 ||motoport13.tt.omtrdc.net^
+||motopower.com^
 ||motopremiumcars-r1.tt.omtrdc.net^
 ||motopremiumcars-trans.tt.omtrdc.net^
 ||motoprestige-gdynia.tt.omtrdc.net^
@@ -233321,6 +233390,7 @@
 ||motortest-zet2.tt.omtrdc.net^
 ||motortrend.com.sc.tt.omtrdc.net^
 ||motu-teamblue.services^
+||motumb2b.com^
 ||mou.moumachirbari.com^
 ||mouao.milkmakeup.com^
 ||moulds.tt.omtrdc.net^
@@ -234136,6 +234206,7 @@
 ||msmt.cegeka.com^
 ||msmt.tomcare.be^
 ||msn3hk.tt.omtrdc.net^
+||msnjob.gz.tt.omtrdc.net^
 ||msnmicrosoft.tt.omtrdc.net^
 ||msnpurf.themjewelersny.com^
 ||msocialxrketing-chef.net.daraz.com^
@@ -236883,6 +236954,7 @@
 ||nationalaustraliaban.tt.omtrdc.net^
 ||nationalbankofcanada.tt.omtrdc.net^
 ||nationaltrust.tt.omtrdc.net^
+||nationwidebodyparts.com^
 ||nationwidebuildingso.tt.omtrdc.net^
 ||natite.crowtienda.com^
 ||native-ads-events-api.c4s-rd.services^
@@ -238854,6 +238926,7 @@
 ||nialuk.dorifurniture.co.kr^
 ||niavz.monstersteamer.net^
 ||niblewren.co^
+||nic3.tt.omtrdc.net^
 ||nicaragua.net.daraz.com^
 ||niccs-1.brass.tt.omtrdc.net^
 ||nice.theperryai.com^
@@ -255986,6 +256059,7 @@
 ||oc.orcoaching.co^
 ||oc4.tt.omtrdc.net^
 ||oca.microsoft.com^
+||oca3.tt.omtrdc.net^
 ||ocaassist.me.tt.omtrdc.net^
 ||ocand.trustedhealthproducts.com^
 ||ocast.elevenaustralia.com^
@@ -257530,8 +257604,10 @@
 ||ongapswman201.gid.tt.omtrdc.net^
 ||ongc.justmusic.co.il^
 ||onghfx.revolve.com^
+||ongle24.be^
 ||ongreed.ongreed.com^
 ||onhqz.rocksbox.com^
+||oni.co.uk^
 ||onigh.colorwowhair.com^
 ||onioncomic.com^
 ||onix.net.daraz.com^
@@ -261382,6 +261458,7 @@
 ||pandora-test.tt.omtrdc.net^
 ||pandora.caterpillar.tt.omtrdc.net^
 ||pandora.com.d1.sc.tt.omtrdc.net^
+||pandora.ehealthinsurance.tt.omtrdc.net^
 ||pandora.mass.tt.omtrdc.net^
 ||pandora.net.ssl.sc.tt.omtrdc.net^
 ||pandora.tt.omtrdc.net^
@@ -263017,6 +263094,7 @@
 ||partridge.antonius.me^
 ||parts-creator.accountantservices1.tt-stage1.omtrdc.net^
 ||parts-fitest.tt.omtrdc.net^
+||parts-pros.com^
 ||parts09.tt.omtrdc.net^
 ||parts3be.us.tt.omtrdc.net^
 ||parts6d.tt.omtrdc.net^
@@ -263972,6 +264050,7 @@
 ||pawtranslease.tt.omtrdc.net^
 ||pawwner.net.daraz.com^
 ||pax-ciamw-cert.tt.omtrdc.net^
+||paxport.net^
 ||paxtrz.dreamplacehotels.com^
 ||pay-dev.arts.tt.omtrdc.net^
 ||pay-e3.tt.omtrdc.net^
@@ -266465,8 +266544,6 @@
 ||pixel.annahl.ca^
 ||pixel.anyclip.com^
 ||pixel.archipro.co.nz^
-||pixel.archivecaslytosk.onion^
-||pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion^
 ||pixel.atualperfumaria.com.br^
 ||pixel.augsburger-allgemeine.de^
 ||pixel.automateapollo.com^
@@ -267300,6 +267377,7 @@
 ||plwfwc.teknozone.it^
 ||plwnxe.pascalcoste-shopping.com^
 ||plx.tt.omtrdc.net^
+||plxtech.fd.tt.omtrdc.net^
 ||plyizb.latour-lith.nl^
 ||plyncdiscoverrtner-blyncdiscovermboo.net.daraz.com^
 ||plyncdiscovertner.net.daraz.com^
@@ -270400,6 +270478,9 @@
 ||proget-api.hack12.tt.omtrdc.net^
 ||progetilespartner-pay.net.daraz.com^
 ||proglabel-api-prod.net.daraz.com^
+||proglow.it^
+||proglow.nl^
+||proglow.pl^
 ||progmxs.com^
 ||progod.notrishi.tech^
 ||program.mtb.tt.omtrdc.net^
@@ -273855,6 +273936,7 @@
 ||qugkzc.babyonlinewholesale.com^
 ||quhdnr.musiciansfriend.com^
 ||quick.openapp.link^
+||quickbooks.co.uk^
 ||quickenloans.tt.omtrdc.net^
 ||quickkoala.io^
 ||quicklisp-client-uploader.tt.omtrdc.net^
@@ -276214,6 +276296,7 @@
 ||red.runkelis.com^
 ||red.swissfx.net^
 ||red.wtstrack.com^
+||red8.com^
 ||redbasketball.com^
 ||redblue.sillymillymoo.com.au^
 ||redbooks.actonservice.com^
@@ -278917,6 +279000,7 @@
 ||rifma.circusny.com^
 ||rift.gameboost.com^
 ||riftiay.search.search.tt.omtrdc.net^
+||rifton.com^
 ||rigailoveyou.tt.omtrdc.net^
 ||rigel.physics.net.daraz.com^
 ||rightanswers.actonservice.com^
@@ -279506,6 +279590,7 @@
 ||roterfaden.naehwelt-flach.de^
 ||rotorooterinc.tt.omtrdc.net^
 ||rottenray.com^
+||rottne.com^
 ||rotunda.ncsl.org^
 ||rouf.shadowshowdown.com^
 ||roulette.abzorbagames.com^
@@ -280283,6 +280368,7 @@
 ||ruploadlib-ht-1etdata.spring.net.daraz.com^
 ||ruqztnua.datthu.vn^
 ||ruralrobin.com^
+||rushcarparts.com^
 ||rusns2wr-is-1-2.net.daraz.com^
 ||ruspu.getmyblend.com^
 ||russelton.tt.omtrdc.net^
@@ -280429,6 +280515,7 @@
 ||ry2.aida.tt.omtrdc.net^
 ||rya.tt.omtrdc.net^
 ||ryan.hyattcorporation.tt.omtrdc.net^
+||ryan.indigoaviation.tt.omtrdc.net^
 ||ryanair.com.ssl.d3.sc.tt.omtrdc.net^
 ||ryanair.tt.omtrdc.net^
 ||ryancancook-r-ln-2.net.daraz.com^
@@ -280650,6 +280737,7 @@
 ||s.cirasync.com^
 ||s.clientes.construrama.com^
 ||s.clinilabs.co.uk^
+||s.cloud.prod.cloud.tt.omtrdc.net^
 ||s.cloudacc.com^
 ||s.cocoonyoga.de^
 ||s.columbiathreadneedle.ch^
@@ -285488,6 +285576,7 @@
 ||sendpulsenewtest.branch.rocks^
 ||sendpulsetest.branch.rocks^
 ||seneptm.eposcard.co.jp^
+||senetas.com^
 ||senior-systems.actonservice.com^
 ||seniordynamic.com^
 ||seniorlifestyles.amica.ca^
@@ -293609,6 +293698,7 @@
 ||sharepoint.rackham.tt.omtrdc.net^
 ||sharepoint.rh.tt.omtrdc.net^
 ||sharepoint8s-prd.n-switch.net.daraz.com^
+||shareswiss.de^
 ||sharif.tt.omtrdc.net^
 ||sharing.kptncook.com^
 ||shark.rockyourlife.de^
@@ -295007,6 +295097,7 @@
 ||simplexworldnews.tt.omtrdc.net^
 ||simplify.razorsync.com^
 ||simpliifinancial.tt.omtrdc.net^
+||simplilearn.com^
 ||simply.lucanet.nl^
 ||simplyconfirm.actonservice.com^
 ||simplyhealthgroupltd.tt.omtrdc.net^
@@ -296804,6 +296895,7 @@
 ||slotabrosuat.zharev.com^
 ||slotdunyasi.t.byads.co^
 ||sloth.tt.omtrdc.net^
+||slr.vdc.tt.omtrdc.net^
 ||slrbn.the-herbtender.com^
 ||slryca.meyou.jp^
 ||slsi2-fawp.tt.omtrdc.net^
@@ -301841,6 +301933,7 @@
 ||smile.glendale.wellnessimplants.com^
 ||smile.optilaboratories.com^
 ||smilesquid.com^
+||smilestylist.co.uk^
 ||smilingcattle.com^
 ||smilingmaster.com^
 ||smilingswim.com^
@@ -301857,6 +301950,7 @@
 ||smkynb.skr.de^
 ||smm.kilimche.bg^
 ||smmkf.jostens.com^
+||smmmile.store^
 ||smmmkl.hoff.ru^
 ||smn.dankore.jp^
 ||smnnij.gate-to-the-games.de^
@@ -303748,6 +303842,7 @@
 ||speedup.my360.com.br^
 ||speedwellweather.actonservice.com^
 ||speedy.manara-solution.com^
+||speedycarparts.com^
 ||speedyfox.io^
 ||speedyrhino.co^
 ||speedysteaks.com^
@@ -329391,6 +329486,7 @@
 ||stopstomach.com^
 ||storage-k8s-prd.n-switch.net.daraz.com^
 ||storage.azure.net.daraz.com^
+||storage.com^
 ||storage.eselrincondelromanticismo.citizensbank.tt.omtrdc.net^
 ||storage.film.azullinhasaereas.tt.omtrdc.net^
 ||storage.hallmarkcom.tt.omtrdc.net^
@@ -329825,6 +329921,7 @@
 ||stream.rics.tt.omtrdc.net^
 ||stream.runmat.com^
 ||stream.supersportowy.pl^
+||stream.tt.omtrdc.net^
 ||streams.cablecar.sph.com.sg^
 ||streamstats.prd.dlive.tv^
 ||streamtd2.net.daraz.com^
@@ -329871,6 +329968,7 @@
 ||strom.plusstrom.de^
 ||strong.solevibe.xyz^
 ||strongercity.com^
+||strsoftware.com^
 ||strt-law.tt.omtrdc.net^
 ||sts-aavi-ui.oalj.tt.omtrdc.net^
 ||sts-api.jisa.tt.omtrdc.net^
@@ -338687,6 +338785,7 @@
 ||thenursesnexus.tt.omtrdc.net^
 ||theoreio1.tt.omtrdc.net^
 ||theoriginal.tt.omtrdc.net^
+||thepartsbin.com^
 ||theperfectfit.tt.omtrdc.net^
 ||thepetcube.com^
 ||thepianostudio.tt.omtrdc.net^
@@ -339119,6 +339218,7 @@
 ||timecamouflage.net.daraz.com^
 ||timeclock.mytoolr.com^
 ||timeclock2.tt.omtrdc.net^
+||timecommunications.biz^
 ||timeconvert.net.daraz.com^
 ||timecrossed.com^
 ||timecvscar10.net.daraz.com^
@@ -349728,6 +349828,7 @@
 ||truckinguments.net.daraz.com^
 ||truckingvops-ns2.viviotech.net.daraz.com^
 ||truckingx-c.ns.emailvision.net.daraz.com^
+||truckpartsdiscount.com^
 ||trucks-stage.joatoon.net.daraz.com^
 ||trucks.stage-mybooster.net.daraz.com^
 ||trucks.stage.vidoza.net.daraz.com^
@@ -351982,6 +352083,7 @@
 ||typicalteeth.com^
 ||tyqwh.vitalchoice.com^
 ||tyrens.actonservice.com^
+||tyrens.se^
 ||tyrmmz.gruppiac.hu^
 ||tysonista.net.daraz.com^
 ||tyszkiewicz-krakow.tt.omtrdc.net^
@@ -354374,6 +354476,8 @@
 ||uniswap.net.daraz.com^
 ||unisynctool.net.daraz.com^
 ||unit-tests.tt.omtrdc.net^
+||unit4.com^
+||unit4.nl^
 ||unit4.tt.omtrdc.net^
 ||unitap-car-dwa.tt.omtrdc.net^
 ||unitap-mot.tt.omtrdc.net^
@@ -356259,6 +356363,7 @@
 ||usaoptimizedby.increasingly.co^
 ||usaprogrip.actonservice.com^
 ||usarmy2024.tt.omtrdc.net^
+||usautoparts.net^
 ||usb-sticks.kunden.tt.omtrdc.net^
 ||usb-vna.coppermountaintech.com^
 ||usbank.0-030.net.daraz.com^
@@ -366920,6 +367025,7 @@
 ||waterside.staging-sattadon0001.net.daraz.com^
 ||watersideybooster.net.daraz.com^
 ||watersight.stepstone.tt.omtrdc.net^
+||watertechonline.com^
 ||waterton.tt.omtrdc.net^
 ||waterywave.com^
 ||watford.tt.omtrdc.net^
@@ -374617,16 +374723,6 @@
 ||www-xspops-nsce.pops-nsrtner.net.daraz.com^
 ||www-xsvc-car10pace.partner.net.daraz.com^
 ||www-xxmlpace.partner.net.daraz.com^
-||www.325.tt.omtrdc.net^
-||www.53.gz.tt.omtrdc.net^
-||www.barbiearab.fd.tt.omtrdc.net^
-||www.daveandbusters.tt.omtrdc.net^
-||www.et.amersports.tt.omtrdc.net^
-||www.msnjob.gz.tt.omtrdc.net^
-||www.pandora.ehealthinsurance.tt.omtrdc.net^
-||www.plxtech.fd.tt.omtrdc.net^
-||www.ryan.indigoaviation.tt.omtrdc.net^
-||www.wlan-switch.partner.nautilus.net.daraz.com^
 ||www0-021-nov.hichannel.hinet.net.daraz.com^
 ||www0-49.net.mydays.de^
 ||www0-cms.freya.net.daraz.com^
@@ -374761,91 +374857,6 @@
 ||www15.jtv.com^
 ||www16.jtv.com^
 ||www2-image.net.daraz.com^
-||www2.2ndgear.com^
-||www2.68travel.com^
-||www2.acclivet.com^
-||www2.acsvalves.com^
-||www2.advp.com^
-||www2.aerodynamic-solutions.com^
-||www2.amsiso.com^
-||www2.arvig.com^
-||www2.automd.com^
-||www2.autopartscorner.com^
-||www2.autopartsgiant.com^
-||www2.autopartsplace.com^
-||www2.autopartswarehouse.com^
-||www2.autopartsworld.com^
-||www2.autotruckmirror.com^
-||www2.bimobject.com^
-||www2.bobcad.com^
-||www2.brotherzone.co.uk^
-||www2.brucepowerdirect.com^
-||www2.canadapartsonline.com^
-||www2.car-stuff.com^
-||www2.carjunky.com^
-||www2.carpartsdeal.com^
-||www2.carte-gr.total.fr^
-||www2.cet-uk.com^
-||www2.citizensclimatelobby.org^
-||www2.cremarc.com^
-||www2.daikinchemicals.com^
-||www2.dataflow.co.uk^
-||www2.digital-power.com^
-||www2.discountairintake.com^
-||www2.discountautomirrors.com^
-||www2.discountbodyparts.com^
-||www2.discountbrakes.com^
-||www2.discountcarlights.com^
-||www2.discountcatalyticconverters.com^
-||www2.discountexhaustsystems.com^
-||www2.discountfuelsystems.com^
-||www2.dk-online.de^
-||www2.dws-global.com^
-||www2.ecina.com^
-||www2.edgenuity.com^
-||www2.esri.se^
-||www2.extensis.com^
-||www2.extraspace.com^
-||www2.faxverteiler.com^
-||www2.festo.com^
-||www2.firsttechfed.com^
-||www2.hnavi.co.jp^
-||www2.info.renesas.cn^
-||www2.maartenmechelen.be^
-||www2.mamawillow.com^
-||www2.marcommit.nl^
-||www2.marketing.retail-voodoo.com^
-||www2.motopower.com^
-||www2.nationwidebodyparts.com^
-||www2.ongle24.be^
-||www2.oni.co.uk^
-||www2.parts-pros.com^
-||www2.paxport.net^
-||www2.proglow.it^
-||www2.proglow.nl^
-||www2.proglow.pl^
-||www2.quickbooks.co.uk^
-||www2.red8.com^
-||www2.rifton.com^
-||www2.rottne.com^
-||www2.rushcarparts.com^
-||www2.senetas.com^
-||www2.shareswiss.de^
-||www2.simplilearn.com^
-||www2.smilestylist.co.uk^
-||www2.storage.com^
-||www2.thepartsbin.com^
-||www2.timecommunications.biz^
-||www2.truckpartsdiscount.com^
-||www2.tyrens.se^
-||www2.unit4.com^
-||www2.unit4.nl^
-||www2.usautoparts.net^
-||www2.vmware.tt.omtrdc.net^
-||www2.watertechonline.com^
-||www2.yellowspring.co.uk^
-||www2.zacco.com^
-||www2.zr687u7scp8bybvf.net.daraz.com^
 ||www21.infinitiheliosameric.tt.omtrdc.net^
 ||www21.wyndhamhotelgroup.tt.omtrdc.net^
 ||www22.promokmp.tt.omtrdc.net^
@@ -374890,32 +374901,6 @@
 ||www3-demo.voordeel.tt.omtrdc.net^
 ||www3-portal.tt.omtrdc.net^
 ||www3-virus.tt.omtrdc.net^
-||www3.access-kl2.tt.omtrdc.net^
-||www3.accstandardbank.tt.omtrdc.net^
-||www3.americanprogressaction.org^
-||www3.apac-cfw-c2s-01-n6x026.net.daraz.com^
-||www3.autopartsdeal.com^
-||www3.bimobject.com^
-||www3.cpoqa3.tt.omtrdc.net^
-||www3.e.tt.omtrdc.net^
-||www3.faxsuite.de^
-||www3.faxverteiler.com^
-||www3.gfa.org^
-||www3.magazyn.tt.omtrdc.net^
-||www3.medical.tt.omtrdc.net^
-||www3.merchandise.tt.omtrdc.net^
-||www3.motumb2b.com^
-||www3.nic3.tt.omtrdc.net^
-||www3.oca3.tt.omtrdc.net^
-||www3.s.cloud.prod.cloud.tt.omtrdc.net^
-||www3.sainsburys.tt.omtrdc.net^
-||www3.slr.vdc.tt.omtrdc.net^
-||www3.smmmile.store^
-||www3.speedycarparts.com^
-||www3.stream.tt.omtrdc.net^
-||www3.strsoftware.com^
-||www3.versacespa.tt.omtrdc.net^
-||www3.zuerichtourismus.naruspot.net.daraz.com^
 ||www30.communications.tt.omtrdc.net^
 ||www309jqhq9ye4kc3xs6.net.daraz.com^
 ||www31.fmtc410.tt.omtrdc.net^
@@ -380089,6 +380074,7 @@
 ||yellowfevervaccine.tt-stage-ci1.omtrdc.net^
 ||yellowrosegraphicdesign.tt.omtrdc.net^
 ||yellowscissors.com^
+||yellowspring.co.uk^
 ||yellowstone-satta.net.daraz.com^
 ||yellowstone.stage.news.net.daraz.com^
 ||yellowstonestage-bitchop.net.daraz.com^
@@ -381480,6 +381466,7 @@
 ||zabbix-123pago.docs.net.daraz.com^
 ||zabbix-lib-oa-1-admin8.net.daraz.com^
 ||zabbix.adminhosting.accountchef-api-backup-s3-cache-production.tt.omtrdc.net^
+||zacco.com^
 ||zaccwidedy.32.17.242fandango.hb.tt.omtrdc.net^
 ||zacec.coverfx.com^
 ||zaehb.sokolovelaw.com^

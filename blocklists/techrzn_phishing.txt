@@ -1,6 +1,6 @@
 ! TechRZN - PHISHING
-! Stand: 27.11.2026 23:54 UTC
-! Eintraege: 148300
+! Stand: 28.11.2026 00:12 UTC
+! Eintraege: 148302
 
 ||0-1-x.16215785.xyz^
 ||0-1-x.26215785.xyz^
@@ -4893,6 +4893,7 @@
 ||afghanbrittlenffesses.info^
 ||afianzon-es.com^
 ||afiles.protectionsfilesorg.ru^
+||afirmenett.site^
 ||afiyahinfinityai.net^
 ||afluno.shop^
 ||afqyhuwea.firebaseapp.com^
@@ -24271,6 +24272,7 @@
 ||appleenespanol.com^
 ||appleford.eu^
 ||appleid-icloudmac.com^
+||appleid-support-security-verify.8-219-97-148.cpanel.site^
 ||appleid.intermico.world^
 ||appleid.mailsecu.co^
 ||appleid.scure.icu^
@@ -77968,6 +77970,7 @@
 ||login.m-microsoft.com^
 ||login.masterlinklogistxruics.vu^
 ||login.mba554.com^
+||login.microsoftonline-billing-verification-secured-help.8-219-97-148.cpanel.site^
 ||login.microsoftonline.xrb.okx.mybluehost.me^
 ||login.mirakl.net^
 ||login.nbjwforging.com^
@@ -85636,7 +85639,10 @@
 ||netflix-setting.com^
 ||netflix-seven-rose.vercel.app^
 ||netflix-signin-update-payment-secured-billing-mainapp.35-179-33-128.cpanel.site^
+||netflix-signin-update-payment-secured-billing-mainapp.52-234-07-169.cpanel.site^
 ||netflix-signin-update-payment-secured-billing-mainapp.8-219-97-148.cpanel.site^
+||netflix-signin-update-payment-secured-billing-mainsec.52-234-07-169.cpanel.site^
+||netflix-signin-update-payment-secured-billing-mainsec.54-037-73-097.cpanel.site^
 ||netflix-update.employmentlawyerlongisland.com^
 ||netflix-updateinfo.com^
 ||netflix-updatepayment.com^
@@ -143362,13 +143368,9 @@
 ||www-pay.mobile-tiantianyingqiu.com^
 ||www-sparrowwallet.com^
 ||www-trezor.co.com^
-||www.www.www.appleid-support-security-verify.8-219-97-148.cpanel.site^
-||www.www.www.netflix-dashboard-login.8-219-97-148.cpanel.site^
-||www.www.www.www.appleid-support-security-verify.8-219-97-148.cpanel.site^
 ||www1.coinbase-login-usa.com^
 ||www10.kapitall.life^
 ||www2--mlcauerard--co--jp--mlaocredd-caidrams68592-workers-dev.translate.goog^
-||www2.afirmenett.site^
 ||www4.kapitall.my^
 ||www44.presteietodafamilia.com^
 ||wwwbanrisul.com^

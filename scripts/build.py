@@ -30,14 +30,41 @@ CATEGORIES = {
 OUTPUT_DIR = "blocklists"
 WL_DIR = "Whitelists"
 LOCAL_WHITELIST = "sources/whitelist.raw"
+WHITELIST_OUTPUT_FILE = os.path.join(WL_DIR, "techrzn_whitelist.txt")
 HEADERS = {"User-Agent": "Mozilla/5.0 TechRZN-Bot/1.3"}
+
+# False = nur melden/zaehlen, wenn Domains in mehreren Kategorien auftauchen
+# True  = jede Domain nur in der ersten passenden Kategorie behalten
+DEDUPLICATE_ACROSS_CATEGORIES = False
 
 MAX_DOMAIN_LEN = 80
 MAX_ENTRIES_PER_LIST = 1_200_000
 MAX_WORKERS = 6
 REQUEST_TIMEOUT = (5, 25)
 
-DOMAIN_RE = re.compile(r"^[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?(?:\.[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?)+$")
+# Offensichtlich lokale, reservierte oder im DNS-Blocklisting unerwuenschte TLDs
+BLOCKED_TLDS = {
+    "local",
+    "localhost",
+    "localdomain",
+    "lan",
+    "home",
+    "internal",
+    "intranet",
+    "corp",
+    "arpa",
+    "example",
+    "invalid",
+    "test",
+    "onion",
+}
+
+# TLD: entweder klassisch (2-24 Buchstaben) oder Punycode (xn--...)
+DOMAIN_RE = re.compile(
+    r"^[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?"
+    r"(?:\.[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?)*"
+    r"\.(?:xn--[a-z0-9-]{2,59}|[a-z]{2,24})$"
+)
 
 
 def create_session() -> requests.Session:
@@ -88,22 +115,41 @@ def clean_domain(line: str) -> str | None:
     elif len(parts) > 1:
         return None
 
-    # Protokoll, Pfad und Adblock-Syntax entfernen
+    # Protokoll, Pfad, Query/Port und Adblock-Syntax entfernen
     if "://" in line:
         line = line.split("://", 1)[1]
-    line = line.split("/", 1)[0]
+    line = line.split("/", 1)[0].split("?", 1)[0].split(":", 1)[0]
     line = line.replace("^$important", "").replace("||", "").replace("^", "")
     line = line.removeprefix("*.")
     line = line.replace("*", "")
 
-    if line.startswith("www."):
-        line = line[4:]
+    # Mehrfaches "www." am Anfang bereinigen (z. B. "www2." oder "www.www.")
+    while line.startswith(("www.", "www2.", "www3.")):
+        if line.startswith("www."):
+            line = line[4:]
+        elif line.startswith(("www2.", "www3.")):
+            line = line[5:]
 
     line = line.strip(".")
     if not line or len(line) > MAX_DOMAIN_LEN or "." not in line:
         return None
 
+    # Doppelte Punkte oder Bindestrich direkt am Label-Rand verwerfen
+    if ".." in line or ".-" in line or "-." in line:
+        return None
+
+    # Umlaute / Unicode-Domains in Punycode (IDNA) wandeln, falls moeglich
+    if not line.isascii():
+        try:
+            line = line.encode("idna").decode("ascii").lower()
+        except Exception:
+            return None
+
     if not DOMAIN_RE.match(line):
+        return None
+
+    tld = line.rsplit(".", 1)[-1]
+    if tld in BLOCKED_TLDS:
         return None
 
     return line
@@ -162,6 +208,27 @@ def existing_domains_match(output_path: str, sorted_domains: list[str]) -> bool:
         return False
 
 
+def write_whitelist_file(whitelist: set[str], timestamp: str) -> None:
+    if not whitelist:
+        return
+
+    sorted_wl = sorted(whitelist)
+    if existing_domains_match(WHITELIST_OUTPUT_FILE, sorted_wl):
+        print(f"⏭️ Whitelist: Keine Aenderungen ({len(sorted_wl)} Domains).")
+        return
+
+    try:
+        with open(WHITELIST_OUTPUT_FILE, "w", encoding="utf-8") as f:
+            f.write("! TechRZN - WHITELIST\n")
+            f.write(f"! Stand: {timestamp}\n")
+            f.write(f"! Eintraege: {len(sorted_wl)}\n\n")
+            for d in sorted_wl:
+                f.write(f"||{d}^\n")
+        print(f"✅ Whitelist: {len(sorted_wl)} Domains -> {WHITELIST_OUTPUT_FILE}")
+    except Exception as e:
+        print(f"❌ Fehler beim Schreiben der Whitelist ({WHITELIST_OUTPUT_FILE}): {e}")
+
+
 def main() -> None:
     started_at = time.monotonic()
     timestamp = datetime.now(timezone.utc).strftime("%d.%m.%Y %H:%M UTC")
@@ -172,6 +239,10 @@ def main() -> None:
 
     whitelist = load_whitelist(LOCAL_WHITELIST)
     print(f"🛡️ Whitelist geladen: {len(whitelist)} Domains")
+    write_whitelist_file(whitelist, timestamp)
+
+    seen_domains: set[str] = set()
+    cross_category_duplicates = 0
 
     session = create_session()
 
@@ -218,6 +289,20 @@ def main() -> None:
                         print(f"❌ Fehler bei Quellen-Task in {cat_name}: {e}")
 
             if category_domains:
+                cat_dups = len(category_domains & seen_domains)
+                if cat_dups > 0:
+                    cross_category_duplicates += cat_dups
+                    print(f"🔁 {cat_name}: {cat_dups} Domain(s) bereits in anderen Kategorien vorhanden.")
+
+                if DEDUPLICATE_ACROSS_CATEGORIES:
+                    category_domains -= seen_domains
+
+                seen_domains.update(category_domains)
+
+                if not category_domains:
+                    print(f"⚠️ {cat_name}: Nach Deduplizierung keine Domains mehr uebrig.")
+                    continue
+
                 output_path = os.path.join(OUTPUT_DIR, f"techrzn_{cat_name}.txt")
                 sorted_domains = sorted(category_domains)
 
@@ -239,7 +324,11 @@ def main() -> None:
         session.close()
 
     elapsed = time.monotonic() - started_at
-    print(f"🏁 Fertig in {elapsed:.1f}s.")
+    print(
+        f"🏁 Fertig in {elapsed:.1f}s | "
+        f"Einzigartige Domains gesamt: {len(seen_domains)} | "
+        f"Kategorie-Ueberschneidungen: {cross_category_duplicates}"
+    )
 
 
 if __name__ == "__main__":

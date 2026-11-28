@@ -250,6 +250,17 @@ def write_whitelist_file(whitelist: set[str], timestamp: str) -> None:
         print(f"❌ Fehler beim Schreiben der Whitelist ({WHITELIST_OUTPUT_FILE}): {e}")
 
 
+def print_summary(stats: list[tuple[str, int, str]]) -> None:
+    if not stats:
+        return
+    print("\n📊 Kategorie-Zusammenfassung:")
+    print(f"{'Kategorie':<18} {'Eintraege':>10}  {'Status'}")
+    print("-" * 48)
+    for cat_name, count, status in stats:
+        print(f"{cat_name:<18} {count:>10}  {status}")
+    print("-" * 48)
+
+
 def main() -> None:
     started_at = time.monotonic()
     timestamp = datetime.now(timezone.utc).strftime("%d.%m.%Y %H:%M UTC")
@@ -264,6 +275,7 @@ def main() -> None:
 
     seen_domains: set[str] = set()
     cross_category_duplicates = 0
+    summary_stats: list[tuple[str, int, str]] = []
 
     session = create_session()
 
@@ -271,6 +283,7 @@ def main() -> None:
         for cat_name, src_path in CATEGORIES.items():
             if not os.path.exists(src_path):
                 print(f"⚠️ Überspringe {cat_name} ({src_path} fehlt)")
+                summary_stats.append((cat_name, 0, "Quelle fehlt"))
                 continue
 
             try:
@@ -282,10 +295,12 @@ def main() -> None:
                     ]
             except Exception as e:
                 print(f"❌ Fehler beim Lesen von {src_path}: {e}")
+                summary_stats.append((cat_name, 0, "Lesefehler"))
                 continue
 
             if not urls:
                 print(f"⚠️ Keine URLs in {src_path}")
+                summary_stats.append((cat_name, 0, "Keine URLs"))
                 continue
 
             print(f"📦 Verarbeite Kategorie: {cat_name} ({len(urls)} Quellen)")
@@ -322,6 +337,7 @@ def main() -> None:
 
                 if not category_domains:
                     print(f"⚠️ {cat_name}: Nach Deduplizierung keine Domains mehr uebrig.")
+                    summary_stats.append((cat_name, 0, "Leer nach Deduplizierung"))
                     continue
 
                 output_path = os.path.join(OUTPUT_DIR, f"techrzn_{cat_name}.txt")
@@ -329,6 +345,7 @@ def main() -> None:
 
                 if existing_domains_match(output_path, sorted_domains):
                     print(f"⏭️ {cat_name}: Keine Aenderungen ({len(sorted_domains)} Domains).")
+                    summary_stats.append((cat_name, len(sorted_domains), "Unveraendert"))
                     continue
 
                 try:
@@ -339,11 +356,16 @@ def main() -> None:
                         for d in sorted_domains:
                             f.write(f"||{d}^\n")
                     print(f"✅ {cat_name}: {len(sorted_domains)} Domains -> {output_path}")
+                    summary_stats.append((cat_name, len(sorted_domains), "Geschrieben"))
                 except Exception as e:
                     print(f"❌ Fehler beim Schreiben von {output_path}: {e}")
+                    summary_stats.append((cat_name, len(sorted_domains), "Schreibfehler"))
+            else:
+                summary_stats.append((cat_name, 0, "Keine Domains"))
     finally:
         session.close()
 
+    print_summary(summary_stats)
     elapsed = time.monotonic() - started_at
     print(
         f"🏁 Fertig in {elapsed:.1f}s | "

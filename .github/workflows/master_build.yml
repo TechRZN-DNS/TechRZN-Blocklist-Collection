@@ -49,8 +49,14 @@ jobs:
         run: python scripts/build.py
 
       - name: 💾 Änderungen speichern (Commit & Push)
-        uses: stefanzweifel/git-auto-commit-action@v6
-        with:
-          branch: main
-          commit_message: "build: Filter-Listen aktualisiert [bot]"
-          file_pattern: 'blocklists/*.txt Whitelists/*.txt'
+        run: |
+          git add -A blocklists/ Whitelists/ 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen zum Committen vorhanden."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "build: Filter-Listen aktualisiert [bot]"
+          git pull --rebase origin main
+          git push origin main

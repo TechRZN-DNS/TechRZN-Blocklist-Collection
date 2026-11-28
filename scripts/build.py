@@ -28,7 +28,7 @@ CATEGORIES = {
 }
 
 OUTPUT_DIR = "blocklists"
-WL_DIR = "Whitelists"
+WL_DIR = "blocklists"
 LOCAL_WHITELIST = "sources/whitelist.raw"
 WHITELIST_OUTPUT_FILE = os.path.join(WL_DIR, "techrzn_whitelist.txt")
 REMOTE_WHITELIST_URLS = [
@@ -185,7 +185,11 @@ def clean_domain(line: str) -> str | None:
     return line
 
 
-def fetch_remote_whitelist(session: requests.Session, url: str) -> set[str]:
+def fetch_remote_whitelist(
+    session: requests.Session,
+    url: str,
+    failed_sources: list[tuple[str, str, str]],
+) -> set[str]:
     found = set()
     fetch_url = normalize_url(url)
     try:
@@ -198,6 +202,7 @@ def fetch_remote_whitelist(session: requests.Session, url: str) -> set[str]:
                 if domain:
                     found.add(domain)
     except Exception as e:
+        failed_sources.append(("whitelist", fetch_url, str(e)))
         print(f"❌ Fehler bei Remote-Whitelist {fetch_url}: {e}")
     return found
 
@@ -206,8 +211,10 @@ def load_whitelist(
     path: str,
     session: requests.Session | None = None,
     remote_urls: list[str] | None = None,
+    failed_sources: list[tuple[str, str, str]] | None = None,
 ) -> set[str]:
     wl = set()
+    errors = failed_sources if failed_sources is not None else []
     if os.path.exists(path):
         try:
             with open(path, "r", encoding="utf-8", errors="replace") as f:
@@ -220,7 +227,10 @@ def load_whitelist(
 
     if session and remote_urls:
         with ThreadPoolExecutor(max_workers=min(MAX_WORKERS, len(remote_urls))) as executor:
-            futures = [executor.submit(fetch_remote_whitelist, session, url) for url in remote_urls]
+            futures = [
+                executor.submit(fetch_remote_whitelist, session, url, errors)
+                for url in remote_urls
+            ]
             for future in as_completed(futures):
                 try:
                     wl.update(future.result())
@@ -230,7 +240,14 @@ def load_whitelist(
     return wl
 
 
-def fetch_source(session: requests.Session, url: str, whitelist: set[str], limit: int) -> set[str]:
+def fetch_source(
+    session: requests.Session,
+    url: str,
+    whitelist: set[str],
+    limit: int,
+    category: str,
+    failed_sources: list[tuple[str, str, str]],
+) -> set[str]:
     found = set()
     fetch_url = normalize_url(url)
     try:
@@ -245,6 +262,7 @@ def fetch_source(session: requests.Session, url: str, whitelist: set[str], limit
                     if len(found) >= limit:
                         break
     except Exception as e:
+        failed_sources.append((category, fetch_url, str(e)))
         print(f"❌ Fehler bei URL {fetch_url}: {e}")
     return found
 
@@ -299,6 +317,16 @@ def print_summary(stats: list[tuple[str, int, str]]) -> None:
     print("-" * 48)
 
 
+def print_failed_sources(failed_sources: list[tuple[str, str, str]]) -> None:
+    if not failed_sources:
+        print("\n✅ Keine fehlgeschlagenen Quellen-URLs.")
+        return
+
+    print("\n⚠️ Fehlgeschlagene Quellen-URLs:")
+    for scope, url, reason in failed_sources:
+        print(f"  - [{scope}] {url} -> {reason}")
+
+
 def main() -> None:
     started_at = time.monotonic()
     timestamp = datetime.now(timezone.utc).strftime("%d.%m.%Y %H:%M UTC")
@@ -307,8 +335,14 @@ def main() -> None:
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     os.makedirs(WL_DIR, exist_ok=True)
 
+    failed_sources: list[tuple[str, str, str]] = []
     session = create_session()
-    whitelist = load_whitelist(LOCAL_WHITELIST, session=session, remote_urls=REMOTE_WHITELIST_URLS)
+    whitelist = load_whitelist(
+        LOCAL_WHITELIST,
+        session=session,
+        remote_urls=REMOTE_WHITELIST_URLS,
+        failed_sources=failed_sources,
+    )
     print(f"🛡️ Whitelist geladen: {len(whitelist)} Domains")
     write_whitelist_file(whitelist, timestamp)
 
@@ -345,7 +379,15 @@ def main() -> None:
 
             with ThreadPoolExecutor(max_workers=min(MAX_WORKERS, len(urls))) as executor:
                 futures = [
-                    executor.submit(fetch_source, session, url, whitelist, MAX_ENTRIES_PER_LIST)
+                    executor.submit(
+                        fetch_source,
+                        session,
+                        url,
+                        whitelist,
+                        MAX_ENTRIES_PER_LIST,
+                        cat_name,
+                        failed_sources,
+                    )
                     for url in urls
                 ]
                 for future in as_completed(futures):
@@ -403,6 +445,7 @@ def main() -> None:
         session.close()
 
     print_summary(summary_stats)
+    print_failed_sources(failed_sources)
     elapsed = time.monotonic() - started_at
     print(
         f"🏁 Fertig in {elapsed:.1f}s | "

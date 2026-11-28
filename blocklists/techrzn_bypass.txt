@@ -1,6 +1,6 @@
 ! TechRZN - BYPASS
-! Stand: 27.11.2026 23:54 UTC
-! Eintraege: 16647
+! Stand: 28.11.2026 12:45 UTC
+! Eintraege: 16638
 
 ||000000555.xyz^
 ||0025974bf482fe84ac6a59293ae0bc0432a7b9fc.com^
@@ -2959,6 +2959,7 @@
 ||byteful.com^
 ||bytelixir.com^
 ||bytzvpn.com^
+||bzfnngeb.com^
 ||bzndkv.route64.de^
 ||c-dns.com^
 ||c.cicitt.ch^
@@ -7170,7 +7171,6 @@
 ||frangipanirooms.com^
 ||frank-web.dedyn.io^
 ||frankproxy.xyz^
-||frasfznl.com^
 ||fraylogic.com^
 ||fraymova.ru^
 ||frayoasis.com^
@@ -8765,7 +8765,6 @@
 ||interstellar-avb.pages.dev^
 ||interstellar-contribs.pages.dev^
 ||interstellar.nana.rinet.ai^
-||interstellar.nana.swift.cl^
 ||interstellar.sevecom.com^
 ||interstellar.toltec.info^
 ||interstellarisback.smelly.cc^
@@ -9040,7 +9039,6 @@
 ||jiuspeed.net^
 ||jiying.xyz^
 ||jiyuu.dnsitalia.org^
-||jiyygsat.com^
 ||jj-speed.net^
 ||jjadhfisaida.info.north-kazakhstan.su.cdn.cloudflare.net^
 ||jjcloud.xyz^
@@ -10168,7 +10166,6 @@
 ||makomako.easterndns.com^
 ||malanser.ru^
 ||maleyu.org^
-||malinavpn.com^
 ||mallocapp.com^
 ||mallocprivacy.com^
 ||malusvpn.net^
@@ -12480,7 +12477,6 @@
 ||quix-vpn-res-bucket.s3.amazonaws.com^
 ||quix-vpn.com^
 ||quix-vpn.firebaseapp.com^
-||quiz-70.pro^
 ||quiz.field.wildspark.net^
 ||quiz.teach.secold.com^
 ||quiz25.live^
@@ -12542,7 +12538,6 @@
 ||rammer.davispetsitter.com^
 ||rammer.ints.f5.si^
 ||rammer.nana.rinet.ai^
-||rammer.nana.swift.cl^
 ||rammer3-haihu-bynyanko.ydns.eu^
 ||rammerhead-10.swanndvr.net^
 ||rammerhead.8bit.ca^
@@ -13735,7 +13730,6 @@
 ||stop-block.com^
 ||storefront.ink^
 ||storkswift.com^
-||stormnighter.com^
 ||stormproxies.com^
 ||strassmair.org^
 ||stratus.bugz.fr^
@@ -14992,7 +14986,6 @@
 ||verbix.xyz^
 ||vercel-is-cool.vercel.app^
 ||verdis.space^
-||verifica.live^
 ||verify.endiseducation.com^
 ||verixis.live^
 ||verlix.xyz^
@@ -15671,7 +15664,6 @@
 ||way2proxy.com^
 ||waydnes.ru^
 ||wayen.eu^
-||wb-letsvpn.com^
 ||wbcadd4mkdq.info.north-kazakhstan.su.cdn.cloudflare.net^
 ||wbzby2a2k9.com^
 ||wcomes.com^
@@ -16587,7 +16579,6 @@
 ||zlhp6jksk5.execute-api.eu-west-3.amazonaws.com^
 ||zlpa.loan^
 ||znselxsz.com^
-||zo0g.site^
 ||zoihvj9m.com^
 ||zone88.sorrelbay.xyz^
 ||zonevpn.com^

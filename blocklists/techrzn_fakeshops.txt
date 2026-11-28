@@ -1,5 +1,6 @@
-### TechRZN - FAKESHOPS ###
-Stand: 27.11.2026 23:50
+! TechRZN - FAKESHOPS
+! Stand: 28.11.2026 12:45 UTC
+! Eintraege: 10704
 
 ||01crypto.com^
 ||0dgwn.bemobtrcks.com^
@@ -1169,7 +1170,6 @@ Stand: 27.11.2026 23:50
 ||bikeconcepto.shop^
 ||bikecouture.de^
 ||bikecube.de^
-||bikedealfactory.com^
 ||bikeeinnertubede.com^
 ||bikeersatzteile.com^
 ||bikefactoryplus.shop^
@@ -2911,7 +2911,6 @@ Stand: 27.11.2026 23:50
 ||essensverkaufs.com^
 ||essentials-osterreich.at^
 ||essor-invexaro.fr^
-||essorinvexaro.fr^
 ||estatesalescharlestonwestvirginia.com^
 ||estilobrasilofertas.com^
 ||estiloserena.com.br^
@@ -3125,7 +3124,6 @@ Stand: 27.11.2026 23:50
 ||familiewelpenhaus.com^
 ||family-drugs.net^
 ||familyhistoryjamaica.com^
-||familymedsmarket.com^
 ||familyshoptop.com^
 ||famozdealz.de^
 ||fancyclothing.de^
@@ -3336,7 +3334,6 @@ Stand: 27.11.2026 23:50
 ||flyturkmenistanairlines.eu^
 ||fm-fx.com^
 ||fmarketx.com^
-||fmi-finance.com^
 ||fmlpr.preis-meister.com^
 ||fmoewpfn.shop^
 ||fmtrader.com^
@@ -3385,6 +3382,7 @@ Stand: 27.11.2026 23:50
 ||foxhandel.de^
 ||foxracinggeschaft.com^
 ||fplgchauffage.com^
+||fr-totalenergiesinvest.com^
 ||fr.brokeragea.com^
 ||fr.finaguide.com^
 ||fr.fundiza.com^
@@ -3394,6 +3392,7 @@ Stand: 27.11.2026 23:50
 ||fr.samtradefx.com^
 ||fr.xpoken.com^
 ||fragonard.co.at^
+||framezegame.com^
 ||france-finances.com^
 ||francemusicstore.com^
 ||frankefahrrad.de^
@@ -3571,7 +3570,6 @@ Stand: 27.11.2026 23:50
 ||gartenaccessoiresshop.com^
 ||gartenbarriere.com^
 ||gartenbau-service.de^
-||gartenbau-vier-jahreszeiten.de^
 ||gartenbaukunster.de^
 ||gartenbaurheinruhr.de^
 ||gartenbedarf-online.com^
@@ -4436,6 +4434,7 @@ Stand: 27.11.2026 23:50
 ||hjmyfzzw.com^
 ||hjullagerdrivaxlar.com^
 ||hjz-handel.de^
+||hk2.hjkgghjj.com^
 ||hkp-biofuels.com^
 ||hlene.com^
 ||hlihdawi.shop^
@@ -4710,6 +4709,7 @@ Stand: 27.11.2026 23:50
 ||ikkotrader.com^
 ||ilamparas.de^
 ||ilopax.com^
+||ilumina.center^
 ||imalent.net^
 ||imcbroker.com^
 ||imfixies.de^
@@ -5096,6 +5096,7 @@ Stand: 27.11.2026 23:50
 ||kamagra-goedkoop.nl^
 ||kamagra-kamagra.cz^
 ||kamagra-kral.cz^
+||kamagra-levne.cz^
 ||kamagra-obchod.sk^
 ||kamagra-original.eu^
 ||kamagra-original.sk^
@@ -6266,7 +6267,6 @@ Stand: 27.11.2026 23:50
 ||metatrada.com^
 ||metoliussale.com^
 ||meukit.com^
-||mexdkjuf.com^
 ||mexicotabs.com^
 ||meyer-handel.de^
 ||meyerpoolwelt.com^
@@ -6791,7 +6791,6 @@ Stand: 27.11.2026 23:50
 ||nevari.de^
 ||new-lanjingtiyu-online.com^
 ||newartzone-shop.com^
-||newbikesell.com^
 ||newblue-tradingshop.com^
 ||newbuildingsupplies.com^
 ||newcfds.com^
@@ -6816,11 +6815,11 @@ Stand: 27.11.2026 23:50
 ||nexusonline.com.br^
 ||nexussolaraus.com^
 ||nexxco24.de^
-||nflfanaticsstore.com^
 ||nger.de^
 ||nguebelipharma.com^
 ||nhcol.com^
 ||nholz.com^
+||nicechmk.shop^
 ||nicedoc.co^
 ||nicetossyhn.click^
 ||nicikuscheltiere.com^
@@ -7124,6 +7123,7 @@ Stand: 27.11.2026 23:50
 ||onlineshop77.de^
 ||onlineshopman.de^
 ||onlinesupport24.top^
+||onlineteddy.com^
 ||onlinetoolsale.com^
 ||onlinevrach-24.online^
 ||onlinezins.de^
@@ -8733,7 +8733,6 @@ Stand: 27.11.2026 23:50
 ||solarfehlercodes.de^
 ||solarflowcrm.com^
 ||solargier-poland.click^
-||solarheim.com^
 ||solaricstore.com^
 ||solarien-berlin.de^
 ||solarinstallerscapetown.com^
@@ -9580,7 +9579,6 @@ Stand: 27.11.2026 23:50
 ||trade-x.net^
 ||trade.amlin-limited.info^
 ||trade.republicgestion.cc^
-||trade.republicgestion.com^
 ||tradeavapro.com^
 ||tradecapexapp.com^
 ||tradecapital.net^
@@ -9704,7 +9702,6 @@ Stand: 27.11.2026 23:50
 ||trustmedz.com^
 ||trustonlinepharmacy.com^
 ||trustpharm.to^
-||trustpharmsonline.com^
 ||trustss.com^
 ||trustydealmarket.com^
 ||truuly.de^
@@ -10257,7 +10254,6 @@ Stand: 27.11.2026 23:50
 ||weinshop-de.com^
 ||weinundgenusswelt.com^
 ||weinvielfalt.shop^
-||weinweltgenuss.com^
 ||weissweinrabatt.de^
 ||weitzgermany.com^
 ||wekagartenrabatt.com^

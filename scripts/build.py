@@ -35,7 +35,7 @@ WHITELIST_OUTPUT_FILE = os.path.join(WL_DIR, "techrzn_whitelist.txt")
 REMOTE_WHITELIST_URLS = [
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.txt",
 ]
-HEADERS = {"User-Agent": "Mozilla/5.0 TechRZN-Bot/1.3"}
+HEADERS = {"User-Agent": "Mozilla/5.0 TechRZN-Bot/1.4"}
 
 # False = nur melden/zaehlen, wenn Domains in mehreren Kategorien auftauchen
 # True  = jede Domain nur in der ersten passenden Kategorie behalten
@@ -44,7 +44,7 @@ DEDUPLICATE_ACROSS_CATEGORIES = False
 MAX_DOMAIN_LEN = 80
 MAX_ENTRIES_PER_LIST = 1_200_000
 MAX_WORKERS = 6
-REQUEST_TIMEOUT = (5, 25)
+REQUEST_TIMEOUT = (5, 60)
 
 # Offensichtlich lokale, reservierte oder im DNS-Blocklisting unerwuenschte TLDs
 BLOCKED_TLDS = {
@@ -115,7 +115,7 @@ def create_session() -> requests.Session:
 
 def normalize_url(url: str) -> str:
     url = url.strip()
-    if "jsdelivr.net/gh/" in url:
+    if "cdn.jsdelivr.net/gh/" in url:
         url = url.replace("cdn.jsdelivr.net/gh/", "raw.githubusercontent.com/").replace("@latest/", "/main/")
     return url
 

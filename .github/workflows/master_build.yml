@@ -55,8 +55,22 @@ jobs:
             echo "Keine Änderungen zum Committen vorhanden."
             exit 0
           fi
+
+          CHANGED_FILES=$(git diff --cached --name-only -- 'blocklists/*.txt' 'Whitelists/*.txt' | wc -l | tr -d ' ')
+          ADDED_DOMAINS=$(git diff --cached -U0 -- 'blocklists/*.txt' 'Whitelists/*.txt' | grep -E '^\+\|\|.*\^$' | wc -l | tr -d ' ')
+          REMOVED_DOMAINS=$(git diff --cached -U0 -- 'blocklists/*.txt' 'Whitelists/*.txt' | grep -E '^-\|\|.*\^$' | wc -l | tr -d ' ')
+          NET_DOMAINS=$((ADDED_DOMAINS - REMOVED_DOMAINS))
+
+          if [ "$NET_DOMAINS" -ge 0 ]; then
+            NET_LABEL="+${NET_DOMAINS}"
+          else
+            NET_LABEL="${NET_DOMAINS}"
+          fi
+
+          COMMIT_MSG="build: ${CHANGED_FILES} Listen geändert (${NET_LABEL} Domains, +${ADDED_DOMAINS}/-${REMOVED_DOMAINS}) [bot]"
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "build: Filter-Listen aktualisiert [bot]"
+          git commit -m "$COMMIT_MSG"
           git pull --rebase origin main
           git push origin main
